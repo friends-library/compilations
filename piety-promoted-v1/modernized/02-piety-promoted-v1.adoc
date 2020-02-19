@@ -3795,6 +3795,10 @@ so that he could no longer be in the city.
 He then determined to return home; but before he went,
 he left a letter for the Yearly meeting, which is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends and Brethren,
 
 I did not know till this last night but that I should
@@ -3809,9 +3813,16 @@ but desire the Lord to assist you with his blessed power and heavenly life,
 to bring in the scattered ones to their everlasting comfort, and his glory forever.
 Amen.
 
+[.signed-section-closing]
 And that it may be so with you, is the prayer of your loving brother,
 
-William Dewsbury London, the 30th of the 3rd Month, 1688.
+[.signed-section-signature]
+William Dewsbury
+
+[.signed-section-context-close]
+London, the 30th of the 3rd Month, 1688.
+
+--
 
 He lived but seventeen days after he left London; and making short journeys,
 got home to Warwick, and continued weak in body.
@@ -4088,6 +4099,10 @@ with many more sensible expressions which she uttered.
 That night she received a letter from our friend William Penn, whom she much esteemed,
 and who had been to visit her in the beginning of her sickness; part of it is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Elizabeth,
 
 '`I am grieved that I am hindered from seeing you, but the Lord I have sought for you,
@@ -4097,6 +4112,8 @@ The Lord God of your life and the life of his dear people, be with you,
 and do his blessed good pleasure: in the love of which endless life I bid you farewell,
 farewell.
 Your friend and brother in the Lord, where we shall meet again and live forever.`'
+
+--
 
 The which letter, a friend present, at her desire, answered, and she, at the conclusion,
 expressed these words, '`My love in the Lord Jesus, in whom I received his love,
@@ -4282,8 +4299,13 @@ from which, expecting to see them no more, he wrote an epistle to Friends in Cor
 the county where he was born, and where he received truth,
 and also where his family dwelt; which is as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends in Cornwall.
 
+[.salutation]
 Dear friends,
 
 I send this salutation, as though it were my last unto you,
@@ -4385,9 +4407,13 @@ my wife`'s dear husband, my children`'s tender father,
 and your own dear friend and brother, in the immortal seed of life,
 where we are nearly and dearly related one to another.
 
+[.signed-section-signature]
 Richard Samble
 
+[.signed-section-context-close]
 Poole, the 1st of the First month, 1680.
+
+--
 
 Thus our dear friend had a true sense of his death;
 and this letter manifests that he was a true Christian, a good husband, a tender father,
@@ -4866,8 +4892,8 @@ These words having remained upon my mind, and taken deep impression upon me,
 I can now say, I finish my course with joy, and shall receive the crown of glory.`'
 
 She further said, that the Lord was a God at hand in six troubles, and in seven; '`no,
-if you bring me to the eighth, you will never leave me:
-'`such was her confidence in the Lord.
+if you bring me to the eighth, you will never leave me:`'
+such was her confidence in the Lord.
 She departed this life in London, the 20th of the Sixth month, in the year 1688,
 aged nineteen years and nine months.
 
