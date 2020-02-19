@@ -297,13 +297,13 @@ by one who fears the Lord, who is by ignorant people called a Quaker,
 and unto such am I only known by the name of William Robinson,
 yet a new name have I received, which such know not.`'_
 
+[.embedded-content-document.letter]
+--
+
 Here follows a copy of Marmaduke Stevenson`'s paper
 of his call to the work and service of the Lord,
 given forth by him a little before he was put to death,
-and after he had received his sentence.`'
-
-[.embedded-content-document.paper]
---
+and after he had received his sentence.
 
 In the beginning of the year 1655, I was at the plough in the east parts of Yorkshire,
 in old England, near the place where my outward being was.
@@ -336,7 +336,7 @@ if unmerciful men be allowed to take them from us; and if they do,
 we know we shall have peace and rest with the Lord forever in his holy habitation,
 when they shall have torment night and day.`'
 
-'`In obedience to the living God,
+In obedience to the living God,
 I made preparation to pass to Barbados in the Fourth month, 1658.
 After some time that I had been on the said island in the service of God,
 I heard that New England had made a law to put the servants of the living God to death,
@@ -345,9 +345,9 @@ and as I considered the thing, and pondered it in my heart,
 immediately came the word of the Lord unto me, saying,
 '`You know not but you may go there.`'
 I kept this word in my heart, and did not declare it to any until the time appointed.
-So after that, a vessel was got ready for Rhode Island, which I passed in.`'
+So after that, a vessel was got ready for Rhode Island, which I passed in.
 
-'`After a little time that I had been there, visiting the seed which the Lord had blessed,
+After a little time that I had been there, visiting the seed which the Lord had blessed,
 the word of the Lord came to me, saying,
 '`Go to Boston with your brother William Robinson;`' and at his command I was obedient,
 and gave up to his will, that so his work and service may be accomplished:
@@ -357,11 +357,11 @@ For yielding obedience to, and for obeying the voice and command of the Everlast
 which created heaven and earth, and the fountains of waters, do I, with my dear brother,
 suffer outward bonds, near unto death.
 And this is given forth to be upon record, that all people may know who hear it,
-that we came not in our own wills, but in the will of God.`'
+that we came not in our own wills, but in the will of God.
 
 Given forth by me, who am known to men by the name of Marmaduke Stevenson;
 but have a new name given me, which the world knows not of,
-written in the Book of Life.`'
+written in the Book of Life.
 
 [.signed-section-context-close]
 Written in Boston Prison, in the Eighth Month, 1659.
@@ -371,7 +371,7 @@ Written in Boston Prison, in the Eighth Month, 1659.
 [.asterism]
 '''
 
-Mary Dyer, a faithful woman, fearing God,
+MARY DYER, a faithful woman, fearing God,
 the wife of a husband of good estate in Rhode Island, and mother of several children,
 was also condemned to death at the same time with William Robinson and Marmaduke Stevenson.
 When she received the sentence,
@@ -408,7 +408,7 @@ in comparison of the lives and liberty of the truth and servants of the living G
 for which, in the bowels of love and meekness I sought you; yet, nevertheless,
 with wicked hands have you put two of them to death, which makes me to feel,
 that the mercies of the wicked are cruelty.
-I rather choose to die than to live, as from you, as guilty of their innocent blood.`'
+I rather choose to die than to live, as from you, as guilty of their innocent blood.
 
 Therefore, seeing my request is hindered,
 I leave you to the righteous Judge and searcher of all hearts,
@@ -425,7 +425,7 @@ and kiss the Son, the light in you, before his wrath be kindled in you.
 For where it is, nothing without you can help or deliver you out of his hand at all,
 and if these things be not so, then say,
 there has been no prophet from the Lord among you: though we be nothing,
-yet it is his pleasure, by things that are not, to bring to nought things that are.`'
+yet it is his pleasure, by things that are not, to bring to nought things that are.
 
 When I heard your last order read, it was a disturbance to me,
 that was so freely offering up my life to him that gave it me, and sent me here so to do.
@@ -506,11 +506,13 @@ some said to her, if she would return, she might save herself.
 _Mary Dyer:_ No, I cannot; for in obedience to the will of the Lord God I came,
 and in his will I abide faithful unto death.
 
+[.offset]
 A priest called out to her, '`Mary Dyer, O repent, repent.`'
 
 [.discourse-part]
 _Mary Dyer:_ No, man; I am not now to repent.
 
+[.offset]
 One said that she should say that she had been in paradise.
 
 [.discourse-part]
@@ -594,7 +596,7 @@ though it be but the taking away the life of one of us,
 that the Lord will overthrow both your law and you by his
 righteous judgments and plagues poured justly upon you,
 who now, while you are warned thereof, and tenderly sought unto,
-may avoid the one by removing the other.`'
+may avoid the one by removing the other.
 
 If you neither hear nor obey the Lord nor his servants,
 yet will he send more of his servants among you, so that your ends shall be frustrated,
@@ -652,6 +654,9 @@ and that he would say thee and thou to the magistrates.
 [.discourse-part]
 _William Leddra:_ Then you put me to death for speaking English,
 and for not putting off my clothes.
+
+[.small-break]
+'''
 
 After some more words they pronounced sentence of death upon him,
 and on the 14th of the First month, 1661, they knocked off his chains,
@@ -754,7 +759,7 @@ than he that is in the world.
 He will clothe you with humility, and in the power of his meekness,
 you shall reign over all the rage of your enemies in the favor of God, wherein,
 as you stand in faith, you are the salt of the earth; for many seeing your good works,
-may glorify God in the day of their visitation.`'
+may glorify God in the day of their visitation.
 
 Take heed of receiving that which you see not in the light,
 lest you give ear to the enemy.
@@ -964,6 +969,7 @@ containing almost nine hundred pages in folio.
 [.asterism]
 '''
 
+[.letter-heading]
 HUMPHREY SMITH, of Little Cowrne, in the county of Hereford, formerly a public preacher,
 was convinced of truth about the year 1655,
 and came to be an able minister of the gospel of Christ, which he freely preached,
@@ -1424,6 +1430,9 @@ _Francis Howgill:_ '`The Lord has showed mercy unto me,
 and I have done nothing against the king, or government, or any man, blessed be the Lord,
 and herein stands my peace; for it is for Christ`'s sake I suffer,
 and not for evil doing.`'
+
+[.small-break]
+'''
 
 The court broke up, and many were sorry to see what was done against him;
 but he signified how contented and glad he was,
