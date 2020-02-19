@@ -8070,6 +8070,8 @@ and bids you all farewell, who am your dear and tender sister,
 [.signed-section-signature]
 Mercy Johnson
 
+--
+
 [.asterism]
 '''
 
@@ -8480,10 +8482,10 @@ and was buried at Friends`' burying-ground, at Sedbergh meeting-house.
 [.embedded-content-document.testimony]
 --
 
-[.postscript]
-POSTSCRIPT--The Testimony of Isaac Alexander concerning James Baines,
+[.letter-heading]
+The Testimony of Isaac Alexander concerning James Baines,
 in a letter dated the 8th of the Tenth month, 1705,
-who also died the 11th of the Twelfth month, after him.`'
+who also died the 11th of the Twelfth month, after him.
 
 Our truly beloved and esteemed friend, James Baines,
 departed this life the 1st of this instant; and though he was afflicted with great pain,
@@ -8500,9 +8502,12 @@ It was admirably reaching and melting, beyond what I can express,
 and so continued to the end, as sweet and sensible as ever.
 He died with the greatest esteem and love to Friends and truth,
 and in great esteem and interest in the hearts of Friends;
-he died in a most happy and blessed condition.`'
+he died in a most happy and blessed condition.
 
+[.signed-section-signature]
 Isaac Alexander
+
+--
 
 [.asterism]
 '''
