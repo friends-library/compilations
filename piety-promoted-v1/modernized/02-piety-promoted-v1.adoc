@@ -292,15 +292,18 @@ that had the least hand therein.
 Therefore be instructed, you rulers of this land, and take warning betimes,
 and learn wisdom, before it be hid from your eyes.`'
 
-Written in the common jail the 19th of the Eighth month, 1659, in Boston,
+_Written in the common jail the 19th of the Eighth month, 1659, in Boston,
 by one who fears the Lord, who is by ignorant people called a Quaker,
 and unto such am I only known by the name of William Robinson,
-yet a new name have I received, which such know not.`'
+yet a new name have I received, which such know not.`'_
 
 Here follows a copy of Marmaduke Stevenson`'s paper
 of his call to the work and service of the Lord,
 given forth by him a little before he was put to death,
 and after he had received his sentence.`'
+
+[.embedded-content-document.paper]
+--
 
 In the beginning of the year 1655, I was at the plough in the east parts of Yorkshire,
 in old England, near the place where my outward being was.
@@ -360,12 +363,15 @@ Given forth by me, who am known to men by the name of Marmaduke Stevenson;
 but have a new name given me, which the world knows not of,
 written in the Book of Life.`'
 
+[.signed-section-context-close]
 Written in Boston Prison, in the Eighth Month, 1659.
+
+--
 
 [.asterism]
 '''
 
-MARY DYER, a faithful woman, fearing God,
+Mary Dyer, a faithful woman, fearing God,
 the wife of a husband of good estate in Rhode Island, and mother of several children,
 was also condemned to death at the same time with William Robinson and Marmaduke Stevenson.
 When she received the sentence,
@@ -390,6 +396,10 @@ and to be a record to future generations, how truth has conquered in a woman,
 is here inserted Mary Dyer`'s letter, which she wrote the day after her reprieve,
 as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 The 28th of the Eighth Month, 1659.
 
 Once more to the general court assembled in Boston, speaks Mary Dyer, even as before.
@@ -429,10 +439,13 @@ that r may know what his pleasure and counsel is concerning me, on whom I wait t
 for he is my life, and length of my days; and as I said before, I came at his command,
 and go at his command.
 
-MARY DYER
+[.signed-section-signature]
+Mary Dyer
+
+--
 
 Mary Dyer being thus freed as aforesaid, returned to Rhode Island,
-where her.husband and children dwelt, and after some stay with them,
+where her husband and children dwelt, and after some stay with them,
 she went towards Long Island, and was at Shelter Island,
 and had good service for the Lord; where she thought she might pass home to Rhode Island:
 but she was moved of the Lord to return to Boston again,
@@ -440,34 +453,44 @@ and she came there on the 21st of the Third month, 1660.
 On the 31st of the same she was sent for to the general court,
 where the governor said to her,
 
-Governor: Are you the same Mary Dyer that was here the last general sessions?`'
+[.discourse-part]
+_Governor:_ Are you the same Mary Dyer that was here the last general sessions?`'
 
-Mary Dyer: I am the same Mary Dyer.
+[.discourse-part]
+_Mary Dyer:_ I am the same Mary Dyer.
 
-Governor: You will own yourself a Quaker, will you not?
+[.discourse-part]
+_Governor:_ You will own yourself a Quaker, will you not?
 
-Mary Dyer: I own myself to be so reproachfully called.
+[.discourse-part]
+_Mary Dyer:_ I own myself to be so reproachfully called.
 
-Governor: The sentence was passed upon you the last general court, and now likewise;
+[.discourse-part]
+_Governor:_ The sentence was passed upon you the last general court, and now likewise;
 you must return to the prison from which you came,
 and there remain till tomorrow at nine o`'clock,
 then from there you must go to the gallows, and there be hanged till you are dead.
 
-Mary Dyer: This is no more than what you said before.
+[.discourse-part]
+_Mary Dyer:_ This is no more than what you said before.
 
-Governor: And now it is to be executed;
+[.discourse-part]
+_Governor:_ And now it is to be executed;
 therefore prepare yourself tomorrow at nine o`'clock.
 
-Mary Dyer: I came in obedience to the will of God to the last general court,
+[.discourse-part]
+_Mary Dyer:_ I came in obedience to the will of God to the last general court,
 desiring you to repeal your unrighteous laws of banishment upon pain of death,
 and that same is my work now, and earnest request,
 because you refused before to grant me my request; although I told you,
 that if you refused to repeal them,
 the Lord would send other of his servants to witness against them.
 
-Governor: Are you a prophet?
+[.discourse-part]
+_Governor:_ Are you a prophet?
 
-Mary Dyer: I spoke the words that the Lord spoke in me.
+[.discourse-part]
+_Mary Dyer:_ I spoke the words that the Lord spoke in me.
 
 And beginning to speak of the call of the Lord to her, the governor said, '`Away with her,
 away with her.`'
@@ -479,16 +502,19 @@ So he had her away with a company of soldiers, beating a drum before and behind,
 that they might not hear her speak; and being upon the ladder at the place of execution,
 some said to her, if she would return, she might save herself.
 
-Mary Dyer: No, I cannot; for in obedience to the will of the Lord God I came,
+[.discourse-part]
+_Mary Dyer:_ No, I cannot; for in obedience to the will of the Lord God I came,
 and in his will I abide faithful unto death.
 
 A priest called out to her, '`Mary Dyer, O repent, repent.`'
 
-Mary Dyer: No, man; I am not now to repent.
+[.discourse-part]
+_Mary Dyer:_ No, man; I am not now to repent.
 
 One said that she should say that she had been in paradise.
 
-Mary Dyer: Yes, I have been in paradise several days.
+[.discourse-part]
+_Mary Dyer:_ Yes, I have been in paradise several days.
 
 And more she spoke concerning her eternal happiness.
 So, sweetly and cheerfully in the Lord she finished her testimony,
@@ -497,6 +523,10 @@ and died a faithful martyr of Jesus Christ, the 1st of the Fourth month, 1660.
 Here follows the copy of a letter that Mary Dyer sent to the rulers of Boston,
 after she had received sentence of death.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the General Court in Boston.
 
 Whereas I am by many charged with guiltiness of my own blood:
@@ -590,6 +620,8 @@ that shall you reap from him,
 that will render to every one according to the deeds done in the body,
 whether good or evil; even so be it, says Mary Dyer.
 
+--
+
 [.asterism]
 '''
 
@@ -602,18 +634,23 @@ in an open prison, till the First month, 1661,
 when he was brought to the court at Boston with his chains and log at his heels.
 The court told him that he was found guilty, and was to die.
 
+[.discourse-part]
 William Leddra asked what evil he had done.
 
+[.discourse-part]
 The court replied that his own confession was as good as a thousand witnesses.
 
-William Leddra: What was that?
+[.discourse-part]
+_William Leddra:_ What was that?
 
+[.discourse-part]
 The court answered, that he had owned, that those who were put to death, namely,
 William Robinson, Marmaduke Stevenson, and Mary Dyer, were innocent +++[+++of that]
 for which they died; and that he would not put off his hat in court,
 and that he would say thee and thou to the magistrates.
 
-William Leddra: Then you put me to death for speaking English,
+[.discourse-part]
+_William Leddra:_ Then you put me to death for speaking English,
 and for not putting off my clothes.
 
 After some more words they pronounced sentence of death upon him,
@@ -632,9 +669,14 @@ And as the executioner was putting the halter about his neck,
 in the meek ness and sense of Christ Jesus he said, '`I commit my cause to you, O God.`'
 And just at turning off the ladder he called out, '`Lord Jesus receive my spirit.`'
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle of William Leddra, to Friends,
 written by him the day before he was put to death.
 
+[.salutation]
 To the society of the little flock of Christ, grace and peace be multiplied.
 
 Most dear and inwardly beloved!
@@ -729,9 +771,13 @@ there is no assurance of salvation.
 By grace you are saved, and the witnessing of it is sufficient for you,
 to which I commend you all, my dear friends, and in it remain your brother,
 
-WILLIAM LEDDRA
+[.signed-section-signature]
+William Leddra
 
+[.signed-section-context-close]
 Boston jail, 13th of First Month, 1660-1
+
+--
 
 [.asterism]
 '''
@@ -929,9 +975,12 @@ the destruction of the city of London by fire,
 which was six years before it came to pass; and which vision he published before-hand,
 as a warning to the people to repent; part whereof is as follows:
 
-Part of the vision of Humphrey Smith,
+[.embedded-content-document.paper]
+--
+
+_Part of the vision of Humphrey Smith,
 which he saw concerning the burning of the city of London, in the fifth month, 1660,
-which was three years before his decease, and six years before it was fulfilled.
+which was three years before his decease, and six years before it was fulfilled._
 
 As for the city herself, and her suburbs, and all that belonged to her +++[+++I beheld]
 a fire was kindled therein, but she knew not how, even in her goodly palaces,
@@ -964,6 +1013,8 @@ And the vision thereof remained in me, as a thing that was secretly showed me of
 
 And now let her wise men find out the matter, and her prudent men read, and her divines,
 so called, interpret the vision, and let every one look to their own ways.
+
+--
 
 This, with much more that Humphrey Smith saw, was printed and published in the year 1660,
 as a warning whereby people might stand in the day of trial,
@@ -1272,6 +1323,9 @@ which George Fox desired him to prepare, and he would call for it as he came bac
 He spoke them forth in the power of the Lord, as fresh as if he had ailed nothing,
 and a friend took it in writing, which is as follows:
 
+[.embedded-content-document.letter]
+--
+
 Forasmuch as I have been informed,
 that Lodowick Muggleton has vaunted concerning my departure out of the body,
 because of his pretended sentence of damnation given against me;
@@ -1291,6 +1345,8 @@ That from henceforth I should always be in fear of damnation,
 which should be a sign to me that I was damned; which fear I never was in since;
 so that his sign given by himself did not follow his prophecy,
 which sufficiently declares him to be a false prophet.`'
+
+--
 
 George Fox, when he came back again, found Josiah sitting by the fire-side,
 filled with the power of the Lord, and speaking to friends about him as follows: '`Well,
@@ -1355,13 +1411,16 @@ sentence of premunire was given against him by the judge, in these words:
 your lands are confiscated to the king during your life,
 and your goods and chattles forever; and you to be a prisoner during your life.`'
 
+[.discourse-part]
 F+++.+++ Howgill replied, '`A hard sentence for my obedience to the commands of Christ;
 the Lord forgive you all.`'
 
-Judge: '`Well, if you will yet be subject to the laws of the king,
+[.discourse-part]
+_Judge:_ '`Well, if you will yet be subject to the laws of the king,
 the king will show you mercy.`'
 
-Francis Howgill: '`The Lord has showed mercy unto me,
+[.discourse-part]
+_Francis Howgill:_ '`The Lord has showed mercy unto me,
 and I have done nothing against the king, or government, or any man, blessed be the Lord,
 and herein stands my peace; for it is for Christ`'s sake I suffer,
 and not for evil doing.`'
@@ -1704,10 +1763,11 @@ in the latitude of 46 degrees and 36 minutes.
 [.asterism]
 '''
 
+[.letter-heading]
 Concerning a Child about Thirteen Years Old
 
 JOSEPH BRIGGINS, son of William Briggins of Bartholomew Close, in London,
-having been a dutiful child tb his parents, and ready to receive instruction,
+having been a dutiful child to his parents, and ready to receive instruction,
 was taken sick the 20th of the Fourth month.
 Being, as it was thought, very near death; after he had lain silent for about an hour,
 he began to appear full of joy and pleasantness, saying, '`I shall praise the Lord,
@@ -2395,13 +2455,13 @@ I must yield, I must yield.`'
 He died on the 23rd of the Twelfth month, in the year 1683, aged fourteen years.
 After his death, his father found the following verses of Jonah`'s making, namely:
 
+[verse]
+____
 Humility the spring of virtue is;
-
 Humbling yourself, virtue you can not miss.
-
 Delight in virtue; vice be sure to shun:
-
 He`'s happy that a virtuous course does run.
+____
 
 [.asterism]
 '''
@@ -2435,8 +2495,8 @@ who is greater, and above the greatest of my persecutors,
 who I believe will shortly set me free from these, and all other bonds,
 over all their heads; and in his peace, in true patience I possess my soul,
 and am contented, if it be his will, to be dissolved.`'
-A friend asked her why she was so willing to die.`'
-Oh, '`said she, '`I have seen glorious sights of good things.`'
+A friend asked her why she was so willing to die.
+"`Oh,`" said she, '`I have seen glorious sights of good things.`'
 The friend queried, '`What things;`' she answered,
 '`They are so excellent and glorious that it is not utterable;
 and now I have nothing but love and good-will to all.`'
