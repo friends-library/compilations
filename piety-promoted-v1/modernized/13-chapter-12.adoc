@@ -3,6 +3,7 @@
 [.chapter-synopsis]
 * Richard Pike
 * Thomas Thompson
+* Hugh Stamper
 * Reuben Satterthwaite
 * Joshua Bunion
 * Peter Fletcher
@@ -205,6 +206,7 @@ A laborer in the gospel about fifty years.
 [.asterism]
 '''
 
+[.letter-heading]
 The testimony of HUGH STAMPER, of Lurgan, in Ireland,
 near his departure out of this life.
 
@@ -614,20 +616,25 @@ I am resigned and given up to his will.`'
 In a letter to a particular friend, written in the time of his sickness,
 he expressed himself in these words:
 
-'`When I consider those many unaccountable changes which we, and ours,
+[.embedded-content-document.letter]
+--
+
+When I consider those many unaccountable changes which we, and ours,
 and all we have in this world are subject to,
 it seems a sufficient antidote against the inordinate love of it, and it appears to me,
 that it is the lack of due thoughtfulness which makes many so much engaged in it,
 as almost wholly to sequester all those religious endeavors which
-are really necessary to make sure of an eternal interest.`'
+are really necessary to make sure of an eternal interest.
 
-'`It is now a long time since I have enjoyed one day of perfect health as heretofore.
+It is now a long time since I have enjoyed one day of perfect health as heretofore.
 I consider it as a preparatory summons from this frail state of life; and to conclude,
 I thank God I am not altogether unmindful of my duty,
 in setting my house in order against the time shall come that I must die, and not live.
 I hope to live in a far better state,
 and there to enjoy all the generations of the just that are gone before,
-and shall hereafter follow.`'
+and shall hereafter follow.
+
+--
 
 About the same time, several Friends being with him, he, speaking of his death,
 desired they might bear him witness, saying, '`My dependence, hope, and trust,
