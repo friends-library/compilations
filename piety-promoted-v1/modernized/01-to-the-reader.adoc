@@ -13,7 +13,7 @@ ____
 
 == To The Reader
 
-I HERE present you with a collection of the Dying Sayings of many persons
+I here present you with a collection of the Dying Sayings of many persons
 who lived and died in faith and communion with the people called Quakers,
 some of whom it pleased God eminently to make use of,
 for the gathering of that people into a distinct fellowship
@@ -174,37 +174,48 @@ and that there was a crown of life which God, the righteous judge, would give un
 and they desired to be dissolved, that they might inherit the same,
 having already "`their inheritance sealed unto them by the Spirit of God.`"
 
+[.offset]
 Some said as follows:
 
-Richard Hubberthorn: '`I know the ground of my salvation,
+[.discourse-part]
+_Richard Hubberthorn:_ '`I know the ground of my salvation,
 and am satisfied forever in my peace with the Lord God.`'
 
-Thomas Loe: '`I am near leaving you, I think; but as well in my spirit as I can desire.
+[.discourse-part]
+_Thomas Loe:_ '`I am near leaving you, I think; but as well in my spirit as I can desire.
 I bless the Lord,
 I never saw more of the glory of God than I have done this day;`' and he sang, '`Glory,
 glory to the Lord.`'
 
-Richard Farnsworth: '`I am filled with the love of God more than I can express;
+[.discourse-part]
+_Richard Farnsworth:_ '`I am filled with the love of God more than I can express;
 and God has really appeared for us.
 If God himself had come down and spoken as a man,
 he could not have spoken more clearly to us than he has done,
 by many testimonies from heaven in his people.`'
 
-Josiah Coale: '`For my part, I have walked in faithfulness with the Lord,
+[.discourse-part]
+_Josiah Coale:_ '`For my part, I have walked in faithfulness with the Lord,
 and I have thus far finished my testimony, and have peace with the Lord,
 and his majesty is with me, and his crown of life is upon me.`'
 
-Francis Howgill: '`As for me, I am well content to die;
+[.discourse-part]
+_Francis Howgill:_ '`As for me, I am well content to die;
 and if any enquire after my latter end,
 let them know that I die in the faith in which I lived and suffered for.`'
 
-William Bayley: '`Tell my friends, I go to my Father and to their Father,
+[.discourse-part]
+_William Bayley:_ '`Tell my friends, I go to my Father and to their Father,
 to my God and to their God; and let not my wife mourn in sorrow,
 for it is well with me.`'
 
-Sarah Beck: '`I feel sweet peace and great joy.
+[.discourse-part]
+_Sarah Beck:_ '`I feel sweet peace and great joy.
 O the joy that is laid up for the righteous:
 who would not fear the Lord! who would not be faithful!`'
+
+[.small-break]
+'''
 
 Yes, we find children crying Hosannah upon their dying beds.
 A young maid of sixteen or seventeen years old, Elizabeth Braithwait,
@@ -430,6 +441,8 @@ and if these shall be a means to stir up any to more faithfulness and diligence,
 in making their calling and election sure,
 my design is answered and God shall have the praise of all, who is worthy forever.
 
-JOHN TOMKINS
+[.signed-section-signature]
+John Tomkins
 
+[.signed-section-context-close]
 London, the 28th of the Eleventh Month, 1701.
