@@ -9161,11 +9161,12 @@ a believer in truth fifty-two years.
 [.asterism]
 '''
 
+[.letter-heading]
 An Account of some remarkable words spoken by HAYES HAMILTON, son of Hugh Hamilton,
 of Ireland, a little before his death.
 Aged twelve years.
 
-HE said he had been several times in a place by himself,
+He said he had been several times in a place by himself,
 where he wished he had been forever,
 he enjoyed so much of the comfortable presence of the Lord in silent waiting upon him,
 and meditating in his law, which drew his soul in a rapture.
@@ -9207,7 +9208,7 @@ in the twelfth year and seventh month of his age.
 [.asterism]
 '''
 
-THE dying words of THOMAS VOKINS, son of Richard and Joan Vokins, of West Charlow,
+The dying words of THOMAS VOKINS, son of Richard and Joan Vokins, of West Charlow,
 in the county of Berks.
 The day before his departure he prayed thus: '`Oh! blessed God,
 if it be your will to take me this night, make my passage easy; not my will be done;
@@ -9582,7 +9583,7 @@ A laborer in the gospel about fifty years.
 [.asterism]
 '''
 
-THE testimony of HUGH STAMPER, of Lurgan, in Ireland,
+The testimony of HUGH STAMPER, of Lurgan, in Ireland,
 near his departure out of this life.
 
 About twenty friends being present, he said,
