@@ -5807,7 +5807,7 @@ the Lord was good to him, and eminently appeared with him, so that he said to hi
 near his latter end, that he found his strength so renewed,
 that he believed he could get to London if the Lord required it: but he answered again,
 '`I am clear of the blood of all men.
-I find nothing to this man, '`meaning king Charles the Second,
+I find nothing to this man,`' meaning king Charles the Second,
 then lately restored to his kingdom.
 
 He was very sensible of his latter end; and the day he died he called for his children,
@@ -6860,8 +6860,8 @@ and from one degree of holiness unto another,
 and that a daily growth might be witnessed in all.
 Farther saying, '`O friends! it is the life that the Lord looks at;
 for he that has the Son has life; and he that has not the Son has not life.
-Examine yourselves; no Son, no life; without the Son, without life:
-'`and thus he declared wonderfully, often praising and glorifying God after this manner;
+Examine yourselves; no Son, no life; without the Son, without life:`'
+and thus he declared wonderfully, often praising and glorifying God after this manner;
 --'`Oh! all that is within me praise and magnify the Lord God,
 who is worthy forever and ever of all glory.
 Everlasting praises to the God of my life, who is only worthy, and lives over all,
@@ -6952,7 +6952,7 @@ he gave forth many heavenly exhortations to Friends who came to visit him;
 and this was his faith, which he declared on his dying bed, saying,
 that the light of that glorious everlasting day of the Lord,
 which is broken forth in this our day, shall never be extinguished,
-notwithstanding all that men can do: '`And though, '`said he,
+notwithstanding all that men can do: '`And though,`' said he,
 '`it may be in the hearts of men to destroy and root out, if it were possible,
 the righteous from off the earth, yet the Lord does not intend so,
 neither is it in his heart to allow it so to be,
@@ -7042,7 +7042,7 @@ When he was first taken sick he said to his wife, '`I must leave you;`' she repl
 He answered, '`It is my belief, and that I shall be well,
 and get to the place of pleasantness that I have been travailing for above these twenty
 years;`' exhorting her to take heed to the pure light wherewith she was enlightened,
-'`for, '`said he, '`it is the way, and there is not another.`'
+'`for,`' said he, '`it is the way, and there is not another.`'
 He bore a living testimony on his dying-bed, in the name and power of the Lord,
 to several who came to visit him, both Friends and other people, exhorting, warning,
 and reproving, as he was moved of the Lord.
@@ -7396,9 +7396,13 @@ She also in her life-time gave forth several good papers, which are printed; and
 the day she died, she left a paper for Friends,
 as a testimony of her good will and love to them all; which is as follows.`'
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 The Testimony of Priscilla Cotton, to Friends, the day she died.
 
-'`All my dear friends, who have found your Redeemer, oh! wait upon him at all times,
+All my dear friends, who have found your Redeemer, oh! wait upon him at all times,
 that you may stand continually in his presence where life is,
 that with the light you receive from him, you may see your thoughts, and deny them,
 that in stayedness you may be kept, when the hasty froward spirit would arise,
@@ -7410,9 +7414,9 @@ Let the elders watch, that at no time the younger may see lightness, laughter,
 or words of offense, but that you may always keep down the evil in yourselves,
 and may minister grace to all you have to do withal, that God`'s spirit be not grieved.
 So keep the field clean, that was once plowed up and made green and beautiful,
-that no stones or hurtful weeds grow in it to oppress the Seed.`'
+that no stones or hurtful weeds grow in it to oppress the Seed.
 
-'`Friends, the cross is the power of God; when you flee the cross, you lose the power;
+Friends, the cross is the power of God; when you flee the cross, you lose the power;
 that which pleases self, is above the cross, and that which pleases man,
 is above the cross; and that which shuns the cross, yields to the carnal part,
 and loses its dominion.
@@ -7426,7 +7430,7 @@ you will come to know a cross in the use of meat, drink, and apparel,
 and keep to the cross when alone, or in company;
 what the pure mind of God stands against in you, that the cross is against.`'
 
-'`So friends, watch daily to keep Christ`'s command,
+So friends, watch daily to keep Christ`'s command,
 '`Take up your daily cross;`' be not at liberty one day, but deny your own will,
 your own thoughts, and your own self.
 Taking up the cross, you feel the power, the strength of the Lord God,
@@ -7440,9 +7444,12 @@ tenderhearted, courteous, forgiving, forbearing, long-suffering,
 and supporting one another.
 Here the power of the cross is known, which brings all to God`'s praise,
 and to his honor and glory, and to his children`'s prosperity and peace: so let it be.
-Amen.`'
+Amen.
 
+[.signed-section-signature]
 Priscilla Cotton
+
+--
 
 After this, seeing her departure was nigh at hand,
 she desired several Friends to be called; being come,
@@ -7769,7 +7776,7 @@ He was very resigned, and given up to die, and expressed his love to the brethre
 saying, '`My love in the Lord Jesus is to all the faithful.
 Remember my dear love to them, and to all the faithful laborers.`'
 Not long before he died, John Field visiting him, he looked earnestly on him;
-his wife asking if he knew him, he answered`'No;`' she told him; he replied,
+his wife asking if he knew him, he answered '`No;`' she told him; he replied,
 '`He is the first man I did not know.`'
 At this time he seemed very retired in his mind unto the Lord, his rock, and his refuge;
 several times lifting up his hands, and showed a willingness to be turned, and then said,
@@ -7816,7 +7823,10 @@ about eight hours before his departure out of this life.
 He was weak in body, but fervent in mind, and perfect in memory;
 taken from his mouth the 22nd of the Third month, 1682.
 
-'`I have known the terrors of the Lord for sin,
+[.embedded-content-document.testimony]
+--
+
+I have known the terrors of the Lord for sin,
 and for transgression committed against him in the time of my youth.
 But he that is an everlasting fountain of life and mercy,
 did not leave me in the greatness of my wickedness,
@@ -7853,9 +7863,9 @@ of this wonderful work of my salvation,
 and eternal happiness, but unto Christ Jesus, the great fountain of life, mercy,
 and truth, and righteousness! which I do desire to return at this time,
 and at all other times, unto him who lives and reigns forever, God over all,
-blessed forevermore.`'
+blessed forevermore.
 
-'`And now, my friends, as the Lord brought these things unto my remembrance,
+And now, my friends, as the Lord brought these things unto my remembrance,
 I could do no less than declare unto you the wonderful dealings of the Lord to my soul,
 that all thereby might receive the instructions of the Lord,
 who is forewarning the sons and daughters of men,
@@ -7870,9 +7880,9 @@ until the great day of the Lord.
 And then they shall come to know they have rebelled against him,
 and must know his righteous judgments, although it be to their everlasting destruction.
 Here they shall see and know that their destruction was and is of themselves;
-and God will be glorified, even in the destruction of his enemies.`'
+and God will be glorified, even in the destruction of his enemies.
 
-'`And now it is the desire of my heart and soul, even before the Lord God Almighty,
+And now it is the desire of my heart and soul, even before the Lord God Almighty,
 that all may be warned and awakened out of that state of deadness
 and security which the god of this world has brought them into,
 so that the righteous judgments of the Lord might be made manifest unto them;
@@ -7881,9 +7891,9 @@ And as for my dear friends,
 who have known the gathering arm of his power into the holy habitation of our God,
 which is Jerusalem, which is from above, the mother of us all,
 I warn you all in the fear of the Lord to be careful to keep your habitation,
-for in that consists your safety.`'
+for in that consists your safety.
 
-'`While Israel kept the place wherein God ordained them to be outwardly,
+While Israel kept the place wherein God ordained them to be outwardly,
 Balaam could not curse them, nor could any enchantment be found to prevail against them;
 but when the wiles of their adversaries enticed them out of their habitations,
 how many thousands were destroyed thereby!
@@ -7908,9 +7918,9 @@ and so shining by reflection, receiving their light continually from Christ Jesu
 the true light of the world.
 Blessed are all they who know the gathering into this blessed city,
 and abide steadfast unto the end; for the Lord has chosen Mount Zion unto himself,
-that from there his glory might be proclaimed throughout all generations.`'
+that from there his glory might be proclaimed throughout all generations.
 
-'`And now, my dearly beloved friends, whom I dearly salute,
+And now, my dearly beloved friends, whom I dearly salute,
 even in the bowels of our Lord and Savior Jesus Christ;
 oh! my love unto you all is beyond expression,
 who have kept in faithful obedience to the truth.
@@ -7925,7 +7935,9 @@ and a thirsting after the water of life also.
 So being kept here, you are capable of the blessing of the Lord,
 and will see the-Scripture fulfilled in yourselves, which says,
 "`Blessed are they that hunger and thirst after righteousness,
-for they shall be satisfied.`"`'
+for they shall be satisfied.`"
+
+--
 
 About eight hours after he had delivered this to Friends present,
 he died in peace the 22nd of the Third month, 1682.
@@ -8106,11 +8118,15 @@ A little before she died her husband asked her how she did, and she said, '`Come
 about the tenth hour at night, the 14th of the Twelfth month, 1704,
 in the thirty-fourth year of her age.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A few words of tender counsel and advice to Friends,
 given forth by Mercy Johnson upon her dying bed, two days before she died;
 which she desired might be communicated to Friends.`'
 
-'`Dear friends, both old and young, wherever these may come, my love salutes you dearly,
+Dear friends, both old and young, wherever these may come, my love salutes you dearly,
 desiring the welfare of your bodies and souls.
 I have in my measure labored among Friends in many places while with them,
 for the prosperity of truth and good of souls, and now shall be taken away.
@@ -8124,15 +8140,15 @@ And, dear Friends, in your meetings for business upon truth`'s account,
 have your eye to the Lord, and wait to have your minds stayed upon him,
 respecting one another above yourselves for truth`'s sake,
 and you waiting upon the Lord to work in you, and for you,
-and to open your mouths to speak a word in season.`'
+and to open your mouths to speak a word in season.
 
-'`Reason not, but give up freely to act and speak for truth, whether you be young or old;
+Reason not, but give up freely to act and speak for truth, whether you be young or old;
 not in high-mindedness, but in true fear before the Lord.
 For I must tell you, the humble, and those that abase themselves, the Lord will exalt;
 but the high-minded, and those of an exalted spirit, the Lord will abase and humble,
-and make them know he is God, and will be bowed to by every high spirit.`'
+and make them know he is God, and will be bowed to by every high spirit.
 
-'`Therefore, dear friends, let the truth have the reign in you, to govern your words,
+Therefore, dear friends, let the truth have the reign in you, to govern your words,
 though never so few, that they may be rightly seasoned with grace,
 that so you may edify one another.
 Permit no unruly spirit to appear in your meetings, neither in old nor young;
@@ -8146,7 +8162,10 @@ when you come to a dying-bed, as I now am.
 I feel peace and true consolation with the Lord, and my love herein dearly salutes you,
 and bids you all farewell, who am your dear and tender sister,
 
-Mercy Johnson`'
+[.signed-section-signature]
+Mercy Johnson
+
+--
 
 [.asterism]
 '''
@@ -8526,7 +8545,7 @@ to your great comfort and inward peace and satisfaction.
 I know our natural tempers are inclinable to be light and airy, like other people,
 therefore we have more occasion to be bowed and weighty in our minds.`'
 Speaking concerning tithes,
-he desired Friends would keep up their testimony against them;`'For, '`said he,
+he desired Friends would keep up their testimony against them; '`For,`' said he,
 '`I could have slipped sufferings if I would have given way to it,
 but it was a thing I dared not do;
 but I accounted it a great mercy that the Lord had blessed me with
@@ -8555,9 +8574,13 @@ so was his latter end comfortable and full of peace; in which he departed this l
 the 1st of the Tenth month, 1705, aged fifty-one years;
 and was buried at Friends`' burying-ground, at Sedbergh meeting-house.
 
-POSTSCRIPT--The Testimony of Isaac Alexander concerning James Baines,
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
+The Testimony of Isaac Alexander concerning James Baines,
 in a letter dated the 8th of the Tenth month, 1705,
-who also died the 11th of the Twelfth month, after him.`'
+who also died the 11th of the Twelfth month, after him.
 
 Our truly beloved and esteemed friend, James Baines,
 departed this life the 1st of this instant; and though he was afflicted with great pain,
@@ -8574,9 +8597,12 @@ It was admirably reaching and melting, beyond what I can express,
 and so continued to the end, as sweet and sensible as ever.
 He died with the greatest esteem and love to Friends and truth,
 and in great esteem and interest in the hearts of Friends;
-he died in a most happy and blessed condition.`'
+he died in a most happy and blessed condition.
 
+[.signed-section-signature]
 Isaac Alexander
+
+--
 
 [.asterism]
 '''
@@ -8664,6 +8690,10 @@ and that his day`'s work was nigh done, and his reward and rest with God sure.
 This testimony agrees with the last letter I received from him, save one part,
 as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear John,
 I love you in the truest love that springs from Jesus Christ the fountain thereof,
 by and in which my life stands;
@@ -8676,7 +8706,10 @@ and people, for which I lack not my reward in this my old age.
 I take time to read.
 I am almost blind, yet well content.
 
+[.signed-section-signature]
 John Blaikling
+
+--
 
 He often signified his preparedness to leave this world,
 with fervent desires for truth`'s prosperity,
@@ -8955,9 +8988,13 @@ it became easier to her to leave it.
 In a letter to a particular friend, who married her near relation,
 written about fourteen days before she died, she says thus:
 
-'`Dear Cousin,
+[.embedded-content-document.letter]
+--
 
-'`I should have given an account of my sickness, but exceeding illness hindered me,
+[.salutation]
+Dear Cousin,
+
+I should have given an account of my sickness, but exceeding illness hindered me,
 and my mother, what with sorrow for me, and lack of time, occasioned the same neglect.
 I am now very ill, being swollen all over my body, except my hands and arms,
 and am scarcely able to walk the chamber without help;
@@ -8970,7 +9007,10 @@ My dear love is to you, your wife and children,
 wishing you health and peace in this life, and happiness in the life to come; being,
 dear cousin, your affectionate, etc.,
 
+[.signed-section-signature]
 P+++.+++ Richards
+
+--
 
 This was written in a time of great weakness of body,
 but her spirit was strong in the Lord, having kept the faith,
