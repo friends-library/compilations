@@ -567,6 +567,7 @@ He died the 12th, and was buried the 14th of the Eighth month, 1706.
 [.embedded-content-document.testimony]
 --
 
+[.letter-heading]
 Here follows a Testimony of an ancient friend and acquaintance of R. Huberstie`'s.
 
 Since I have had the opportunity of reading the above-written lines,
