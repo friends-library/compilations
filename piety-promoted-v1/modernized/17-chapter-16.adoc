@@ -636,6 +636,8 @@ as also to the necessity of holiness and obedience,
 that those who succeed him might come to die the death of the righteous,
 and that their latter end might be like unto his.
 
+[.asterism]
+'''
 GEORGE NEWLAND, son of George and Susannah Newland, of the city of Dublin, clothier,
 was an orderly and dutiful child, and sought the Lord in his young and tender years.
 When he was drawn or persuaded by his schoolfellows to play, or be wild,
@@ -718,12 +720,12 @@ in Friends`' burying place, near Dolphin`'s Barn,
 being accompanied to the grave by many friends and neighbors.
 Aged near nineteen, and a minister about six years.
 
-[.embedded-content-document.testimony]
---
-
-[.letter-heading]
+[.offset]
 This testimony was given by his friends in Dublin concerning him,
 which I thought it right here to insert.
+
+[.embedded-content-document.letter]
+--
 
 It pleased the Lord to favor this youth with a gracious visitation,
 even in his childhood, and so to prepare him for his service, whereunto he appointed him,
