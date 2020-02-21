@@ -10,7 +10,7 @@ ____
 
 == Preface
 
-JESUS CHRIST being both the author and foundation of the Christian religion,
+Jesus Christ being both the author and foundation of the Christian religion,
 they who believe in him, and build upon him as their foundation and rock,
 lay the foundation of the building so sure, that as they abide thereon,
 neither the winds nor rains are able to overturn it; for it stands all tempests.
@@ -324,7 +324,11 @@ that her wilderness may become like Eden, and her desert like the garden of the 
 that joy and gladness may more and more be found in her,
 thanksgiving and the voice of melody.
 
-T+++.+++ Raylton The Tenth month, 1716.
+[.signed-section-signature]
+T+++.+++ Raylton
+
+[.signed-section-context-close]
+The Tenth month, 1716.
 
 [.asterism]
 '''
