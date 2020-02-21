@@ -6,7 +6,6 @@
 * George Chalkley
 * James Dickinson
 * Benjamin Holme
-* Benjamin Holme
 * John Hayward
 * Ellis Lewis
 * John Gougii
