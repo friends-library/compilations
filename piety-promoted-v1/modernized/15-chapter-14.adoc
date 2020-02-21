@@ -175,7 +175,9 @@ Then she also desired him to write a letter for her to her husband, as follows:
 [.embedded-content-document.letter]
 --
 
+[.salutation]
 Dear and loving husband, William Berry.
+
 After my endeared love to you and dear Daniel Gould,
 I thought it right to let you know that I, being very weak in body,
 and not knowing what the will of the Lord is touching my outward man;
@@ -383,23 +385,29 @@ The weighty sayings following, being found of his own hand-writing,
 some years after his decease, by his son Caleb, are here printed,
 being worthy of observation.
 
+[.offset]
 '`Stand in awe of the living God, that created you to glorify his name.`'
 
+[.offset]
 '`Refrain from all evil, and love righteousness.`'
 
+[.offset]
 '`Do nothing that may bring dishonor to truth,
 if the whole world might be gained thereby.`'
 
+[.offset]
 '`According to the ability or talents the Lord does give you inwardly or outwardly,
 do you serve the Lord, his truth, and people.
 Those that profess and possess the truth, that love it above all things,
 that can venture all for truth`'s sake; such do you have true unity with,
 but not with backbiters, or careless professors of truth.`'
 
+[.offset]
 '`If any difference does arise between Friends or others,
 do you endeavor to put an end to it, in the spirit of meekness.
 The rough nature is Esau, but the meek and lowly is the true seed.`'
 
+[.offset]
 '`Do justly, love to be merciful, that you may walk humbly with your God;
 that when you have ended the days of your natural life,
 you may lay down your head in peace with the living God; which far exceeds all the world,
