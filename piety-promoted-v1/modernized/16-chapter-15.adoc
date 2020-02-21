@@ -13,7 +13,6 @@
 * Sarah Blackhouse
 * John Tomkins
 * Robert Huberstie
-* Thomas Camm
 * John Carlile
 * John Ellis
 * Mary Stout
@@ -31,8 +30,8 @@ When visited with sickness, she was borne up in her spirit;
 and when her mother seemed to be troubled and sorry to part with her,
 she desired her to be content, for it was her great joy, and farther said,
 '`I see nothing that I have to do but die.`'
-She also said, '`I am fully clear,
-'`and so departed very sensibly the 11th of the Twelfth month, 1704,
+She also said, '`I am fully clear,`'
+and so departed very sensibly the 11th of the Twelfth month, 1704,
 in the thirty-third year of her age,
 and was buried in Friends`' burying-place at Eaglesfield.
 
@@ -565,9 +564,12 @@ and a prisoner near five years; aged about seventy-one years.
 
 He died the 12th, and was buried the 14th of the Eighth month, 1706.
 
-Here follows a Testimony of an ancient friend and acquaintance of R. Huberstie`'s.`'
+[.embedded-content-document.testimony]
+--
 
-'`Since I have had the opportunity of reading the above-written lines,
+Here follows a Testimony of an ancient friend and acquaintance of R. Huberstie`'s.
+
+Since I have had the opportunity of reading the above-written lines,
 relating to my dear deceased friend and brother in the nearest
 and dearest relation of God`'s blessed truth,
 who was convinced thereof in the next year after I was, when we were both young in years;
@@ -578,7 +580,7 @@ and to be comforted in the beholding that sweet contented frame of spirit he lay
 together with the affecting words that then dropped from him,
 I felt some concern upon my mind to add in short, as follows:
 
-'`That he was a man truly fearing God, faithful to the manifestation of truth,
+That he was a man truly fearing God, faithful to the manifestation of truth,
 firm and noble in his testimony and sufferings therefor.
 +++[+++He was]
 of latter years, an able, zealous, and laborious minister of Christ Jesus,
@@ -601,10 +603,15 @@ The Lord was pleased upon that solemn occasion, to bless us with his glorious pr
 and to open the mouths of several of his servants in a living testimony to his truth;
 and also to magnify his holy and powerful name for his marvelous salvation,
 revealed in and through the Lord Jesus Christ our Savior, to whom, with the Father,
-belong dominion, glory, and eternal praise, world without end, Amen.`'
-THOMAS CAMM.
+belong dominion, glory, and eternal praise, world without end, Amen.
 
-'` Oldworth, 26th of First Month, 1707.`'
+[.signed-section-signature]
+Thomas Camm
+
+[.signed-section-context-close]
+Oldworth, 26th of First Month, 1707
+
+--
 
 [.asterism]
 '''
@@ -870,14 +877,22 @@ He departed not long after, being the 3rd of the Ninth month, 1707, aged forty-o
 
 But before his departure, he dictated the following letter to his son.
 
-'`SON SAMUEL, '`First learn to live in the love and fear of God,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Son Samuel,
+
+First learn to live in the love and fear of God,
 and if you meet with any disappointment,
 you may apply yourself to him the more freely for assistance,
 it being your father`'s daily practice, in what exercises he has met with in this world.
 Be truly honest, both towards God and man;
 always laboring in your mind to contradict any thing that may be otherwise.
 I recommend this practice: privately to go into your chamber twice a day,
-to wait upon the Lord for counsel and instruction in all things.`'
+to wait upon the Lord for counsel and instruction in all things.
 
 And it is your father`'s desire, that you may be loving and dutiful unto your mother,
-and loving and kind to your wife.`'
+and loving and kind to your wife.
+
+--
