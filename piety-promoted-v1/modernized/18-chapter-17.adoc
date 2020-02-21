@@ -160,7 +160,7 @@ to the comfort and satisfaction of many.
 
 [.asterism]
 '''
-WILLIAM BARCRAFT, late of B3ally-Britton, in King`'s County, in the kingdom of Ireland,
+WILLIAM BARCRAFT, late of Bally-Britton, in King`'s County, in the kingdom of Ireland,
 aged twenty-eight years, before his departure, was taken speechless in a violent fit,
 but his speech returning again,
 he expressed himself thus to his dear wife and mother-in-law, and friends present,
@@ -310,7 +310,7 @@ His wife replied, '`It will be well with you I am well satisfied,
 and that is the greatest comfort I have in parting from you.
 But still my loss is the greater, to part with such a good husband, with whom,
 if the Lord saw good, it might be as well another time, or some years hence,
-'`He answered, '`It must not be another time; the Lord`'s time is the best time.
+He answered, '`It must not be another time; the Lord`'s time is the best time.
 I should be glad to see you in a mind to submit to the will of the Lord in all things;
 for it troubles me to see you so sorrowful.
 It will not be your case alone, although I know it will be hard for you to bear.
@@ -382,8 +382,8 @@ my mind being so much out of the encumbering things of this world,
 that I do believe this affliction will be for my good;`' with much more.
 
 Another time he said he did not know but death might come of a sudden,
-but it would be no surprisal to him.`'
-I am both ready and willing to die;`' or if it should please the Lord to restore him,
+but it would be no surprisal to him.
+'`I am both ready and willing to die;`' or if it should please the Lord to restore him,
 he could be willing to live, for the sake of his family,
 or that he might be serviceable in the gospel, for the promotion of truth; but said,
 '`I have such satisfaction and full assurance of my future being,
@@ -435,7 +435,7 @@ He answered,
 '`I feel hopes to spring.`'
 Then taking his wife by the hand, he said, '`My dear,
 you have been a loving and obedient wife to me.
-I desire you to keep in.
+I desire you to keep in
 patience, the Lord will be a husband to you, and he will provide for you,
 he did take care for you before you had a husband.
 So he that thus helped you through many troubles
@@ -492,8 +492,8 @@ then they would be better prepared for their final change.`'
 
 Then he said, '`I see a portion in the kingdom of heaven,
 a place among the sanctified is better than a thousand worlds.
-So, '`said he, '`let not the things of this world hinder you; for the cares of this life,
-and cumbering things, do but gender tc bondage.`'
+So,`' said he, '`let not the things of this world hinder you; for the cares of this life,
+and cumbering things, do but gender to bondage.`'
 
 Then he said, '`My dear love to all my brothers and sisters.
 I desire they may be careful to bring up their children in the nurture of truth.`'
@@ -504,7 +504,7 @@ and prize truth above all.`'
 He then remembered his love to some particular friends; and added,
 '`My love is to all faithful Friends.`'
 His wife asking him how it was with him, he said, '`I am very easy,
-the Lord`'s will be done: '`then he ceased to speak any more for a while,
+the Lord`'s will be done:`' then he ceased to speak any more for a while,
 till about three or four hours before he departed; and then he said,
 though with a very low voice,
 '`Seek Christ Jesus our Savior;`' these were the last words those present could remember.
@@ -779,4 +779,5 @@ He was honorably buried in Friends`' burying-ground at Street, in Somersetshire,
 the 12th of the Eighth month, 1710.
 Aged seventy-three, convinced fifty-seven, and a minister forty-seven years.
 
+[.the-end]
 END OF THE FIRST VOLUME
