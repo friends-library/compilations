@@ -329,6 +329,3 @@ T+++.+++ Raylton
 
 [.signed-section-context-close]
 The Tenth month, 1716.
-
-[.asterism]
-'''
