@@ -3,6 +3,7 @@
 [.chapter-synopsis]
 * William Gibson
 * Eleanor Barcroft
+* Thomas Gettos
 * James Blackhouse
 * Mercy Johnson
 * Tacy Davis

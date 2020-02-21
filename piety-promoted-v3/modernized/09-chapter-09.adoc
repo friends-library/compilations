@@ -3,7 +3,6 @@
 [.chapter-synopsis]
 * Elizabeth Evens
 * Benjamin Evens
-* Benjamin Evens
 * Jonathan Raine
 * Sarah Clare
 * Potto Brown

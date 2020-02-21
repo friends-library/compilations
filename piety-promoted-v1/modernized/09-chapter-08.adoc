@@ -10,7 +10,6 @@
 * Charles Ormston
 * John Ormston
 * Thomas Robinson
-* Thomas Robinson
 * Stephen Smith
 * William Allen
 * William Simpson
