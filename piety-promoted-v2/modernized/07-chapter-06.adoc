@@ -364,6 +364,9 @@ About an hour after, he said to his nurse and some others,
 
 Here follows a paper that was written by him, giving an account of his age when visited.
 
+[.embedded-content-document.letter]
+--
+
 In the Seventh month, 1706, I being then between twelve and thirteen years of age,
 the Lord was pleased to visit my soul by his divine power, which seized upon me,
 and brought me to a sense of my state and condition.
@@ -372,7 +375,7 @@ but had spent too much time in playing with other children,
 and in light and vain discourse:
 and although I had been soberly educated among friends,
 and constantly frequented meetings,
-yet I saw I had not lived so in the fear of God as I ought to have done.`'
+yet I saw I had not lived so in the fear of God as I ought to have done.
 
 Now I also saw in some measure the necessity of an inward work,
 and that I must forsake and part with all my former vanity and pastimes.
@@ -387,7 +390,7 @@ should part with all youthful pastimes.
 But soon after, the Lord was pleased to let me see, in some measure,
 the beauty of his truth, and how he would love those that feared him;
 and did so overcome my heart in a sense of his love, that I was ready to say,
-I will give up my heart to the Lord; he shall have my youthful days.`'
+I will give up my heart to the Lord; he shall have my youthful days.
 
 Then the fear of the Lord seized upon my heart, and as I kept to it,
 with my mind exercised in spiritual things, I was preserved out of my former vanity,
@@ -405,7 +408,7 @@ My business at that time being among some loose and vain people,
 who did not fear the Lord, their idle talk and vain communication were very uneasy to me;
 and I saw they were strangers to the work of regeneration,
 and I lamented their condition; and when I awoke in the morning,
-oh! the fear and dread that was upon me.`'
+oh! the fear and dread that was upon me.
 
 Thus for some time I was religiously exercised, but a while after,
 I frequented the company of some young people, some of whom were Friends`' children,
@@ -415,7 +418,7 @@ and many hours were spent, in the winter evenings, in idle talking and foolish j
 by which I was much hurt, as to my inward condition, and began to be settled in ease,
 and so got from under that concern of mind which had for some time been upon me.
 Yet the Lord by his light and grace in my heart often reproved me for my wantonness,
-so that I was preserved from gross evils, but too much given to lightness and mirth.`'
+so that I was preserved from gross evils, but too much given to lightness and mirth.
 
 But the Lord, whose love was still towards me, did not leave me in that state.
 I remember one time when I was sitting in a meeting, the power of the Lord seized me,
@@ -425,7 +428,9 @@ that if I would be Christ`'s disciple, I must take up his cross,
 and give up my heart to the Lord; have my mind taken off from the things of this world,
 and stayed upon God.
 And that saying of the Apostle was brought to my remembrance:
-"`To be carnally minded is death, but to be spiritually minded is life and peace.`"`'
+"`To be carnally minded is death, but to be spiritually minded is life and peace.`"
+
+--
 
 [.asterism]
 '''
@@ -467,7 +472,7 @@ and declared of his goodness to his soul.
 Although he was in great pain, and very ill in body,
 his soul was visited with the tendering power and sweet love of God,
 so that he sat up in his bed, and with tears declared of the sweetness and virtue of it.
-Oh! how sweet is the love of God; it is now sweet to my taste; it is sweeter than honey,
+'`Oh! how sweet is the love of God; it is now sweet to my taste; it is sweeter than honey,
 yes, than the honey-comb; it seasons our exercises; it sweetens the bitter cup to us,
 and the divine streams of it bring comfort and refreshment to the weary soul.`'
 
@@ -733,8 +738,8 @@ He travelled, in two years, 1665 miles; and after his return, for several months
 he visited the meetings of Friends in London and the adjacent parts.
 When he was taken ill he had a complication of distempers, i.e. a cough,
 shortness of breath, and dropsy.
-He was in a heavenly frame, and resigned to the will of God, whether to live or die; for,
-'`said he, I witness peace with God, through Jesus Christ,
+He was in a heavenly frame, and resigned to the will of God, whether to live or die; '`for,`'
+said he, '`I witness peace with God, through Jesus Christ,
 in whom alone I trust for eternal life and salvation.`'
 Great tenderness of spirit appeared in him,
 and several other sweet and comfortable expressions at sundry times dropped from him.
