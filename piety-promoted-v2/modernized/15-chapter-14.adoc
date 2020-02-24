@@ -472,19 +472,22 @@ and be truly serviceable also in their day,
 the following abstract of a testimony from the quarterly
 meeting of Norfolk concerning him is here inserted:
 
-'`He was educated in the profession of truth, and in his young and tender years,
+[.embedded-content-document.testimony]
+--
+
+He was educated in the profession of truth, and in his young and tender years,
 reached by the extendings of divine love, and happily closing in therewith,
 he soon gave ample proofs of its efficacy,
-that as he grew in years he grew in the knowledge and obedience of truth.`'
+that as he grew in years he grew in the knowledge and obedience of truth.
 
-'`He came forth in the ministry about the twenty-eighth year of his age.
+He came forth in the ministry about the twenty-eighth year of his age.
 Many were the precious gifts bestowed upon him,
 and the testimony given him to bear was truly comfortable;
 his openings deep and instructive,
 and he became an instrument of singular benefit to many,
-from a true sense that was given him of their states and conditions.`'
+from a true sense that was given him of their states and conditions.
 
-'`As an elder and overseer he was without rebuke:
+As an elder and overseer he was without rebuke:
 his mind being filled with unbounded charity and love,
 counsel and reproof were well received from him;
 and as he felt deeply for the infirmities of all, so he exposed the failings of none.
@@ -499,34 +502,36 @@ adorning the gospel he preached.
 He was endued with a large share of natural understanding,
 which being sanctified by the great and good hand that blessed him with it,
 rendered him very successful in putting an end to
-differences among his neighbors and friends.`'
+differences among his neighbors and friends.
 
-'`In the nearest connections of life he was equally exemplary; being a tender,
+In the nearest connections of life he was equally exemplary; being a tender,
 loving husband, an indulgent parent, an affectionate relation,
 and strictly regardful of every duty towards his servants,
 his care over whom was attended with singularly good consequences.
 In these and many other respects, the loss of him is sensibly felt by us;
-but we firmly believe it is his eternal gain.`'
+but we firmly believe it is his eternal gain.
 
-'`His services in the wholesome and necessary discipline
+His services in the wholesome and necessary discipline
 established in our society were very great,
 both in monthly and quarterly meetings.
 As he was exceedingly industrious in what he believed to be his duty,
 so was he likewise in visiting the churches;
 devoting much of his time and outward substance to that service,
-more particularly in the last ten or twelve years of his life.`'
+more particularly in the last ten or twelve years of his life.
 
-'`He constantly attended the service of the yearly meeting in London for many years;
+He constantly attended the service of the yearly meeting in London for many years;
 the last time of his being there he was seized with
 that illness which concluded his natural life;
 but notwithstanding his indisposition,
 he visited several large meetings in Hertfordshire, Essex, and Suffolk.
 He got to his own dwelling-house at Northwalsham, the 20th of the Sixth month,
 and departed this life the 2nd of the Seventh month, 1762,
-in the fifty-second year of his age.`'
+in the fifty-second year of his age.
 
-'`His body was interred on the 6th of the same, in Friends`' burial-ground there;
-a very large concourse of friends and others attending the solemn occasion.`'
+His body was interred on the 6th of the same, in Friends`' burial-ground there;
+a very large concourse of friends and others attending the solemn occasion.
+
+--
 
 [.asterism]
 '''
@@ -682,7 +687,10 @@ in order that such an example should not be lost,
 the following testimony given forth concerning him
 is thought fit to be inserted in this collection:
 
-'`Our dear and well esteemed friend Samuel Watson, of Killconner, in the county of Carlow,
+[.embedded-content-document.testimony]
+--
+
+Our dear and well esteemed friend Samuel Watson, of Killconner, in the county of Carlow,
 in Ireland, succeeded his worthy and honorable father John Watson, of the same place,
 not only in his outward possessions there,
 but in a zealous concern for the testimony of truth, and support of its cause.
@@ -715,7 +723,7 @@ which alone is the crown of all our religious assemblies.
 Though sharp in reproof to those in general who trampled upon the testimony of truth,
 or lived in a carnal security,
 yet he greatly rejoiced to see the buddings forth of good desires in any of the youth,
-and was a tender nursing father to such.`'
+and was a tender nursing father to such.
 
 Strong and fervent were his desires that the youth among us,
 and particularly his own children and their offspring,
@@ -731,14 +739,14 @@ that he might never survive the inward sense and
 feeling of that which is the life of the soul:
 also sorrowfully remarking, that some by grasping at the present visible enjoyments,
 had left large possessions to their families; but their table had become a snare,
-and to several there was left neither name nor memorial among us.`'
+and to several there was left neither name nor memorial among us.
 
 In religious visits to the families of Friends he was often
 eminently favored and opened in suitable counsel,
 in an extraordinary manner; and indeed not only on these appointed occasions,
 but in more private conference with those of his family and his friends,
 it was apparent he dwelt near he fountain of divine sweetness, for words of sweet savor,
-edification, and tenderness would often at such times flow from him.`'
+edification, and tenderness would often at such times flow from him.
 
 To conclude, he was a careful, affectionate father, husband, and friend,
 helpful in a civil as well as a religious capacity among his neighbors,
@@ -746,7 +754,9 @@ and charitable to the poor.`'
 He departed this life in peace, at his own house in Kilconner,
 the 14th of the Fifth month, 1762,
 and was interred in Friends`' burying-ground at Ballybrumhill,
-in the county of Carlow aforesaid, the 17th of the same; aged seventy-six years.`'
+in the county of Carlow aforesaid, the 17th of the same; aged seventy-six years.
+
+--
 
 [.asterism]
 '''
