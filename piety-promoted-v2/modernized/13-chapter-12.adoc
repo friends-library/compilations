@@ -379,8 +379,7 @@ He was aged eighty-three years, and a minister about fifty-six years.
 [.asterism]
 '''
 
-[.letter-heading]
-A short testimony concerning our ancient and worthy friend JANE FEARON.
+=== A short testimony concerning our ancient and worthy friend JANE FEARON.
 
 Jame Fearon, wife of the aforesaid Peter Fearon, was born of religious parents,
 who lived and died in the truth, whose care was to educate her in the way thereof.
@@ -707,8 +706,7 @@ aged eleven years and about three months.
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-An abridgment of Thomas Chalkley`'s testimony concerning Hannah Hill, junior.
+=== An abridgment of Thomas Chalkley`'s testimony concerning Hannah Hill, junior.
 
 There is something on my mind to write in memory of that dear innocent soul,
 Hannah Hill, junior, who departed this life in the twelfth year of her age,
@@ -749,8 +747,7 @@ for then would I fly away and be at rest.`' Ps. 55:6.
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-An abridgment of Griffith Owen`'s testimony concerning Hanna Hill.
+=== An abridgment of Griffith Owen`'s testimony concerning Hanna Hill.
 
 The Lord has been pleased in his great love to give a gift or
 manifestation of his Holy Spirit to the sons and daughters of men,
