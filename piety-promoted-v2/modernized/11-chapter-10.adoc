@@ -146,9 +146,7 @@ and was buried in Friends`' burying-ground there.
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-Doctor Heathcot`'s testimony, concerning Jennet Stow, who was her physician,
-and attended her in her illness.
+=== Doctor Heathcot`'s testimony, concerning Jennet Stow, who was her physician, and attended her in her illness.
 
 When first I beheld that holy woman who left this legacy behind her,
 I thought I never saw so heavenly an image.
