@@ -71,7 +71,10 @@ and left a good report behind her.
 [.asterism]
 '''
 
-BEING much inclined to leave something in memory of my dear wife, MARGARET ELLIS,
+[.embedded-content-document.testimony]
+--
+
+Being much inclined to leave something in memory of my dear wife, MARGARET ELLIS,
 who was very dear to me and my children, I may justly say,
 she attained to a good old age,
 and that we lived together about fifty-two years with a great deal of satisfaction.
@@ -82,10 +85,17 @@ she lived and died in true unity and fellowship with friends of truth,
 since she was convinced thereof, and more especially in the afternoon of her day,
 when her candle shone brighter and brighter to the end, to our comfort and encouragement,
 as appears by the following account.
-ROWLAND ELLIS.
+
+[.signed-section-signature]
+Rowland Ellis.
+
+[.signed-section-context-close]
 Plymouth, in the county of Philadelphia, in Pennsylvania, the 8th day of the Sixth month,
 1731.
-MARGARET ELLIS, wife of Rowland Ellis, of Pennsylvania,
+
+--
+
+Margaret Ellis, wife of Rowland Ellis, of Pennsylvania,
 for about the last ten years of her life, was deprived of her eyesight,
 which she had a sense of about a year before.
 For, on a certain time, most of the family being gone to the meeting,
@@ -134,7 +144,7 @@ inviting her to sit at meat with them, and by degrees she came to be the wife of
 Which remarks she made in great tenderness of spirit before the Lord,
 in the sense of his goodness to them that came to hope under the shadow of his wing;
 comparing this to her convincement,
-when she came first among friends in their religious meetings, '`Where, '`said she,
+when she came first among friends in their religious meetings, '`Where,`' said she,
 '`I was kindly received, and invited to sit down among them,
 and partake with them of God`'s goodness, to which at that time I was but a stranger;
 yet the Lord in his love and care made himself known to my soul,
@@ -143,13 +153,13 @@ meaning the ministers of the gospel of Jesus Christ,
 whose company she highly valued and prized.
 She showed a humble sense of the mercies and lovingkindness
 of God to her all her life long,
-and now more than ever;`'For, '`added she, '`he is gathering me to himself,
+and now more than ever; `'For,`' added she, '`he is gathering me to himself,
 where I shall rest with kings and princes, with God, and holy saints and angels,
 with Jesus Christ my Savior and Holy Redeemer,
 being sensibly passing out of this world to live forever.`'
 
 In this time of her sickness, which was long and tedious,
-she also made observations on Joseph`'s condition when in prison;`' He had, '`said she,
+she also made observations on Joseph`'s condition when in prison; '`He had,`' said she,
 '`the favor of the keeper, the care, the love, the goodwill of the prisoners,
 but all this wrought not Joseph`'s deliverance.
 He was to stay the Lord`'s time, and so must I. For though I have the love of my friends,
@@ -162,8 +172,8 @@ she rejoiced much in their visit saying,
 '`I little thought this morning I should have had this opportunity with any of you,
 but if otherwise, all was well,
 for I find nothing to stand in my way on the other side the grave.`'
-Answer being made that that was better than all the world.`'
-I know it well, '`said she, '`in this my sickness,
+Answer being made that that was better than all the world.
+'`I know it well,`' said she, '`in this my sickness,
 for had I not endeavored to keep a conscience void of offense towards God and man,
 it would have been too hard a task for me now in this my great weakness.
 For I made it my concern to look over my day`'s work
@@ -185,7 +195,7 @@ Some friends of the city of Philadelphia also visiting her,
 rejoiced to find one of her age retain her senses so well,
 but more especially to see that greenness and tenderness which adorned her countenance,
 she told them the consideration of Friends in the city came fresh in her mind,
-that the elders were mostly removed; and, '`said she,
+that the elders were mostly removed; '`and,`' said she,
 '`you that are coming up in their places stand faithful
 for the truth in that which is made manifest to you.
 Look not at your own weakness,
@@ -197,7 +207,7 @@ Remember the zeal of Phineas, when he executed judgment upon the transgressors,
 whereupon the plague was stayed; and how great was his reward!
 For the Lord said to Moses, Phineas has turned away my wrath from Israel,
 so that I have not consumed them in mine anger;
-therefore I will give unto him my covenant of peace: '`adding,
+therefore I will give unto him my covenant of peace:`' adding,
 '`I am glad to hear a good report of you, and the Lord preserve you.`'
 And on parting signified her great love to faithful Friends.
 
@@ -369,8 +379,10 @@ He was aged eighty-three years, and a minister about fifty-six years.
 [.asterism]
 '''
 
+[.letter-heading]
 A short testimony concerning our ancient and worthy friend JANE FEARON.
-JANE FEARON, wife of the aforesaid Peter Fearon, was born of religious parents,
+
+Jame Fearon, wife of the aforesaid Peter Fearon, was born of religious parents,
 who lived and died in the truth, whose care was to educate her in the way thereof.
 She was favored with the love of God in her young years,
 and came under the baptism of his Holy Spirit,
@@ -418,9 +430,9 @@ and the soul received into eternal tranquillity, peace, and joy in the Holy Ghos
 She calmly departed this life the 18th day of the Ninth month, 1737,
 in the eighty-second year of her age; having been nearly fifty years a minister;
 and was buried the 21st day of the same month, in Friends`' burying-ground at Cockermouth,
-in Cumberland, being attended to her grave by many friends and others.`'
+in Cumberland, being attended to her grave by many friends and others.
 
-'`None of the dying sayings of the aforesaid worthy ancient friend being come to my hand,
+None of the dying sayings of the aforesaid worthy ancient friend being come to my hand,
 that the memory of so worthy a woman,
 and faithful servant and minister of Christ might
 be revived and perpetuated to generations to come,
@@ -435,9 +447,9 @@ but a nursing mother where she saw any of the youth under
 the work of the divine power and preparing hand of the Almighty,
 in order to make them fit vessels for his use;
 for which service she was particularly gifted and qualified,
-and made an instrument of help and great good to many.`'
+and made an instrument of help and great good to many.
 
-'`In confirmation whereof, and which induced me the more to publish it,
+In confirmation whereof, and which induced me the more to publish it,
 that by the ordering and wisdom of Providence, she was at the first meeting of Friends,
 which it was my lot, more by accident than design, to drop into,
 and was the first minister I ever heard who preached up life and salvation,
@@ -460,8 +472,9 @@ and as one who bore testimony to the means by which the captives might be set at
 and be rendered capable of answering the end of their creation, namely,
 to glorify that God who made them, and show forth his praise,
 whose service she faithfully answered during her
-long pilgrimage and course through this world.`'
+long pilgrimage and course through this world.
 
+[.signed-section-signature]
 J+++.+++ Bell
 
 [.asterism]
@@ -673,10 +686,10 @@ and several times put up her supplications to him for living water,
 and that it might spring up in her unto eternal life.
 Not long before her departure, she said, '`Father,
 the Lord has assured me I shall be happy.`'
-It was answered, '`that is comfortable indeed; '`Ay, '`replied she,
+It was answered, '`that is comfortable indeed; '`Ay,`' replied she,
 '`this is matter of joy and rejoicing can my soul say by living experience.`'
 When she took her leave of her dear and only sister, and her cousin Lloyd Zachary,
-whom she dearly loved, she expressed herself thus;`'Dear sister,
+whom she dearly loved, she expressed herself thus; `'Dear sister,
 my desires are that you may fear God, be dutiful to your parents, love truth,
 keep to meetings, and be an example of plainness.
 Dear cousin, be a good boy, observe your uncle`'s and aunt`'s advice,
@@ -691,21 +704,25 @@ and expired as one falling into a sweet sleep, without sigh or groan.
 She departed this life the 2nd day of the Sixth month, 1714,
 aged eleven years and about three months.
 
-An abridgment of THOMAS CHALKLEY`'S testimony concerning HANNAH HILL, junior.`'
+[.embedded-content-document.testimony]
+--
 
-'`There is something on my mind to write in memory of that dear innocent soul,
+[.letter-heading]
+An abridgment of Thomas Chalkley`'s testimony concerning Hannah Hill, junior.
+
+There is something on my mind to write in memory of that dear innocent soul,
 Hannah Hill, junior, who departed this life in the twelfth year of her age,
 in peace with God, and in great love and unity with his people,
-and in much assurance of her own eternal happiness.`'
+and in much assurance of her own eternal happiness.
 
-'`I was well acquainted with this tender young maiden for several years before she died,
+I was well acquainted with this tender young maiden for several years before she died,
 and I took good notice of her conduct,
 which was bright and shining in that which is commendable in youth.
 Oh! says my soul, that the youth of our age, and this city, might follow her example.
 She was a pattern of piety, plainness and obedience to parents,
-and of a womanly and obliging temper to all.`'
+and of a womanly and obliging temper to all.
 
-'`It was my lot to be for some months a co-habiter in the family,
+It was my lot to be for some months a co-habiter in the family,
 and I observed that she was always very dutiful to her parents,
 loving to her friends and neighbors, and kind to the servants both white and black.
 I also observed, that many times when other children were at play in the streets,
@@ -714,9 +731,9 @@ and it rather seemed a delight to her than a burden.
 She had an extraordinary talent in reading the Holy Scriptures, and other good books,
 in which she took much delight.
 May the minds of young people be stirred up by her example to put the same in practice,
-is my hearty desire.`'
+is my hearty desire.
 
-'`This testimony I have to give concerning her, that she lived and died beloved,
+This testimony I have to give concerning her, that she lived and died beloved,
 and the loss of her is lamented by those who knew her.
 One great virtue I may not omit mentioning,
 which would be very becoming in Christians of riper years:
@@ -725,11 +742,17 @@ of which I was a witness, which greatly affected my heart to consider,
 that her years were so green and her soul so ripe.
 May all who cast their eyes on these lines, say with the man of God of old,
 "`Oh! that I had wings like a dove,
-for then would I fly away and be at rest.`"`' Ps. 55:6.
+for then would I fly away and be at rest.`' Ps. 55:6.
 
-An abridgment of GRIFFITH OWEN`'S testimony concerning HANNAH HILL.
+--
 
-'`The Lord has been pleased in his great love to give a gift or
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
+An abridgment of Griffith Owen`'s testimony concerning Hanna Hill.
+
+The Lord has been pleased in his great love to give a gift or
 manifestation of his Holy Spirit to the sons and daughters of men,
 to show unto them the way to eternal happiness, and to help them to walk in it.
 And although it is universally extended,
@@ -744,9 +767,9 @@ of Philadelphia in Pennsylvania;
 considering how she spent that short time the Lord was pleased to give her in this world;
 her meek and godly behavior from a child, her dutifulness to her parents,
 her love and good will to all,
-but especially to those who walked in obedience to the truth.`'
+but especially to those who walked in obedience to the truth.
 
-'`I knew her from a child, and I never beheld any airy, light,
+I knew her from a child, and I never beheld any airy, light,
 indecent behavior or expressions from her, but her conduct was adorned with much gravity,
 modesty, meekness, and plainness.
 I was several times with her when on her deathbed,
@@ -768,7 +791,9 @@ and by an innocent and righteous conduct,
 the work of regeneration might clearly appear in all their actions and behavior,
 that those who conversed with them, and beheld their good works,
 coupled with the fear of God,
-might have cause to acknowledge they are the seed whom the Lord has blessed.`'
+might have cause to acknowledge they are the seed whom the Lord has blessed.
+
+--
 
 [.asterism]
 '''
@@ -792,7 +817,7 @@ a sense that her end was near.
 
 About two hours before she departed, the servants who were with her,
 perceiving some change, called her father and mother, they being gone to rest.
-When they came to her, she said, Dear father and mother, I am dying,
+When they came to her, she said, '`Dear father and mother, I am dying,
 and if you had been with me, I believe I should have died this night,
 but I could not go without seeing you.`'
 They being much affected, she said, '`Do not grieve nor weep.
