@@ -145,7 +145,7 @@ that I might speak of his goodness to others, and tell what he has done for my s
 O praises, praises, praises, be given to his great and glorious name!
 My tongue is too short by far: O if, I had the tongue of an angel,
 I could not sufficiently express my gratitude to that gracious God who
-has been thus pleased to favor me in so eminent a manner!`'
+has been thus pleased to favor me in so eminent a manner!
 
 '`My disorder is very changeable: very flattering it would be to some,
 but it does not flatter me.
@@ -208,7 +208,7 @@ and deprived of their senses at such a time as this!`'
 
 She often exhorted and advised many young people, at different times,
 against reading romances and idle books, saying,
-It has been the greatest trouble and exercise of mind to me,
+'`It has been the greatest trouble and exercise of mind to me,
 more than anything I have done.
 It has cost me many a wearisome night, and many a bitter tear,
 though I have never read but a few, and those that were deemed the most harmless.
@@ -305,7 +305,7 @@ but with sins exceedingly sinful in their nature.
 He had received a measure of light and grace, but he rebelled against it;
 and though he was kept from gross pollutions, yet his vain, light, and airy mind,
 and aspiring imagination, were unwilling to submit to the yoke of Christ,
-to follow him in humility and self-denial.`'
+to follow him in humility and self-denial.
 
 As he had, by transgression against the inward law, which is light,
 forfeited his right to the tree of life,
@@ -316,7 +316,7 @@ and which did execute the fierce anger of the Lord upon his transgressing nature
 which was strong, and unwilling to have sin destroyed both root and branch.
 For some time the Lord executed his just judgments,
 so that his terrors made him afraid that his mercy was clean gone from him forever,
-which brought him to despair of attaining life eternal.`'
+which brought him to despair of attaining life eternal.
 
 But when the Almighty, who redeems Zion through judgment,
 was pleased to say it was enough,
@@ -329,14 +329,14 @@ And as he kept faithful to the discoveries of the light,
 which shone brighter to the perfect day,
 he was preserved therein from turning against folly; knowing, by purchased experience,
 that all who are saved from sin, and persevere in a life of righteousness,
-must walk steadily in the light of the Lord.`'
+must walk steadily in the light of the Lord.
 
 While he was in the employment of a shepherd, being alone,
 he was by the love of God so powerfully attracted to love him again, and all mankind,
 that under the sacred influence and holy anointing thereof,
 he found the gospel of salvation flowed universally towards all,
 and the word of life sprang and flowed in his soul
-as if he had been preaching to many people.`'
+as if he had been preaching to many people.
 
 Thus this dear Friend became qualified for the work of the ministry,
 a dispensation of which was given to him,
@@ -347,7 +347,7 @@ to ministers.and elders in their various states and allotments,
 his understanding and memory being preserved clear and strong to the last,
 being also blessed with remarkable serenity and calmness in that proving season.
 Towards the close of his time, after commending every one to God,
-and to the word of his grace and good spirit, he added, '`For whose sake, '`says he,
+and to the word of his grace and good spirit, he added, '`For whose sake,`' says he,
 '`I have travelled in the deeps; and now, in the seeming conclusion of my time,
 I witness renewed peace and divine refreshment, and with my languishing breath,
 under the influence of gospel love, I am enabled to pray for the peace of our Zion,
@@ -361,7 +361,7 @@ who is ever worthy to rule and reign in the hearts of his people.`'
 Then added, '`Thus having relieved my spirit,
 there remains nothing but to desire my endeared love
 may be remembered to my affectionate wife,
-who, '`says he, '`I desire may not grieve beyond measure,
+who,`' says he, '`I desire may not grieve beyond measure,
 but freely resign me into the hands of my faithful Creator; also to my dear children,
 with my dear aged parents and relations according to the flesh; telling them,
 that through the continued lovingkindness of a merciful Savior, it is well with me.
@@ -593,7 +593,7 @@ that the last thing she had to struggle with was death, and that was made easy,
 the sting thereof being taken away.
 
 At another time, being in great pain, +++[+++she said,]
-Oh! if I had my peace to make now, what should I do!
+'`Oh! if I had my peace to make now, what should I do!
 It is enough to bear the infirmities of the body without the load of a guilty conscience.`'
 Being a little easier, she said that her pain was often very strong,
 yet at times she witnessed great sweetness,
@@ -612,15 +612,15 @@ A few months before her death,
 she drew up a brief memorial of the gracious dealings of the Lord with her soul,
 which she desired might be communicated to Friends, and is here annexed.
 
-[.asterism]
+[.small-break]
 '''
 
-A brief memorial of the Lord`'s gracious dealings with RACHEL CHANDLER,
-formerly RACHEL PENFOLD, late of Esher in Surry,
-written by herself a few months before her decease,
-and at her particular request communicated to Friends.`'
+[.embedded-content-document.testimony]
+--
 
-'`When I consider that the grave cannot celebrate the praise that is due
+=== A brief memorial of the Lord`'s gracious dealings with Rachel Chandler, formerly Rachel Penfold, late of Esher in Surry, written by herself a few months before her decease, and at her particular request communicated to Friends.
+
+When I consider that the grave cannot celebrate the praise that is due
 to the Lord on account of his gracious and merciful dealings to my soul,
 I am inclined to say so much on God`'s behalf as may suffice to let mankind know,
 that he of his own free mercy first visited my soul,
@@ -630,14 +630,14 @@ laid the axe to the root of the corrupt tree, and shook my sandy foundation;
 so that my feeble building, grounded on profession and name, was made to totter,
 and I to cry out in the anguish of my spirit,
 What shall I do to become what I ought to be,
-that so I might obtain favor and peace with God!`'
+that so I might obtain favor and peace with God!
 
-'`Such was my sorrow night and day, that I often wished I had never been born,
+Such was my sorrow night and day, that I often wished I had never been born,
 or that I had died very young, before I had knowledge of good and evil;
 for now that the book of the law was opened, the commandment came,
 sin revived that had been hid and covered with a fig-leaf covering, and I died;
 and as one sensible of the terrors of the Lord, I often cried,
-O wretched creature that I am, who shall deliver me from this body of sin and death?`'
+O wretched creature that I am, who shall deliver me from this body of sin and death?
 
 Thus went I secretly mourning on my way for a long time,
 while my adversary laid many baits in my way to catch my unwary feet;
@@ -666,7 +666,7 @@ who knew my withholding was not from obstinate rebellion,
 but through fear of taking that on me which I was not called to,
 and that my desire in doing his work was that I might be his servant,
 and found answering the end for which I was made, that, rightly improving my talent,
-I might at last have an entrance into the joy of my Lord.`'
+I might at last have an entrance into the joy of my Lord.
 
 At length,
 having waited the season for the accomplishing the
@@ -691,9 +691,9 @@ thus far on my journey through many difficulties and straits,
 which but only to look back upon makes me shudder,
 insomuch that approaching death appears a pleasant
 release from a world of trials and besetments,
-which while here we are liable to.`'
+which while here we are liable to.
 
-'`I am ready to conclude my work is almost done, my day nearly at an end,
+I am ready to conclude my work is almost done, my day nearly at an end,
 my sun nigh setting,
 in which the curtain of the night will be drawn over my earthly tabernacle,
 which pain and weakness make to shake, so that I suppose what I do,
@@ -715,10 +715,15 @@ Hallelujah to God on high, peace on earth, and goodwill to men, says my soul.
 O let all cleave to him as to a most sure and certain guide,
 who will not leave his people comfortless,
 blessed be his name! but will come again and cause them to rejoice,
-and their joy shall exceed the joy of harvest, when corn and wine increase.`'
-RACHEL CHANDLER.
+and their joy shall exceed the joy of harvest, when corn and wine increase.
 
+[.signed-section-signature]
+Rachel Chandler.
+
+[.signed-section-context-close]
 Esher, Ninth month, 1764.
+
+--
 
 [.asterism]
 '''
