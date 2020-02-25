@@ -123,14 +123,14 @@ diligent in going to religious meetings, and an entire lover of religious people
 He was, in an uncommon degree, affectionately concerned for his mother,
 doing whatever he could freely and cheerfully to serve her;
 and told her not to do several things which he thought too much for her; saying, '`Mother,
-let me do it, for, if I was a man, you shouldest not do any thing at all,
+let me do it, for, if I was a man, you shouldest not do any thing at all,`'
 meaning as to labor.
 And she,
 affected with his filial love and care for and towards her in her husband`'s absence,
 would sometimes turn about and weep.
 
 If this dear and tender youth, when reading, met with any thing which affected him,
-either in the Scriptures or other good writings, he would Write it down,
+either in the Scriptures or other good writings, he would write it down,
 and get it by heart.
 One passage, which he had written down, and got by heart, much affected his father.
 It was the 15th verse of the lvii.
@@ -194,8 +194,8 @@ They were good examples to their children, educating them in the way of righteou
 often exhorting them, with tears, to fear the Lord.
 
 The following account of the first moving of the divine principle, or spirit of Christ,
-on his mind, is extracted from a short journal of his, long since out of print.`'
-My father, '`says he, '`died when I was ten years old,
+on his mind, is extracted from a short journal of his, long since out of print.
+'`My father,`' says he, '`died when I was ten years old,
 and I not taking the counsel of the wise man, namely, to take counsel of my father,
 which was, to mind the light or measure of grace given unto me,
 my mind was drawn out after the vain plays, customs, and will-worships of the world,
@@ -209,9 +209,9 @@ but going on in rebellion against his blessed spirit, ran,
 as with a multitude to do evil, into wildness and vanity,
 until the Lord in his mercy did visit my soul by his righteous judgments,
 and thereby turned my mirth into mourning, and joy into heaviness,
-and deep sorrow was my portion.`'
+and deep sorrow was my portion.
 
-Being warned to repent and turn to the Lord, a godly sorrow was begun,
+'`Being warned to repent and turn to the Lord, a godly sorrow was begun,
 which I experienced to lead to true repentance.
 Then my familiars became my enemies, and I was a taunt and a by-word to them; yet still,
 as I loved the Lord in the way of his judgments,
@@ -242,8 +242,8 @@ I found, as David said,
 "`his rod and his staff comforted me;`" and the Lord
 did often overcome me with his love.`'
 
-When about eighteen years of age, he was first concerned to bear a public testimony.`'
-Great, '`says he, '`then was my exercise.
+When about eighteen years of age, he was first concerned to bear a public testimony.
+'`Great,`' says he, '`then was my exercise.
 Seeing the work to be very weighty, and looking at my own weakness,
 made me unwilling to give up to answer the Lord`'s requirings.
 But the Lord, in his great love filled my soul with the emanations of his power,
@@ -338,9 +338,12 @@ He reached Swansea the 8th of the Second month, 1749, and died the 14th of the s
 aged about sixty-seven years, and a minister about fifty-three years;
 and as he lived so he died, a pattern of meekness and innocency.
 
-Benjamin`' Home`'s Last Legacy, or Serious Advice; recommended by him,
-a little before his decease, to the youth under the tuition of several schoolmasters.`'
+[.embedded-content-document.epistle]
+--
 
+=== Benjamin Home`'s Last Legacy, or Serious Advice; recommended by him, a little before his decease, to the youth under the tuition of several schoolmasters.
+
+[.salutation]
 Dear Children,
 
 I hereby tenderly salute you, with desires that as you advance in years,
@@ -362,7 +365,7 @@ If any of you should be put out to trades, if you are honest, peaceable,
 and careful to speak the truth,
 and to make a good improvement of your time while you are at school,
 so that the master can give a good account of you,
-his good recommendation may be a means to help several of you to good places.`'
+his good recommendation may be a means to help several of you to good places.
 
 '`Dear children,
 "`remember your Creator in the days of your youth,`" and
@@ -384,9 +387,9 @@ Now, although I advise you not to give these compliments,
 which may tend to gratify a vain and proud mind;
 yet I would have you learn to speak handsomely and becomingly to every body,
 even to the poorest servant or apprentice about any of your parents`' houses,
-or to the beggar who asks alms.`'
+or to the beggar who asks alms.
 
-'`Seek and pray, like good Jabez, that the Lord may keep you from evil;
+Seek and pray, like good Jabez, that the Lord may keep you from evil;
 and we read that God granted him that which he requested.
 The fear of the Lord is a great blessing to all them that live in it.
 It is a fountain of life, which preserves from the snares of death;
@@ -407,8 +410,13 @@ the world can neither give nor take away.
 That you may make a right and good application of this friendly admonition,
 and have the benefit hereby intended, is, with true love to you, the sincere wish of,
 
+[.signed-section-closing]
 Your Friend,
-BENJAMIN HOLME
+
+[.signed-section-signature]
+Benjamin Holme
+
+--
 
 [.asterism]
 '''
@@ -501,7 +509,7 @@ and a minister seventy-four years.
 
 [.asterism]
 '''
-JOHN GOUGII, son of James Gough,
+JOHN GOUGH, son of James Gough,
 was a young man of a good natural disposition and capacity,
 well furnished with useful learning; and as he grew up,
 being favored with deep religious impressions, he sought after and attained best wisdom,
@@ -560,7 +568,7 @@ and the Sixth-day morning following she complained of illness.
 In about two hours after, her parents were so apprehensive of danger,
 as to be affected with sorrow, which she observing, said, '`Do not grieve for me,
 but rejoice evermore, and give thanks that I am going to everlasting rest;`' then said,
-'`I hope, '`paused a little, and added, '`I am going to everlasting rest and peace.`'
+'`I hope,`' paused a little, and added, '`I am going to everlasting rest and peace.`'
 She expressed to a friend the sense she had of her departure;
 and hoped the Almighty would be near,
 and sustain the spirits of her parents under the trial, as he did hers at that time.
@@ -588,8 +596,8 @@ He visited Ireland twice, and Holland once,
 and paid a general visit to Friends in most of the colonies in America.
 He was exemplary in a deep inward exercise of spirit,
 and in patient waiting for the arising of the divine life,
-as a necessary qualification for service either in ministry or discipline, '`Being,
-'`to use his own words addressed to ministers in an epistle found among his papers,
+as a necessary qualification for service either in ministry or discipline, '`Being,`'
+to use his own words addressed to ministers in an epistle found among his papers,
 '`a strength to a living, edifying ministry,
 and a check to that which was forward or floating; either not duly anointed,
 or not waiting truly for the resurrection of that
@@ -646,7 +654,10 @@ She came afterwards from South Carolina to reside in London, and about the year 
 a concern came upon her to visit the inhabitants of her native country,
 from which she sent the following account in a letter to a friend.
 
-'`A concern I had often felt in my soul for the happiness
+[.embedded-content-document.letter]
+--
+
+A concern I had often felt in my soul for the happiness
 and eternal welfare of my native country revived in my breast;
 when I was to return and abase myself, by telling what God had done for my soul,
 and to call them from those things,
@@ -657,7 +668,9 @@ with those few that professed with me; and though, at first,
 the meetings were sometimes interrupted by the rude and uncivil treatment of many,
 we met pretty quietly,
 and some of the inhabitants would now and then come and sit with us,
-to whom my mouth was opened at times in rehearsing what God had done for my soul.`'
+to whom my mouth was opened at times in rehearsing what God had done for my soul.
+
+--
 
 During her continuance there,
 she wrote a short account of the dealing of the Lord with her,
@@ -761,8 +774,8 @@ She further observed, that she had been visited long before her illness,
 and had found great uneasiness in wearing things that were gay,
 and also in speaking in the plural language to one person; and added,
 that she found it difficult to take up the cross, but when she did,
-her satisfaction was great.`'
-Oh! what I feel for those whose minds are involved in the world, '`with much more;
+her satisfaction was great.
+'`Oh! what I feel for those whose minds are involved in the world,`' with much more;
 all importing the happy state of her mind; saying to one friend, '`I am ready,
 I have nothing to do but die.`'
 
@@ -773,7 +786,7 @@ hoping it might prove a profitable time to them.
 
 The evening preceding her departure,
 she spoke to one of her sisters to the following effect: '`Gaiety proceeds from pride,
-and pride is the root of all evil: '`and she fervently exhorted against it.
+and pride is the root of all evil: '`and she fervently exhorted against it.`'
 
 In the night her pains were exceedingly great, and she felt the approach of death;
 and in the last two hours continued uttering prayers.
@@ -798,7 +811,7 @@ and caused my cup to overflow in praises to his name, and admiration of his good
 My soul, being as a well watered garden, has rejoiced in his love; and,
 in abasedness of self, has largely ascribed praises and glory to him, who,
 with the Son of his love, through the Holy Spirit, is eternally worthy.
-Amen.`'
+Amen.
 
 '`I early loved good men, and had a desire to go to meetings;
 so that while I was but very young, if any thing offered to let or hinder my going,
@@ -821,7 +834,7 @@ and was helpful in opening the understandings of many.
 
 About the sixtieth year of his age, he came forth in a few words in the ministry,
 which was acceptable and edifying.
-He left a few remarks on that subject, worthy to be preserved.`'
+He left a few remarks on that subject, worthy to be preserved.
 
 '`Although,`' says he, '`there have sometimes been words in my heart, and, as it were,
 in my mouth, which I do not know but they might have been of ease to myself,

@@ -92,11 +92,15 @@ and gave evident proofs of the efficacy thereof by an exemplary deportment.
 
 A little before her death she wrote the following paper,
 which she desired might be read in the several meetings in the county,
-which was done accordingly.`'
+which was done accordingly.
 
-'`Dear friends
+[.embedded-content-document.paper]
+--
 
-'`Under great weakness of body,
+[.salutation]
+Dear friends
+
+Under great weakness of body,
 my concern remains strong for your growth and prosperity in the blessed truth.
 In that love which I feel shed abroad in my heart does my spirit salute you;
 beseeching you to meet as in the presence of God;
@@ -113,7 +117,9 @@ If this be your situation before the Lord in-secret, he will reward openly,
 and you will be enabled to praise God acceptably,
 and to magnify his great and worthy name; as does my soul at this season,
 because I feel the same divine goodness that was my morning light is now my evening song,
-which makes me rejoice in the Lord; and my joy no man can take from me.`'
+which makes me rejoice in the Lord; and my joy no man can take from me.
+
+--
 
 She departed this life the 29th of the Fifth month,
 and was buried on the 2nd of Sixth month, 1774,
@@ -344,8 +350,8 @@ though so far separated from her near connections.
 
 She was a pattern of patience, and always appeared satisfied with those about her,
 who rendered her any little services.
-The last words she was heard to say were, '`Good tidings,
-'`which no doubt the summons of death proved to her, as it appeared to have no sting,
+The last words she was heard to say were, '`Good tidings,`'
+which no doubt the summons of death proved to her, as it appeared to have no sting,
 nor the grave any victory.
 
 She quietly departed this life on the 18th of the Third month, 1775,
@@ -452,7 +458,7 @@ he was led away by the influence of irreligious associates
 into an indifference towards religion,
 a neglect of the due attendance of meetings,
 and several unprofitable and disorderly practices.`'
-But, '`says he, '`at that time I was under such inward convictions,
+'`But,`' says he, '`at that time I was under such inward convictions,
 that my heart was often filled with grief and horror;
 however joyous I might appear outwardly, '`I was inwardly smitten and condemned.`'
 Yet not sufficiently seeking to take up the cross,
@@ -598,7 +604,7 @@ particularly during his last sickness.
 During this illness, which was painful, and of several months`' continuance,
 he uttered many weighty expressions.
 Being asked by a friend one evening if his pain was then great, he replied,
-'`I have bee.n in great pain this day, but my mind is favored with a calm,
+'`I have been in great pain this day, but my mind is favored with a calm,
 which I desire to be thankful for.`'
 Observing he was dipped into very low seasons,
 he remarked that it had been the case with many favored servants of the Lord,
@@ -608,7 +614,6 @@ to feel the arisings of that life which is more desirable to a remnant in this d
 than the increase of corn, wine, or oil.`'
 He mentioned also that he had a view of a gathering day in Bristol, and,
 though he might not live to see it, he should die in the faith of it.
-9*
 
 Some days afterwards he expressed himself in the following manner:
 '`I think I have been favored, during my illness,
