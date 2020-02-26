@@ -617,13 +617,13 @@ reached his house at Ratcliffe about four that afternoon.
 Being introduced to his bedside, on asking him how he did, he answered, '`Very bad.
 I wanted to see you, I had a great deal to say to you, but I fear now I cannot.`'
 What afterwards passed between them was as follows: After a short space of silence,
-John Scott began to speak with a voice full of power.`'
-I wanted to see you, to tell you, that I have nothing to trust to but the blessed Jesus;
+John Scott began to speak with a voice full of power.
+'`I wanted to see you, to tell you, that I have nothing to trust to but the blessed Jesus;
 and that if I die, I do not die an unbeliever.
 If I die, I die a believer, and have nothing to trust to but mere unmerited mercy.`'
 
 Finding him brought down as from the clefts of the rocks, and the heights of the hills,
-into the valley of deep humiliation, '`his brother rejoiced in spirit,
+into the valley of deep humiliation, his brother rejoiced in spirit,
 and spoke comfortably to him;
 expressing the deep humiliating views he frequently had of his own state.
 John Scott replied, '`Oh! if it is so with you, how must it be with me,
@@ -668,11 +668,13 @@ being nearly fifty-four years of age.
 [.asterism]
 '''
 ISAAC SHARPLES.
---A short narrative of ISAAC SHARPLES, late of Hitchin,
-written by himself some time before his decease:
-to which are added some of his expressions a little before his end.
 
-'`Being now about the eightieth year of my age,
+[.embedded-content-document.letter]
+--
+
+=== A short narrative of Isaac Sharples, late of Hitchin, written by himself some time before his decease: to which are added some of his expressions a little before his end.
+
+Being now about the eightieth year of my age,
 it is in my mind to leave some few hints of the Lord`'s
 tender dealings with me from my youth to this time,
 for the information and encouragement of those I may leave behind me.
@@ -681,9 +683,9 @@ William and Phoebe Sharples, being members of that meeting.
 My mother died about three years after, leaving six children, who, by her removal,
 were subjected to much hardship.
 My father, for lack of keeping his place, forfeited his unity with Friends,
-by which the family became dispersed, and none of us continued in the Society.`'
+by which the family became dispersed, and none of us continued in the Society.
 
-'`When I was about twelve years of age,
+When I was about twelve years of age,
 by the persuasion of some of my father`'s relations, I was sprinkled at Ormskirk;
 from which time I continued to frequent the public worship, until I joined Friends.
 At about fourteen I was placed out apprentice to a tailor, where I suffered much;
@@ -691,7 +693,7 @@ but my master, to whom I was bound, not having sufficient employment for me,
 after I had served about half my time,
 turned me over to a Friend for the remainder of the term, whereby I got some relief.
 In this family they would often be speaking of my mother,
-who was esteemed a valuable Friend.`'
+who was esteemed a valuable Friend.
 
 Having now frequent opportunity of being in Friends`' company,
 and observing their regular lives and conduct, it gave me a secret liking towards them;
@@ -720,7 +722,7 @@ and none shall be able to pluck you out of my Father`'s hands.`"
 Thus, although I was like one cast out and forsaken,
 and in great measure destitute of those natural advantages many are favored with,
 my education being low, yet, in this state of weakness and ignorance,
-the Lord took me under his care and protection.`'
+the Lord took me under his care and protection.
 
 When out of my apprenticeship,
 having but few friends or relations that took much notice of me,
@@ -732,9 +734,9 @@ But I had not gone far from Bristol, before kind Providence,
 watching over me for my good, mercifully interposed, directing my way in his wisdom.
 He was pleased to put a stop to my roving mind,
 and to convince me of the truth of that saying, "`It is not in man that walks,
-to direct his own steps.`"
+to direct his own steps.
 
-'`Meeting with employment in my trade in the county of Somerset,
+Meeting with employment in my trade in the county of Somerset,
 and being convinced of the blessed truth, I settled among Friends,
 and continued in that part of the country some years.
 About the year 1724,
@@ -758,7 +760,7 @@ yet I was secretly supported by an invisible hand, that I could truly say,
 the Lord was my shepherd, and bountifully supplied all my needs,
 so as many times to make my cup run over, filling my heart with his love;
 that I can now say, What shall I render to the Lord for all his benefits,
-who has been my morning light, and I humbly hope will be my evening song?`'
+who has been my morning light, and I humbly hope will be my evening song?
 
 After this journey, I continued at Thornbury about five years longer,
 visiting the meetings of my friends in most of the western and northwest counties,
@@ -775,15 +777,15 @@ perform this service to a good degree of satisfaction,
 and to meet with no opposition; except in one place from an angry priest.
 At several towns I had meetings in the streets and market-houses.
 I afterwards went into Dorsetshire and Hampshire, and passed over the Isle of Jersey,
-in company with my friend Jeremiah Waring.`'
+in company with my friend Jeremiah Waring.
 
-1744+++.+++ This year I visited Ireland.`'
+1744+++.+++ This year I visited Ireland.
 1745+++.+++ Visited several western counties as far as Cornwall,
-and the circular yearly meeting there.`'
+and the circular yearly meeting there.
 1746+++.+++ This year I entered a second time into a married state, with Mary,
 daughter of Joseph and Mary Ransom, of Hitchin in Hertfordshire, where I then settled.
 She has been a true help-meet to me,
-we having now lived together in great unity about thirty-six years.`'
+we having now lived together in great unity about thirty-six years.
 
 After my marriage, I visited most of the counties of England and Wales,
 at different times, as the Lord was pleased to open my way, and enable me for it;
@@ -800,7 +802,7 @@ I can now look back with satisfaction and thankfulness to him who
 has enabled me so far to do my day`'s work in the daytime;
 and am now favored in my old age to drink of that rock,
 out of which flow the issues of life; so that now, through his merciful aid,
-I can set up my Ebenezer, and say, Hitherto the Lord has helped me.`'
+I can set up my Ebenezer, and say, Hitherto the Lord has helped me.
 
 I was called into the vineyard when young, and have ever since found work enough to do,
 either in digging, watering, or pruning: it not being a time for slothful servants,
@@ -809,10 +811,15 @@ The Lord did not find me out among the wise and prudent
 of this world but he took me from the stones of the street,
 from which, in his wisdom and goodness, he has often raised up children to Abraham.
 I have now to rejoice that my day`'s work is so near a happy close,
-having only patiently to wait my appointed time, until my change come.`'
+having only patiently to wait my appointed time, until my change come.
+
+--
 
 Here ends the account our dear friend gives of himself:
 what follows is extracted from the testimony of Baldock monthly meeting concerning him.
+
+[.embedded-content-document.testimony]
+--
 
 When, through the infirmities attending old age,
 he was rendered incapable of going far from home,
@@ -867,3 +874,5 @@ Thus, our dear and worthy friend, after a long and well-spent life, finished his
 and we doubt not,
 has entered that glorious immortality of rest and peace prepared for the righteous.
 His remains were interred in Friends`' burial-ground at Hitchin the 23rd.
+
+--
