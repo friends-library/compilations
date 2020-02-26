@@ -44,7 +44,7 @@ and to all human apprehension, the lamp of life, as herself expressed it,
 was just extinguished.
 At this time she dictated to a friend some things
 which engaged the attention of her mind;
-among which were the following advice and observations.`'
+among which were the following advice and observations.
 
 '`Let ministers be careful not to judge too highly of any of their services:
 for it is only when the breath of the Lord blows through the trumpet,
@@ -106,7 +106,7 @@ and some of her attendant feelings she thus describes: After enduring,
 on a First-day morning, a state of agony till the meeting separated,
 she attended that in the afternoon like one deserted; yet, contrary to her expectation,
 the matter returned; and, assisted by a seasonable testimony from a ministering friend,
-'`I ventured, '`says she, '`on my knees; and in a manner I believe scarcely intelligible,
+'`I ventured,`' says she, '`on my knees; and in a manner I believe scarcely intelligible,
 poured out a few petitions.
 Now I feel in such a state of humiliation and fear, as I never before experienced.`'
 
@@ -175,6 +175,10 @@ then having lately acquired the crown of Hungary,
 to which letter her companions added also their names.
 It is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To Leopold the Second, King of Hungary, Bohemia, etc.
 
 Among the numerous congratulations awaiting your accession to the imperial crown,
@@ -226,13 +230,24 @@ added to your temporal ones, may not only perfect your happiness,
 but perpetuate it beyond the narrow limits of time, and qualify you, acceptably,
 to cast down your crown at the feet of Him who is King of kings and Lord of lords;
 who lives and reigns forever and ever.
-GEORGE AND SARAH DILLWYN, Of Burlington, New Jersey, North America.
+
+[.signed-section-signature]
+George and Sarah Dillwyn, Of Burlington, New Jersey, North America.
+
+[.signed-section-signature]
 SARAH GRUBB, Clonmel, Ireland.
+
+[.signed-section-signature]
 JOSHUA BEALE, Cork, Ireland
 
+[.signed-section-signature]
 Members of the religious Society of Friends in those countries and Great Britain,
 commonly called Quakers.
+
+[.signed-section-context-close]
 Mulheim on the Rhine, 29th of 9th Mo., called September, 1790.
+
+--
 
 Soon after this she returned to England, visited her relations in the North,
 and reached her home at Clonmel the 12th of the Eleventh month,
@@ -248,12 +263,12 @@ On her way to Clonmel, she was at the national meeting of Friends in Ireland,
 held at Dublin.
 In a sitting of the meeting of ministers and elders,
 she gave some account of the journey from which she was then returning.
-In doing this, humility seemed to be the covering of her spirit.`'
-We have done little, '`said she,
+In doing this, humility seemed to be the covering of her spirit.
+'`We have done little,`' said she,
 '`but the Lord is doing much;`' and her concluding
 words were a humble adoption of those of the Psalmist,
 "`Return unto your rest, O my soul, for the Lord has dealt bountifully with you.`"
-These are from Psalm cxvi., a psalm well worth the perusal of the mind conflicted,
+These are from Psalm 116, a psalm well worth the perusal of the mind conflicted,
 and yet hoping in the mercy of the Lord.
 
 Soon after her return, she attended the quarterly meeting at Cork,
@@ -279,7 +294,7 @@ but from a soul-sustaining evidence, that, amidst all our weakness,
 and conflicts of flesh or spirit, an interest is mercifully granted in Him,
 who gives victory over death, hell, and the grave.`'
 Nearly the last words which she spoke, were those of that cheering passage of holy writ,
-where the Savior of men thus addresses his disciples: "`' My peace I give unto you.`"
+where the Savior of men thus addresses his disciples: "`My peace I give unto you.`"
 
 Thus, on the 8th of the Twelfth month, 1790, she finished a course comparatively short,
 but filled with deeds of dedication.
@@ -377,8 +392,8 @@ but when he was alone with his daughter, he would frequently say,
 A few days before his death he said, '`I have, at times, a hope,
 He that has been my morning light will be my evening song.`'
 Soon after saying this, he told a Friend who called to inquire how he did,
-that he`' thought he might then reasonably expect every day to be his last:
-'`and he always spoke of his great change with perfect composure.
+that he '`thought he might then reasonably expect every day to be his last:`'
+and he always spoke of his great change with perfect composure.
 The morning preceding his departure, he said, '`I have lived to see the light of this day,
 but I scarcely think I shall ever see another.`'
 About seven, he sent for his daughter, and said to her, '`I believe I am going.`'
@@ -390,7 +405,7 @@ Times and seasons are in the disposal of unerring wisdom.
 If he sees this the right time, it is so, and we must submit.`'
 
 Soon after, he was desirous of rising, and while he was assisted in dressing, he said,
-I long to be clothed with the white linen, the righteousness of saints.`'
+'`I long to be clothed with the white linen, the righteousness of saints.`'
 In the evening, when retired to rest, he said, '`All my trust is in Infinite mercy.`'
 Soon after, some of his relations being in his chamber,
 he took an affectionate leave of them, having first said, as nearly as can be remembered,
@@ -468,8 +483,8 @@ She then paused; but soon she turned her eyes affectionately on her mother, sayi
 Nor was this merely a sudden perception of unexpected relief,
 and a transient effusion of joy.
 The next day she told some visitors of her favored state,
-and expressed herself in a very tender manner.`'
-The Lord, '`said she, '`is good.
+and expressed herself in a very tender manner.
+'`The Lord,`' said she, '`is good.
 Yesterday was a memorable day to me.
 I think I shall never forget it.
 My bonds are unloosed.
@@ -568,8 +583,8 @@ been attended with such sweet refreshment,
 that he hoped it might be according to his desires.
 At other times,
 his sins appeared so great that he could hardly entertain
-a hope it would be well with him.`'
-What can be expected, '`said he, '`from a deathbed repentance?
+a hope it would be well with him.
+'`What can be expected,`' said he, '`from a deathbed repentance?
 That is a time when all would gladly be saved.
 There will not probably be an opportunity given me of proving my sincerity,
 by an amendment of life; so that men may doubt it;
@@ -636,7 +651,7 @@ There may be times of withdrawing of the divine presence,
 and then the enemy will seek to enter: but by earnest supplication,
 preservation will be granted, and at times a comforting foretaste of future happiness;
 and the prospect of getting every day nearer to such an incomprehensible reward,
-is a favor beyond expression.`'
+is a favor beyond expression.
 
 '`How little satisfaction results from a life of pleasure, attending places of diversion, etc.
 Ah, the disappointments such meet with!
@@ -681,7 +696,7 @@ but rather to go to friends`' houses, where he thought they would be welcome.
 He had, he said, thought otherwise; but that in the liberty he then felt,
 he could go to any friend`'s house.`'
 
-'`I believe, '`said he, '`the hope which I have, will continue with me to the end;
+'`I believe,`' said he, '`the hope which I have, will continue with me to the end;
 yet the enemy is very busy,
 and would persuade me I have nothing to do with the kingdom of rest;
 but that is his temptation, and I must pray for patience;
@@ -700,8 +715,8 @@ until the last trumpet be sounded in their ears!`'
 Several friends being in his chamber, one evening,
 he spoke of that wonderful gift dispensed to all,
 even that Holy Spirit which manifests our duty;
-and he recommended an immediate compliance with its discoveries;`'
-For since`' said he these illuminations are not at our command,
+and he recommended an immediate compliance with its discoveries;
+'`For since`' said he '`these illuminations are not at our command,
 it is very unsafe to trifle with them, by giving way to the suggestions of the enemy;
 but rather resign whatever may be called for;`' adding,
 '`Can we not return a part to Him who gave the whole?
@@ -713,9 +728,9 @@ He recommended, that after being at meeting,
 and having been favored there with tender impressions of good, as he sometimes had been,
 great care should be taken not to lose them, by too soon entering into conversation,
 concerns of business, or attention to anything of a contrary nature,
-whereby the mind might be deprived of the benefit intended.`'
+whereby the mind might be deprived of the benefit intended.
 
-'`Our profession, '`said he, '`is a very exalted one; and if we keep to it,
+'`Our profession,`' said he, '`is a very exalted one; and if we keep to it,
 would make us as lights in the world.
 Our religion teaches us to believe in immediate communication with God,
 through his beloved Son; which is an unspeakable privilege to all who attend to it: and,
@@ -769,7 +784,7 @@ he wished them to make an offering of all they had.
 Particularizing one of his sisters, he also said, '`What your conscience tells you,
 that mind; and what is told you to put on, that wear; and what is told you to give up,
 give.
-Fear not the great or rich, but be alike to all.`'
+Fear not the great or rich, but be alike to all.
 
 '`Be religious, and then you will have our Savior`'s arm to lean upon.
 Oh, he is a merciful Savior!
@@ -778,7 +793,7 @@ Ah! how I regret that I neglected serving him some years.
 Think what a superior education we have had, to most;
 what a nice institution is ours-the peculiar institution of God;
 and I believe it is not to die away, although some of our Society have gone from it,
-for whom I am sorry.`'
+for whom I am sorry.
 
 '`I believe great advantage may arise from frequently comparing time with eternity,
 an awful eternity.
@@ -803,7 +818,7 @@ Look upon me, and see a poor weak thing who can hardly speak.`'
 After this earnest exhortation to those,
 for whose eternal happiness he was so affectionately and deeply solicitous,
 he was much exhausted, and, desiring to be put to bed,
-uttered the following short prayer;`'Oh, Lord God Almighty,
+uttered the following short prayer; `'Oh, Lord God Almighty,
 be pleased to look down upon, and be with us!`' With some difficulty he got to bed;
 and for several hours his cough and other symptoms were very alarming,
 and were thought to indicate approaching dissolution; but after having slept some time,
@@ -835,12 +850,12 @@ on that which takes up the greater part of his time;
 and if it be so, it is great mockery of God.
 Neither will it do to go on in an outward show of dress or address,
 if not true worshippers of the Lord, in spirit and in truth.
-They must daily give.up their minds to him, daily retire to worship him.
+They must daily give up their minds to him, daily retire to worship him.
 I know a man ought to provide for his family, and carry on a proper business,
 which I believe to be right; but it should by no means be the first object,
 for riches will be nothing in the end.
 What would I give now for all the world?
-Why nothing at all.`'
+Why nothing at all.
 
 '`I don`'t regard what the natural man may advance in opposition
 to this doctrine of giving up all for the sake of religion.
@@ -882,8 +897,8 @@ if it be his blessed will.`'
 
 He advised one of his relations to bring up her children in a plain way; knowing,
 from experience,
-what a disagreeable situation those were in who accommodated themselves to their company.`'
-This, '`said he, '`will not do.`'
+what a disagreeable situation those were in who accommodated themselves to their company.
+'`This,`' said he, '`will not do.`'
 He believed the easy way chosen by many of our Society
 had as little religion in it as any,
 or less, and was highly displeasing to the Almighty.
