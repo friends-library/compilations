@@ -668,12 +668,11 @@ being nearly fifty-four years of age.
 [.asterism]
 '''
 ISAAC SHARPLES.
---A short narrative of Isaac Sharples, late of Hitchin,
-written by himself some time before his decease:
-to which are added some of his expressions a little before his end.
 
-[.embedded-content-document.testimony]
+[.embedded-content-document.letter]
 --
+
+=== A short narrative of Isaac Sharples, late of Hitchin, written by himself some time before his decease: to which are added some of his expressions a little before his end.
 
 Being now about the eightieth year of my age,
 it is in my mind to leave some few hints of the Lord`'s
