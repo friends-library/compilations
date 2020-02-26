@@ -32,15 +32,18 @@ particularly to one of her sons.
 When she, by letter, took her last leave of him and his family,
 she expressed herself thus:
 
-'`That my children and grandchildren may be so conducted through mutability,
+[.embedded-content-document.letter]
+--
+
+That my children and grandchildren may be so conducted through mutability,
 as that we may all meet in joy and bliss, I entreat (says she) in love,
 that you and yours may mind your future state above all,
 and let not the hurry of this transitory world, with all its tinsel glare, pride,
 grandeur, and vanity, choke the good seed, which, as it is permitted to take root,
 will bring forth the good fruit, which will entitle you to discipleship,
-and give you a beauty and glory which all these things cannot give.`'
+and give you a beauty and glory which all these things cannot give.
 
-'`Dear son, be on your guard, and watch over your children; repress all pride, ambition,
+Dear son, be on your guard, and watch over your children; repress all pride, ambition,
 and vain conduct in them as much as possible.
 O this world`'s fading enjoyments have overrun the major part of our Society!
 How few live up to what they profess!
@@ -48,7 +51,9 @@ I write with a fervent desire for all your immortal souls,
 each of which is of more value than all this world,
 which with all its checkered pleasures and afflictions,
 must soon end as the bubble on the water,
-and then peace with our Maker will only stand us in stead.`'
+and then peace with our Maker will only stand us in stead.
+
+--
 
 At another time, when to appearance she grew near her end,
 she expressed herself to this effect:
@@ -140,7 +145,7 @@ O the elders! the elders! they should dig for the arising
 of the well of life as with the staves in their hands.
 Spring up, O well, and I will sing unto you!`' At another time,
 in a manner similar to this, he uttered these words,
-Those that are faithful to the end shall receive a crown, a crown that fades not away;
+'`Those that are faithful to the end shall receive a crown, a crown that fades not away;
 but rebellion is as the sin of witchcraft.`'
 
 Much more dropped from him, but not being taken down, could not be perfectly remembered.
@@ -180,7 +185,7 @@ he was frequently broken into tenderness, but did not say much.
 
 Getting a little better, he went into the country for the air.
 In some conversation with a friend there who was in a declining state, he expressed,
-that he did not know how it might please Providence to deal with him;`'but, '`said he,
+that he did not know how it might please Providence to deal with him; `'but,`' said he,
 '`I had rather, if consistent with his will, go now, than live longer,
 and fall into anything that might bring dishonor to our holy profession.`'
 
@@ -207,7 +212,7 @@ contrite state before him, who sustains his people in every needful time,
 this beloved youth with an audible voice said,
 '`O what a dreadful day would this have been to me,
 if I had cause to fear I was going to meet an angry judge, that might say,
-Depart from me, you worker of iniquity! but, '`said he, '`I have hope in God,
+Depart from me, you worker of iniquity! '`but,`' said he, '`I have hope in God,
 that I shall be admitted into his rest.`'
 This much bowed the hearts of all his near connections present,
 and helped to bear up their spirits in that trying season.
@@ -261,7 +266,7 @@ but she had known sorrow for it, and, she believed, forgiveness; and made no dou
 but if it pleased Providence to take her away, she should go to heaven.
 
 To her mother she said, '`I know it will be a loss; make it but a little one.`'
-Her mother replying, '`It is a bitter cup, my dear, '`she answered,
+Her mother replying, '`It is a bitter cup, my dear,`' she answered,
 '`But Providence will sweeten the bitter cup.`'
 And on her mother`'s saying she believed a glorious mansion was prepared for her,
 she replied with much earnestness, '`I make no doubt of that,
@@ -323,7 +328,7 @@ and through the heavenly influence of the Spirit, he became an able minister,
 rightly dividing the word of truth,
 to the great comfort and edification of the church where his lot was cast.
 
-He vas concerned to travel in truth`'s service before his twentieth year,
+He was concerned to travel in truth`'s service before his twentieth year,
 and visited the provinces of Virginia and Maryland;
 and afterwards in the course of his Christian progress, all the provinces of America,
 and almost all the meetings therein.
@@ -348,7 +353,7 @@ In the course of this illness, his mind was preserved perfectly calm,
 and his patience and fortitude were truly great,
 as was also his resignation to the divine disposal,
 signifying to his companion that his coming there was providential,
-but that his sickness was nigh unto death, if not quite; '`for, '`says he, '`when I wait,
+but that his sickness was nigh unto death, if not quite; '`for,`' says he, '`when I wait,
 I seem enclosed, I see no further.`'
 
 To a friend who remarked that whatever affliction we may be tried with,
@@ -364,9 +369,9 @@ it so far transcends all other things.`'
 At another time, to some Friends who came to see him, he said,
 '`The Lord knows how I have loved you from our first acquaintance,
 and longed for your growth and establishment in the blessed truth,
-and I now feel the same renewed afresh: '`adding,
+and I now feel the same renewed afresh:`' adding,
 that he much desired they might fill up the places Providence intended,
-and lay up treasure in heaven;`'for, '`says he,
+and lay up treasure in heaven;`'for,`' says he,
 '`what would a thousand worlds avail me now.`'
 He also expressed his satisfaction that he had not
 spent his time idly since he came to England,
@@ -452,7 +457,7 @@ Once in great extremity of pain, she remarked that she had reasoned,
 '`Why am I so afflicted?`'
 and had received this answer in her mind, '`My beloved son, who never offended me,
 drank of the cup before you.`'
-'`Thus, '`said she, '`I am helped along with one kind hint after another.`'
+'`Thus,`' said she, '`I am helped along with one kind hint after another.`'
 She frequently expressed the peace and consolation she felt in those trying moments,
 in having lived in the fear of her Creator.
 
@@ -468,12 +473,18 @@ it is to joy unspeakable and full of glory.
 She died the 2nd of the Tenth month, 1772; aged about forty-eight years.
 Among other of her writings she left the following epistle,
 which is thought fit to be here inserted:
-To the Quarterly and Monthly meeting of Women Friends,
-held at Burlington and Chesterfield in West New Jersey, in America.`'
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
+To the Quarterly and Monthly meeting of Women Friends,
+held at Burlington and Chesterfield in West New Jersey, in America.
+
+[.salutation]
 Dearly beloved Friends,
 
-'`IN a fresh remembrance of the many seasons of divine favor,
+In a fresh remembrance of the many seasons of divine favor,
 we have been made partakers of together,
 in these meetings appointed for transacting the affairs of the church,
 does my spirit affectionately salute the living:
@@ -538,14 +549,19 @@ but that they may not only be the called, but chosen of the Lord.
 Now, in a degree of my heavenly Father`'s love, do I affectionately bid you farewell,
 desiring that grace, mercy and peace may be multiplied in and among you,
 and conclude your true friend,
-ELIZABETH SMITH
 
+[.signed-section-signature]
+Elizabeth Smith
+
+[.signed-section-context-close]
 Burlington, the 30th of the third month, 1772
+
+--
 
 [.asterism]
 '''
 PRISCILLA GURNEY, wife of Edmund Gurney, of Norwich, was seized in the Sixth month, 1772,
-with a bleeding from the lungs, which to her appeared likely to end her.
+with a bleeding from the lungs, which to her appeared likely to end her
 days speedily.
 She laid quietly, and said calmly,
 she had not any thing criminal in outward things on her mind,
