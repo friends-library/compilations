@@ -269,11 +269,14 @@ of an exemplary conduct among men, and of an innocent deportment.
 Having left behind him a narrative in manuscript of his convincement,
 the following is a copy of it:
 
-'`Some passages of my life having of late been brought fresh into my remembrance,
-I thought proper to commit them to writing, that others might see the great love of God,
-in Christ, to my soul, and be encouraged to follow on to know and obey him.`'
+[.embedded-content-document.testimony]
+--
 
-'`While I was young and tender in years,
+Some passages of my life having of late been brought fresh into my remembrance,
+I thought proper to commit them to writing, that others might see the great love of God,
+in Christ, to my soul, and be encouraged to follow on to know and obey him.
+
+While I was young and tender in years,
 the Lord was pleased to put his fear into my heart,
 which was to me the beginning of wisdom,
 because it made me careful both of my words and actions.
@@ -316,7 +319,7 @@ spirit and a degree of the same power.
 I also felt such a measure of that spirit and power which
 helped them in their ministry as I never enjoyed before;
 and it was to me a day of glad tidings of great joy, and my soul did magnify the Lord,
-and my spirit rejoiced in God my Savior.`'
+and my spirit rejoiced in God my Savior.
 
 This gave me full satisfaction of mind what people to join with,
 although at first it looked strange to me to see a people sit in silence as they did,
@@ -342,7 +345,7 @@ Neither could I any more pull off my hat and bow to any man.
 Thus the Lord led me step by step-into obedience to him;
 and as long as I lived in obedience to what he was pleased to manifest unto me,
 I reaped that peace and joy in the Holy Ghost,
-that all the favor and friendship of men is not to be compared with.`'
+that all the favor and friendship of men is not to be compared with.
 
 About this time a concern came upon my mind to bear
 a public testimony in meetings to the truth,
@@ -374,9 +377,9 @@ As you have gradually fallen, so you shall gradually rise;
 which had so good an effect as to bring with it a living hope,
 that was an anchor to my soul, steadfast and sure,
 and preserved my mind from being carried away with the floods of temptation,
-which were many and great in those days.`'
+which were many and great in those days.
 
-'`It was through faith in Christ, the word nigh in the heart,
+It was through faith in Christ, the word nigh in the heart,
 which I found to be quick and powerful,
 that I came to be restored again in due time to a state of obedience;
 and the Lord now favored me with many good meetings,
@@ -391,9 +394,9 @@ Until now I was not come to a resolution; but now, when the meeting-time came,
 I went and sat in the place showed me, not knowing further what might be required of me;
 and, after some time of silence,
 I found a concern of mind to speak to the people as follows:
-There is a seed of God among you, but it lies oppressed, etc.`'
+There is a seed of God among you, but it lies oppressed, etc.
 
-'`And now I can say, after many years`' experience, Hitherto the Lord has helped me,
+And now I can say, after many years experience, Hitherto the Lord has helped me,
 and he is not a hard master, as some slothful servants have said,
 for he does not gather where he has not sown, neither reap where he has not sown.
 All who are born of that seed which is incorruptible,
@@ -406,7 +409,13 @@ for it is he that has plucked my feet out of the miry clay,
 and set them upon a rock that was higher than I; wherefore to him shall the honor, glory,
 and praise be given, who is over all worthy forever and evermore.
 
-Signed--Thomas Mawditt, 1748.`'
+[.signed-section-signature]
+Thomas Mawditt
+
+[.signed-section-context-close]
+1748
+
+--
 
 In his last illness his understanding and senses were preserved,
 and he expressed his being refreshed in his spirit;
@@ -416,4 +425,5 @@ under a well-grounded apprehension that his day`'s work was done.
 He departed this life the 13th of the Seventh month, 1770; aged eighty-one,
 and had been a minister about forty-eight years.
 
+[.the-end]
 End of Second Volume
