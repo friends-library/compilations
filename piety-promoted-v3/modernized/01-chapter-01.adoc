@@ -32,7 +32,10 @@ particularly to one of her sons.
 When she, by letter, took her last leave of him and his family,
 she expressed herself thus:
 
-'`That my children and grandchildren may be so conducted through mutability,
+[.embedded-content-document.letter]
+--
+
+That my children and grandchildren may be so conducted through mutability,
 as that we may all meet in joy and bliss, I entreat (says she) in love,
 that you and yours may mind your future state above all,
 and let not the hurry of this transitory world, with all its tinsel glare, pride,
@@ -40,7 +43,7 @@ grandeur, and vanity, choke the good seed, which, as it is permitted to take roo
 will bring forth the good fruit, which will entitle you to discipleship,
 and give you a beauty and glory which all these things cannot give.
 
-'`Dear son, be on your guard, and watch over your children; repress all pride, ambition,
+Dear son, be on your guard, and watch over your children; repress all pride, ambition,
 and vain conduct in them as much as possible.
 O this world`'s fading enjoyments have overrun the major part of our Society!
 How few live up to what they profess!
@@ -48,7 +51,9 @@ I write with a fervent desire for all your immortal souls,
 each of which is of more value than all this world,
 which with all its checkered pleasures and afflictions,
 must soon end as the bubble on the water,
-and then peace with our Maker will only stand us in stead.`'
+and then peace with our Maker will only stand us in stead.
+
+--
 
 At another time, when to appearance she grew near her end,
 she expressed herself to this effect:
@@ -140,7 +145,7 @@ O the elders! the elders! they should dig for the arising
 of the well of life as with the staves in their hands.
 Spring up, O well, and I will sing unto you!`' At another time,
 in a manner similar to this, he uttered these words,
-"`Those that are faithful to the end shall receive a crown, a crown that fades not away;
+'`Those that are faithful to the end shall receive a crown, a crown that fades not away;
 but rebellion is as the sin of witchcraft.`'
 
 Much more dropped from him, but not being taken down, could not be perfectly remembered.
@@ -546,7 +551,7 @@ desiring that grace, mercy and peace may be multiplied in and among you,
 and conclude your true friend,
 
 [.signed-section-signature]
-ELIZABETH SMITH
+Elizabeth Smith
 
 [.signed-section-context-close]
 Burlington, the 30th of the third month, 1772
