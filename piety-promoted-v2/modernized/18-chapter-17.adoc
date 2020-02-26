@@ -409,11 +409,11 @@ for it is he that has plucked my feet out of the miry clay,
 and set them upon a rock that was higher than I; wherefore to him shall the honor, glory,
 and praise be given, who is over all worthy forever and evermore.
 
-[.signed-section-closing]
-Signed
-
 [.signed-section-signature]
-Thomas Mawditt 1748
+Thomas Mawditt
+
+[.signed-section-context-close]
+1748
 
 --
 
