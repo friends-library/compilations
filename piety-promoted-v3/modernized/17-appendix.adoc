@@ -1,6 +1,6 @@
 == APPENDIX
 
-Containing some Account of Deceased Friends, of an Earlier Date than the Preceding
+=== Containing some Account of Deceased Friends, of an Earlier Date than the Preceding
 
 [.asterism]
 '''
@@ -47,13 +47,18 @@ I have a letter from him to his daughter Hannah, the wife of Joseph Gurney, of N
 (of whom there is an account in the collection of testimonies concerning
 public Friends deceased,) written about four months before his death.
 It shows the temper of his mind at that time; and,
-if the partiality of a descendant do not deceive me, is worth preserving.`'
+if the partiality of a descendant do not deceive me, is worth preserving.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Newcastle, 16th Seventh Month, 1720.
 
-'`DEAR HANNAH,
+[.salutation]
+'`Dear Hannah,
 
-'`I had yours, whereby understanding of your health, am glad:
+I had yours, whereby understanding of your health, am glad:
 and though I could like well more often to know of your state, yet,
 as I receive information thereof from, with whom we have now a frequent correspondence,
 I do not take offense at your writing seldom:
@@ -65,31 +70,34 @@ and praying for one another, that we may be preserved out of the evils of this w
 and over all the temptations and besetments that we may
 be attended with in this time of our pilgrimage therein;
 and willing and resigned unto the good pleasure of our God,
-when he shall call us out of it.`'
+when he shall call us out of it.
 
-'`This is what I am laboring for as on my own behalf: so would have you use like endeavor,
+This is what I am laboring for as on my own behalf: so would have you use like endeavor,
 that we may not sorrow immoderately, or be surprised;
 but waiting all the days of our appointed time, till any of our changes come.
 So with remembrance of my true love, with my wife`'s, to you and your husband,
 and your little ones, and to brother Gurney and his family,
 and all the rest of relations,
 I conclude this with my fervent prayer to the Lord for his blessing on you all:
-not forgetting and her children.`'
+not forgetting and her children.
 
 I say,
 as the Lord has favored all of you with competent increase in the things of this life,
 my desire and prayer is, that your portion may not be in them;
 but that you may be blessed with spiritual blessings in heavenly places in Christ Jesus.
 Such are the fruits of his blessed Spirit: wherein that you may increase and abound,
-is the prayer of your loving father.`'
+is the prayer of your loving father.
 
-JOSHUA MIDDLETON.`'
+[.signed-section-signature]
+Joshua Middleton.
+
+--
 
 His last illness seems to have been a painful one; for his son,
 in a letter to another of his daughters, settled at Norwich,
 dated one week before the departure of their father, thus relates of him:
-he had been relieved from his pain and retchings by a removal of the stricture;`'but,
-'`says his son, '`he has taken nothing these two or three days,
+he had been relieved from his pain and retchings by a removal of the stricture; '`but,`'
+says his son, '`he has taken nothing these two or three days,
 and grows weaker and weaker; but continues sensible,
 and many living expressions drop from him.
 I doubt not but God has heard his prayer, and sweetened his bitter cup,
@@ -138,10 +146,10 @@ She said the Lord had been so gracious as to forgive her sins,
 alluding to the follies of her youth, which she then esteemed to have been vanities,
 and therefore she earnestly desired, if it were his will, that she might be removed;
 for she was then ready, and certain of eternal happiness;
-but she feared that it might not be so well if she should live longer.`'
-Have you not given me up?`'
-said she to her mother.`'
-I desire you will give me up freely, and not endeavor to hold me, or interrupt me,
+but she feared that it might not be so well if she should live longer.
+'`Have you not given me up?`'
+said she to her mother.
+'`I desire you will give me up freely, and not endeavor to hold me, or interrupt me,
 but let me go; I am ready, and have nothing to do but to die.`'
 At another time, her father inquired of her whether she would be willing to live,
 if it pleased the Lord.
@@ -220,7 +228,7 @@ in the first year of her travels in England,
 is particularly thought worthy of preservation.
 She seems, previously,
 to have been tried by means of much deprivation of that heavenly comfort and support,
-which she loved and sought.`'
+which she loved and sought.
 
 As I quietly rode along, '`says she,
 '`the Lord was pleased in mercy to break in upon my mind by his living presence and power,
@@ -274,6 +282,9 @@ JONAS BINNS, a boy in his fifteenth year, son of Jonathan Binns, of Crawshawboot
 in Lancashire, departed this life the 23rd of the Ninth month, 1760.
 His surviving father gave a testimony concerning him, which I nearly copy.
 
+[.embedded-content-document.testimony]
+--
+
 He had great delight in reading the Holy Scriptures when very young.
 He said he preferred learning before money.
 He was often alone when others were at their play.
@@ -290,6 +301,8 @@ He was steady in his conduct, and careful in his words,
 and often reproved others who were not so.
 He was remarkably patient under disappointments, and content with such things as he had.
 He was dutiful to his parents, and his behavior and conversation were truly edifying.
+
+--
 
 In the thirteenth year of his age he fell into a decline;
 and in the last six months of his life he was under great bodily affliction,
@@ -369,7 +382,7 @@ that she had sweet assurance, and that at times she seemed already in heaven.
 [.asterism]
 '''
 
-JOSEPH HARWOOD.--The life of JOSEPH HARWOOD, of Manchester,
+JOSEPH HARWOOD.--The life of Joseph Harwood, of Manchester,
 affords a striking instance of the efficacy of the grace of God,
 inwardly revealed to the soul, when it is faithfully and unreservedly obeyed.
 
@@ -461,26 +474,31 @@ it not infrequently happens, that but few incidents are met with,
 from which a biographical sketch can be compiled;
 while their faithful endeavors to serve the Lord in the way of his requirings,
 may have exhibited a bright example to those around them.
-Such appears to have been the case with TABITHA MIDDLETON,
+Such appears to have been the case with Tabitha Middleton,
 of Wellingborough in Northamptonshire, who was the daughter of John and Sarah Hoyland,
 of Sheffield.
 
 In a letter to an intimate friend,
 she thus describes her sense of the goodness of the Almighty in her youth.
 
-"`On looking over years that are past,
+[.embedded-content-document.letter]
+--
+
+On looking over years that are past,
 I find abundant reason to acknowledge the mercies of Providence,
 in extending his heavenly visitation in the very early part of life,
 which raised strong desires to walk acceptably before Him.
 I well remember the exemplary care of my dear mother, at that time,
 whose conduct and advices made lasting impressions on my mind; though,
-as I advanced in years, '`the lust of the eye and the pride of life,
-'`too much influenced the judgment, and weakened my good resolutions,
+as I advanced in years, '`the lust of the eye and the pride of life,`'
+too much influenced the judgment, and weakened my good resolutions,
 which made even life a burden.
 But how have I admired to be in this state allured
 to prefer Jerusalem before my chief joy;
 concluding, that whatever I parted with or suffered,
-was not to be compared with the enjoyment of Divine good.`"
+was not to be compared with the enjoyment of Divine good.
+
+--
 
 When about fourteen years of age, she was deprived of her mother.
 By this loss, and other events which succeeded,
@@ -615,7 +633,7 @@ we may mourn the loss which the church has sustained, of one of its upright pill
 but on her account there appears no cause for sorrow.
 She was, we believe, favored to finish all she had in commission;
 showing herself therein a good and faithful servant,
-and we doubt not she has entered into the joy of her Lord.`'
+and we doubt not she has entered into the joy of her Lord.`"
 
 [.asterism]
 '''
@@ -774,4 +792,5 @@ which is the blessed employment of those redeemed spirits
 who stand before the throne of God and of the Lamb,
 forever and ever.
 
+[.the-end]
 END OF THIRD VOLUME
