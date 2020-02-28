@@ -27,7 +27,7 @@ sanctifying influence; and it will be seen, in the course of the following narra
 that they were, in their different measures, enabled to witness a good confession,
 and to lay down their heads in peace.
 
-Although there is not much to record respecting ROBERT TREGELLES,
+Although there is not much to record respecting Robert Tregelles,
 yet the lively faith and hope which supported him,
 during the progress of a very gradual consumption,
 appear worthy of being briefly noticed.
@@ -289,7 +289,7 @@ At that time she had so far overcome her natural diffidence,
 as to tell one of her sisters that she was quite aware of the uncertainty of her recovery;
 adding, that in whatever way her illness might terminate,
 she knew it would be for the best.
-And after some further conversation, remarked: "`' What I suffer every time you leave me,
+And after some further conversation, remarked: "`What I suffer every time you leave me,
 enables me to form some idea of what my sufferings would
 be with the prospect of a final separation before me.
 Oh! the pang is indescribable.`"
@@ -503,7 +503,7 @@ that some symptoms indicative of more disease in the lungs than she had been awa
 had greatly afflicted her;
 that she felt as if she could have rejoiced in the prospect of annihilation;
 and that it would not be possible to give an idea of her sufferings: adding,
-"`' Throughout one week, I seemed in the depth of despair; my sins,
+"`Throughout one week, I seemed in the depth of despair; my sins,
 I was going to say all of them, were placed before me, but I believe not yet all of them;
 yet I trust that none may be permitted to be covered,
 but that everything may be brought to judgment.
@@ -516,7 +516,7 @@ and if sometimes there was an appearance of irritability,
 it was attributable to the nature of her disease.
 She would not, however, admit the excuse.
 She afterwards spoke of the constant kind attentions of her friends and relations;
-adding, And how did I repay their love and kindness!
+adding, "`And how did I repay their love and kindness!
 On my return home,
 I wished to make my sisters promise that I should go nowhere and see no person:
 this was pride and ingratitude.
@@ -577,6 +577,9 @@ there to know the fruition of that bliss of which
 so merciful a foretaste had been afforded her:
 it being literally verified in her experience, that,
 although "`weeping may endure for a night, yet joy comes in the morning.`"
+
+[.asterism]
+'''
 WILLIAM SOWERBY, late of Wensleydale, in the north of Yorkshire,
 joined our Society by convincement in early life,
 and first appeared as a minister when about thirty-one years of age.
@@ -894,7 +897,10 @@ The parental care and tenderness towards his beloved children,
 which especially marked his character, even when engaged in the busy scenes of life,
 are instructively shown in the two following extracts from his letters.
 
-1776.-- "`Let not, my dear, the example of others, who may be ashamed of the cross,
+[.embedded-content-document.letter]
+--
+
+1776.-- Let not, my dear, the example of others, who may be ashamed of the cross,
 and of the plainness and simplicity which we possess, influence your conduct;
 nor the levity of heart incident to youth,
 prevent your seriously and frequently reflecting
@@ -907,10 +913,10 @@ It ridicules, or despises, that fear in which are true safety and real wisdom.
 But let us be rather the companions of the despised
 followers of a despised and crucified Savior,
 in meekness and lowliness of mind, than grieve them, and injure our own souls,
-by conforming to the world and its fashions and practices.`"
+by conforming to the world and its fashions and practices.
 
 1778.--Twelfth month.
-"`The most earnest wish of my heart for my dear, as for myself, is, that by a constant,
+The most earnest wish of my heart for my dear, as for myself, is, that by a constant,
 earnest attention, and faithful obedience to the inspeaking word of divine grace, we may,
 in the Lord`'s due time,
 experience that change of heart which our Savior calls being born again;
@@ -926,7 +932,7 @@ and better qualified for the endearing connections of affection and friendship,
 than those whose licentious passions are not regulated
 by the salutary restraints of religion.
 
-"`I doubt not your admitting the truth of what I have written:
+I doubt not your admitting the truth of what I have written:
 the assent of the understanding is readily obtained;
 but to have the heart replenished with the holy preserving fear of the Lord does not,
 at all times, depend upon the will of the individual, much less upon that of another.
@@ -937,19 +943,25 @@ and by giving way to its leavening influences, experience that meekness, patienc
 true charity, and self-denial, which, and than which nothing else,
 will make us happy in ourselves, and a blessing to others.
 
-"`I love your brother as I love you, and equally desire his happiness with yours.
+I love your brother as I love you, and equally desire his happiness with yours.
 Knowledge is not lacking to any of us, and oh! that obedience may not.
 Give my dear love to him, and let him remember, let us all remember, God sees the heart.
 If our professed desires to grow in grace are sincere, they will be heard and answered.
 To the protection and preservation of the Almighty Arm,
 in every season of danger and difficulty, I desire to commit you both,
-with my own soul.`"
+with my own soul.
 
+--
+
+[.offset]
 The subjoined extracts are introduced,
 as instructively indicating that course of life and conduct which
 his views of Christian purity led him to aspire after.
 
-1777--Twelfth month, 17. "`You ask me how I feel myself as to the late news from America.`'
+[.embedded-content-document.letter]
+--
+
+1777--Twelfth month, 17. You ask me how I feel myself as to the late news from America.
 I do feel and sympathize with our suffering friends on that continent,
 and am sorry for the effusion of blood the contest occasions;
 but with respect to the political justice, or injustice,
@@ -964,9 +976,9 @@ so I think it my duty to pity and pray for those I believe to be wrong,
 and to acquiesce in every dispensation of Providence, with a steady belief,
 that all things will work together for good to those who love God;
 with an earnest endeavor to evince my love to Him by keeping his commandments, and,
-in particular, the new commandment, to love one another.`"
+in particular, the new commandment, to love one another.
 
-1777.--Eleventh month, 7. "`I should not be just to the unmerited mercy of God,
+1777.--Eleventh month, 7. I should not be just to the unmerited mercy of God,
 if I did not acknowledge, with the deepest gratitude, my hope,
 that through the assistance of his grace,
 I have experienced a small degree of deliverance
@@ -978,9 +990,9 @@ I might have witnessed a much greater advancement; and that I have not,
 is cause of much sorrow of heart unto me.
 And oh! that it may continually operate to the quickening of my
 desires and prayers for perfect redemption from the power of sin,
-as well as from condemnation for past transgression.`"
+as well as from condemnation for past transgression.
 
-1789.--Third month, 24. "`I often contrast the lively zeal,
+1789.--Third month, 24. I often contrast the lively zeal,
 the apparent heavenly-mindedness of some I know and love,
 with my own cool or constrained devotion; the difficulty with which I restrain,
 or rather attempt to restrain, my thoughts from wandering, when in public worship,
@@ -999,17 +1011,17 @@ of his salvation, and am equally desirous of being delivered from the power,
 as from the guilt of sin; still this appears to me, at times, more like a cool,
 rational deduction from admitted premises,
 than an experimental knowledge in my own particular; though I admit,
-and admire it in others, more worthy.`"
+and admire it in others, more worthy.
 
-1791.--Sixth month, 19. "`I am sure you will not be offended, if,
-as an apology for my entertaining different sentiments on what you call innocent dissipations,
-'`as concerts and theatrical exhibitions, I observe,
+1791.--Sixth month, 19. I am sure you will not be offended, if,
+as an apology for my entertaining different sentiments on what you call '`innocent dissipations,`'
+as concerts and theatrical exhibitions, I observe,
 that if to withdraw a young man from the dangers of temptation is a visionary hope,
 I cannot think leading him into them is advisable; or,
-though intended to be the means of procuring him`' the enjoyment of life,
-'`likely to effect it without a participation of its vices.
+though intended to be the means of procuring him '`the enjoyment of life,`'
+likely to effect it without a participation of its vices.
 
-"`To those who call themselves Christians,
+To those who call themselves Christians,
 professing to believe the doctrines and follow the example of a self-denying,
 a crucified Savior, a reference to what He taught, and what he practiced;
 and to what his apostles after Him, inspired by his Spirit,
@@ -1023,9 +1035,9 @@ But the thought that occurred to my mind, when I first read your letter,
 and with which I will conclude this subject, was,
 whether any of those virtues to which our Savior, in his sermon on the mount,
 annexed the beatitudes, were promoted by, no, were consistent with, the dissipations,
-by so many of his professed disciples, considered as innocent.`"
+by so many of his professed disciples, considered as innocent.
 
-1796.--Second month, 25. "`I may also further confess,
+1796.--Second month, 25. I may also further confess,
 that considering our fallen estate,
 and the momentous consequences of our present probationary existence,
 with the necessity of our becoming new creatures, of our becoming new members of Christ,
@@ -1047,7 +1059,9 @@ that impassioned descriptions of fancied happiness or ideal woe,
 related with all the advantages of elegance of style, and beauty of composition,
 may have an effect on the mental taste of others,
 similar to that which high-seasoned dishes have on the palate, by rendering plain food,
-though most wholesome, insipid, if not disgustful.`"
+though most wholesome, insipid, if not disgustful.
+
+--
 
 In the year 1804, Richard Reynolds removed to Bristol,
 to spend the remainder of his valuable life in his native city.
@@ -1092,8 +1106,11 @@ are a confirming evidence that he was strengthened
 to trust in the Lord Jesus as his only hope of glory,
 and to believe that he had an interest in Him.
 
+[.embedded-content-document.letter]
+--
+
 1814--Eleventh month, 12.
-"`This day I commence the eightieth year of my age a circumstance so awful,
+This day I commence the eightieth year of my age a circumstance so awful,
 that it indisposes for every other employment but the consideration of the speedy termination
 of a life already so much protracted beyond the admitted natural term of human existence.
 Most reasonably may I expect soon to follow those who are
@@ -1110,10 +1127,10 @@ or my expectation rested upon works of righteousness which I have done, or can d
 my hope would perish and my confidence fail; but I trust I may, in all humility,
 though in a very limited degree, adopt the language of the apostle, and say,
 '`I know in whom I have believed, '`and commit my soul to him as unto a faithful Creator,
-and all-sufficient Redeemer.`"
+and all-sufficient Redeemer.
 
 1814--Eleventh month.
-"`My dependence is truly not upon any works of righteousness that I have done, or can do;
+My dependence is truly not upon any works of righteousness that I have done, or can do;
 but upon his mercy who saves us by the washing of regeneration,
 and renewing of the Holy Ghost, through Jesus Christ our Savior: that,
 being justified by his grace,
@@ -1126,9 +1143,9 @@ short of the rest which remains for the children of God.
 But whatever sufferings it may be necessary I should endure, or deprivations sustain,
 to prevent so fatal a delusion, may I be preserved from it;
 and however inferior my talents, or imperfect my obedience, may I,
-through the mercy of God in Christ Jesus, have hope in my death.`"
+through the mercy of God in Christ Jesus, have hope in my death.
 
-1816--Fifth month, 28. "`It is true, that in this variable state of things,
+1816--Fifth month, 28. It is true, that in this variable state of things,
 and especially as we advance towards the termination of the probationary scene,
 the bitters may, at times, appear to exceed the sweets:
 yet it is with thankfulness I acknowledge, that ever since we parted,
@@ -1140,7 +1157,9 @@ yet, in hearing the Scriptures read,
 I have even at such times been enabled to apply (I hope I was not presumptuous,
 if I thought I was permitted to appropriate) the gracious invitations
 and promises of our blessed Savior more to my encouragement and confirmation,
-than at some opportunities in times of greater bodily strength and mental energy.`"
+than at some opportunities in times of greater bodily strength and mental energy.
+
+--
 
 As the diligence of this pious Christian induced
 a care to leave nothing to be done on the morrow,
@@ -1162,7 +1181,7 @@ that throughout my illness I have not been without hope,
 and which I may say with humility and thankfulness, is continued, and, I trust,
 will be to the end;
 but it is solely founded on the mercy of God in Christ Jesus who died for us,
-in whom we have redemption through his blood, '`" forgiveness of sins.`"
+in whom we have redemption through his blood, '`forgiveness of sins.`'`"
 
 In the course of a few weeks after writing the foregoing lines,
 Richard Reynolds was called to receive the reward of the righteous.

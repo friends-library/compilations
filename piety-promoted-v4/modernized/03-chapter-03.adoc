@@ -138,7 +138,11 @@ The humble, devoted feelings which clothed his mind,
 when reflecting upon his own experience in this station,
 are agreeably manifested in the following extract from a letter,
 written in the latter part of his life.
-"`I can say that I sympathize with you in your various exercises,
+
+[.embedded-content-document.letter]
+--
+
+I can say that I sympathize with you in your various exercises,
 from within and without; but thus it behooves some to suffer,
 that they may be the better qualified to speak a word in due season,
 to the weary traveller;
@@ -152,7 +156,9 @@ that the longer I live the more I am reduced to that state which breathes the la
 at others the more resigned language will prevail: '`Take me,
 and lead me where you would have me to go.`'
 And here I wish to center, and leave all to Him who does all things right; and who,
-my small experience has taught me, is worthy to be served and obeyed in all things.`"
+my small experience has taught me, is worthy to be served and obeyed in all things.
+
+--
 
 In the discipline of the Church, the subject of this memoir was active, skillful,
 and extensively useful.
@@ -431,14 +437,14 @@ In the Sixth month, 1812, when at the advanced age of eighty-six, he met with a 
 by which he fractured his arm,
 and was in consequence confined to his chamber several weeks.
 On a friend calling upon him during this confinement, he remarked,
-'`It is trying to lie in so very weak a state of body;
+"`It is trying to lie in so very weak a state of body;
 but I hope it will all tend to my further preparation,
 and fitness to meet my dear Savior.`"
 He so far recovered his strength as to be able to walk to meeting,
 which he attended several times in the course of the ensuing autumn.
 He one evening remarked to a friend who visited him, "`My greatest comfort is,
 to lie still in supplication to the Almighty.`"
-And at another time said, Oh! if but one glance of my Savior`'s presence,
+And at another time said, "`Oh! if but one glance of my Savior`'s presence,
 it makes amends for all the pain I feel.`"
 
 About a year after his first accident, he fell down in his parlor,
@@ -763,7 +769,7 @@ which surpasses all our capacity to comprehend.
 We can have no adequate idea of it: we are poor, finite creatures.`"
 
 At another time, waking composedly, she said in substance,
-on looking round to see who were with her: "`How kindly I am-attended:
+on looking round to see who were with her: "`How kindly I am attended:
 I should not like to have such about me, as had no feeling; I mean,
 no sense of what is good in their own minds.
 While we are obedient as far as we know, we shall be accepted;
@@ -850,7 +856,7 @@ lest patience should not hold out to the end; but through all,
 the bias of her mind remained the same.
 When tried with extreme suffering, she said:
 "`Oh! that I might be preserved from impatience; that not a murmuring thought,
-or impatient word, might.escape me.
+or impatient word, might escape me.
 I have been so supported, that I have much indeed to be thankful for:
 but through the constant wearing pain that I have, my spirits seem less able to bear up,
 quite as they did some time ago.
@@ -918,7 +924,7 @@ Oh! this is the grand point to aim at, but it is hard to reach.`"
 After this, she was confined to her bed for several months,
 and preserved in a state of great tranquillity and resignation,
 which was consoling and instructive to her friends.
-On the 17th of the Tenth month, 1815, she said to her husband, My dear,
+On the 17th of the Tenth month, 1815, she said to her husband, "`My dear,
 I wanted to see you; I shall not live many hours longer.`"
 On his asking her how she felt in mind, she replied, "`Quite easy,
 the day`'s work is done.`"
