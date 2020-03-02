@@ -46,8 +46,11 @@ and enabled vocally to offer prayer unto Him.
 The following extracts from some of her letters,
 instructively exhibit her concern for her own spiritual advancement.
 
+[.embedded-content-document.letter]
+--
+
 1812.--Fifth month, 14.
-"`Most fully do I unite with you in the blessedness of obedience to the Divine will.
+Most fully do I unite with you in the blessedness of obedience to the Divine will.
 In the Christian life we see there is such a variety
 of means for the attainment of the same great end,
 that it has always appeared to me that we are not sufficient
@@ -64,9 +67,9 @@ does not lessen but increase our faith in the redeeming power of Christ.
 At those times, when we most endeavor to do right,
 have we not sufficient proofs of our great infirmity,
 and of the corruptions of human nature, to teach us, that, of ourselves, we are blind,
-and poor, and miserable, and naked, until clothed with the righteousness of Christ.`"
+and poor, and miserable, and naked, until clothed with the righteousness of Christ.
 
-1812.--Fifth month, 24. "`It is consoling,
+1812.--Fifth month, 24. It is consoling,
 under the sense and burden of our manifold infirmities,
 to find that others have had the same trials, the same pilgrimage to pass through.
 At times, the present state of probation,
@@ -79,15 +82,17 @@ Oh! how important it is, that we should at all times be found watching;
 but how far I am from attaining this desirable state,
 no mortal knows but myself:-almost every day proves my unwatchfulness and lack of faith;
 this makes me feel the necessity of going on quietly, and professing little; in short,
-of showing our faith more by our works than our words.`"
+of showing our faith more by our works than our words.
 
 1816.--First month, 17.
-"`Though the travelers Zionward often have to walk in the wilderness,
+Though the travelers Zionward often have to walk in the wilderness,
 yet it is the appointed way towards the promised land: and though the way is narrow,
 and the gate strait, yet it leads to eternal life.
 It would be pleasant to escape the wilderness;
 but if we were always permitted to partake of the fulness of Divine love,
-where would be our walk in faith?`"
+where would be our walk in faith?
+
+--
 
 In the year 1816, Priscilla Gurney accompanied a relation in a declining state of health,
 to the south of France, and spent several months at Nice On her way homewards,
@@ -99,7 +104,10 @@ her mind was preserved in great watchfulness and care on her own account,
 and in a lively concern for others,
 as appears by the following extracts from some of her letters and memorandums.
 
-LYONS, 1816.--Tenth month, 31. "`Our separation from the church,
+[.embedded-content-document]
+--
+
+LYONS, 1816.--Tenth month, 31. Our separation from the church,
 as well as from our various natural ties, is no light matter.
 It is often the secret prayer of my heart,
 that this separation may lead us to a nearer union with, and more undivided love,
@@ -113,10 +121,10 @@ which I think were never more forcibly brought home to me, than on this journey,
 I do not know that I ever felt the consoling and the unsearchable
 riches which are in and through Christ,
 more than I have done at times in the secret of my heart:
-this has sustained me through many pains and many discouragements.`'
+this has sustained me through many pains and many discouragements.
 
 NICE, 1816.--Twelfth month.
-"`It is no easy, no light work,
+It is no easy, no light work,
 to keep a conscience void of offense towards God and towards man.
 I believe the first is what we should continually aim at, and then the next must follow.
 I can say, with truth,
@@ -128,11 +136,11 @@ which certainly does appear to me (I hope without the spirit
 of judgment) enchained and darkened by forms and ceremonies.
 But this submission to the Spirit, to its guidance, to its baptisms, to its humiliations,
 its teachings, and its sanctifications, we find daily and hourly in the way of the Cross;
-and therefore, alas! it is too much of a stumbling-block to many of us.`"
+and therefore, alas! it is too much of a stumbling-block to many of us.
 
 NICE, 1817.
 First month.
-"`I have felt an earnest desire that you may not be discouraged
+I have felt an earnest desire that you may not be discouraged
 in the important duty of attending meetings.
 It appears to me most desirable,
 that we should ever bear in mind for what we go to meeting; not to seek man,
@@ -143,17 +151,19 @@ How does every fresh experience of life make me desire, for those in early life,
 that they may remember their Creator in the days of their youth:
 I feel so very sure that they will never have cause
 to regret any sacrifice made in his service,
-or for his sake.`"
+or for his sake.
 
 NICE, 1817.
 --Second month, 2.
-"`Oh! how I long to be more willing to submit to that
+Oh! how I long to be more willing to submit to that
 nothingness which it is often my allotment in life to feel;
 but to be really brought down, to be really sensible that we are, of ourselves, naked,
 blind, etc., I believe one of the hardest lessons to human nature to learn.
 O Lord, teach us to become as little children, more humble, more dependent upon You.
 Enable us to come unto You, that in your beloved Son we may be made rich,
-and that we may be clothed with the raiment of his righteousness.`"
+and that we may be clothed with the raiment of his righteousness.
+
+--
 
 In private life,
 the conduct and conversation of this self-denying
@@ -194,7 +204,10 @@ The following extracts from some of her letters, written near the close of life,
 very instructively describe the humility and liveliness
 of spirit which continued to prevail.
 
-1820+++.+++ Sixth month, 30. "`The future is entirely in obscurity to me,
+[.embedded-content-document.letter]
+--
+
+1820+++.+++ Sixth month, 30. The future is entirely in obscurity to me,
 nor do I wish to penetrate it; but rather confine my views to the present,
 seeking day-by day for the gift (for I am sure it
 is nothing of our own) of a meek and quiet spirit,
@@ -205,10 +218,10 @@ my situation might in some things have been different, and my life more fruitful
 but we cannot judge ourselves, '`There is one that judges.`'
 Nothing I have found availingly consoling in illness, and the prospect of death,
 but looking to that mercy and redemption which covers our transgressions,
-and forgives our sins.`"
+and forgives our sins.
 
 Tenth month.
-"`Oh! that I could be always humbly and reverently thankful,
+Oh! that I could be always humbly and reverently thankful,
 that our dear Lord and Master has kept me in some degree of submission to his will,
 and in some degree of that perfect peace, which we can only feel when the soul,
 and all belonging to us, is stayed on Him; that he has sometimes given me a glimpse,
@@ -219,9 +232,9 @@ often feel much brightness or elevation of soul;
 but this, I am sure, I have no right to expect.
 That my weak, frail, and fearful frame should be preserved in quietness, trust;
 and composure, through all that may yet await me in this pilgrimage,
-is my earnest desire, and all that I can venture to ask for myself.`"
+is my earnest desire, and all that I can venture to ask for myself.
 
-Eleventh month, 20. "`Deeply sensible as I am of my shortcomings,
+Eleventh month, 20. Deeply sensible as I am of my shortcomings,
 I have had some comforting assurance of the unsearchable riches of Christ,
 as our Redeemer from sin and from death.
 In the prospect of the uncertainty of life.
@@ -237,9 +250,9 @@ I can yet bear testimony to the tender mercy and all-sufficiency of that power, 
 when He sees fit, can make use of the most feeble instruments in his service.
 I can hardly do otherwise, than encourage others to be faithful,
 keeping a single eye to our Lord, watching against imaginations,
-and the delusions of our own framing, or of our spiritual enemy.`"
+and the delusions of our own framing, or of our spiritual enemy.
 
-Twelfth month, 29. "`My experience has long been,
+Twelfth month, 29. My experience has long been,
 that of walking through the valley to which I see not the end,
 yet a quiet hope generally prevails, that I shall be upheld through it,
 that it may be the passage to more of the glorious liberty of the children of God,
@@ -249,7 +262,9 @@ that his rod and his staff will comfort me.
 I cannot but hope, that this wilderness journey, and my many low estates,
 will be blessed, in more effectually shaking all self-dependence,
 and in leading me to place my trust, more simply and more faithfully in the Savior,
-as our only hope of glory.`"
+as our only hope of glory.
+
+--
 
 The disease of our departed friend, which was consumption,
 made a constant yet gradual progress; the more gradual, probably,
@@ -263,7 +278,7 @@ she had been so much absent from them,
 she had never more strongly felt the power of that principle in which they believe;
 for she found that outward administrations and words, were not that which sustained her;
 but the secret operation of grace in her own mind,
-that inward power which really subdues self love.`"
+that inward power which really subdues self love.
 
 She was often, during her illness,
 brought into sweet unity of Spirit with individuals not of our Society;
@@ -276,7 +291,7 @@ but love does not disappoint, that is better than all.`"
 At another time she observed: "`We do not live by gifts,
 and I am thankful that my ministry is so much taken from me,
 to show me how little the life of religion in my soul depends upon it,
-and also how entirely the work is out of myself.`'
+and also how entirely the work is out of myself.`"
 Sometimes, however, she spoke concisely, both in testimony and prayer,
 with great life and sweetness.
 
@@ -540,7 +555,10 @@ reflections on the importance of a religious life,
 at that critical period to which they more particularly refer.
 The following extracts are made from the paper already alluded to.
 
-"`I have not the least doubt,
+[.embedded-content-document.paper]
+--
+
+I have not the least doubt,
 that the Spirit of the Almighty began to influence my mind while I was yet very young;
 but those propensities to which childhood is so prone, led me away an easy captive.
 I do not recollect that my younger years were remarkable
@@ -551,7 +569,7 @@ I might become a good man.
 But the resolutions I from time to time formed for this purpose, were too soon forgotten;
 and the gratification of self was what I sought after more than almost any other thing.
 
-"`As I grew up,
+As I grew up,
 an inclination for drawing and reading drew me from my more childish amusements.
 Entomology was, I think, my first pursuit;
 but botany and ornithology held me longest engaged.
@@ -575,7 +593,7 @@ At those seasons, my mode of life appeared to me a very unprofitable one,
 and I at times resolved to endeavor to improve it.
 I had no satisfaction in looking back, and no hope or comfort in looking forward.
 
-"`Thus I went on, yet not without getting more sober ideas of things,
+Thus I went on, yet not without getting more sober ideas of things,
 and more stability of mind, until the beginning of the year 1810,
 being then about twenty-six years of age;
 when I was more fully given to see the necessity of a closer
@@ -593,7 +611,7 @@ so that the rays of hope and consolation, which shone on the head of the good ma
 enlightened not my path; and I saw, that before I could obtain rest to my soul,
 I must be thoroughly washed and cleansed.
 
-"`It was now that the world and its allurements seemed lighter than air and vanity;
+It was now that the world and its allurements seemed lighter than air and vanity;
 it was now that I looked to the Eternal Fountain of pure and living water,
 sincerely desiring to be made willing to have the many impurities,
 with which I felt myself to be burdened, removed; and now I wished to believe,
@@ -607,7 +625,9 @@ And oh, that I may, from time to time,
 be favored with strength to advance in the path of righteousness,
 as well as to bear those washings and baptisms to which it is necessary I should submit,
 before I come to a state of acceptance with the Almighty
-Source of purity and perfection.`"
+Source of purity and perfection.
+
+--
 
 James Ianson having now entered upon that path which leads to blessedness and peace,
 it became his first concern to walk in humility and fear before God;
@@ -703,7 +723,7 @@ joys which were about to be revealed.
 
 [.asterism]
 '''
-ANNE CAPPER.--The life of ANNE CAPPER,
+ANNE CAPPER.--The life of Anne Capper,
 though not distinguished by striking or uncommon circumstances,
 but much employed in domestic cares and duties,
 afforded an instructive example of pious zeal,
@@ -789,7 +809,7 @@ saying, that the promise to her that morning had been great,
 almost too great for her to express, that the close should be in perfect peace.
 On the 4th of the Tenth month, in a message to a near relation, she said,
 "`Give my love to him, and tell him how empty and vague all things are,
-except the life of God in the soul of man.
+except the life of God in the soul of man.`"
 She spoke of her sufferings being prolonged; but added,
 she did not wish the change to take place.
 one minute before the right time.
