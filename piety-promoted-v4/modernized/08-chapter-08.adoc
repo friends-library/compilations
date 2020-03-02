@@ -590,7 +590,7 @@ in his seventy-second year, full of days, and full of the hope of a blessed immo
 [.asterism]
 '''
 WILLIAM TUKE.
-Of the very early part of the life of WILLIAM TUKE, of the city of York,
+Of the very early part of the life of William Tuke, of the city of York,
 who was an aged and honorable elder in our Society,
 not much that is interesting has come to the knowledge of his friends.
 But it appears, that as he grew up, though he possessed a great degree of uprightness,
@@ -781,7 +781,10 @@ The following memorandums, begun when she was about thirteen years old,
 instructively show the tender and pious frame of mind with which she was at times favored,
 from her early years.
 
-1811+++.+++ "`In my retirement this evening, I felt the fresh extendings, I think,
+[.embedded-content-document]
+--
+
+1811+++.+++ In my retirement this evening, I felt the fresh extendings, I think,
 of heavenly regard; and I measurably experienced, that they who early seek the Lord,
 shall find Him.
 And earnestly have I prayed that the morning of my day may be devoted to his service;
@@ -792,29 +795,31 @@ May I be faithful in the few things,
 simply resigning the little that no be called for at my hands,
 and faithful to every manifestation.
 
-1811+++.+++ "`have completed my fourteenth year.
+1811+++.+++ have completed my fourteenth year.
 Childish years are now passed,
 and it is time for me to think as one who has her part to act in life.
 It is the day of small things with me; but it is an important day; as,
 by these small things, by every-day occurrences, my character is to be fixed.
-May divine assistance be granted me, without which my endeavors are vain.`"
+May divine assistance be granted me, without which my endeavors are vain.
 
-1813+++.+++ "`A sweet, peaceful state of mind, has been my allotment this morning,
+1813+++.+++ A sweet, peaceful state of mind, has been my allotment this morning,
 for which I desire to be made thankful; but when this is the case,
 after a season of mental conflict, I am sometimes afraid of taking up my rest,
 short of the true rest.
 Thus, in every state, doubtings and fears attend.
 At this season, however, submission to what I apprehended a little requiring,
-seems to have gained me admission into the quiet habitation.`"
+seems to have gained me admission into the quiet habitation.
 
-1813+++.+++ "`My desire this morning is, to be enabled to stand still,
+1813+++.+++ My desire this morning is, to be enabled to stand still,
 that the voice of the stranger be not mistaken for the voice of the true Shepherd.
 I awoke under considerable depression; there did indeed seem a thick cloud,
 through which prayer could not pass,
 and this because of manifold transgressions and unwatchfulness: yet,
 the desire of my soul was, and now is,
 to be kept in patience through every refining dispensation,
-and not to be taken out of the furnace until the work is done.`"
+and not to be taken out of the furnace until the work is done.
+
+--
 
 The virtues of this amiable young woman greatly endeared
 her to those who enjoyed her intimate acquaintance;
