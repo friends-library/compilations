@@ -162,7 +162,10 @@ by granting them less certain evidence of his acceptance; but to these also,
 as they persevere unto the end, shall the consoling assurance be verified:
 '`You shall reap, if you faint not.`'
 
-1805.--Tenth month, 22. "`At seasons,
+[.embedded-content-document.letter]
+--
+
+1805.--Tenth month, 22. At seasons,
 I feel a degree of consolation and Divine peace that cannot be expressed in words,
 which I would not exchange for a thousand times the treasures of both the Indies;
 in comparison of which I should esteem, I do esteem,
@@ -172,9 +175,9 @@ And at the much more frequent seasons, when heavenly good is least sensibly felt
 are so firmly anchored on the everlasting rock, Christ Jesus,
 that when the rains descend, and the winds and the storms beat, I am not greatly moved.
 I know him in whom I have believed, and that he will, in mercy,
-keep all those who have committed themselves to Him!`"
+keep all those who have committed themselves to Him!
 
-1813.--Sixth month, 10. "`With regard to myself, I am not destitute of hope;
+1813.--Sixth month, 10. With regard to myself, I am not destitute of hope;
 for though many have been better stewards of the manifold grace of God than I have been,
 I am not conscious, at any time, in my religious labors,
 of having done the work of the Lord deceitfully.
@@ -183,17 +186,19 @@ I might have watched more frequently at Wisdom`'s gate; I might have been more d
 and, like the holy prophet, more ready to say, '`Here am I, send me.`'
 But I trust in divine mercy,
 knowing`' in whom I have believed;`' and I am persuaded that He is able
-to keep that which I have committed unto Him against that day.`"
+to keep that which I have committed unto Him against that day.
 
-1814.--First month, 28. "`With regard to myself,
-I am.moving on in my Christian pilgrimage in a low way; yet not destitute of hope,
+1814.--First month, 28. With regard to myself,
+I am moving on in my Christian pilgrimage in a low way; yet not destitute of hope,
 that the dispensations I have, or may have to pass through,
 may be graciously intended for my further refinement, of which I have gret need: so that,
 in the solemn close, I may be numbered among all those, who,
 through faith and patience, inherit the promises.`'
 But if I should be thus happy to find acceptance with God, in the awful day of decision,
 I am sure it will be the effect of his unfailing mercy in Christ Jesus;
-for I have no claim from merits, to rewards.`"
+for I have no claim from merits, to rewards.
+
+--
 
 He enjoyed an excellent constitution, and mostly uninterrupted health,
 until the autumn of 1815, when he had a slight attack,
@@ -215,8 +220,8 @@ I frequently gratified myself by singing aloud; and indulged therein,
 even after my mind became uneasy with the practice, until,
 in one of my solitary evening walks, and when in the act of singing, I heard, as it were,
 a voice distinctly say, '`If you will discontinue that gratification,
-you shall be made partaker of a much more perfect harmony.`'
-"`So powerful was the impression then produced, that, he added,
+you shall be made partaker of a much more perfect harmony.`'`"
+So powerful was the impression then produced, that, he added,
 he never afterwards indulged in the practice.
 In relating this short anecdote, he was, towards the latter part of it,
 considerably affected, and could not suppress his tears,
@@ -375,14 +380,13 @@ the habitation of the spirit has been in a land of deserts, of gins, and of snar
 and never more sensible danger has been experienced
 of losing the portion of that better country,
 where the voice of the oppressor of souls is not heard;
-for`'they hear not the voice of the oppressor.`'
-None of my friends, therefore,
+for `'they hear not the voice of the oppressor.`' None of my friends, therefore,
 need have any apprehension that I am going to dwell at ease in my ceiled house;
 for I know the state of my own heart, and I ask myself the question almost daily,
 I would willingly leave it all for a safe passport to a better, or,
 under the clothing of divine requisition, sensibly felt,
 to go to any part of the heritage.
-I can say of a truth, '`I have seen an end of all perfection, '`as to created good; and oh,
+I can say of a truth, '`I have seen an end of all perfection,`' as to created good; and oh,
 when the height and the depth, the length and the breadth,
 the wonderful extent of the law of love, are in any degree opened to the mind,
 how are earthly consolations swallowed up and lost!`"
@@ -392,7 +396,7 @@ Sarah Hustler proposed to her friends to attend the half-year`'s meeting at Aber
 and to visit the few other meetings in Scotland; and was liberated for that service.
 For some time previous to this her last journey,
 she had labored under much poverty of spirit; and she left home greatly discouraged,
-often remembering the words of the apostle, "`IUnto you it is given,
+often remembering the words of the apostle, "`Unto you it is given,
 in the behalf of Christ, not only to believe on Him,
 but also to suffer for his sake,`" However, she had thankfully to acknowledge, that,
 through Divine help, she was enabled to perform the visit to her own peace, and,
@@ -622,7 +626,7 @@ and was permitted to enjoy the reward of a quiet and peaceful mind therein.
 The following memorandum is descriptive of her character,
 and instructively marks the self-examination which she was concerned to maintain.
 
-1811.--Tenth month, 27. "`Returned home on the 16th, and the following day,
+1811.--Tenth month, 27. Returned home on the 16th, and the following day,
 after attending the marriage of M. M. (and there, for once,
 endeavoring to do in simplicity, what was required of me,
 in which I found peace,) was surprised with the information, that, during my absence,
@@ -642,7 +646,7 @@ and I am afraid I shall never be fit to be admitted of the number of his redeeme
 The opinion of my friends, though their unity is very pleasant,
 cannot alter the real state of things between my soul and its Maker; and I much fear,
 that it is possible to be thought well of by our fellow-pilgrims,
-and yet to be weighed in the balance and found lacking.`"
+and yet to be weighed in the balance and found lacking.
 
 In the exercise of her gift,
 it was her great concern that she might not move
@@ -686,7 +690,7 @@ In the early part of her confinement, she said to one who was with her:
 "`I am afraid that I am not prepared; if I was prepared, I think I could go.`"
 Upon its being intimated to her,
 that her patience under suffering was an evidence of her being, in a great degree,
-prepared, she replied emphatically, "`But if a little is lacking 1`" At one time,
+prepared, she replied emphatically, "`But if a little is lacking!`" At one time,
 when in great pain, she said:
 "`I feel now as if I could trust in the mercy of the Lord in Christ Jesus:`" and,
 at another time, spoke thus: "`I am sure, if there is a door open, and I,

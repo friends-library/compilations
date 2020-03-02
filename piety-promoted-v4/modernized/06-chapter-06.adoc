@@ -311,13 +311,13 @@ After he had somewhat recovered,
 he intelligibly and pathetically repeated the following
 stanza from one of Addison`'s hymns:
 
-"`My life, if you preserve my life,
-
+[verse]
+____
+My life, if you preserve my life,
 Your sacrifice shall be;
-
 And death, if death should be my doom,
-
-Shall join my soul to thee.`"
+Shall join my soul to thee.
+____
 
 Some time afterwards, he was again able to attend meetings,
 though the power of articulation was not fully restored.
@@ -406,7 +406,7 @@ being desirous of knowing religious people and things, I used to get and read.
 One of these books was, Robert Barclay`'s Apology for the Christian Faith,
 as held by the people called Quakers.
 I thought myself a match for that, but was mistaken; for whenever I read in it,
-it used to reach my feelings.`"
+it used to reach my feelings.
 
 "`I cannot very well remember how it happened,
 but I went to one of the quarterly meetings of Friends;
@@ -462,18 +462,21 @@ and eminently owned, as the duties of a faithful minister of his Lord and Master
 The following extracts from two letters, written in the early part of the year 1820,
 describe the watchful state of his mind.
 
-1820.-- First month, 21. "`I feel glad to find myself at home again,
+[.embedded-content-document.letter]
+--
+
+1820.-- First month, 21. I feel glad to find myself at home again,
 among the concerns relating to this present life:
 although my service in this matter seems to me on the decline;
 yet I am most easy to do what is proper for me to do.
 
-"`I cannot think that I have done any thing, or suffered any thing,
+I cannot think that I have done any thing, or suffered any thing,
 worthy of the regard of him who so plentifully promises to reward in this life,
 and in the world to come with life everlasting; but I feel myself as a beginner,
 desiring to obtain a measure of strength to abide the day of trial,
-and to do the day`'s work in the day.`"
+and to do the day`'s work in the day.
 
-1820.--Fourth month, 7. "`I long that I may be one of the subjects of Christ`'s kingdom,
+1820.--Fourth month, 7. I long that I may be one of the subjects of Christ`'s kingdom,
 which, he tells us, is not of this world;
 so that I may be redeemed from the root of all striving,
 patiently submitting unto the Heavenly Father`'s will in all things.
@@ -485,14 +488,16 @@ But more deepening is necessary,
 to come to a certainty of being prepared for an admittance into peace,
 when the spirit leaves the mortal tabernacle.
 
-"`Oh! remember, dear friend, how frail man is! at best but a fading flower,
+Oh! remember, dear friend, how frail man is! at best but a fading flower,
 which while the day of sunshine and heavenly rain continues, does and looks well;
 but how soon may a blast nip it, or drought dry it up, and the freshness thereof fade.
 Therefore, learn more and more to cease from man,
 and trust in the Lord alone for help and strength, to work while it is day,
 and vigor is felt, before desire fail.
 Oh! fear not man; neither what he can do unto you; but look inward,
-have your mind centered in the life alone, and as that moves, move with it.`"
+have your mind centered in the life alone, and as that moves, move with it.
+
+--
 
 In the spring of the year 1820, he was taken unwell, but generally attended to his work.
 
@@ -515,7 +520,7 @@ tranquillity! but I desire first to bear patiently all that
 is needful for a preparation for such a pure state.`"
 
 On the 17th, a friend going to see him,
-in the course of conversation he instructively remarked:-`" There
+in the course of conversation he instructively remarked:- "`There
 is nothing will do but keeping in the cross;`" and further observed,
 that he knew not how it might be, but in this illness he felt no condemnation.
 The same friend visited him again on the 21st when under great suffering of body;
@@ -743,7 +748,7 @@ When I was sitting low in the earth,
 wearied with following the vanities of this licentious age,
 wanting to find more of happiness than this transitory world can give,
 then you looked upon me, O Lord! in your infinite and unspeakable mercy, and said,
-'`Follow me: '`no, not only so, but led me forth, free from the entanglements of the world,
+'`Follow me:`' no, not only so, but led me forth, free from the entanglements of the world,
 and from the many snares that are therein.`"
 
 About the twenty-second year of her age she first spoke as a minister; and,
@@ -787,8 +792,8 @@ and to have only the pains of the body to struggle with.`"
 Soon after, speaking of resignation, she said, "`Oh! it is a fine thing to be resigned,
 to be quite resigned, and to love the Lord with all the heart;`" and after a short pause,
 added, "`What a very sweet place it is, where it is said,
-'`I know your works and tribulation.`'
-"`And at another time said, "`Oh! how precious is love.
+'`I know your works and tribulation.`'`"
+And at another time said, "`Oh! how precious is love.
 I wish my love to all friends, everywhere.
 I never felt greater love than I do now;`" and then added, "`The joy I feel.`"
 
@@ -854,7 +859,7 @@ in true simplicity and humility.
 This humility, that seeks not the praise of man.
 What a desirable attainment! the chief one to be longed for.
 May I more and more press after it,
-that I may the more closely follow the great and perfect Pattern of humility.`"
+that I may the more closely follow the great and perfect Pattern of humility.
 
 "`'`Be also ready, for at such an hour as you think not, the Son of man comes.`'
 How awful and unexpected was my attack on the 29th of Eleventh month, 1819.
@@ -862,7 +867,7 @@ When I left my home in the morning, I was not much more poorly than I often am; 
 in less than an hour, obliged to return, by a seizure, which, I was well aware,
 might be uncertain in its consequences.
 I felt the awfulness of eternity;
-but I was enabled to throw myself entirely at.the footstool of mercy and redeeming love;
+but I was enabled to throw myself entirely at the footstool of mercy and redeeming love;
 feeling that I had not the least degree whatever of any thing like merit;
 or any thing that I had ever done, that I hoped might have been right in his pure sight,
 to trust to; for, that I was truly and altogether an unprofitable servant.
@@ -880,9 +885,9 @@ How was Divine goodness pleased to break in upon my soul,
 when I was endeavoring to wait upon Him for help!
 And I was permitted to feel the inestimable privilege
 of knowing what that language means,
-'`Be still, and know that I am God.`'`"
+'`Be still, and know that I am God.`'
 
-Oh! the entire unworthiness I feel of any claim to everlasting good;
+"`Oh! the entire unworthiness I feel of any claim to everlasting good;
 and I am thankful in being made sensible of it,
 and in feeling that it is wholly and alone of the free mercy of a gracious God,
 and the redeeming love of a crucified Savior,
