@@ -114,6 +114,7 @@ of women friends at Darby:
 [.embedded-content-document.epistle]
 --
 
+[.salutation]
 Dear Sisters,
 
 Herewith I send you the last salutation of my love,
@@ -133,7 +134,7 @@ but your branches laden with good and weighty fruit, which will find acceptance 
 So no more, but my tender love to you in the blessed truth.
 I take my leave and bid you farewell in the Lord.
 
-[.signed-section-context-close]
+[.signed-section-closing]
 The last from your loving sister,
 
 [.signed-section-signature]
