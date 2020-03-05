@@ -30,7 +30,7 @@ He was a great sufferer for truth`'s sake, both by imprisonments and loss of goo
 He travelled much in truth`'s service, and notwithstanding all his sufferings,
 he was in no ways chargeable to any, but rather helpful to those who stood in need.
 
-In Joseph Besse`'s history of Friends`' sufferings,
+In Joseph Besse`'s [.book-title]#History of Friends`' Sufferings,#
 are some accounts of those sustained by him, and of his pious,
 meek disposition towards his oppressors.
 Once he was imprisoned a year and three months,
@@ -46,7 +46,7 @@ how can you stand by and see them drive away so many cattle?`"
 He replied, it did not trouble him any more than if they had driven away so many geese.
 
 He removed to Pennsylvania in early times, and settled in Chester county;
-and when the spirit of division began`' to appear in George Keith,
+and when the spirit of division began to appear in George Keith,
 he was active in visiting him, to endeavor to recover him;
 and when the labor of Friends in that respect proved ineffectual,
 he joined steadily with faithful Friends in testifying
@@ -110,7 +110,12 @@ whose presence I feel flowing as a river into my soul.`"
 She died the 10th day of the Seventh month, 1708, aged fifty-five years.
 In the time of her last illness, she wrote the following epistle to the monthly-meeting,
 of women friends at Darby:
-DEAR SISTERS,
+
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Dear Sisters,
 
 Herewith I send you the last salutation of my love,
 with whom I have been many times refreshed and truly comforted.
@@ -128,8 +133,14 @@ you will be neither barren nor unfruitful,
 but your branches laden with good and weighty fruit, which will find acceptance with God.
 So no more, but my tender love to you in the blessed truth.
 I take my leave and bid you farewell in the Lord.
+
+[.signed-section-closing]
 The last from your loving sister,
-ELEANOR SMITH
+
+[.signed-section-signature]
+Eleanor Smith
+
+--
 
 [.asterism]
 '''
@@ -151,7 +162,7 @@ which bears up my spirit over that which flesh and
 blood would not or could not be able to bear.`"
 
 Shortly after, a friend taking leave of him, asked him if he thought he should recover.
-"`That,`" said he, I am not worthy to know; however, I am content: and this I know,
+"`That,`" said he, "`I am not worthy to know; however, I am content: and this I know,
 that if we abide faithful to God to the end, we shall receive a goodly portion;
 so farewell, and the Lord go along with you.`"
 At another time he said, "`He was full of pain,
@@ -240,7 +251,7 @@ but that they might live in his fear.
 She was taken ill the 21st of the Seventh month, 1717,
 being the first day of the yearly meeting at Chuckatuk,
 which gave opportunity to friends from different parts of the country to visit her,
-to whom she expressed her peace of mind and submission to the Divine rsill, saying,
+to whom she expressed her peace of mind and submission to the Divine will, saying,
 among other things; If the Lord has any more work for me to do, he can raise me up again;
 otherwise, I am easy and freely resigned to his will.`"
 To a beloved relation she said, "`Dear cousin, you are bone of my bone,
@@ -259,7 +270,8 @@ She told her son William, "`She hoped that day would be a good one to her,`" and
 And accordingly she quietly departed the 25th of the Seventh month aforesaid,
 aged fifty-two, a minister about eleven years.
 
-----------
+[.asterism]
+'''
 ELLIS PUGH was born in the parish of Dolgelly, in the county of Merioneth,
 and principality of Wales, in the Sixth month, 1656.
 is parents were religious people; but his father died before he was born,
@@ -327,7 +339,7 @@ He was in a declining state of bodily health about
 a year and three months before his decease,
 so that he was not well able to follow his calling; but his candle shone brighter,
 as may be seen by perusing his treatise,
-called "`A salutation to the Britons;`" which he wrote in his own language +++[+++Welsh]
+called [.book-title]#A Salutation to the Britons#, which he wrote in his own language +++[+++Welsh]
 in the time of his long sickness,
 when his view was towards that which pertains to eternity.
 It was designed more especially for the sake of those to whom the
@@ -358,7 +370,8 @@ but unto all them also that love his appearing.`"
 Being patient in his tedious indisposition, and contented to wait the Lord`'s time,
 he slept with his fathers on the 3rd day of the Tenth month, 1718, in favor with God.
 
-----------
+[.asterism]
+'''
 WILLIAM HAIG, of Pasquotank county, who removed from Antigua with his family,
 and settled in the province of North Carolina, was of a loving and sweet spirit.
 In his last sickness, as some friends were sitting by him,
@@ -395,13 +408,14 @@ not to enlarge beyond your gift or concern.
 Have a care you do not stand in the way of others,
 or speak any thing to hurt others that may be but small or tender;
 but wait until you are filled, and then be humble, and not puffed up with pride,
-for pride goes before a`'fall.`"
+for pride goes before a fall.`"
 After praying to the Lord to settle him upon the
 sure foundation and rock that can never be removed,
 he quietly departed this life, at his own house, on the 6th of the Eleventh month, 1718,
 and now rests in joy.
 
-----------
+[.asterism]
+'''
 MARY HAIG, wife of the aforesaid William Haig,
 was a woman of an exemplary life and conduct, of a sweet and loving behavior,
 and was favored with a gift in the ministry of the gospel of Christ Jesus.
@@ -447,7 +461,8 @@ and I have loved you ever since I knew you, and my case is no doubtful case.
 I come, I come; hasten you my journey.`"
 She died the 13th of the Eleventh month, 1718, aged about thirty-nine years.
 
-----------
+[.asterism]
+'''
 JOSEPH GLAISTER, of Pasquotank county, in North Carolina,
 formerly of Cumberland in Great Britain, who removed with his family,
 and settled in North Carolina, was a valuable minister,
@@ -478,14 +493,15 @@ you may gain such as in times past may have gone astray.`"
 He went on speaking of the great love and unity,
 and the many good times he had had with Friends;
 having his spirit borne up by the ancient arm that
-had been from time to time`' his great support.
+had been from time to time his great support.
 Near his end, those about him were sensible of his being engaged in prayer,
 but being almost spent, they could not hear every word so as to pen it down.
 Thus this good man ended his life, with a sense of the great love of God to his soul,
 on the 31st of the Eleventh month, 1718, aged about forty-five years,
 and a minister about twenty-four years.
 
-----------
+[.asterism]
+'''
 VINCENT CALDWELL was born in Derbyshire, Great Britain,
 and was convinced of the principles of truth held by the religious Society
 of Friends about the seventeenth or eighteenth year of his age,
@@ -543,7 +559,8 @@ and was interred in Friends`' burying ground at Kennet; and we believe,
 he is entered into the mansions of glory,
 where "`The wicked cease from troubling and the weary are at rest.`"
 
-----------
+[.asterism]
+'''
 ANTHONY MORRIS,
 a well-esteemed member of the monthly meeting of Friends
 of Philadelphia at the early institution thereof,
@@ -558,8 +575,8 @@ not only visiting neighboring meetings, but also travelled through New Jersey,
 Long Island, Rhode Island, New England and Maryland; and about the year 1715,
 performed a visit to friends in South Britain.
 He was early appointed clerk of the monthly meeting,
-which service he performed many years to satisfaction
-j being zealous and serviceable in the discipline,
+which service he performed many years to satisfaction;
+being zealous and serviceable in the discipline,
 a diligent attender of all our religious meetings,
 careful in observing the time appointed,
 and often concerned to exhort such to amendment as were remiss herein.
@@ -594,7 +611,8 @@ Concerning him there is reason to believe that he has obtained
 an entrance into the mansions prepared by Christ Jesus our Lord,
 for those who continue faithful to the end of their time here, as did this friend.
 
-----------
+[.asterism]
+'''
 JAMES DANIEL SR.--The memory of the righteous cannot
 soon be forgotten by those who follow their footsteps,
 for they are as memorials deeply engraven on their minds,
@@ -661,7 +679,8 @@ So, remaining sensible, he departed in the faith and hope of the gospel,
 like one falling into a sweet sleep, at his own house, on the 26th of the Tenth month,
 1726, in the fifty-second year of his age.
 
-----------
+[.asterism]
+'''
 CALEB PUSEY was born in Berkshire, Old England, and educated among the Baptists,
 but after he arrived to years of religious consideration,
 he was convinced of the principles of truth professed by the people called Quakers.
@@ -689,7 +708,8 @@ only desired "`That friends might keep their meetings in uprightness.`"
 He died the 24th of the Twelfth month, 1726-7, in the seventy-sixth year of his age,
 and was interred in Friends`' burying-ground at London Grove.
 
-----------
+[.asterism]
+'''
 HANNAH HILL, wife of Richard Hill, and daughter of Thomas Lloyd,
 formerly governor of the province of Pennsylvania, by Mary,
 the daughter of Gilbert Jones, of Welchpool, was born in Montgomeryshire, North Wales,
@@ -777,7 +797,8 @@ She was twenty-six years the wife of Richard Hill,
 who was a serviceable member both in church and state, and died in good esteem,
 the 4th of the Seventh month, 1729.
 
-----------
+[.asterism]
+'''
 JOHN BEVAN was born in Wales, about the year 1646, and well descended;
 his parents died when he was very young, leaving five children,
 of whom he was the eldest.
@@ -789,7 +810,10 @@ and gave them the means of subsistence in the world.
 Some years after he was convinced of the blessed truth as it is in Jesus;
 the manner of which, as he himself has left it in writing, was thus:
 
-"`My wife was religiously inclined in her young years,
+[.embedded-content-document]
+--
+
+My wife was religiously inclined in her young years,
 and zealously concerned to observe the ceremonies of the church of England, and,
 I believe, as she has often told me,
 she aimed sincerely therein at God`'s glory and the salvation of her immortal soul.
@@ -817,7 +841,7 @@ which the people called Quakers bore testimony to, were the people God owned,
 or to that import; and it reached to God`'s witness in her,
 so that we parted in much tenderness at that time.
 
-"`However, she continued somewhat zealous in her way still, and would be.
+However, she continued somewhat zealous in her way still, and would be.
 often arguing with me in vindication thereof, for about twelve months; but at one time,
 when she was at their worship, the priest pronounced his excommunication against me,
 and she being in a seat just under him,
@@ -832,7 +856,7 @@ into the weighty work of the salvation of her immortal soul;
 and the Lord`'s love was manifested to her, so that, in a little while after,
 her understanding was opened,
 and she came to be convinced of God`'s everlasting Spirit of truth,
-that was promised to lead into all truth.`'
+that was promised '`To lead into all truth.`'
 And having tasted of that living bread which gives life to the soul,
 she came to see there was no need of the outward bread,
 which formerly she was zealous and conscientious in the observation of,
@@ -841,7 +865,7 @@ the true remembrancer being now come and witnessed,
 even he who stands at the door of men`'s hearts and knocks for an entrance,
 that he may come in to sup with them and they with him.
 
-"`Soon after our convincement, the enemy of souls mustered his forces,
+Soon after our convincement, the enemy of souls mustered his forces,
 and endeavored to stifle our convictions,
 and we were hard put to it both within and without; but as our eyes were to the Lord,
 and in poverty and humility of spirit we leaned upon him, he made the hard things easy,
@@ -860,7 +884,7 @@ where they remained about fourteen weeks, and then were set at liberty; ever sin
 the meeting has been quietly kept either at our house or at the meeting-house,
 without any more disturbance.
 
-"`Some time before the year 1683, we heard that our esteemed friend, William Penn,
+Some time before the year 1683, we heard that our esteemed friend, William Penn,
 had a patent from King Charles the Second for that province in America called Pennsylvania;
 and my wife had a great inclination to go there,
 and thought it might be a good place to train up children among sober people,
@@ -879,7 +903,7 @@ and I believe and am well satisfied that the Lord has a remnant there,
 who sincerely aim at his glory and the prosperity of his truth,
 blessed and praised be his holy name forever.
 
-"`We stayed there many years, and had four of our children married with our consent,
+We stayed there many years, and had four of our children married with our consent,
 and they had several children;
 and the aim intended by my wife was in a good measure answered.
 Then a weighty concern came upon my mind to return to my native country,
@@ -905,7 +929,7 @@ This deliverance, therefore, and our preservation,
 I ascribe to the Lord`'s great favor and mercy towards us; thanks, honor,
 and praises be rendered to him for the same and all other mercies forever.
 
-"`In this voyage our youngest daughter, Barbara Bevan, accompanied us,
+In this voyage our youngest daughter, Barbara Bevan, accompanied us,
 and she was of good service on truth`'s account; the short time she remained in the body,
 her innocency and sweet behavior preached truth wherever she came.
 It is my comfort and great satisfaction, that she left a good savor,
@@ -913,7 +937,7 @@ and has finished her course in peace with her Maker,
 and is gone to her eternal rest in the mansions of bliss and joy,
 to laud and magnify him forever.
 
-"`We landed at last at Shields in Northumberland,
+We landed at last at Shields in Northumberland,
 and stayed over the meeting on the First day, where we were comforted with friends.
 Next day we set forward towards our habitation in Wales,
 having nearly three hundred miles to travel.
@@ -927,7 +951,7 @@ both here and in America,
 and she was very careful and open-hearted to help the poor and weak,
 both among us and others.
 
-"`In her last sickness she was sensible she was not likely to recover out of it,
+In her last sickness she was sensible she was not likely to recover out of it,
 and she was satisfied and contented therein to submit to the Lord`'s will.
 Speaking to me, she said, '`I take it as a great mercy that I am to go before you.
 We are upwards of forty-five years married,
@@ -935,7 +959,9 @@ and our love is rather more now one towards another, than at the beginning,
 yet I am willing to part with all, for the Lord is better than all.`'
 She quietly departed this life the 26th of the Eleventh month, 1710;
 aged seventy-three years and about four months; and though my loss thereby is great,
-yet it is her eternal gain.`"
+yet it is her eternal gain.
+
+--
 
 John Bevan and his wife were examples of meekness, temperance, and charity,
 and having lived in love and fellowship with their brethren and sisters,
@@ -950,7 +976,7 @@ and were eminently favored therein with the Divine presence.
 His sufferings, considering his faithfulness and the time he lived in,
 were not very many; his relations at times diverting the strokes of persecution from him.
 However, after a long prosecution by the vicar of the parish for his pretended dues,
-he was at last confined to Cardiff jail, in 1721, upon an excommunicato capiendo;
+he was at last confined to Cardiff jail, in 1721, upon an _excommunicato capiendo_;
 but there being some error in it, he was discharged the following sessions,
 and ever after left unmolested.
 
@@ -965,5 +991,3 @@ At one time he said, "`Ever since I had the knowledge of the truth,
 I have endeavored to be innocent.`"
 To a relation, asking him how he did, he answered, "`Weakly,
 but I find some strength to bear my weakness.`"
-
-----------
