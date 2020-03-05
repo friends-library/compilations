@@ -61,14 +61,17 @@ a Friend residing in the island, on the 8th of Ninth month, following.
 The subjoined account of him while there is taken
 from a paper drawn up by one of the Friends:
 
-"`They were received with much love and joy,
+[.embedded-content-document.paper]
+--
+
+They were received with much love and joy,
 being made to rejoice together in the tender mercies and love of God,
 which was manifested that day, to the honor and praise of his great name,
 and also to the comforting of his poor people.
 The testimonies of these servants of the Lord were with life and power,
 and were as clouds filled with rain upon a thirsty land.
 
-"`Your dear husband`'s memory is precious to me,
+Your dear husband`'s memory is precious to me,
 and many more whose hearts were open to receive the glad tidings which he brought.
 His godly life and conduct spoke him to be a true follower of the Lamb,
 and minister of Jesus Christ, whom he freely preached,
@@ -86,7 +89,7 @@ well becoming the doctrine he preached.
 He was valiant for the truth to the last, and though he is gone to his grave,
 his memory is sweet and precious.
 
-"`He had his health very well until the death of his dear companion;
+He had his health very well until the death of his dear companion;
 but going to his burial, we were caught in a shower of rain,
 which we and he believed was the occasion of his illness.
 He was mightily favored with the Divine presence,
@@ -97,7 +100,7 @@ his candle shone as bright as ever, and many were made to glorify God on his beh
 This was the last opportunity on this island, save his farewell upon his dying bed,
 where he both preached and prayed, a little before his departure.
 
-"`On the next day, being the second of the week,
+On the next day, being the second of the week,
 he went to a little island called Jos Vandyke`'s, accompanied by several friends.
 On the Third day, in the morning, he complained very much,
 yet was enabled to go to meeting, where many people were assembled,
@@ -111,9 +114,12 @@ The last two days he was in much pain,
 yet he was preserved in much patience and resignation,
 and had his perfect senses to the last, exhorting friends to faithfulness.
 On the 6th day of the Tenth month, about six o`'clock at night, he went away like a lamb,
-with praises and thanksgiving in his lips but about two minutes before.`"
+with praises and thanksgiving in his lips but about two minutes before.
 
-----------
+--
+
+[.asterism]
+'''
 CADWALADER EVANS was a native of the principality of Wales,
 and arrived in Pennsylvania in the year 1698 and
 although he was not then in profession with friends,
@@ -282,13 +288,14 @@ in peace with God and unity with faithful friends.
 He died the 17th of the Second month, 1747, in the fifty-ninth year of his age,
 and was interred in Kennet burying-ground, the 19th of the same month.
 
-----------
+[.asterism]
+'''
 EVAN EVANS, of Gwynedd, in Pennsylvania, was born in Merionethshire,
 in the principality of Wales, in the year 1684,
 and came to Pennsylvania with his parents in 1698;
 under whom he received a sober religious, education.
 But, being early in life convinced that a form of godliness,
-without the`' real enjoyment of the quickening principle of grace and truth,
+without the real enjoyment of the quickening principle of grace and truth,
 would not afford solid and lasting peace to his soul, he sought earnestly after it,
 and resigned his heart to the baptizing power of God,
 which fitted him for eminent services in the church.
@@ -307,7 +314,7 @@ and therefore his "`Preaching was not with enticing words of man`'s wisdom,
 but in the demonstration of the spirit and of power.`"
 His service was rendered more effectual, by the distinguishing marks which he bore,
 of "`An Israelite indeed,
-in whom was no guile,`"adorned by a plainness and simplicity of manner in word and deed,
+in whom was no guile,`" adorned by a plainness and simplicity of manner in word and deed,
 with a zeal seasoned by divine love;
 and as he had large experience in the work of regeneration
 and the mysteries of the heavenly kingdom,
@@ -346,7 +353,8 @@ continued to be his shield and support in the evening of his days and close of l
 which was on the 24th of the Fifth month, 1747.
 He was buried at Gwynedd.
 
-----------
+[.asterism]
+'''
 ALICE GRIFFITH, late wife of Hugh Griffith, of North Wales, in Pennsylvania,
 was one that feared the Lord from her youth, remarkable for her modesty and plainness.
 When she was married and settled,
@@ -376,7 +384,7 @@ at a certain time, was heard to say, "`Lord, how long will you withdraw yourself
 and not show for what cause I am thus afflicted?
 I have been acquainted with your righteous judgments, which were ever mixed with mercy;
 but now, my trouble is more than I am well able to bear, being almost ready to sink.`"
-Again, she said, "`Lord, wherein have I offended.you;
+Again, she said, "`Lord, wherein have I offended you;
 what part of my duty have I neglected, that you should thus hide your face from me?
 Time was when my hope, in full assurance, was to rest in you,
 but now I fear I shall become a cast-away.`"
@@ -414,7 +422,8 @@ she being cheerful and pleasant, and never sad, as before.
 Her decease was on the First-day of the Second month, 1749,
 and was buried on the 3rd of the same.
 
-----------
+[.asterism]
+'''
 SARAH PLEASANTS, fourth daughter of Thomas and Mary Pleasants,
 was taken ill the 26th of the Seventh month,
 and departed this life the 7th of the Eighth month; 1749,
@@ -425,7 +434,7 @@ and likely in a short time to bid adieu to the world and all its enjoyments;
 praying that the moment she was prepared she might go.
 In a particular manner,
 she desired the physician who attended her to observe the frailty of poor mortals,
-'`as well as the uncertainty of time in this life, saying, "`Look on me, doctor.
+as well as the uncertainty of time in this life, saying, "`Look on me, doctor.
 I am like a bud cropped from the vine before it is fully blown; yet, young as I am,
 I have something to repent of, which in health and strength we are apt to overlook,
 and flatter ourselves is no crime.
@@ -455,7 +464,8 @@ and will tend to the hurt of those who associate with them; but keep your place,
 and you will be like a light set on a hill, as a guide to others,
 who will praise God on your behalf.`"
 
-----------
+[.asterism]
+'''
 ANN ROBERTS, of Gwynedd, in Pennsylvania,
 was convinced of the truth in her native country, Wales, when young,
 which incurred her father`'s heavy displeasure, but in time he became reconciled to her.
@@ -529,7 +539,8 @@ having been a minister fifty years, and was buried at Gwynedd aforesaid;
 on which solemn occasion, we had a good meeting,
 the extendings of Divine love being witnessed.
 
-----------
+[.asterism]
+'''
 ISRAEL PEMBERTON was born in the county of Bucks, in Pennsylvania, in the year 1684,
 being descended of pious parents,
 well esteemed among Friends in the first settlement of this province.
@@ -574,7 +585,8 @@ supposed to be of the apoplectic kind, and expired in about an hour,
 being the 19th of the First month, 1754, and was buried on the 22nd of the same month,
 in the sixty-ninth year of his age.
 
-----------
+[.asterism]
+'''
 PETER ANDREWS, of Burlington, in New Jersey,
 having received from the Lord a gift in the ministry, he was faithful thereto,
 and made helpful to many; being devoted to the service of God;
@@ -718,7 +730,8 @@ and no doubt he rests, with the spirits of the just made perfect,
 in those glorious mansions prepared for all those
 that hold out in faithfulness to the end.
 
-----------
+[.asterism]
+'''
 JOHN EVANS, of Gwynedd, in Pennsylvania, was born in Denbighshire,
 in the principality of Wales, in the year 1689,
 and arrived in Pennsylvania with his parents in 1698,
@@ -814,5 +827,3 @@ put on the beautiful garment of Christ`'s righteousness,
 and entered the wedding-chamber of the bridegroom of his soul,
 and enjoys the reward of his faithful labors.
 He was buried on the 25th day of the same month, in friends`' burial-ground at Gwynedd.
-
-----------
