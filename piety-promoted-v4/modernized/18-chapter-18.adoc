@@ -402,7 +402,7 @@ which came to pass according to his prospect.
 Soon afterwards an occurrence happening which occasioned
 his being called upon to give evidence in a court of judicature,
 he was required to take an oath, which he conscientiously refusing to do,
-it proved for a time no small trial.of his faithfulness.
+it proved for a time no small trial of his faithfulness.
 Although he had few or none outwardly to look to
 for strength and encouragement under that exercise,
 he was nevertheless favored to experience Divine support to be near,
@@ -673,7 +673,7 @@ but am quite satisfied, whichever the Lord pleases.
 I know he is able to raise the dead.
 His power is the same that ever it was.`"
 
-To his mother he said: My precious mother, I feel so nearly attached to you,
+To his mother he said: "`My precious mother, I feel so nearly attached to you,
 you seem like my own flesh; and surely we are one flesh.`"
 To her and his cousin: "`I hope you will be preserved,
 and endeavor to walk in the paths of righteousness, out of which there is no true peace.
@@ -773,7 +773,7 @@ cannot die any more, but are as the angels in heaven.
 [.asterism]
 '''
 
-CONCLUSION
+=== CONCLUSION
 
 The memoirs contained in these volumes furnish ample testimony that the happy effects
 of pure and undefiled religion are peculiar to no age or condition in life.
@@ -805,4 +805,5 @@ and the sin which may easily beset, and to run with patience the heavenly race,
 looking unto Jesus, the Author and Finisher of the saints`' faith,
 that at the close of life he may inherit a crown of glory that shall never fade away.
 
+[.the-end]
 END OF FOURTH VOLUME

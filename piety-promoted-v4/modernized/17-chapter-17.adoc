@@ -41,7 +41,7 @@ together with those of her own time; frequently expressing,
 endeavoring to cultivate the same disposition in her family,
 by often calling them together in the winter evenings,
 and requiring one of her children to read audibly in the bible or some other
-religious book;`" repeatedly observing to them,`" The benefit which attended
+religious book;`" repeatedly observing to them, "`The benefit which attended
 preserving the characters of those faithful ministers and elders in the church,
 whose pious lives and happy dissolution, if held up to the view of posterity,
 might be a likely means of kindling the same holy zeal,
@@ -166,7 +166,7 @@ MARGARET ELLIS, late of Radnor, was born in the principality of Wales,
 of parents professing episcopacy, and religious in that way.
 By a short memoir she has left, she was early visited by the Almighty,
 which she expresses in this manner.
-"`A.t fourteen years of age, the call of the Lord was to me,
+"`At fourteen years of age, the call of the Lord was to me,
 when seeing some of my companions carried to the grave, a concern came over my mind,
 with a consideration, where their souls were gone, and where mine would be,
 if I should then be taken away; and this followed and remained with me for many days.`"
@@ -372,7 +372,7 @@ the Head of the church, to give them an understanding what their several service
 and for ability to answer his requirings;
 for it is by his light and spirit that the Lord`'s work is done with acceptance,
 and none should presume to speak or act without his motion and direction.`"
-It was in great fear that I attempted to speak in these meetings, and as I kept low,
+"`It was in great fear that I attempted to speak in these meetings, and as I kept low,
 with an eye single to the honor of truth,
 I felt power and inward strength to increase from time to time.`"
 
@@ -415,13 +415,13 @@ He seemed to wonder at my ignorance, but knew not how to tell me otherwise.
 I said, '`I do not read in the Scriptures of any days so named.`'
 He replied, '`That is true.`'
 '`For what reason, then, '`said I, '`do you call them so?`'
-'`Because it is a common custom,`' said he.`'Suppose then, '`said I,
+'`Because it is a common custom,`' said he. '`Suppose then,`' said I,
 '`we lived in a heathen country, among infidels, who worshipped idols.
 Should we follow their customs because common?`'
 He replied, '`By no means.`'
 I then said, '`If I have understood rightly,
 the heathen gave the days of the week those names.`'
-'`I never heard that before, '`said he;`'pray, for what reason?`'
+'`I never heard that before,`' said he; '`pray, for what reason?`'
 I answered, that they worshipped the sun on the first day of the week, and named it,
 after their idol, Sunday; the moon on the second day of the week-so came Monday;
 third day they called Tuesday, after their idol Tuisco; and, after their idol Woden,
@@ -449,7 +449,7 @@ to let their language be the language of truth to all men, in purity of spirit,
 and not to name the days of the week, or the month, after the heathenish,
 idolatrous customs; saying, for excuse,
 that those to whom they speak best understand them,
-and that it saves further explanation; which excuse is far from a disposition apt.
+and that it saves further explanation; which excuse is far from a disposition apt
 to teach, and letting the light of truth shine as they ought.`"
 
 After his return home from Europe,
@@ -626,7 +626,10 @@ through the early visitations of Divine grace,
 being sensibly expressed in a short account written by herself,
 is worthy to be preserved, as follows:
 
-"`Having been one who was born of religious parents,
+[.embedded-content-document]
+--
+
+Having been one who was born of religious parents,
 I was by that means favored with a sober and virtuous education;
 but what was far beyond all outward blessings,
 the Lord in his mercy was pleased to make very early impressions of religion on my soul,
@@ -639,7 +642,7 @@ and not only so, but comforted and supported in every time of trouble and diffic
 as there was a secret regard to that good hand which is, and ever will be,
 the help of all those who put their trust in it.
 
-"`But though the Lord had so favored me that I was made capable of being
+But though the Lord had so favored me that I was made capable of being
 in some respects serviceable among my acquaintance and friends,
 from a propensity in my natural disposition (which is likewise
 a blessing from Heaven) to assist or oblige those with whom I conversed;
@@ -654,7 +657,7 @@ by the secret touches of Divine goodness,
 had raised such a hunger and thirst after righteousness,
 that my soul could not be satisfied short of it.
 
-"`After it had pleased God thus to incline my mind to seek
+After it had pleased God thus to incline my mind to seek
 after a more full enjoyment of that inward life and virtue,
 which is communicated and conveyed to the soul through
 the illumination of the Holy Spirit,
@@ -671,7 +674,7 @@ and follow him more fully than I had hitherto done.
 But in order to this,
 a work of greater mortification than ever had been experienced by me, was necessary.
 
-"`Great distress of soul and affliction of body was I brought into,
+Great distress of soul and affliction of body was I brought into,
 insomuch that I knew not where, or what I was;
 such temptations and buffetings of Satan that I had till now been a stranger to,
 were allowed to beset me, in the absence of spiritual comfort and refreshment;
@@ -700,7 +703,7 @@ light and life, at times was made to say,
 surely nothing shall ever be able to make a separation
 from the love of God in Christ Jesus.
 
-"`But alas! this lasted not long,
+But alas! this lasted not long,
 for when it was clearly shown me what was required of my hands,
 which was to bear a public testimony for God,
 and to declare unto others what he had done for my soul,
@@ -715,7 +718,7 @@ visitation might be some time afforded,
 for without it, I saw my state very dangerous.
 What would I not then have done to recover my former condition?
 
-"`I went under great distress and perplexity day and night for some months;
+I went under great distress and perplexity day and night for some months;
 the comfortable refreshments and Divine openings
 with which I had been so plentifully favored,
 were withdrawn, and I left in unspeakable anguish and distress.
@@ -728,7 +731,9 @@ according to my weak apprehension, left very much to myself,
 without the sensation of Divine love upon my soul, or the ability to seek after it,
 or rightly to wait for it, or to stir or move any way as to my soul, but,
 in a stupidity not to be described, stripped of all inward comfort,
-and not able to take pleasure in any thing this world can afford.`"
+and not able to take pleasure in any thing this world can afford.
+
+--
 
 Being, through the mercy of the Lord, preserved under this close probation, and,
 in his time,
@@ -901,7 +906,7 @@ as that nothing may be permitted to pluck us out of it, and so assisted to condu
 as to be found among that happy number who have come through many tribulations,
 where all sorrows and sighing will be done away, and all tears wiped from our eyes,
 to join those who can acceptably sing the song of praise,
-having had their robes washed in the blood of the Lamb and made white.
+having had their robes washed in the blood of the Lamb and made white.`"
 
 On the 3rd, though with some difficulty of utterance, she said,
 "`Though the floods beat high at times, and the waves roar,
