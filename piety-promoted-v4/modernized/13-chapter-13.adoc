@@ -3,8 +3,6 @@
 [.chapter-synopsis]
 * John Simcock
 * Eleanor Smith
-* Dear Sisters
-* Eleanor Smith
 * John Smith
 * Benjamin Jordan
 * Elizabeth Small
