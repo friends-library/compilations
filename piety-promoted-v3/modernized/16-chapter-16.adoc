@@ -3,7 +3,6 @@
 [.chapter-synopsis]
 * George Gibson
 * Thomas Cash
-* Dear Friend
 * Samuel Dyer
 * James Pemberton
 
