@@ -326,7 +326,10 @@ During her stay there, her sister Mary was taken ill and died,
 and the following extracts from a letter addressed to her by Elizabeth,
 show that her mind was no stranger to the important concerns of the soul`'s salvation.
 
-"`I often feel very anxious about thy everlasting welfare,
+[.embedded-content-document.letter]
+--
+
+I often feel very anxious about thy everlasting welfare,
 as well as the rest of the family`'s, but thine more, because thou art so poorly;
 yet I hope the Almighty, who is ever willing to help the poor and needy soul,
 will prepare thee for the awful change, before He takes thee to Himself;
@@ -342,7 +345,7 @@ I remember some very gracious ones, Matt. 11:28 to 30; Ecc. 11:1. and xii.
 and cxx.
 1, and many more thou wilt find in that holy book.
 
-"`My dear sister, I hope thou wilt not be offended at me,
+My dear sister, I hope thou wilt not be offended at me,
 for what I have taken the liberty to write to thee;
 for I have felt very uncomfortable a long time,
 and as if I could not keep it from thee any longer.
@@ -351,7 +354,9 @@ I cannot express what a desire I feel on thy account,
 but I hope thou wilt be prepared! for we know neither the day nor
 the hour when it may please the Almighty to call us away.
 So farewell; if we never meet again in this world, I hope we shall in the next: farewell,
-my very dear sister.`"
+my very dear sister.
+
+--
 
 While thus tenderly solicitous for the eternal welfare of a beloved relative,
 this precious child was not negligent of the state of her own mind;
@@ -372,6 +377,8 @@ and her resignation to his blessed will--and also gave good
 advice to her relations and others who came too see her.
 A few of those noted down by her mother, are as follows:
 
+[quote]
+____
 13th of fifth month, 1825.
 She said she ought to bear all that was laid upon her with patience;
 but felt so weak both in body and mind, she did not know what she must do;
@@ -419,6 +426,7 @@ I hope my brothers and sisters,
 and near relations will be here to see this poor
 bit of clay committed to the silent grave;
 and I believe it will not be long before I am gone hence.`"
+____
 
 At another time she remarked what a favour it was
 that she was likely to be taken away in her youth,
@@ -547,7 +555,7 @@ it may be more convenient to attend to them.--But,
 ah! little do such disobedient children think,
 that the present time is the only convenient season--their heavenly Father,
 whom they thus slight and neglect, may not visit them again by his good Spirit;
-and in the midst of their play and folly, death may cut them off May all, therefore,
+and in the midst of their play and folly, death may cut them off. May all, therefore,
 of whatever age, hearken to the reproofs of this divine monitor,
 surrender their whole hearts to the Lord, and obey his blessed instructions;
 for this is the way to obtain eternal life.
