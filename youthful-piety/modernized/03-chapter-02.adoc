@@ -3,8 +3,8 @@
 [.chapter-synopsis]
 * George Chalkley
 * Charles Parry
-* William Tyler Barling
 * Mary Ann Clapp
+* William Tyler Barling
 * Ruth Middleton
 * Hannah Hill
 * Elizabeth Merritt
@@ -118,13 +118,13 @@ She requested her mother to read to her out of the Bible and other good books,
 and although she could repeat the following lines, yet it was her wish to have them read,
 viz:
 
-"`See Israel`'s gentle Shepherd stand
-
+[verse]
+____
+See Israel`'s gentle Shepherd stand
 With all engaging charms:
-
 Hark! how He calls the tender lambs,
-
-And folds them in his arms.`"
+And folds them in his arms.
+____
 
 She frequently spoke of dying, saying,
 "`I long to be in my Saviour`'s arms;--there are
@@ -148,33 +148,33 @@ He will never cast off any who love him so much Inquiry
 being made whether she had thought of Go that morning,
 she replied, "`O! yes, I love Him, and have been thinking of Him with pleasure.`"
 
-The rehearsal of the following lines afforded h much satisfaction:
+The rehearsal of the following lines afforded her much satisfaction:
 
-"`Hope wipes the tear from sorrow`'s eye,
-
+[verse]
+____
+Hope wipes the tear from sorrow`'s eye,
 And faith points upward to the sky:
-
 The promise guides her ardent flight,
-
 And joys, unknown to sense, invite
-
 Those blissful regions to explore,
-
-Where pleasures bloom to fade no more.`"
+Where pleasures bloom to fade no more.
+____
 
 While having her apparel changed,
 she remark "`I shall not need clothes much longer--I shall soon
-be clothed in the robes of the Saviour`'s righteousness and,
+be clothed in the robes of the Saviour`'s righteousness`" and,
 at another time,
 "`I shall soon be in that happy place--soon shall rest my head on my Saviour`'s bosom.
 Why are His chariot wheels so long in coming.`"
 
-It being observed to her that she had lost much sleep in her sickness, "`Yes, said she,
-but
+It being observed to her that she had lost much sleep in her sickness, "`Yes,`" said she,
+"`but
 
-"`In wakeful hours of night
-
-I call my God to mind.`"
+[verse]
+____
+In wakeful hours of night
+I call my God to mind.
+____
 
 By her request a number of her companions w sent for,
 whom she addressed with much tenderness gave them good advice,
@@ -182,13 +182,13 @@ and bade them an affectionate farewell.
 Being in great distress of body, she said, these are pleasant groans to me,
 for they are the last,`" and then repeated these lines.
 
-"`Jesus can make a dying bed
-
+[verse]
+____
+Jesus can make a dying bed
 Feel soft as downy pillows are,
-
 While on his breast I lean my head,
-
-And breathe my life out sweetly there.`"
+And breathe my life out sweetly there.
+____
 
 To those who stood around her dying bed, she said,
 "`I wish you were all as happy as I am,`" and frequently
@@ -244,34 +244,37 @@ in which case he would wait until he was left alone.
 It was with difficulty he could manage to write, yet he occasionally penned memorandums,
 a few of which are here inserted.
 
-"`Eighth month, 1836.--I have now begun to read the Scriptures regularly.
-I trust Providence will enable me to understand what I read.`"
+[.embedded-content-document]
+--
 
-"`Eleventh month 26th.--I am eight years old today.
+Eighth month, 1836.--I have now begun to read the Scriptures regularly.
+I trust Providence will enable me to understand what I read.
+
+Eleventh month 26th.--I am eight years old today.
 O God!
 I should very much like to be a better boy, and more patient and good than I now am:
-be pleased to help me, O Heavenly Father!`"
+be pleased to help me, O Heavenly Father!
 
-"`Third month, 1837.--I was born in Kensington, in the year 1828,
+Third month, 1837.--I was born in Kensington, in the year 1828,
 on the 26th of the Eleventh month.
 I lost my father when I was about two years old.
 Some months after he died, we went to Witham, and from there to Colchester,
 where we now reside.
 I have one brother; and my dear mother keeps a school.
-I have been more than a year in bed; I am very happy.`"
+I have been more than a year in bed; I am very happy.
 
-"`Eighth month 1st.--What is life?
-`'tis but a vapour, soon it vanishes away.`"
+Eighth month 1st.--What is life?
+`'tis but a vapour, soon it vanishes away.
 
-"`Eleventh month 26th.--I am nine years old today; I feel stronger than I did last year,
+Eleventh month 26th.--I am nine years old today; I feel stronger than I did last year,
 for which I hope I am thankful.
 I trust it will please Providence to make me a good boy;
-and willing patiently to bear and suffer what He thinks right.`"
+and willing patiently to bear and suffer what He thinks right.
 
-"`Second month, 1838.--Rejoice evermore; pray without ceasing;
+Second month, 1838.--"`Rejoice evermore; pray without ceasing;
 in everything give thanks; for this is the will of God in Christ Jesus concerning you.`"
 
-"`Eleventh month 25th.--First-day; tomorrow will be my birth-day.
+Eleventh month 25th.--First-day; tomorrow will be my birth-day.
 Providence has been pleased to add many favours and mercies during the past year,
 for which I hope to be thankful;
 and I hope my Heavenly Father will enable me to resist the temptations of the evil one,
@@ -279,20 +282,26 @@ and also to spend this year better than the one which is past; and may myself,
 and my dear mother, and brother, and everybody,
 increase in all good things spoken of in the Bible.
 And may it please, you, O Heavenly Father! to protect and direct me,
-in the way you would wish me to go, now and ever.`"
+in the way you would wish me to go, now and ever.
 
-"`Twenty-seventh.--Our Savour Jesus Christ said,
+Twenty-seventh.--Our Savour Jesus Christ said,
 '`Permit the little children to come unto me;`' I
-hope I am one of those that come to him.`"
+hope I am one of those that come to him.
+
+--
 
 The last memorandum he penned was occasioned by reading Sewell`'s History of Friends,
 in which he was much interested.
 The memorandum was left unfinished, viz:
 
-"`Eighth month, 1839.
-When reading the lives and sufferings of some of our ancient Friends,
+[.embedded-content-document]
+--
+
+Eighth month, 1839.--When reading the lives and sufferings of some of our ancient Friends,
 I cannot help feeling sorry that we differ so much from them in manners and appearance;
-and I am ready to fear that if we were called upon to bear--`"
+and I am ready to fear that if we were called upon to bear--
+
+--
 
 Here he laid down his pen, but from the tenor of what he has written,
 we may infer what he designed to add.
@@ -528,7 +537,7 @@ I am going now, and another next day, and so, one after another,
 the whole world passes away.`"
 Taking leave of one of her friends,
 who said he "`would see her again tomorrow,`" she replied, "`You may see me,
-but I shall scarcely see you any more--though I will not be positive.
+but I shall scarcely see you any more--though I will not be positive--
 God`'s will be done.`"
 Observing that those about her were sorrowing at the prospect of her dissolution,
 she inquired very sweetly, "`Why are you troubled and weep,
@@ -629,7 +638,10 @@ me from my pain`"--and in a few minutes after,
 she was herself engaged in prayer for a considerable time,--the following,
 is all that could be recollected--
 
-"`O, gracious Father! be pleased to relieve your poor afflicted child,
+[.embedded-content-document.prayer]
+--
+
+O, gracious Father! be pleased to relieve your poor afflicted child,
 and do with me what you see fit--Remember your afflicted child,
 who suffers more than tongue can express.
 Please to look down upon me,
@@ -649,7 +661,9 @@ Make them to rejoice in your righteous Son, and crown their heads with glory.
 O,
 most merciful Father! be pleased to remember them while advancing in years--be
 their strength in weakness and support them in all their trials,
-for it is unto you alone they have to look, both now and forevermore.`"
+for it is unto you alone they have to look, both now and forevermore.
+
+--
 
 Addressing her parents, she said, "`Trust in the Lord and keep his commandments;
 then will you be good examples to your children,

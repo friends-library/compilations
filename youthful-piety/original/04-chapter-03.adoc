@@ -10,6 +10,7 @@
 * Amy Elizabeth Lloyd
 * Thomas Burling
 * Ann Reeve
+* Robert Boadle
 * Putnam F. Locke
 
 HAYES HAMILTON, son of Hugh Hamilton of Ireland,
@@ -444,42 +445,45 @@ in very early years, and that He who said, "`Suffer the little children to come 
 and forbid them not,`" is still drawing the lambs unto himself.
 The first is dated in her 10th year.
 
-"`First-day, first month 10th, 1840.
+[.embedded-content-document]
+--
+
+First-day, first month 10th, 1840.
 I felt very restless in meeting,
 and it was with great difficulty that I could keep my thoughts to the Lord;
-and I do not think, I altogether did so.`"
+and I do not think, I altogether did so.
 
-"`17th of fifth month.
+17th of fifth month.
 I felt in meeting today the delightful meaning of these words,
 '`Surely goodness and mercy shall follow me all the days of my
 life.`' Oh that I might dwell in the house of the Lord forever.`"
 
 No date.
-"`I lately have not behaved well; I must pray to the Lord to be helped to obey him,
-not only in the outward appearance, but in the inward also; and may God be with me.`"
+I lately have not behaved well; I must pray to the Lord to be helped to obey him,
+not only in the outward appearance, but in the inward also; and may God be with me.
 
-"`1st of twelfth month.
+1st of twelfth month.
 I hope that I become a better child;
-till lately I was not sensible of the blessings I receive.`"
+till lately I was not sensible of the blessings I receive.
 
-"`It is first-day.
+It is first-day.
 I could not keep my thoughts, in meeting; they roved away before I was aware of it;
 but still I tried to wait patiently on the Lord.
 Oh! that I were good and humble.
 I ought to be thankful that I know the way to live forever in heaven,
-singing praises to Him who died for us, and by whose stripes we are healed.`"
+singing praises to Him who died for us, and by whose stripes we are healed.
 
-"`7th of twelfth month.
+7th of twelfth month.
 I hope the Lord will guide me;
-for strait is the gate and narrow is the way that leadeth unto life eternal.`"
+for strait is the gate and narrow is the way that leadeth unto life eternal.
 
-"`20th of twelfth month.
+20th of twelfth month.
 I have been very naughty.
 I desire to feel thankful for the many blessings I enjoy.
 O Lord, blot out all my sins from thy book;
-make me clean through the blood of thy dear Son.`"
+make me clean through the blood of thy dear Son.
 
-"`11th of ninth month, 1843.
+11th of ninth month, 1843.
 Last first-day I read my diary through, and think I am more gone back than improved.
 How to give myself wholly up to Christ, and let Him be all in all, I know not;
 I should like to be a Christian today; but then,
@@ -488,6 +492,8 @@ and think I am so good.
 I need God`'s help.
 I know that he would help me.
 Mother told me this should be our prayer, '`Lord, teach me to know myself and thee.`"
+
+--
 
 Her standard of holiness was high;
 and consequently every departure in heart and every failure in her duty,
@@ -523,13 +529,13 @@ she was made sweetly sensible of the love of Jesus to her soul, in larger measur
 which caused her to pour forth the tribute of thanksgiving and praise in simple strains,
 concluding with the following stanza:
 
-"`In thy presence, I am happy;
-
+[verse]
+____
+In thy presence, I am happy;
 In thy presence I`'m secure;
-
 In thy presence, all affliction
-
-I can easily endure.`"
+I can easily endure.
+____
 
 She was not forward to speak on sacred subjects;
 though her mind evidently dwelt almost constantly upon them; she seemed sweetly at rest,
@@ -548,29 +554,23 @@ as made her more than conqueror through Him who loved her.
 Two days previous to her decease,
 she repeated in feeble but melodious accents the following lines:
 
-"`How sweet to the soul are the breathings of peace,
-
+[verse]
+____
+How sweet to the soul are the breathings of peace,
 When the still voice of pardon bids sorrow to cease!
-
 When the welcome of mercy falls soft on the ear,
-
 Come hither, ye laden,--ye weary, draw near.
 
-"`There is rest for the soul that on Jesus relies;
-
+There is rest for the soul that on Jesus relies;
 There`'s a home for the homeless, prepared in the skies;
-
 There`'s a joy in believing, a hope, and a stay;
-
 Which the world cannot give, nor the world take away.
 
-"`Oh! had I the wings of a dove; I would fly
-
+Oh! had I the wings of a dove; I would fly
 And mount on the pinions of faith to the sky;
-
 When the still and small breathings on earth that are given.
-
-Shall be changed to the anthem and chorus of heaven.`"
+Shall be changed to the anthem and chorus of heaven.
+____
 
 The Solemn period of death being near, she called for one of her sisters,
 and said to her "`These are the damps of death,
@@ -578,7 +578,7 @@ at least I think so.`" Her sister asked if she was happy;
 to which she answered with much emphasis, "`Yes--I think I am--hope I am--trust I am.`"
 To her younger sister she said, "`Annie, I am going to die; I am going to heaven.`"
 A smile of tranquillity and peace rested on her countenance,
-and when it w as remarked to her how mercifully she was dealt with
+and when it was remarked to her how mercifully she was dealt with
 in being permitted to pass away with so little pain or conflict,
 she calmly said, "`Not yet.`"
 The power of articulation had nearly failed,
@@ -753,7 +753,7 @@ we doubt not, to a better inheritance.
 [.asterism]
 '''
 
-ROBERT BoADLE, of Whitehaven, England, a youth of solid and serious deportment,
+ROBERT BOADLE, of Whitehaven, England, a youth of solid and serious deportment,
 was taken sick in the 2nd month, 1824.
 During his illness, he was preserved in patience,
 so that although his sufferings were great, he was never heard to murmur.
