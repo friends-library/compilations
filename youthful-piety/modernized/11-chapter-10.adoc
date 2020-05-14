@@ -2,11 +2,12 @@
 
 [.chapter-synopsis]
 * William Coates
-* Thomas Phillip
+* Thomas Phillips Wright
 * Mary Barron
+* Hannah H. Hartshorne
 * Mary Brook Swetman
 * Anna Maria Boyce
-* Lydia S. Roger
+* Lydia S. Rogers
 * Thomas Hattersly
 
 WILLIAM COATES, of Sutton, in the Forest, Yorkshire, deceased the 22nd of second month,
@@ -76,7 +77,7 @@ very little of which could be understood: the last words he was heard to say wer
 [.asterism]
 '''
 
-THOMAS PHILLIPs WRIGHT, was a child of early piety,
+THOMAS PHILLIPS WRIGHT, was a child of early piety,
 and throughout the course of his life maintained a steady rectitude of conduct;
 being exemplary in his conversation, dress and address, dutiful to his parents,
 and during his apprenticeship, very diligent in his master`'s business.
@@ -447,13 +448,13 @@ I have many ties to bind me here, but now I give you all up with pleasure.`"
 After a pause,
 "`I have often thought this a beautiful hymn,`" and repeated the first stanza:
 
+[verse]
+____
 God moves in a mysterious way
-
 His wonders to perform;
-
 He plants his footsteps in the sea,
-
 And rides upon the storm.
+____
 
 Observing that those around her were weeping, she said, "`You are all in tears,
 but I have not dropped a tear since I first knew my danger.
@@ -589,7 +590,13 @@ After having it on her mind a number of days,
 she informed her friends that she could not preserve peace of mind,
 without having it done, and accordingly dictated as follows:
 
-"`My dear C+++______+++e: I have long thought of you,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear C+++______+++e,
+
+I have long thought of you,
 with much anxiety for your welfare both here and hereafter;
 and I could not feel easy in my mind without addressing you.
 I have long been confined to a bed of sickness, during which time I have suffered much,
@@ -607,15 +614,15 @@ for in Him is ever lasting strength.
 If you wish to find a place of repentance, pray to your heavenly Father in secret,
 and He will reward you openly.
 
+[verse]
+____
 Prayer is the contrite sinner`'s voice,
-
 Returning from his ways;
-
 While angels, in their songs rejoice,
-
 And cry: "`Behold, he prays`"!
+____
 
-"`It was by prayer that I obtained remission of sins;
+It was by prayer that I obtained remission of sins;
 and it is by prayer that you will find a place of repentance.
 I have long been desirous for your eternal and everlasting welfare;
 and I hope you will be favoured to realize a place of rest:
@@ -628,9 +635,13 @@ As I am too weak to say much more, I must therefore bid you farewell;
 and as we never expect to meet on earth, may we meet in that city which has foundations,
 whose builder and maker is God.
 
+[.signed-section-closing]
 From your truly attached friend,
 
+[.signed-section-signature]
 Anna Maria Boyce.
+
+--
 
 This letter was written a few days before the death of her friend,
 who received much satisfaction and encouragement therefrom,
@@ -638,7 +649,10 @@ and who was in the end favoured with the blessed prospect of inheriting a crown 
 
 Feeling a desire to leave a testimony for her young friends, she dictated the following:
 
-"`I have thought much, during my sickness, of my dear young friends,
+[.embedded-content-document.testimony]
+--
+
+I have thought much, during my sickness, of my dear young friends,
 on account of dress and address;
 believing there never was a time when the love of dress
 prevailed more among young Friends than at the present day.
@@ -688,6 +702,8 @@ and He has put a new song in my mouth, even praise to His name.`"
 O Lord! your mercy reaches unto the heavens, and your faithfulness unto the clouds:
 for you have redeemed those that were afar off,
 and called in sons and daughters who had gone astray as sheep from your fold!
+
+--
 
 A concern also resting upon her mind on account of her brothers and sisters,
 she dictated an affectionate address to them;
@@ -743,7 +759,7 @@ appearing to fall into a gentle sleep, quietly departed, aged twenty-four years.
 [.asterism]
 '''
 
-LYDIA S. ROGERs, daughter of John and Elizabeth Jones, of the city of Philadelphia,
+LYDIA S. ROGERS, daughter of John and Elizabeth Jones, of the city of Philadelphia,
 was born the 16th of sixth month, 1810.
 
 Her disposition was amiable, and being naturally of a cheerful and lively temper,
@@ -859,7 +875,7 @@ to experience a season of great tossing and distress; and when, through mercy,
 a degree of calmness was restored, she remarked,
 "`I feel better now--but what an agonizing time has my poor mind had.
 I fear I have taken hold of promises that do not belong to me.
-Ol I have been such a sinner!`"
+O, I have been such a sinner!`"
 This painful dispensation gradually passed away,
 and on the morning of the 22nd she could say, "`All is peace and comfort,
 though I am very weak.
