@@ -278,6 +278,10 @@ footnote:[P. W. Hall, of whom see a brief account, page 88]
 
 The following extracts are from Isaac Walker`'s letters, written at this period:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Brookfield, 1st month 29th, 1841.
 
 The time has now arrived, a time which I have long anticipated,
@@ -290,9 +294,18 @@ and firm belief in the mercy and long-suffering of the One Great Sacrifice,
 made for mankind, by the Beloved Son, who, to use one of P. W. H.`'s expressions today,
 "`Left the bosom of the Father, and came and offered himself for guilty man.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Brookfield, 2nd month 8th, 1841.
 
-Dear Sisters:--T hope soon to have a little more leisure,
+[.salutation]
+Dear Sisters,
+
+I hope soon to have a little more leisure,
 for since W. A. G.`'s departure, much labour has rested upon me.
 But such times are, or may be, very useful; for it is then,
 that the mind finding peace from no other source, turns, ardently turns,
@@ -308,6 +321,8 @@ How glorious to leave every cumbrance behind, and to soar in faith to the land o
 in hourly expectation of quitting this forever,
 and of being added to the "`hundred and forty and four thousand,`"
 who are continually praising the Lord God and the Lamb.
+
+--
 
 Isaac Walker had a strong predilection for Natural History,
 and often devoted his leisure hours to the study of it.
