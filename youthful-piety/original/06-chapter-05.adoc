@@ -326,7 +326,10 @@ During her stay there, her sister Mary was taken ill and died,
 and the following extracts from a letter addressed to her by Elizabeth,
 show that her mind was no stranger to the important concerns of the soul`'s salvation.
 
-"`I often feel very anxious about thy everlasting welfare,
+[.embedded-content-document.letter]
+--
+
+I often feel very anxious about thy everlasting welfare,
 as well as the rest of the family`'s, but thine more, because thou art so poorly;
 yet I hope the Almighty, who is ever willing to help the poor and needy soul,
 will prepare thee for the awful change, before He takes thee to Himself;
@@ -342,7 +345,7 @@ I remember some very gracious ones, Matt. 11:28 to 30; Ecc. 11:1. and xii.
 and cxx.
 1, and many more thou wilt find in that holy book.
 
-"`My dear sister, I hope thou wilt not be offended at me,
+My dear sister, I hope thou wilt not be offended at me,
 for what I have taken the liberty to write to thee;
 for I have felt very uncomfortable a long time,
 and as if I could not keep it from thee any longer.
@@ -351,7 +354,9 @@ I cannot express what a desire I feel on thy account,
 but I hope thou wilt be prepared! for we know neither the day nor
 the hour when it may please the Almighty to call us away.
 So farewell; if we never meet again in this world, I hope we shall in the next: farewell,
-my very dear sister.`"
+my very dear sister.
+
+--
 
 While thus tenderly solicitous for the eternal welfare of a beloved relative,
 this precious child was not negligent of the state of her own mind;
@@ -547,7 +552,7 @@ it may be more convenient to attend to them.--But,
 ah! little do such disobedient children think,
 that the present time is the only convenient season--their heavenly Father,
 whom they thus slight and neglect, may not visit them again by his good Spirit;
-and in the midst of their play and folly, death may cut them off May all, therefore,
+and in the midst of their play and folly, death may cut them off. May all, therefore,
 of whatever age, hearken to the reproofs of this divine monitor,
 surrender their whole hearts to the Lord, and obey his blessed instructions;
 for this is the way to obtain eternal life.
@@ -578,6 +583,10 @@ and patiently endured those refining baptisms which were necessary to purify her
 we doubt not, she is entered into the joy of her Lord;
 and through his mercy joined the innumerable company of redeemed children,
 to sing the praises of the Lord God and the Lamb, through the endless ages of eternity.
+
+[.asterism]
+'''
+
 CHARLES COLEBY of Alton, in Hampshire, England, was the son of Joshua and Mary Coleby,
 of London.
 

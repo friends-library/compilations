@@ -176,13 +176,13 @@ it is a dreadful thing to die in an unprepared state;
 a dreadful thing to be brought upon a dying bed and no Saviour to look to.`"
 After a pause she repeated the Lord`'s prayer, and in a little time, the following lines:
 
-"`Great God! thy name be blessed,
-
+[verse]
+____
+Great God! thy name be blessed,
 Thy goodness be adored;
-
 My soul has been distressed,
-
-But thou hast peace restored.`"
+But thou hast peace restored.
+____
 
 Several times during the course of the day she said--"`Your will be done.
 I have no other,`" which indeed appeared to be the
