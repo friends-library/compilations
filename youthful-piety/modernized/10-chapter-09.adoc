@@ -34,25 +34,25 @@ particularly as related to the lighter part of her reading;
 the bible now affording her the greatest satisfaction.
 She would frequently query, in the language of Newton,
 
-"`Tis a point I long to know,
-
+[verse]
+____
+Tis a point I long to know,
 Oft it causes anxious thought;
-
 Do I love the Lord or no,
-
-Am I His or am I not!`"
+Am I His or am I not!
+____
 
 This profitable self-examination was sometimes succeeded
 by grateful acknowledgment of the Lord`'s goodness and mercy,
 saying,
 
-"`Jesus sought me, when a stranger,
-
+[verse]
+____
+Jesus sought me, when a stranger,
 Wandering from the fold of God;
-
 He, to rescue me from danger,
-
-Interposed his precious blood.`"
+Interposed his precious blood
+____
 
 Her illness, which was consumption, made rapid progress and soon confined her to the bed.
 After a fit of coughing attended with acute pain in the side, she observed,
@@ -67,13 +67,13 @@ expressed her love for, and hope in, her dear Redeemer.
 Throwing her trembling arms around her mother`'s neck, she softly repeated these lines,
 which so feelingly allude to the faithfulness of the Lord`'s love to his redeemed children,
 
-"`Can a mother`'s tender care
-
+[verse]
+____
+Can a mother`'s tender care
 cease towards the child she bare?
-
 Yes--she may forgetful be,
-
-Yet will I remember thee.`"
+Yet will I remember thee.
+____
 
 She remarked on one occasion that "`she had gone through many deep
 baptisms and inward conflicts during the early part of her illness,
@@ -281,14 +281,13 @@ she gratefully acknowledged the change.
 On third-day, the 23rd, her uncle coming to the bed side,
 she repeated the following lines--
 
-"`Oh!
-Teach me, in the trying hour
-
+[verse]
+____
+Oh! Teach me, in the trying hour
 When anguish swells the dewy tear,
-
-To still my sorrows--own they power--
-
+To still my sorrows--own thy power--
 They goodness love--thy justice fear.
+____
 
 Her pain returning, she interceded after this manner, "`Gracious Lord,
 be pleased to mitigate my pain, or enable me to bear it with patience`"--again,
@@ -376,7 +375,7 @@ yet there is good reason to believe that these afflictions were sanctified to he
 tending to wean her affections from everything earthly and to fix them on heaven,
 engaging her to walk as a pilgrim and stranger upon earth.
 
-In the year 1830, she wis attacked with a disease which was considered to be mortal,
+In the year 1830, she was attacked with a disease which was considered to be mortal,
 and was brought so low that her medical attendants believed her to be dying.
 She took leave of her beloved connections with sweet composure, saying,
 "`May the evening of your day, my beloved parents,
@@ -509,9 +508,11 @@ itself make heaven a very bright and a very glorious place.`"
 On the evening of 9th of fourth month, being in extreme suffering,
 she repeated with much emphasis:
 
+[verse]
+____
 How sweet to think of rest at last.
-
 To feel that death is gain!
+____
 
 On the 11th a faintness came over her, which induced her to say, "`O mother,
 I am either very faint or I am going,--am I going!`"
@@ -560,9 +561,11 @@ which was very comfortable.
 All I have to do now is, to pray that patience may hold out to the end.`"
 A near relation going to see her, she spoke of his making her coffin, and added,
 
-"`I long to see my Saviour`'s face,
-
-That I may sing redeeming grace`"
+[verse]
+____
+I long to see my Saviour`'s face,
+That I may sing redeeming grace
+____
 
 Nearly the last words she uttered were, "`Lord Jesus, if it be your most holy will,
 come quickly--quickly--quickly,`" and with a sweet smile resting on her fixed features,
@@ -592,8 +595,8 @@ I have not been so watchful as I ought to have been,
 but I hope all my sins are now forgiven me, through Jesus Christ,
 who died upon the cross.
 Read the Scriptures more than you have done; also Friends`' books,
-particularly Barclay`'s Apology`"--He frequently said he
-thought Barclay`'s Apology was not enough read;
+particularly Barclay`'s [.book-title]#Apology#--He frequently said he
+thought Barclay`'s [.book-title]#Apology# was not enough read;
 that every member of the Society of Friends should read it carefully; adding,
 that he had received much instruction from it.
 
@@ -781,37 +784,28 @@ I believe they would be more careful in employing it to the best advantage.`"
 
 The following lines were found pencilled in her pocket book:
 
+[verse]
+____
 Sweet the hours of resignation,
-
 When the soul can firmly cry,
-
 Lord! each painful tribulation
-
 Patiently to bear, I`'ll try.
 
 Oft, the mind knows no restriction
-
 Till the pangs of anguish come;
-
 Softened then by each affliction,
-
 Gladly it would seek a home.
 
 Sweeter than a couch of roses,
-
 Does this bed of sickness prove,
-
 While my soul in faith reposes
-
 On the Saviour`'s arm of love.
 
 Jesus! mayest thou still be near me,
-
 May thy light forever shine;
-
 May thy holy presence cheer me--
-
 And, at last, may I be thine.
+____
 
 [.asterism]
 '''
@@ -850,9 +844,11 @@ On the 14th of sixth month he writes in reference to this circumstance:
 "`This information neither alarms nor disappoints me, which is a favour.`"
 It being remarked to him that it was hoped he could adopt the lines,
 
+[verse]
+____
 Sweet to lie passive in His hand
-
 And know no will but His.
+____
 
 He was silent for some time, and then said,
 "`'`And know no will but his,`' is saying a great deal; but I hope I can say as much.`"
