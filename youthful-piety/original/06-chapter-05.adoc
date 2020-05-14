@@ -377,8 +377,6 @@ and her resignation to his blessed will--and also gave good
 advice to her relations and others who came too see her.
 A few of those noted down by her mother, are as follows:
 
-[quote]
-____
 13th of fifth month, 1825.
 She said she ought to bear all that was laid upon her with patience;
 but felt so weak both in body and mind, she did not know what she must do;
@@ -426,7 +424,6 @@ I hope my brothers and sisters,
 and near relations will be here to see this poor
 bit of clay committed to the silent grave;
 and I believe it will not be long before I am gone hence.`"
-____
 
 At another time she remarked what a favour it was
 that she was likely to be taken away in her youth,
@@ -586,6 +583,10 @@ and patiently endured those refining baptisms which were necessary to purify her
 we doubt not, she is entered into the joy of her Lord;
 and through his mercy joined the innumerable company of redeemed children,
 to sing the praises of the Lord God and the Lamb, through the endless ages of eternity.
+
+[.asterism]
+'''
+
 CHARLES COLEBY of Alton, in Hampshire, England, was the son of Joshua and Mary Coleby,
 of London.
 
