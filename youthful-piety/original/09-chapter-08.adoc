@@ -103,7 +103,10 @@ through the power of the daily cross,
 we should live unto Him who died for us and rose again, having our fruit unto holiness,
 the end whereof is everlasting life, through Jesus Christ our Lord.
 
-The following testimony concerning George Newland was given by Friends in Dublin, viz:--
+The following testimony concerning George Newland was given by Friends in Dublin, viz:
+
+[.embedded-content-document.testimony]
+--
 
 It pleased the Lord to favour this youth with a gracious visitation,
 even in his childhood, and so to prepare him for his service whereunto he appointed him,
@@ -160,7 +163,10 @@ to where the wicked cease from troubling and the weary are at rest.
 From our Meeting in Dublin, the 19th of the second month,
 1709--And signed on behalf of the said meeting by,
 
+[.signed-section-signature]
 Amos Strattell, Richard Sealey, George Rook.
+
+--
 
 [.asterism]
 '''
@@ -338,11 +344,14 @@ which being cherished by his parents,
 as he advanced towards manhood the seed of the kingdom sprung up in his heart,
 producing those blessed fruits of the Spirit, the end whereof is everlasting life.
 He was a good example in his words and actions,
-and was generally beloved by his acquaintance.
+nand was generally beloved by his acquaintance.
 
 In a letter addressed to a youth with whom he had
 formed an intimate acquaintance at school,
 he says,
+
+[.embedded-content-document.letter]
+--
 
 I hope as we travel on through this transitory state,
 we shall be enabled to cast the cares of this world behind us,
@@ -352,7 +361,9 @@ beyond all doubt, that all those who trust in Him, will not lack the bread of li
 The following extracts from a diary which he kept,
 may serve to evince the state of his mind, as well as furnish instruction to the reader.
 
-"`Eleventh month, 9th, 1783.
+[quote]
+____
+Eleventh month, 9th, 1783.
 The Lord showed me to my great comfort,
 that my dependence must be on him--so that I began
 to inquire how it stood with me and my God.
@@ -366,7 +377,7 @@ A voice passed through me, saying,
 for unto that man that ordereth his conversation aright will I shew my salvation.
 Thy mind must be set on heavenly things, and thy conversation on heaven.`"
 
-"`Eleventh month, 29th. For the last three days nothing material has occurred.
+Eleventh month, 29th. For the last three days nothing material has occurred.
 But glory be to our God, for he hath dealt wonderfully with his servant.
 I cannot express the comfort I have had in keeping
 to the operation of the Word of life in my own heart.
@@ -383,13 +394,18 @@ to the convincement of thousands that the Lord is God.
 Blessed be his name, saith my soul, for taking me by the hand,
 and leading me out of the paths of vanity!
 May I be enabled to evince, by my words and actions,
-that in conversation the Lord is to be praised, an honoured in stillness.`"
+that in conversation the Lord is to be praised, an honoured in stillness.
+____
 
 Soon after this, it pleased the Lord to call him to the work of the gospel ministry,
 being in the eighteenth year of his age.
 In allusion to his entering upon this awful engagement,
 he says in a letter to his mother,
-"`The Lord hath been pleased to pluck my feet out of the miry clay,
+
+[.embedded-content-document.letter]
+--
+
+The Lord hath been pleased to pluck my feet out of the miry clay,
 and to open my mouth to make known his will amongst his people.
 I hope it will ever be my care to keep near him,
 as I have experienced a drawing near of the Lord to me.
@@ -397,28 +413,32 @@ My heart is broken and contrited, blessed be his holy name.
 Oh! entreat my brothers from me, to follow after the Lord in purity and holiness,
 and to wait for his counsel.
 Oh! that I could express the hundredth part of what I feel in being
-renewed in his counsel! but I must leave them to the Lord.`"
+renewed in his counsel! but I must leave them to the Lord.
 
-"`The 2nd of the twelfth month.
+--
+
+[quote]
+____
+The 2nd of the twelfth month.
 This day a cloud covered me, and a temptation wounded my soul.
 I was drawn to consider how the Lord pardoned the thief on the cross,
 and to make it a cloak for trusting to a dying hour--but
 I felt the rod that chastised me,
 and heard a voice, saying, "`How camest thou to take thought against thy God?
-He will not be slighted, but looked unto with a single heart for help.`'`"
+He will not be slighted, but looked unto with a single heart for help.`'
 
-"`The 11th. I found, during my late journey, that while my mind was turned inward,
+The 11th. I found, during my late journey, that while my mind was turned inward,
 His presence was with me.
 I was preserved in the truth, to my inexpressible comfort--O may I always keep watch,
-lest the enemy draw my mind from being stayed on the Lord.`"
+lest the enemy draw my mind from being stayed on the Lord.
 
-"`The 17th. Many are the temptations which the enemy lays to draw my mind from the Lord.
+The 17th. Many are the temptations which the enemy lays to draw my mind from the Lord.
 But, look thou, O my soul, to the Lord,
 with unfeigned sincerity and with full purpose of heart,
 in the humility of that Spirit which enlightens thee
-and strengthens thee against them all.`"
+and strengthens thee against them all.
 
-"`The 4th of the first month, 1784.
+The 4th of the first month, 1784.
 This day I went to Littleport meeting, where I spoke a few words.
 Oh! how I felt the Lord with me this day--blessed be his name.
 Many were the breathings of my soul,
@@ -428,9 +448,9 @@ Oh! that it was the care of all those who profess with us,
 that nothing might be done but to the glory of God--that
 we might say '`Thine is the kingdom,
 the power, and the glory, forever.
-Then should we answer our high and holy calling.`"
+Then should we answer our high and holy calling.
 
-"`The 17th of the second month.
+The 17th of the second month.
 This day in my retired thoughts I was made sensible how much we
 ought to keep ourselves in humble reverence to our God,
 under a consciousness of His omniscience and our nothingness.
@@ -441,27 +461,28 @@ they would testify against everything of a contrary tendency,
 knowing that God is jealous of his honour,
 and will be sough unto with fear and trembling.
 David saith, Ps. lxxvi.) '`Thou, even thou art to be feared,
-and who may stand in thy sight when once thou art angry.`'`"
+and who may stand in thy sight when once thou art angry.`'
 
-"`The 19th. This day was a day of hard labour to me,
+The 19th. This day was a day of hard labour to me,
 because I was off my guard last night, by entering into a long and needless discourse,
 which drew my mind from the Lord.
 But he was good to me and heard me when I cried;
 for my spirit was bowed down in humility before him--and
 heavenly joy abounded when I confessed my error to Him.
-This is an evil into which many of our society fall who have been religiously inclined.`"
+This is an evil into which many of our society fall who have been religiously inclined.
 
-"`The 9th of the third month.
+The 9th of the third month.
 I saw I could not be in such a humble state as l had been called to come into,
 without I became as clay in the hands of the great Potter.
 I saw that my body was to be the temple of the Holy Ghost,
-and that no defiling thing must lodge within me.`"
+and that no defiling thing must lodge within me.
 
-"`The 16th of the fourth month.
+The 16th of the fourth month.
 I find that the more I give up my mind to seek the kingdom of God and his righteousness,
 the more I advance in the work; the more I keep in the power, the stronger I grow.
 My soul longeth for the living God--yea, my inward cry is raised for the bread of life,
-more than the natural man hungereth after natural food.`"
+more than the natural man hungereth after natural food.
+____
 
 This appears to be the last entry made in his journal; shortly after,
 his health began to decline, and symptoms of pulmonary consumption ensued.
