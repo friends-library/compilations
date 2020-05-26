@@ -477,8 +477,8 @@ J+++.+++ B.
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-A short Testimony concerning our dear and ancient friend John Haydock.
+[.blurb]
+=== A short Testimony concerning our dear and ancient friend John Haydock.
 
 We could not stand acquitted before God or men,
 to have buried the corpse of this our worthy friend with a few short sighs,

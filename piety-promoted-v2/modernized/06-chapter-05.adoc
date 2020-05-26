@@ -38,9 +38,8 @@ not only for my own growth, but that I might be exemplary to others.`'
 [.embedded-content-document.letter]
 --
 
-[.letter-heading]
-The quarterly-meeting at Kendal gave the following testimony,
-the 17th of the Second month, 1712, concerning John Dickinson:
+[.blurb]
+=== The quarterly-meeting at Kendal gave the following testimony, the 17th of the Second month, 1712, concerning John Dickinson:
 
 He was one whom the Lord was pleased to visit in his young and tender years.
 In the time of his apprenticeship he was convinced of the blessed truth,

@@ -122,7 +122,6 @@ in the latitude of 46 degrees and 36 minutes.
 [.asterism]
 '''
 
-[.letter-heading]
 Concerning a Child about Thirteen Years Old
 JOSEPH BRIGGINS, son of William Briggins of Bartholomew Close, in London,
 having been a dutiful child to his parents, and ready to receive instruction,

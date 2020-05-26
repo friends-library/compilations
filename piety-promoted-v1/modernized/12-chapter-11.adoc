@@ -77,10 +77,8 @@ and was buried at Friends`' burying-ground, at Sedbergh meeting-house.
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-The Testimony of Isaac Alexander concerning James Baines,
-in a letter dated the 8th of the Tenth month, 1705,
-who also died the 11th of the Twelfth month, after him.
+[.blurb]
+=== The Testimony of Isaac Alexander concerning James Baines, in a letter dated the 8th of the Tenth month, 1705, who also died the 11th of the Twelfth month, after him.
 
 Our truly beloved and esteemed friend, James Baines,
 departed this life the 1st of this instant; and though he was afflicted with great pain,
@@ -655,7 +653,6 @@ a believer in truth fifty-two years.
 [.asterism]
 '''
 
-[.letter-heading]
 An Account of some remarkable words spoken by HAYES HAMILTON, son of Hugh Hamilton,
 of Ireland, a little before his death.
 Aged twelve years.

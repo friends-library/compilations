@@ -135,7 +135,7 @@ She died the 27th of the Eighth month, 1678, in the nineteenth year of her age.
 [.asterism]
 '''
 
-THE words and testimony of THOMAS GETTOS, of Bandon, in Ireland,
+The words and testimony of THOMAS GETTOS, of Bandon, in Ireland,
 about eight hours before his departure out of this life.
 He was weak in body, but fervent in mind, and perfect in memory;
 taken from his mouth the 22nd of the Third month, 1682.
@@ -436,10 +436,8 @@ in the thirty-fourth year of her age.
 [.embedded-content-document.epistle]
 --
 
-[.letter-heading]
-A few words of tender counsel and advice to Friends,
-given forth by Mercy Johnson upon her dying bed, two days before she died;
-which she desired might be communicated to Friends.`'
+[.blurb]
+=== A few words of tender counsel and advice to Friends, given forth by Mercy Johnson upon her dying bed, two days before she died; which she desired might be communicated to Friends.
 
 Dear friends, both old and young, wherever these may come, my love salutes you dearly,
 desiring the welfare of your bodies and souls.

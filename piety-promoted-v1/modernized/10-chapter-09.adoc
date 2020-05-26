@@ -532,8 +532,8 @@ as a testimony of her good will and love to them all; which is as follows.`'
 [.embedded-content-document.testimony]
 --
 
-[.letter-heading]
-The Testimony of Priscilla Cotton, to Friends, the day she died.
+[.blurb]
+=== The Testimony of Priscilla Cotton, to Friends, the day she died.
 
 All my dear friends, who have found your Redeemer, oh! wait upon him at all times,
 that you may stand continually in his presence where life is,

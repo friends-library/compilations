@@ -88,14 +88,11 @@ after he had spoken several precious words to those that were with him upon his 
 to give forth the following paper, which was taken from him by Andrew Shepperd,
 and being remarkable and prophetical, it is here inserted:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.paper]
 --
 
-[.letter-heading]
-A word of exhortation and warning from the servant of the Lord, Edward Jefferys,
-written on the 4th of the Eleventh month, 1685.
-The power of the Lord was in him,
-and it constrained him powerfully to exhort all to faithfulness, saying,
+[.blurb]
+=== A word of exhortation and warning from the servant of the Lord, Edward Jefferys, written on the 4th of the Eleventh month, 1685. The power of the Lord was in him, and it constrained him powerfully to exhort all to faithfulness, saying,
 
 Dear hearts! a trying day is yet coming on this nation;
 for the Lord will yet farther visit it, and he will sweep away thousands to the grave.
