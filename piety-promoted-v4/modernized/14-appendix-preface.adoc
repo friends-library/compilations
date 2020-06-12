@@ -1,20 +1,4 @@
-[#appendix-preface.old-style, short="Preface to the Appendix"]
-== Appendix to Piety Promoted / Containing Brief Biographical Notices of Some of the Members of the Religious Society of friends.
-
-[.chapter-subtitle-blurb.centered]
-By William and Thomas Evans
-
-[quote.scripture]
-____
-"`Not by works of righteousness which we have done,
-but according to his mercy he saved us by the washing
-of regeneration and renewing of the Holy Ghost;
-which he shed on us abundantly through Jesus Christ our Savior;
-that being justified by his grace we should be made
-heirs according to the hope of eternal life.`"
-____
-
-=== Preface
+== Preface
 
 The following accounts have chiefly been compiled from a
 collection of memorials published in the last century under the
