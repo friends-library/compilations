@@ -68,11 +68,11 @@ and shut him out in the yard all night, being in the coldest time in all the win
 By these cruelties he grew weaker and weaker,
 finding no mercy at the hands of his enemies.
 Near his departure he said (being all along borne up in much patience),
-'`Here I die innocently:`' and further said, '`Now I must go: '`and turned his head,
+'`Here I die innocently:`' and further said, '`Now I must go:`' and turned his head,
 and said, '`This death I must die:
-'`I have seen glorious things;`' and to his friends about him, '`Will you hold me?`'
+I have seen glorious things;`' and to his friends about him, '`Will you hold me?`'
 One of them said, '`Dear heart, we will not hold you.`'
-Then he said, '`Now I will go: '`and stretching himself out,
+Then he said, '`Now I will go:`' and stretching himself out,
 fell into a sweet sleep for about an hour (as he often had said,
 one hour`'s sleep would cure him of all), and so drew breath no more.
 He died about the nineteenth year of his age, in the year 1656.
@@ -210,7 +210,10 @@ Here follows a copy of William Robinson`'s paper, offered to the court,
 before he was sentenced to death, concerning their coming into those parts,
 for which they were put to death; which was denied by the governor to be read.
 
-'`On the 8th day of the Eighth month, 1659, in the after part of the day,
+[.embedded-content-document.paper]
+--
+
+On the 8th day of the Eighth month, 1659, in the after part of the day,
 in traveling between Newport in Rhode Island and Daniel Gould`'s house,
 with my dear brother Christopher Holder, the Word of the Lord came expressly to me,
 which did fill me immediately with life and power, and heavenly love,
@@ -224,16 +227,16 @@ who filled me with living strength and power from his heavenly presence,
 which at that time did mightily overshadow me,
 and my life at that time did say amen to what the Lord required of me,
 and had commanded me to do, and willingly I was given up from that time to this day,
-the will of the Lord to do and perform, whatever became of my body.`'
+the will of the Lord to do and perform, whatever became of my body.
 
-For the Lord had said unto me, My soul shall live in everlasting peace,
+For the Lord had said unto me, my soul shall live in everlasting peace,
 and my life shall enter into rest, for being obedient to the God of my life.
 I being a child, dared not question the Lord in the least,
 but rather willing to lay down my life than to bring dishonor to the Lord.
 And as the Lord made me willing, dealing gently and kindly with me,
 as a tender father by a faithful child whom he tenderly loves,
 so the Lord did deal with me, in ministering his life unto me,
-which gave and gives me strength to perform what.the Lord required of me.
+which gave and gives me strength to perform what the Lord required of me.
 And still as I did and do stand in need,
 he ministered and ministers more strength and virtue, and heavenly power and wisdom,
 whereby I was and am made strong in God,
@@ -242,10 +245,10 @@ which is meekness and innocence, for the cause is the Lord`'s that we go in,
 and the battle is the Lord`'s; and thus says the Lord of Hosts,
 the mighty and the terrible God, "`Not by strength, nor by might, nor by power of man,
 but by my Spirit,`" says the Lord of Hosts.
-I will perform what my mouth has spoken, through my servants, whom I have chosen;
+'`I will perform what my mouth has spoken, through my servants, whom I have chosen;
 mine elect, in whom my soul delights.`'
 
-'`Friends, the God of my life, and the God of the whole earth, did lay this thing upon me,
+Friends, the God of my life, and the God of the whole earth, did lay this thing upon me,
 for which I now suffer bonds near unto death.
 He, by his Almighty power, and everlasting love, constrained me,
 and laid this thing upon me, and truly I could not deny the Lord,
@@ -255,7 +258,7 @@ be not hasty in judging in this matter, lest you speak evil of the thing you kno
 Of a truth, the Lord God of heaven and earth commanded me by his spirit,
 and spoke unto me by his Son, whom he has made heir of all things,
 and in his life I live, and in it I shall depart this earthly tabernacle,
-if unmerciful men be allowed to take it from me.`'
+if unmerciful men be allowed to take it from me.
 
 Herein I rejoice, that the Lord is with me, the Ancient of Days,
 the Life of the suffering Seed, for which I am freely given up,
@@ -270,9 +273,9 @@ Blessed be the Lord God of my life, who has counted me worthy, and called me her
 to bear my testimony against ungodly and unrighteous men,
 who seek to take away the life of the righteous without a cause;
 as the rulers of Massachusetts Bay do intend,
-if the Lord stop them not from their intent.`'
+if the Lord stop them not from their intent.
 
-'`Oh! hear you rulers, and give ear and listen,
+Oh! hear you rulers, and give ear and listen,
 all you that have any hand herein to put the innocent to death, for in the name,
 and fear, and dread of the Lord God,
 I here declare the cause of my staying here among you,
@@ -285,7 +288,7 @@ And now, you rulers, you do intend to put me to death, and my companion,
 unto whom the word of the Lord came, saying,
 Go to Boston with your brother William Robinson.
 Unto which command he was obedient, who had said unto him,
-he had a great work for him to do.`'
+he had a great work for him to do.
 This thing is now seen, and the Lord is now doing it; and it is in obedience to the Lord,
 the God of the whole earth, that we continued among you,
 and that we came to the town of Boston again, in obedience to the Lord,
@@ -298,20 +301,27 @@ Not only upon yourselves will you bring innocent blood, but upon the town,
 and the inhabitants thereof, and everywhere within this jurisdiction,
 that had the least hand therein.
 Therefore be instructed, you rulers of this land, and take warning betimes,
-and learn wisdom, before it be hid from your eyes.`'
+and learn wisdom, before it be hid from your eyes.
 
-_Written in the common jail the 19th of the Eighth month, 1659, in Boston,
+[.postscript]
+====
+
+Written in the common jail the 19th of the Eighth month, 1659, in Boston,
 by one who fears the Lord, who is by ignorant people called a Quaker,
 and unto such am I only known by the name of William Robinson,
-yet a new name have I received, which such know not.`'_
+yet a new name have I received, which such know not.
 
-[.embedded-content-document.letter]
+====
+
 --
 
 Here follows a copy of Marmaduke Stevenson`'s paper
 of his call to the work and service of the Lord,
 given forth by him a little before he was put to death,
 and after he had received his sentence.
+
+[.embedded-content-document.paper]
+--
 
 In the beginning of the year 1655, I was at the plough in the east parts of Yorkshire,
 in old England, near the place where my outward being was.
@@ -334,7 +344,7 @@ unto which I was required of the Lord to go, and leave my dear and loving wife,
 and tender children; for the Lord said unto me, immediately by his Spirit,
 that he would be as a husband to my wife, and as a father to my children,
 and they should not lack in my absence, for he would provide for them when I was gone.
-I believed the Lord would perform.what he had spoken,
+I believed the Lord would perform what he had spoken,
 because I was made willing to give up myself to his work and service,
 to leave all and follow him, whose presence and life is with me,
 where I rest in peace and quietness of spirit, with my dear brother,
@@ -342,10 +352,10 @@ under the shadow of His wings,
 who has made us willing to lay down our lives for his name`'s sake,
 if unmerciful men be allowed to take them from us; and if they do,
 we know we shall have peace and rest with the Lord forever in his holy habitation,
-when they shall have torment night and day.`'
+when they shall have torment night and day.
 
 In obedience to the living God,
-I made preparation to pass to Barbados in the Fourth month, 1658.
+I made preparation to pass to Barbados in the fourth month, 1658.
 After some time that I had been on the said island in the service of God,
 I heard that New England had made a law to put the servants of the living God to death,
 if they returned after they were sentenced away, which did come near me at that time;
@@ -443,7 +453,7 @@ till by your order and the people I was so far disturbed,
 that I could not retain any more of the words thereof,
 than that I should return to prison and there remain forty and eight hours,
 to which I submitted, finding nothing from the Lord to the contrary,
-that r may know what his pleasure and counsel is concerning me, on whom I wait therefor;
+that I may know what his pleasure and counsel is concerning me, on whom I wait therefore;
 for he is my life, and length of my days; and as I said before, I came at his command,
 and go at his command.
 
@@ -462,7 +472,7 @@ On the 31st of the same she was sent for to the general court,
 where the governor said to her,
 
 [.discourse-part]
-_Governor:_ Are you the same Mary Dyer that was here the last general sessions?`'
+_Governor:_ Are you the same Mary Dyer that was here the last general sessions?
 
 [.discourse-part]
 _Mary Dyer:_ I am the same Mary Dyer.
@@ -677,9 +687,9 @@ Being encompassed with the guards, and as he was about to ascend the ladder, he 
 And standing where the guards ordered him,
 with an exceedingly fresh living countenance he spoke to the people, and said,
 '`For bearing my testimony for the Lord against deceit, and the deceived,
-am I brought here to suffer: '`which much affected the people.
+am I brought here to suffer:`' which much affected the people.
 And as the executioner was putting the halter about his neck,
-in the meek ness and sense of Christ Jesus he said, '`I commit my cause to you, O God.`'
+in the meekness and sense of Christ Jesus he said, '`I commit my cause to you, O God.`'
 And just at turning off the ladder he called out, '`Lord Jesus receive my spirit.`'
 
 [.embedded-content-document.epistle]
@@ -704,7 +714,7 @@ Alas!
 What can the wrath and spirit of man that lusts to envy,
 aggravated by the heat and strength of the king of the locusts,
 which came out of the pit, do unto one that is hid in the secret places of the Almighty?
-or unto them that are gathered under the healing wings of the prince of peace?
+Or unto them that are gathered under the healing wings of the prince of peace?
 Under his armor of light they shall be able to stand in the day of trial,
 having on the breast-plate of righteousness, and the sword of the spirit,
 which is their weapon of war against spiritual wickedness, principalities and powers,
