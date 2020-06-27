@@ -258,8 +258,8 @@ She was a great lover of retirement, and much given to prayer, contemplation,
 reading of the Holy Scriptures, and spent much of her time alone in her chamber;
 so that frequently, when her husband returned home from his affairs abroad,
 he found her weeping; upon which he has sometimes said to her,
-'`If some persons saw you at these times, they might think you were under discontent:
-'`her answer was, '`No, my dear, there is nothing at all of that;
+'`If some persons saw you at these times, they might think you were under discontent:`'
+her answer was, '`No, my dear, there is nothing at all of that;
 but the Lord`'s power and presence has broken my heart and tendered my spirit,
 in a living sense of his goodness and tender dealings towards me.
 I can say he is truly good to my soul,
@@ -280,9 +280,12 @@ The day before she died, Samuel Waldenfield and John Field coming to visit her,
 she was much revived, and spoke to this purpose, as follows,
 directing her speech to Samuel Waldenfield.
 
-'`I had a desire to see you,
-and to invite you to my burial,`' she having sent for him the day before; '`but I hope,
-'`said she to John Field, '`you will not take it amiss that I spoke first to Samuel,
+[.embedded-content-document.testimony]
+--
+
+I had a desire to see you,
+and to invite you to my burial,`' she having sent for him the day before; '`but I hope,`'
+said she to John Field, '`you will not take it amiss that I spoke first to Samuel,
 for I did not know of your coming.
 Your visit being altogether free, I kindly accept of it as freely,
 and desire you also to be at my burial.
@@ -306,14 +309,14 @@ I have blessed the Lord many a time that ever I was born of her.
 I speak not these things boastingly; no, for what am I but a poor lump of clay?
 But only to extol the powerful name and goodness of my God,
 who has been so bountiful and gracious to me,
-for there is forgiveness and mercy with him, that he may be feared.`'
+for there is forgiveness and mercy with him, that he may be feared.
 
-'`Therefore be encouraged to keep faithful to the Lord,
+Therefore be encouraged to keep faithful to the Lord,
 all that are within the hearing of my voice, both husband, friends, and servants.
 I exhort you all, do justly, love mercy, and walk humbly with your God,
-that so it may be said unto us all, Come, you blessed of my Father;
-which is what my soul has desired, and that I might never hear that dreadful sound, Go,
-you cursed.
+that so it may be said unto us all, '`Come, you blessed of my Father;`'
+which is what my soul has desired, and that I might never hear that dreadful sound, '`Go,
+you cursed.`'
 The Lord has answered my desire this day, and has loosed my tongue,
 that was ready to cleave to the roof of my mouth,
 and has strengthened me to praise his great and honorable name.
@@ -323,7 +326,9 @@ that I may be preserved and kept in patience to the end;
 for it is they that hold out to the end that shall be saved.
 And though I have a dear and tender husband, and lack nothing that is convenient for me,
 yet I can freely part with all.
-I hope the Lord will preserve him near to himself to the end of his days.`'
+I hope the Lord will preserve him near to himself to the end of his days.
+
+--
 
 Cornelius Mason coming in, she said,
 '`Remember my dear love to your wife and dear children; she has been kind in visiting me,
@@ -364,11 +369,11 @@ and desired that she might hold out to the end in true patience.
 She desired George Whitehead also to be at her burial,
 and after he had spoken a few words in prayer and supplication on her behalf,
 she parted with him in much love and unity.
-Afterwards she said, '`O that I had wings like a dove! for then would I fly away,
+Afterwards she said, '`O that I had wings like a dove! For then would I fly away,
 and be at rest:`' with many other living and heavenly expressions.
 
 These things are written,
-riot only for the comfort but encouragement of those who are yet behind,
+not only for the comfort but encouragement of those who are yet behind,
 to love the Lord above all, and follow him fully,
 that he may not forsake them in the day of distress.
 This Friend often said the eternal God was her refuge,
@@ -387,7 +392,7 @@ and was buried at Friends`' burial ground in Bunhill-fields, London.
 
 JOHN BOWRON, was born at Cotherstone in Yorkshire, near Barnard-Castle, in the year 1627,
 which was the place of his outward habitation to his death.
-He received the truth by`' the ministry of George Fox and James Nayler,
+He received the truth by the ministry of George Fox and James Nayler,
 when they came into those parts; which was about the year 1653.
 Soon after he went to Stratford steeple-house, and preached to the priest and people,
 and from there to the cross, and at Barnard-Castle, and at Rumbel steeple-house,
@@ -467,10 +472,10 @@ I have seen many good days.
 I have seen the wonders of God both by sea and land.
 The sea saw the wonders of God, and fled, and Jordan was driven back.`'
 
-Sometimes he would pray to the Lord, saying, Lord bless this nation,
+Sometimes he would pray to the Lord, saying, '`Lord bless this nation,
 and the city of London, which I dearly love.`'
 The night before he died, Thomas Raylton came to visit him, and being told who it was,
-he said, '`Thomas, pray with me, '`and he did so,
+he said, '`Thomas, pray with me,`' and he did so,
 and the presence of God was felt among them, and praises were given to the Lord.
 Though he was weak in body, yet strong in the inward man,
 and expressed his satisfaction with that opportunity.
@@ -500,7 +505,7 @@ things both new and old came forth of the treasury of wisdom.
 His testimony was comfortable to the hearts of the people, in the sense of God`'s love,
 who is the author of all good to his people; a man zealous for good order in the church,
 and skillful to accommodate differences when they happened.
-He travelled in the work of the gospel in, Maryland, Long Island, Rhode Island,
+He travelled in the work of the gospel in Maryland, Long Island, Rhode Island,
 and New England, where his service was effectual to the people,
 and to himself a great satisfaction.
 
@@ -534,7 +539,7 @@ and other instruments employed by them.
 She travelled in several places, bearing testimony for truth in the living power of God.
 She also in her life-time gave forth several good papers, which are printed; and lastly,
 the day she died, she left a paper for Friends,
-as a testimony of her good will and love to them all; which is as follows.`'
+as a testimony of her good will and love to them all; which is as follows.
 
 [.embedded-content-document.testimony]
 --
@@ -545,7 +550,7 @@ as a testimony of her good will and love to them all; which is as follows.`'
 All my dear friends, who have found your Redeemer, oh! wait upon him at all times,
 that you may stand continually in his presence where life is,
 that with the light you receive from him, you may see your thoughts, and deny them,
-that in stayedness you may be kept, when the hasty froward spirit would arise,
+that in stayedness you may be kept, when the hasty forward spirit would arise,
 and keep it down.
 With the measure of God`'s spirit all may be weighed, the words to what they tend,
 that no lightness may appear in your words, nor unsavoriness, that no offense come,
@@ -568,7 +573,7 @@ but daily, even to the death, as long as a desire, will or thought remains in yo
 contrary to God`'s pure light, and judge it by it; and as you wait in the light,
 you will come to know a cross in the use of meat, drink, and apparel,
 and keep to the cross when alone, or in company;
-what the pure mind of God stands against in you, that the cross is against.`'
+what the pure mind of God stands against in you, that the cross is against.
 
 So friends, watch daily to keep Christ`'s command,
 '`Take up your daily cross;`' be not at liberty one day, but deny your own will,
@@ -770,15 +775,15 @@ saying to Friends about him, '`It is not in my heart to repent of the offer I ha
 
 He was cheerful, notwithstanding his great affliction of body;
 and exhorted Friends to faithfulness, and said,
-'`The Lord has sanctified my afflictions to me, and has made my sickness as a bed of down:
-'`and when some did speak of their hope of his recovery, he said in much love,
+'`The Lord has sanctified my afflictions to me, and has made my sickness as a bed of down:`'
+and when some did speak of their hope of his recovery, he said in much love,
 '`Truly I have neither thoughts nor hopes about being raised in this life;
 but I know I shall rise sooner than many imagine,
 and receive a reward according to my works.`'
 His sickness continued seven days upon him;
-and a few hours before his death he took his leave and said, Farewell, farewell,
-farewell forever,
-'`and sweetly passed away out of this life on the 2nd day of the Eighth month, 1699.
+and a few hours before his death he took his leave and said, '`Farewell, farewell,
+farewell forever,`'
+and sweetly passed away out of this life on the 2nd day of the Eighth month, 1699.
 It was observed that the sickness stopped, and very few were buried of it after him.
 
 He left a widow and two sons behind him in England.
@@ -808,7 +813,7 @@ Aged seventy-nine years.
 [.asterism]
 '''
 
-MARGARET THOMPSON, wife of John Thompson, near Mountmelick, in Ireland, being.
+MARGARET THOMPSON, wife of John Thompson, near Mountmelick, in Ireland, being
 upon her deathbed, and a few days before she died, calling her children to her,
 said unto them, '`Fear the Lord, and abide in the fear of the Lord.
 I do not allow you any thing further, than as you abide in the truth,
