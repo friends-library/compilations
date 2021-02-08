@@ -183,8 +183,8 @@ the writer`'s conviction that his having so far yielded to apprehended
 duty in uniting in religious fellowship with Friends,
 furnished no ground for relaxing his watchfulness and diligence in the Christian warfare.]
 
-[.centered]
-==== Letter I.
+[.letter-heading]
+Letter I.
 
 I received a letter from you the week before last, which was sent by your uncle Bolton;
 there were a great many kind expressions in it, and in your sister Clopton`'s as well.
@@ -503,8 +503,8 @@ I am your most affectionate friend and servant in Jesus,
 [.signed-section-signature]
 Samuel Crisp.
 
-[.centered]
-==== Letter II.
+[.letter-heading]
+Letter II.
 
 [.salutation]
 My dear friend,
@@ -749,8 +749,8 @@ Your loving and affectionate friend,
 [.signed-section-signature]
 Samuel Crisp.
 
-[.centered]
-==== Letter III.
+[.letter-heading]
+Letter III.
 
 [.signed-section-context-open]
 Leeds, Sixth month 7th, 1702.
