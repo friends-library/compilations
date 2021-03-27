@@ -1,4 +1,4 @@
-[#john-conran, short="The Journal of John Conran"]
+[short="The Journal of John Conran"]
 == Selection from the Journal of John Conran
 
 I have had it on my mind, at various times for years past,

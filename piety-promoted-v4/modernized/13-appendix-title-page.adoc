@@ -1,4 +1,4 @@
-[#appendix.intermediate-title, short="Appendix"]
+[.intermediate-title, short="Appendix"]
 == Appendix to Piety Promoted
 
 [.emphasized.weight-normal.small-caps]

@@ -1,4 +1,4 @@
-[#banks, short="The Journal of John Banks"]
+[short="The Journal of John Banks"]
 == Selection from the Journal of John Banks
 
 I came of honest parents; my father`'s name was William, and my mother`'s name was Emme.

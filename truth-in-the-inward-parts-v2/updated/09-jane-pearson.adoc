@@ -1,4 +1,4 @@
-[#selection, short="The Life of Jane Pearson"]
+[short="The Life of Jane Pearson"]
 == Selection from The Life of Jane Pearson
 
 It has long remained with weight upon my mind to
