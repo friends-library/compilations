@@ -1,6 +1,8 @@
+[#howgill, short="Letter from Francis Howgill to His Daughter Abigail"]
 == A Letter from Francis Howgill to His Daughter Abigail^
 footnote:[This letter was written in 1666 from Appleby Jail, two years before his death.]
 
+[.salutation]
 Daughter Abigail,
 
 This is for you to observe, and keep, and take heed unto all the days of your life,
@@ -222,6 +224,11 @@ so you will be happy in this life and in the life to come.
 These things I charge you to observe, as expressive of my unalterable mind, and will,
 and counsel, unto you; in witness whereof I have set my hand.
 
+[.signed-section-closing]
 Your dear father,
 
-Francis Howgill.26th of the 5th month, 1666.
+[.signed-section-signature]
+Francis Howgill
+
+[.signed-section-context-close]
+26th of the 5th month, 1666.

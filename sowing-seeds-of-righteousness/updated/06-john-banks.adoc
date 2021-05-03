@@ -1,8 +1,13 @@
 == Letters from John Banks to His Children
 
+[.offset]
 The following letter I wrote to my daughter, after she was placed at service in London,
 in the year 1682.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Sarah Banks, my eldest daughter,
 
 You have been near and dear to me ever since the day you were born,
@@ -82,11 +87,22 @@ your heart may be truly broken and tendered before the Lord,
 and so kept in all lowliness and humility before him, unto the end of your days.
 Amen.
 
+[.signed-section-closing]
 So prays your tender and affectionate father,
 
+[.signed-section-signature]
 John Banks.
 
+--
+
+[.offset]
 While I was in Ireland, I wrote the following letter to my children.
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear children,
 
 The love of God unto you has been such, as to give you a knowledge of himself,
 in and through Jesus Christ, the true and saving light;
@@ -113,8 +129,12 @@ daily to feel the work of his spirit in your hearts,
 to work you into true tenderness and brokenness; that you may grow up,
 and bring forth fruit, to the praise and glory of the Lord, and your enduring comfort;
 which is my hearty prayer unto the Lord on your behalf.
-
 Farewell, dear children.
+
+[.signed-section-closing]
 Your loving father,
 
+[.signed-section-signature]
 John Banks.
+
+--
