@@ -1,6 +1,6 @@
-== William Evans – Letters from His Parents while at Boarding School
+== William Evans -- Letters from His Parents while at Boarding School
 
-From my mother: 
+From my mother:
 
 I hope, my dear children,
 you do not forget our anxious concern and solicitude for your good when present with us,
@@ -17,14 +17,14 @@ and that you would let us hear from you as often as you can.
 
 With desires for your preservation in the innocency and simplicity of the Truth I conclude.
 
-Your affectionate mother, 
+Your affectionate mother,
 
 Hannah Evans.
 
-After my beloved father's return from his journey,
-he wrote us frequently--from one of his letters the following is taken: 
+After my beloved father`'s return from his journey,
+he wrote us frequently--from one of his letters the following is taken:
 
-My Dear Children, 
+My Dear Children,
 
 I have been much concerned on your account for some time past,
 understanding several of the boys had given a great
@@ -46,11 +46,12 @@ but let the fear of the Lord be ever present with you, and that will keep you ha
 and make you dear unto him and to all good people.
 
 Your mother joins me in near love to you both, desiring your welfare every way.
-Your loving father, 
+Your loving father,
 
 Jonathan Evans.
 
-* * *
+[.asterism]
+'''
 
 Dear Children,
 
@@ -91,11 +92,12 @@ for in this watchful state your minds will often be tendered,
 and at times sincere petitions will ascend for preservation,
 and support in this world of vanity and trouble.
 
-Your affectionate father, 
+Your affectionate father,
 
 Jonathan Evans
 
-* * *
+[.asterism]
+'''
 
 Dear Child,
 
@@ -116,7 +118,6 @@ or that would in any degree wound your own mind.
 Learn to love silence; and seek for strength,
 that you may be preserved in time of temptation.
 
-With love to yourself and sister, conclude your affectionate mother, 
+With love to yourself and sister, conclude your affectionate mother,
 
 Hannah Evans.
-
