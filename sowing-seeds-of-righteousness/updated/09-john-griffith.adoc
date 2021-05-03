@@ -1,5 +1,7 @@
+[#griffith, short="John Griffith`'s Counsel to Parents and Children"]
 == Tender Advice, Caution, and Counsel to Parents and Children / By John Griffith
 
+[.centered]
 === First to Parents:
 
 Very much depends upon the right education of children.
@@ -210,6 +212,7 @@ shake themselves from the dust of the earth,
 and put on the beautiful garment of holiness and Truth,
 that she might become more and more a praise in the earth.
 
+[.centered]
 === Now to Children:
 
 Having offered a few remarks concerning the important duty of parents,

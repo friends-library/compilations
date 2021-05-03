@@ -1,7 +1,9 @@
 == William Penn`'s Advice to His Children and Grandchildren
 
+[.centered]
 === Part One
 
+[.salutation]
 My Dear Children:
 
 Not knowing how long it may please God to continue me among you,
@@ -165,6 +167,7 @@ and to the scriptures of truth without you,
 and such other testimonies to the one same eternal truth as have been borne in our day,
 that you may more directly apply what I have said to your pilgrimage upon earth.
 
+[.centered]
 === Part Two
 
 As soon as you wake,
@@ -325,6 +328,7 @@ There should be the greatest care imaginable, what impressions are given to chil
 that method which earliest awakens their understandings to love, duty, sobriety,
 just and honourable things, is to be preferred.
 
+[.centered]
 === Part Three
 
 Be humble.
@@ -514,4 +518,5 @@ a dominion greater than that of empires.
 O may this virtue be yours!
 You have grace from God for that end, and it is sufficient.
 
+[.signed-section-signature]
 William Penn

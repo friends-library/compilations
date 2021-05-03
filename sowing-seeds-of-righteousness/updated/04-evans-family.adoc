@@ -1,6 +1,11 @@
+[#evans, short="Letters from William Evan`'s Parents"]
 == William Evans -- Letters from His Parents while at Boarding School
 
+[.offset]
 From my mother:
+
+[.embedded-content-document.letter]
+--
 
 I hope, my dear children,
 you do not forget our anxious concern and solicitude for your good when present with us,
@@ -17,13 +22,22 @@ and that you would let us hear from you as often as you can.
 
 With desires for your preservation in the innocency and simplicity of the Truth I conclude.
 
+[.signed-section-closing]
 Your affectionate mother,
 
+[.signed-section-signature]
 Hannah Evans.
 
+--
+
+[.offset]
 After my beloved father`'s return from his journey,
 he wrote us frequently--from one of his letters the following is taken:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Dear Children,
 
 I have been much concerned on your account for some time past,
@@ -46,13 +60,19 @@ but let the fear of the Lord be ever present with you, and that will keep you ha
 and make you dear unto him and to all good people.
 
 Your mother joins me in near love to you both, desiring your welfare every way.
+
+[.signed-section-closing]
 Your loving father,
 
+[.signed-section-signature]
 Jonathan Evans.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Children,
 
 Feeling desirous at all times you may do well,
@@ -92,13 +112,18 @@ for in this watchful state your minds will often be tendered,
 and at times sincere petitions will ascend for preservation,
 and support in this world of vanity and trouble.
 
+[.signed-section-closing]
 Your affectionate father,
 
+[.signed-section-signature]
 Jonathan Evans
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Child,
 
 I received your letter, and was glad to hear of yourself and sister being in health,
@@ -120,4 +145,7 @@ that you may be preserved in time of temptation.
 
 With love to yourself and sister, conclude your affectionate mother,
 
+[.signed-section-signature]
 Hannah Evans.
+
+--

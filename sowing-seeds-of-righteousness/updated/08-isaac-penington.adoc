@@ -1,9 +1,8 @@
 == Letter of Isaac Penington to His Children^
 footnote:[This letter was written from Aylesbury Jail.]
 
-To My Dear Children J. J. and M. P.
-
-My Dear Children,
+[.salutation]
+My Dear Children J. J. and M. P.,
 
 Two things I especially desire in reference to your learning--one is,
 that you may learn to know and hearken to the voice of God`'s witness in you.
@@ -165,6 +164,8 @@ and be comforted in the mercy and kindness of the Lord towards them.
 Your father, who desires your good, and that it may go well with you,
 both here and hereafter.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 10th of Third month, 1667

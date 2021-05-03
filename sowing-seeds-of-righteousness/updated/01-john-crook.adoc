@@ -1,5 +1,7 @@
+[#crook, short="John Crook`'s Advice to His Children"]
 == John Crook`'s Advice to His Children and Grandchildren / Written Close to His Death
 
+[.salutation]
 Dear Children,
 
 I must leave you in a wicked age,
@@ -94,6 +96,8 @@ knowing how the vain mind of man little regards such advice as this I leave behi
 but by this advice I show my true love to you, desiring God`'s blessing upon it;
 to whom I commit you all, my dear children, and end my days.
 
+[.signed-section-closing]
 Your loving father and grandfather,
 
+[.signed-section-signature]
 John Crook
