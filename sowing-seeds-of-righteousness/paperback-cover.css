@@ -9,12 +9,12 @@
 }
 
 #__id__ .subtitle {
+  margin-top: -0.6in;
   font-size: 0.4in;
 }
 
 .trim--m#__id__ .subtitle {
   font-size: 0.45in;
-  margin-top: -0.6in;
 }
 
 #__id__ .initials {
