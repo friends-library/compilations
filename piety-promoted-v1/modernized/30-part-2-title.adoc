@@ -1,0 +1,18 @@
+// NOTE: NOT MODERNIZED
+[.intermediate-title]
+== Piety Promoted
+
+[.heading-continuation-blurb]
+In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
+With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For The Same.
+
+[.division]
+=== The Second Part.
+
+[.section-author]
+By John Tomkins.
+
+[quote.section-epigraph, , John 6:12]
+____
+Gather up the fragments that remain, that nothing be lost.
+____
