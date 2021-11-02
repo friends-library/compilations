@@ -1,4 +1,4 @@
-[.intermediate-title]
+[.intermediate-title, short="Part III"]
 == Piety Promoted
 
 [.heading-continuation-blurb]
@@ -11,7 +11,7 @@ With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For T
 [.section-author]
 By John Tomkins.
 
-[quote.section-epigraph, , Heb. 11:14,16]
+[quote.section-epigraph, , "Heb. 11:14,16"]
 ____
 For they that say such things, declare plainly, that they seek a country,
 that is an heavenly:--Wherefore God is not ashamed to be called their God,
