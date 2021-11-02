@@ -1,13 +1,13 @@
-// NOTE: NOT MODERNIZED
-
-[.intermediate-title]
+[.intermediate-title, short="Part X"]
 == Piety Promoted
+
+// NOTE: NOT MODERNIZED
 
 [.heading-continuation-blurb]
 In Brief Memorials And Dying Expressions Of Some Of The People Called Quakers.
 
 [.division]
-=== The Ninth Part.
+=== The Tenth Part.
 
 [.section-author]
 By Joseph Gurney Bevan.
