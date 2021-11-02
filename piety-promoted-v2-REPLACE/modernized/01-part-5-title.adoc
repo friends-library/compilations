@@ -1,7 +1,6 @@
-// NOTE: NOT MODERNIZED
-
-[.intermediate-title]
+[.intermediate-title, short="Part V"]
 == Piety Promoted
+// NOTE: NOT MODERNIZED
 
 [.heading-continuation-blurb]
 In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
@@ -13,12 +12,12 @@ With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For T
 [.section-author]
 By John Field.
 
-[quote.section-epigraph, Psalms 116:15]
+[quote.section-epigraph, , Psalms 116:15]
 ____
 Precious in the sight of the Lord, is the death of his saints.
 ____
 
-[quote.section-epigraph, Heb. 9:27]
+[quote.section-epigraph, , Heb. 9:27]
 ____
 It is appointed unto men once to die, but after this the judgment.
 ____
