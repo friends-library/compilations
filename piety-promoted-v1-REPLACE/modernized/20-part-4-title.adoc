@@ -1,7 +1,7 @@
-// NOTE: NOT MODERNIZED
-
-[.intermediate-title]
+[.intermediate-title, short="Part IV"]
 == Piety Promoted
+
+// NOTE: NOT MODERNIZED
 
 [.heading-continuation-blurb]
 In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
