@@ -1,4 +1,4 @@
-[.intermediate-title]
+[.intermediate-title, short="Part XI (Continued.)"]
 == Piety Promoted
 
 [.heading-continuation-blurb]
