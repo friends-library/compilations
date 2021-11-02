@@ -1,0 +1,23 @@
+[.intermediate-title, short="Part IV"]
+== Piety Promoted
+
+[.heading-continuation-blurb]
+In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
+With A Brief Account Of Some Of Their Labors In The Gospel, And Sufferings For The Same.
+
+[.division]
+=== The Fourth Part.
+
+[.section-author]
+By John Field.
+
+[quote.section-epigraph, , Psalms 149:5]
+____
+Let the saints be joyful in glory: let them sing aloud upon their beds.
+____
+
+[quote.section-epigraph, , Rev. 14:13]
+____
+Blessed are the dead which die in the Lord, from henceforth: yes, says the Spirit,
+that they may rest from their labours, and their works do follow them.
+____
