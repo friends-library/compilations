@@ -1,4 +1,4 @@
-[.intermediate-title]
+[.intermediate-title, short="Part VIII"]
 == Piety Promoted
 
 [.heading-continuation-blurb]
@@ -11,12 +11,12 @@ And Dying Sayings Of Several Of The People Called Quakers.
 [.section-author]
 By Thomas Wagstaffe.
 
-[quote.section-epigraph, Ps. 97:11]
+[quote.section-epigraph, , Ps. 97:11]
 ____
 Light is sown for the righteous, and gladness for the upright in heart.
 ____
 
-[quote.section-epigraph, Prov. 14:32]
+[quote.section-epigraph, , Prov. 14:32]
 ____
 The righteous hath hope in his death.
 ____
