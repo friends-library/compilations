@@ -1,4 +1,4 @@
-[.intermediate-title]
+[.intermediate-title, short="Part IX"]
 == Piety Promoted
 
 [.heading-continuation-blurb]
@@ -10,7 +10,7 @@ In Brief Memorials And Dying Expressions Of Some Of The People Called Quakers.
 [.section-author]
 By Thomas Wagstaffe.
 
-[quote.section-epigraph, Ps. 58:11]
+[quote.section-epigraph, , Ps. 58:11]
 ____
 Verily there is a reward for the righteous.
 ____
