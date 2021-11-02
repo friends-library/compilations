@@ -1,8 +1,6 @@
 [.intermediate-title, short="Part VIII"]
 == Piety Promoted
 
-// NOTE: NOT MODERNIZED
-
 [.heading-continuation-blurb]
 In Brief Memorials Of The Virtuous Lives, Services,
 And Dying Sayings Of Several Of The People Called Quakers.
@@ -20,5 +18,5 @@ ____
 
 [quote.section-epigraph, , Prov. 14:32]
 ____
-The righteous hath hope in his death.
+The righteous has hope in his death.
 ____

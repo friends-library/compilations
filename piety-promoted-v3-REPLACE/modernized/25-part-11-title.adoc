@@ -1,8 +1,6 @@
 [.intermediate-title, short="Part XI"]
 == Piety Promoted
 
-// NOTE: NOT MODERNIZED
-
 [.heading-continuation-blurb]
 In Brief Biographical Memorials Of Some Of The Religious Society Of Friends,
 Commonly Called Quakers.

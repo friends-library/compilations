@@ -1,11 +1,9 @@
 [.intermediate-title, short="Part IV"]
 == Piety Promoted
 
-// NOTE: NOT MODERNIZED
-
 [.heading-continuation-blurb]
 In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
-With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For The Same.
+With A Brief Account Of Some Of Their Labors In The Gospel, And Sufferings For The Same.
 
 [.division]
 === The Fourth Part.
@@ -20,6 +18,6 @@ ____
 
 [quote.section-epigraph, , Rev. 14:13]
 ____
-Blessed are the dead which die in the Lord, from henceforth: yea, saith the Spirit,
+Blessed are the dead which die in the Lord, from henceforth: yes, says the Spirit,
 that they may rest from their labours, and their works do follow them.
 ____

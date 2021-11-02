@@ -1,11 +1,9 @@
 [.intermediate-title, short="Part III"]
 == Piety Promoted
 
-// NOTE: NOT MODERNIZED
-
 [.heading-continuation-blurb]
 In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
-With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For The Same.
+With A Brief Account Of Some Of Their Labors In The Gospel, And Sufferings For The Same.
 
 [.division]
 === The Third Part.
@@ -16,6 +14,6 @@ By John Tomkins.
 [quote.section-epigraph, , "Heb. 11:14,16"]
 ____
 For they that say such things, declare plainly, that they seek a country,
-that is an heavenly:--Wherefore God is not ashamed to be called their God,
-for he hath prepared for them a city.
+that is an heavenly:--Therefore God is not ashamed to be called their God,
+for he has prepared for them a city.
 ____

@@ -1,8 +1,6 @@
 [.intermediate-title, short="Part VII"]
 == Piety Promoted
 
-// NOTE: NOT MODERNIZED
-
 [.heading-continuation-blurb]
 In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
 With Some Memorials Of Their Virtuous Lives.
@@ -15,6 +13,6 @@ By John Bell.
 
 [quote.section-epigraph, , John 6:12]
 ____
-When they were filled, he said unto his disciples,
+When they were filled, he said to his disciples,
 Gather up the fragments that remain, that nothing be lost.
 ____
