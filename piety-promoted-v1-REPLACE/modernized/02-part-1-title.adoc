@@ -1,0 +1,27 @@
+// NOTE: NOT MODERNIZED
+
+[.intermediate-title]
+== Piety Promoted
+
+[.heading-continuation-blurb]
+In A Collection Of Dying Sayings Of Many Of The People Called Quakers;
+With A Brief Account Of Some Of Tieir Labors In The Gospel, And Sufferings For The Same.
+
+[.division]
+=== The First Part.
+
+[.section-author]
+By John Tomkins.
+
+[quote.section-epigraph, , Heb. 11:39. Rev. 14:13. 1 Pet. 1:9.]
+____
+These all having obtained a good report, through faith.--Rest from their labors,
+and their works follow them.--Receiving the end of their faith,
+the salvation of their souls.
+____
+
+[quote.section-epigraph, , Isa. 3:10.]
+____
+Say to the righteous, that it shall be well with them,
+for they shall eat the fruit of their doings.
+____
