@@ -103,7 +103,7 @@ seeing her lips and mouth move, but did not understand what her words were,
 asked her if she spoke to them, and what she wanted.
 She answered, "`I spoke not to you, neither do I want any thing of you.`"
 Some time after she called for her husband, who was near, and presently spoke to her,
-saying, "`Dear wife, what wouldest thou with me,`" she answered,
+saying, "`Dear wife, what wouldest thou with me?`" She answered,
 "`I would have thee be with me and see me die.`"
 He sat down by her; then embracing her husband in her arms,
 and with breathings to the Lord, she laid down her body with joy in peace with him.
@@ -154,7 +154,11 @@ both to the inward and outward man, and to the praise and glory of the Lord fore
 Many times, when she ended her exhortation,
 she poured forth her spirit in supplication to the Lord with great fervency,
 and what follows is noted.
-"`Oh! thou powerful God, who art the searcher of all hearts, behold thy hand-maid;
+
+[.embedded-content-document.prayer]
+--
+
+Oh! thou powerful God, who art the searcher of all hearts, behold thy hand-maid;
 and if there be any thing that is not upright before thee in the heart of thy hand-maid,
 make it known to me, thou searcher of hearts.
 Thou knowest I delight to stand approved in thy sight in all thy ways;
@@ -225,7 +229,9 @@ to the glory and honour of thy great name, thou everlasting glorious Father of l
 to whom alone it doth belong, saith my soul,
 with the souls of all thy beloved and faithful children and servants,
 that thou hast chosen to glorify thee, who alone art God over all, blessed forever,
-and evermore.`"
+and evermore.
+
+--
 
 When she had done, a friend asked her how she did, she said, "`I am weak,
 but I would go home.`"
@@ -320,11 +326,13 @@ after he had spoken several precious words to those that were with him upon his 
 to give forth the following paper, which was taken from him by Andrew Shepperd,
 and being remarkable and prophetical, it is here inserted, viz.:
 
-A word of exhortation and warning from the servant of the Lord, Edward Jefferys,
-written on the 4th of the Eleventh month, 1685.
-The power of the Lord was in him,
-and it constrained him powerfully to exhort all to faithfulness, saying,
-"`Dear hearts! a trying day is yet coming on this nation;
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== A word of exhortation and warning from the servant of the Lord, Edward Jefferys, written on the 4th of the Eleventh month, 1685. The power of the Lord was in him, and it constrained him powerfully to exhort all to faithfulness, saying:
+
+Dear hearts! a trying day is yet coming on this nation;
 for the Lord will yet farther visit it, and he will sweep away thousands to the grave.
 I prophesy of it in the pure fear of Almighty God, who speaks through me his instrument,
 who have followed him faithfully, and now heaven`'s joys are prepared for me,
@@ -354,9 +362,12 @@ that he might be a promoter of the blessed truth and righteousness in his day.
 But I fear whether this will be the man; yet, I say,
 the Lord will raise up one in his stead, that shall be as a nursing father,
 and as a nursing mother in Israel.
-God`'s truth shall prosper in this land.`"
+God`'s truth shall prosper in this land.
 
+[.signed-section-context-close]
 Fourth of the Eleventh month, 1685.
+
+--
 
 The deceased was an honest, faithful man in his day,
 and a minister of the gospel of peace, and laboured therein freely for the good of souls,
@@ -399,7 +410,12 @@ he may make it void at his pleasure; for I would not do any thing that should gr
 for he never deserved it at my hands.`"
 Then she also desired him to write a letter for her to her husband, as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear and loving husband, William Berry.
+
 After my endeared love to thee and dear Daniel Gould,
 I thought meet to let thee know that I, being very weak in body,
 and not knowing what the will of the Lord is touching my outward man;
@@ -424,9 +440,13 @@ it may be with great clearness.
 So committing thee, with myself, to the Lord, I take leave,
 and remain thy true and loving wife,
 
+[.signed-section-signature]
 Margaret Berry.
 
+[.signed-section-context-close]
 The 12th of the Second month, 1688.
+
+--
 
 The day she departed, several friends being there,
 she desired them to be called together, and said, "`I have something to say,
@@ -550,8 +570,8 @@ and he added, "`I desire thou mayest succeed in my place; but some may say,
 thou being but a young man, art too forward; mind it not, but be thou faithful,
 and keep thine eye to the Lord, and he will be thy reward.`"
 
-Then he said, "`Oh! that a young generation may be raised up in this place,
-(Henley) if it be the will of the Lord, that may bear a faithful testimony to his truth,
+Then he said, "`Oh! that a young generation may be raised up in this place
+(Henley), if it be the will of the Lord, that may bear a faithful testimony to his truth,
 his living truth.
 I am not without hopes, though at present not very likely,
 for there is a great deal of rubbish to be removed out of the way.`"
@@ -609,28 +629,39 @@ The weighty sayings following, being found of his own hand-writing,
 some years after his decease, by his son Caleb, are here printed,
 being worthy of observation.
 
-Stand in awe of the living God, that created thee to glorify his name.
+[.embedded-content-document.letter]
+--
 
-Refrain from all evil, and love righteousness.
+[.offset]
+"`Stand in awe of the living God, that created thee to glorify his name.`"
 
-Do nothing that may bring dishonour to truth, if the whole world might be gained thereby.
+[.offset]
+"`Refrain from all evil, and love righteousness.`"
 
-According to the ability or talents the Lord doth give thee inwardly or outwardly,
+[.offset]
+"`Do nothing that may bring dishonour to truth, if the whole world might be gained thereby.`"
+
+[.offset]
+"`According to the ability or talents the Lord doth give thee inwardly or outwardly,
 do thou serve the Lord, his truth, and people.
 Those that profess and possess the truth, that love it above all things,
 that can venture all for truth`'s sake; such do thou have true unity with,
-but not with backbiters, or careless professors of truth.
+but not with backbiters, or careless professors of truth.`"
 
-If any difference doth arise betwixt Friends or others,
+[.offset]
+"`If any difference doth arise betwixt Friends or others,
 do thou endeavour to put an end to it, in the spirit of meekness.
-The rough nature is Esau, but the meek and lowly is the true seed.
+The rough nature is Esau, but the meek and lowly is the true seed.`"
 
-Do justly, love to be merciful, that thou mayest walk humbly with thy God;
+[.offset]
+"`Do justly, love to be merciful, that thou mayest walk humbly with thy God;
 that when thou hast ended the days of thy natural life,
 thou mayest lay down thy head in peace with the living God;
 which far exceeds all the world, or the world`'s enjoyments.
 And in so doing, thou wilt not only answer the requirings of the Lord,
-but of thy dear and tender father also.
+but of thy dear and tender father also.`"
+
+--
 
 [.asterism]
 '''
@@ -662,20 +693,20 @@ that he might be one that fears God, and lives uprightly, and on all occasions;
 "`For,`" said he, "`she hath been careful and tender of me since your mother died,
 and a support to my old age: so live in love together,
 that others may behold you as a family of love, and then the Lord will bless you.`"
+
 At another time, his son Silvanus, and many of his grandchildren being by his bedside,
 he said, "`Fashion not yourselves after this world,
 but transform yourselves to the image of the dear Son of God.
-
 Be not puffed up in pride and gaudy apparel, but in the fear of God:
 adorn yourselves modestly, as becomes Christians to do,
 and keep to the small grain of the kingdom,
 and then you will grow and flourish in holiness to the praise of God,
 and lie down in peace, as you see me now.`"
+
 And renewing his advice, of being a family of love when he was gone, said,
 "`Strive not who shall be greatest,
 but who shall be the humblest and most serviceable amongst you,
 for that will be joy and peace in the Holy Ghost.
-
 But an exalted mind brings pain and trouble; I know it.
 If you will be careful and obedient to that small
 grain which God hath sown in your hearts,
@@ -838,7 +869,7 @@ when she came upon a sick bed,
 it seemed hard sometimes for her to be reconciled to her sickness.
 But upon reading several places in the New Testament,
 concerning afflictions and chastisements, as Heb.
-xii., etc., she came to be reconciled to both, and afterward received great satisfaction,
+12, etc., she came to be reconciled to both, and afterward received great satisfaction,
 so that her heart was often enlarged in the love of God,
 and her soul did magnify the God of her salvation.
 
@@ -851,8 +882,8 @@ who died for her, she said, "`If it be the will of God to take me to himself,
 I am content.`"
 She frequently prayed in secret to the Lord; and once, being spoken to when still,
 she said, "`Let me alone, that I may meditate on my God;`" and afterward said,
-she enjoyed the streams of the love of God, but found "`The enemy so busy,
-that it is hard to keep my mind stayed on the Lord;`" adding,
+she enjoyed the streams of the love of God, but found the enemy so busy,
+that it is hard to keep her mind stayed on the Lord; adding,
 she was sorry for all that did live wickedly,
 and lamented what many would do when they came upon a deathbed;
 and desired her aunt to advise one of her acquaintance
@@ -902,11 +933,11 @@ O Lord! thou art beautiful.
 O Lord! hear my prayer, and grant me my request, if it be thy heavenly will.
 Give me power over the enemy; he is a cunning enemy, a subtle serpent.
 O Lord! keep me from his temptations, who lays his baits at every corner.`"
+
 Again she said, "`There is nothing to be compared to thy love;
 all the world is but as a fading flower.
 O! what will it avail a man,
 to gain the whole world, and lose his own soul.
-
 O! what need have people to go with their heads so high,
 when they must all be laid in the dust.
 O Lord! thou art sweet, thy countenance is comely.

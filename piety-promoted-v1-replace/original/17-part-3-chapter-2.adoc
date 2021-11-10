@@ -57,11 +57,11 @@ and particularly visiting his servants when in prison for Christ`'s sake,
 feeding them when hungry, entertaining strangers, and when sick,
 very tender in helping them, etc., she replied,
 "`All this is too little to do for the Lord Jesus`'s sake, who hath loved us.
-
 We must not depend upon these things,
 but we must depend and trust in our Lord and Saviour Jesus Christ;
 and when we have done all, let us account ourselves unprofitable servants,
 for we have done but that which was our duty.`"
+
 A little before she died,
 she desired her husband to praise the Lord with her for all his mercies, and said,
 "`At this time I feel his living presence to my great comfort.`"
@@ -268,10 +268,11 @@ I have made my peace with God, and I feel nothing to rise up in judgment against
 for the Lord hath forgiven me my sins and mine iniquities,
 and I feel my mind is very quiet and still,
 and hath been ever since I begun with this illness.
-
 There is nothing cumbereth my mind, not so much as a temptation is presented,
 and I have been borne over my exercises far beyond
-my expectation,`" Her brother Isaac being from home,
+my expectation,`"
+
+Her brother Isaac being from home,
 in the service of truth, she said, "`Remember my dear love to my dear brother.
 If I die, tell him from me, that my soul is gone into everlasting rest,
 where I hope we shall meet again in the heavenly joy, where we shall never part.
@@ -427,9 +428,11 @@ so was his latter end comfortable and full of peace; in which he departed this l
 the 1st of the Tenth month, 1705, aged fifty-one years;
 and was buried at Friends`' burying-ground, at Sedbergh meetinghouse.
 
-POSTSCRIPT.--The Testimony of Isaac Alexander concerning James Baines,
-in a letter dated the 8th of the Tenth month, 1705,
-who also died the 11th of the Twelfth month, after him.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== The Testimony of Isaac Alexander concerning James Baines, in a letter dated the 8th of the Tenth month, 1705, who also died the 11th of the Twelfth month, after him.
 
 Our truly beloved and esteemed friend, James Baines,
 departed this life the 1st of this instant; and though he was afflicted with great pain,
@@ -448,7 +451,10 @@ He died with the greatest esteem and love to Friends and truth,
 and in great esteem and interest in the hearts of Friends;
 he died in a most happy and blessed condition.
 
+[.signed-section-signature]
 Isaac Alexander.
+
+--
 
 [.asterism]
 '''
@@ -514,8 +520,8 @@ and particularly four Friends from the city of London,
 the said John Story and John Wilkinson continued
 in their contention and opposition to Friends;
 and not long after William Rogers published a book against Friends, which J. Blaikling,
-etc., answered, entitled "`Antichristian Treachery Discovered,
-and its Way Blocked Up;`" a volume in folio, of about 50 sheets.
+etc., answered, entitled [.book-title]#Antichristian Treachery Discovered,
+and its Way Blocked Up;# a volume in folio, of about 50 sheets.
 
 He was a great supporter of such as were in low circumstances in the world,
 often assisted them in difficult cases, to the exposing himself to great hazard of loss;
@@ -541,6 +547,10 @@ and that his day`'s work was nigh done, and his reward and rest with God sure.
 This testimony agrees with the last letter I received from him, save one part,
 as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear John,
 
 I love thee in the truest love that springs from Jesus Christ the fountain thereof,
@@ -554,7 +564,10 @@ and people, for which I want not my reward in this my old age.
 I take time to read.
 I am almost blind, yet well content.
 
+[.signed-section-signature]
 J+++.+++ Blaikling.
+
+--
 
 He often signified his preparedness to leave this world,
 with fervent desires for truth`'s prosperity,
@@ -566,7 +579,6 @@ his ancient and intimate friend and acquaintance Thomas Camm being with him,
 he said to him, "`Thou and I have not sought our own interest,
 but have devoted ourselves to serve the Lord, his truth and people; he is,
 and will be our great reward in the end of all our troubles.
-
 I am greatly satisfied that I have faithfully served the Lord, and done my day`'s work,
 and enjoy the earnest of that peace and rest God hath laid up for his people;
 and if thou and I shall never have opportunity to meet again in the outward,
@@ -845,6 +857,10 @@ it became easier to her to leave it.
 In a letter to a particular friend, who married her near relation,
 written about fourteen days before she died, she says thus:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Cousin,
 
 I should have given an account of my sickness, but exceeding illness hindered me,
@@ -860,7 +876,10 @@ My dear love is to thee, thy wife and children,
 wishing you health and peace in this life, and happiness in the life to come; being,
 dear cousin, thy affectionate, etc.,
 
+[.signed-section-signature]
 P+++.+++ Richards.
+
+--
 
 This was written in a time of great weakness of body,
 but her spirit was strong in the Lord, having kept the faith,

@@ -35,7 +35,7 @@ nor had he stolen any thing, except taking some plums without asking leave,
 and hoped the Lord would pass it by, with what else he had done amiss.
 
 Remaining very weak, he was asked if he was willing to die;
-he answered,`" If I thought I was fit.`"
+he answered, "`If I thought I was fit.`"
 The 3rd of the First month, two English friends being in town,
 he desired they might have a meeting in the chamber with him; which they had,
 and he afterwards expressed his satisfaction therein;
@@ -71,13 +71,13 @@ You did well; had you not done it, I might have been wilder; for,`" said he,
 to bring me down these two years, and let me see when I have been running to play,
 if I continued running on to be wild, then weeping, wailing,
 and lamentation would be my portion.
-
 Sometimes I have turned back, and have gone into the garret and wept bitterly,
 and have desired the Lord to help me; but after, when enticed by my comrades to go,
 I was not able to resist the temptations, which was my great trouble,
 and I have got into a secret place to endeavour to retire,
 and often have prayed to the Lord in the night-season on my knees,
 when others have been asleep.`"
+
 This child cried out, saying, "`Oh! the Lord loves solitariness,
 he doth not love laughing and joking; I never read that Christ smiled,
 but often prayed and wept.`"
@@ -103,10 +103,9 @@ oh! but how little of the Lord`'s will is done here.
 as we forgive them that trespass against us;`' but oh! how unwillingly
 do many people forgive them that trespass against them.
 How can such expect forgiveness of the Lord?
-
-'`Lead us not into temptation, but deliver us from evil.`"`' Then he said,
-"`Oh! leave me not in temptation, but deliver me from the tempter;
-for thine is the kingdom, and all power is with thee, and glory forever.
+'`Lead us not into temptation, but deliver us from evil.`'`" Then he said,
+"`'`Oh! leave me not in temptation, but deliver me from the tempter;
+for thine is the kingdom, and all power is with thee, and glory forever.`'
 This prayer,`" said he, "`people teach their children by heart, and think it is enough.
 I have been at play with a boy in the street, and his father hath called to him, saying,
 '`Have you said your prayers today?`' and he hath gone in from me,
@@ -250,7 +249,7 @@ so that thou hast been fed and clothed with the rest of my children and family,
 and I have something to spare.
 
 But the greatest blessing the Lord hath blessed me with, is the knowledge of his truth;
-and thou hast often heard me say, +++[+++desire]
+and thou hast often heard me say,
 that whatever the Lord should be pleased to bereave me of,
 he would be pleased to keep me in the sense of this blessing;
 and at this time I have a living sense thereof;
@@ -262,7 +261,6 @@ Be sure thou be kind and loving to thy mother, and be ruled by her when I am gon
 and remember what I have said to thee,
 and keep the commandments of the Lord in thy lifetime,
 and it will be well with thee hereafter, and then thou wilt not be afraid to die.
-
 For thy sake I could have been willing to stay longer here, but it must not be,
 and I am willing to submit to the will of the Lord; for it is well, it is well,
 or I would not have told thee so.
@@ -349,8 +347,8 @@ in the time of my distress and anguish.
 I cried to the Lord when the billows went over my head,
 and the proud waves did afflict my soul.
 Then was my faith in God, and underneath was the everlasting arm, my salvation.
-So that with David I could say, "`The Lord sitteth upon the floods,
-he reigneth as king forever and ever.`"
+So that with David I could say, '`The Lord sitteth upon the floods,
+he reigneth as king forever and ever.`'`"
 
 He died the 31st of the Fifth month, 1707.
 Aged about seventy-four years.
@@ -567,8 +565,8 @@ being nearly eighty years of age; had a testimony for truth about fifty years.
 [.asterism]
 '''
 
-JOHN TOMKINS, who collected the three volumes of Dying Sayings, formerly printed,
-entitled, Piety Promoted, was born about the year 1663,
+JOHN TOMKINS, who collected the three volumes of [.book-title]#Dying Sayings,# formerly printed,
+entitled, [.book-title]#Piety Promoted,# was born about the year 1663,
 and his honest parents were in society with the people called Quakers.
 His father died when he was very young,
 after which his mother took care to have him religiously educated,
@@ -634,7 +632,7 @@ and often said to his wife, "`My dear, grieve not, thou must not grieve;
 I want to be where the weary are at rest, and where the wicked cease from troubling.
 I want to be dissolved, that I may be with the Lord Jesus Christ.
 The Lord will provide for thee and thy children: he hath said,
-"`Let the widows trust in me, and I will take care of their fatherless children.`"
+'`Let the widows trust in me, and I will take care of their fatherless children.`'`"
 
 When he was asked if he desired to see his youngest child, he being some miles distant,
 he answered, "`He is young, and hath little knowledge of me.
@@ -647,7 +645,6 @@ I have many sweet seasons from the Lord in the night when I cannot sleep.
 Oh!
 I enjoy sweet peace from him.
 Oh! the love of the Lord Jesus Christ is great to mankind.
-
 The Lord visited me in my tender years, and I have feared him from my childhood.
 I have delighted to wipe the shoes of those that preach the gospel, when I was a boy.
 Since I have been a man, I have taken more delight in serving the Lord,
@@ -660,14 +657,13 @@ I pray God bless the young generation of ministers that are coming up,
 and make them skilful in the work, that they may divide the word aright,
 that like the Benjamites of old, they may shoot an arrow +++[+++or sling a stone]
 to an hair`'s breadth.`"
+
 He died the 12th of the Seventh month, 1706, aged about forty-three years;
 and was decently buried from the meetinghouse near Devonshire-square,
 accompanied by a great number of friends to Bunhill burying-ground,
 and many living testimonies were borne to the truth, in which he lived and died.
 
-He collected and wrote the several books following, viz.:
-The Harmony of the Old and New Testament; a Concordance; A Trumpet Sounded;
-The Great Duty of Prayer; Piety Promoted, first, second, and third parts;
+He collected and wrote the several books following, viz.: [.book-title]#The Harmony of the Old and New Testament; a Concordance;# [.book-title]#A Trumpet Sounded;# [.book-title]#The Great Duty of Prayer;# [.book-title]#Piety Promoted,# first, second, and third parts;
 which are proofs of his zeal for truth, his love to all people,
 and that he was well acquainted with the Holy Scriptures.
 
@@ -721,8 +717,10 @@ having been a believer in the truth about fifty-three years,
 and a prisoner near five years; aged about seventy-one years.
 
 He died the 12th, and was buried the 14th of the Eighth month, 1706.
-
 Here followeth a Testimony of an ancient friend and acquaintance of R. Huberstie`'s.
+
+[.embedded-content-document.testimony]
+--
 
 Since I have had the opportunity of reading the above-written lines,
 relating to my dear deceased friend and brother in the nearest
@@ -737,7 +735,7 @@ I felt some concern upon my mind to add in short, as followeth:
 
 That he was a man truly fearing God, faithful to the manifestation of truth,
 firm and noble in his testimony and sufferings therefor.
-+++[+++He was]
+He was
 of latter years, an able, zealous, and laborious minister of Christ Jesus,
 concerned for good order in the church; serving the Lord faithfully in his day,
 and died the death of the righteous.
@@ -761,9 +759,13 @@ and also to magnify his holy and powerful name for his marvellous salvation,
 revealed in and through the Lord Jesus Christ our Saviour, to whom, with the Father,
 belong dominion, glory, and eternal praise, world without end, Amen.
 
+[.signed-section-signature]
 Thomas Camm
 
+[.signed-section-context-close]
 Oldworth, 26th of First Month, 1707.
+
+--
 
 [.asterism]
 '''
@@ -837,7 +839,7 @@ In about half an hour he passed away, being the 25th of the Twelfth month, 1706;
 and died in the faith of Jesus, and in full unity with Friends,
 having borne an innocent testimony for truth in his generation,
 and left a good savour behind him.
-Aged about seventy-four years
+Aged about seventy-four years.
 
 [.asterism]
 '''

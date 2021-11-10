@@ -1,6 +1,6 @@
 == To The Reader.
 
-I here present thee with a collection of the Dying Sayings of many persons
+I here present thee with a collection of the dying sayings of many persons
 who lived and died in faith and communion with the people called Quakers,
 some of whom it pleased God eminently to make use of,
 for the gathering of that people into a distinct fellowship
@@ -81,9 +81,9 @@ It was the work of the primitive preachers "`to turn people from darkness unto l
 that they might receive the forgiveness of their sins,
 and an inheritance among them which are sanctified by faith which is in Christ.`"
 And it is the same doctrine which the great Lord of all, Jesus Christ himself,
-preached in the days of his flesh -- "`I am the light of the world:
+preached in the days of his flesh--"`I am the light of the world:
 he that followeth me shall not walk in darkness, but shall have the light of life.`"
-And again-- While ye have the light, believe in the light,
+And again--"`While ye have the light, believe in the light,
 that ye may be the children of the light.`"
 This way the prophet Isaiah exhorted the house of Jacob to walk in,
 after he had foretold the peaceable effects that the word of the
@@ -164,41 +164,52 @@ and that there was a crown of life which God, the righteous judge, would give un
 and they desired to be dissolved, that they might inherit the same,
 having already "`their inheritance sealed unto them by the Spirit of God.`"
 
+[.offset]
 Some said as followeth, viz.:
 
-Richard Hubberthorn: "`I know the ground of my salvation,
+[.discourse-part]
+_Richard Hubberthorn:_ "`I know the ground of my salvation,
 and am satisfied forever in my peace with the Lord God.`"
 
-Thomas Loe: "`I am near leaving you, I think; but as well in my spirit as I can desire.
+[.discourse-part]
+_Thomas Loe:_ "`I am near leaving you, I think; but as well in my spirit as I can desire.
 I bless the Lord,
 I never saw more of the glory of God than I have done this day;`" and he sang, "`Glory,
 glory to the Lord forever.`"
 
-Richard Farnsworth: "`I am filled with the love of God more than I can express;
+[.discourse-part]
+_Richard Farnsworth:_ "`I am filled with the love of God more than I can express;
 and God has really appeared for us.
 If God himself had come down and spoken as a man,
 he could not have spoken more clearly to us than he hath done,
 by many testimonies from heaven in his people.`"
 
-Josiah Coale: "`For my part, I have walked in faithfulness with the Lord,
+[.discourse-part]
+_Josiah Coale:_ "`For my part, I have walked in faithfulness with the Lord,
 and I have thus far finished my testimony, and have peace with the Lord,
 and his majesty is with me, and his crown of life is upon me.`"
 
-Francis Howgill: "`As for me, I am well content to die;
+[.discourse-part]
+_Francis Howgill:_ "`As for me, I am well content to die;
 and if any enquire after my latter end,
 let them know that I die in the faith in which I lived and suffered for.`"
 
-William Bayley: "`Tell my friends, I go to my Father and to their Father,
+[.discourse-part]
+_William Bayley:_ "`Tell my friends, I go to my Father and to their Father,
 to my God and to their God; and let not my wife mourn in sorrow,
 for it is well with me.`"
 
-Sarah Beck: "`I feel sweet peace and great joy.
+[.discourse-part]
+_Sarah Beck:_ "`I feel sweet peace and great joy.
 O the joy that is laid up for the righteous:
 who would not fear the Lord! who would not be faithful!`"
 
+[.small-break]
+'''
+
 Yea, we find children crying Hosannah upon their dying beds.
 A young maid of sixteen or seventeen years old, viz. Elizabeth Braithwait,
-who was in prison for the truth, said, I had rather die here than in any other place.
+who was in prison for the truth, said, "`I had rather die here than in any other place.
 I believe God will shortly set me free from these and all other bonds,
 over all their heads; and in his peace, in true patience I possess my soul,
 and am contented, if it be his will, to be dissolved.`"
@@ -282,7 +293,7 @@ Read the third and fourth chapters to the Hebrews,
 and observe with what fervency that author labours with
 them to embrace the present visitation of God`'s love:
 for he saith, chap.
-iv, ver. 7, that God limiteth a certain day.
+4, ver. 7, that God limiteth a certain day.
 Take heed, therefore, lest there be in any an evil heart of unbelief,
 in departing from the living God.
 "`But,`" said he, "`with whom was God grieved?
@@ -423,6 +434,8 @@ and if these shall be a means to stir up any to more faithfulness and diligence,
 in making their calling and election sure,
 my design is answered and God shall have the praise of all, who is worthy forever.
 
+[.signed-section-signature]
 John Tomkins.
 
+[.signed-section-context-close]
 London the 28th of the Eleventh Month, 1701.

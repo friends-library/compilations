@@ -1,7 +1,9 @@
 == Preface.
 
+[.chapter-subtitle--blurb]
 +++[+++By Another Hand.]
 
+[.salutation]
 Friendly Reader:
 
 Give ear to that advice which was given by the lawgiver in Duet. 32:29,
@@ -14,7 +16,7 @@ For how did they provoke the Lord to anger, after divers manners, as is recorded
 some by a vicious course of life,
 thereby neglecting both their present good and future happiness;
 which might well occasion the prophet Amos to say, chap.
-iv. 12, "`Prepare to meet thy God, O Israel!`"
+4:12, "`Prepare to meet thy God, O Israel!`"
 Here is an agreement, and holy harmony of these good men, in a matter of so great moment.
 
 A cloud of the like-minded might be produced on this occasion,
@@ -55,7 +57,7 @@ that thou thereby mayest have the profit of this life, and of that which is to c
 life everlasting.
 
 Oh! prize the season of the love of God unto thee, in affording thee heavenly light,
-by which thou mayest see his way, and how to walk therein in well-pleasing to him,
+by which thou mayest see his way, and how to walk well-pleasing to him therein,
 who calls to thee by a word behind thee, saying, "`This is the way, walk in it.`"
 Reader, take heed to this teacher, which is come near to thy soul,
 that thou mayest be guided into all truth, by the Lord Jesus Christ manifested in spirit.
@@ -122,7 +124,7 @@ would be greatly acceptable to such whose glass is nearly run,
 who are travelling through the valley of the shadow of death;
 and the glory of this world is stained, and the beauty of it is fled away.
 What would a soul in such distress give, if it were to be purchased,
-for an inheritance in the kingdom of heaven.
+for an inheritance in the kingdom of heaven?
 
 Much might be said on this subject, of reminding the living to prepare to die,
 that a volume might be written on purpose,

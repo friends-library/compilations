@@ -512,8 +512,8 @@ When at another time his adversaries came to take away his printingpress,
 he was so resigned and easy, in giving up all to his persecutors,
 that when they had done their work, and seized upon all, he,
 (as he often did in like cases,) set forth meat and drink before them,
-according to the command, Rom.
-xii., 19, 20, to feed even his very enemies; and his good so overcame their evil,
+according to the command, Rom. 12:19-20,
+to feed even his very enemies; and his good so overcame their evil,
 that some of them departed under a concern;
 but one of the chief being filled with malice against the truth, survived not long after,
 but died in a miserable condition.
@@ -580,7 +580,7 @@ and is gone to his everlasting rest, with God`'s faithful servants.
 
 He finished this life the 26th of the Tenth month, in the year 1695,
 about eight in the morning, at his house in Holywelllane, London,
-in the sixty-seventh year of his age. Rom. 8:18.
+in the sixty-seventh year of his age. Rom. 8:18--
 For I reckon, that the sufferings of this present time,
 are not worthy to be compared with the glory which shall be revealed in us.
 
@@ -660,16 +660,25 @@ in the twenty-first year of his age.
 RICHARD BAKER, of Jordan`'s in Buckinghamshire, received the truth in the love of it,
 many years since, and he testified his love to it;
 
-1st. In a circumspect walking, showing himself a pattern of good works.
+[.numbered-group]
+====
 
-2ndly.
+[.numbered]
+_1st._ In a circumspect walking, showing himself a pattern of good works.
+
+[.numbered]
+_2ndly._
 By suffering cheerfully for it, and took joyfully the spoiling of his goods,
 and the imprisonment of his body; and would often say,
 "`If people knew the pleasure of godliness,
 they would not live in the earth as they did.`"
 
-3rdly.
+[.numbered]
+_3rdly._
 By a hearty zeal for the prosperity and propagation of it.
+
+====
+
 A vigilant watchman he was in his station, a sharp reprover of evil,
 and an encourager of the good, and a diligent labourer in the work of the ministry,
 earnestly endeavouring to bring those he ministered
@@ -945,4 +954,4 @@ finished his days the 12th of the Twelfth month,
 in the year 1700, aged nine years.
 
 [.the-end]
-END OF THE FIRST PART.
+END OF THE FIRST PART

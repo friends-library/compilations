@@ -1,11 +1,13 @@
-// NOTE: NOT MODERNIZED
 == Preface.
 
-Impartial Reader, the Author`'s design in continuing these collections,
+[.salutation]
+Impartial Reader,
+
+The Author`'s design in continuing these collections,
 having already been discovered in his two former treatises upon this subject,
 to be no less than the promoting of piety,
 I hope I shall not need to recommend this third part of his so necessary,
-useful and commendable labours to thy serious perusal, especially in such an age as this,
+useful and commendable labours to your serious perusal, especially in such an age as this,
 wherein impiety is so sensibly promoted, not only by the notoriously profane,
 but also by the presumptuously careless professors of Christianity.
 
@@ -25,7 +27,7 @@ in showing forth that free and universal grace of God,
 whereby they came to be what they were,
 and that arm of power whereby they were upheld in,
 and delivered out of many tribulations; yet the main intention of the Author is,
-to send us to the house of mourning, which, saith Solomon,
+to send us to the house of mourning, which, says Solomon,
 is better to go to than the house of rejoicing; that we may learn so to live,
 as to be prepared to die, and enter upon an eternal state.
 
@@ -35,7 +37,7 @@ There we may often hear a more reaching sermon in a few broken words,
 than the most elegant in the pulpit;
 but especially from two sorts of experienced teachers, namely, sinners repenting,
 and saints triumphing: there we may hear all agreeing in one common prayer,
-viz. Oh! let me die the death of the righteous, and let my latter end be like his.
+namely, "`Oh! let me die the death of the righteous, and let my latter end be like his.`"
 There we may hear men discovering what they really believe,
 often very differently from what they formerly professed;
 and many with the repenting thief, come to have a better religion upon their deathbed,
@@ -50,7 +52,7 @@ and begging his universal mercy.
 Those who have known Christ after the flesh only, now desiring to feel him within,
 as the hope of glory.
 
-Those who have grieved, resisted, and mocked at the holy spirit,
+Those who have grieved, resisted, and mocked at the Holy Spirit,
 now seeking for strength and comfort from it.
 Those who have opposed the light of Christ,
 now gladly embracing it in the dark valley of the shadow of death.
@@ -65,7 +67,7 @@ if not as bad examples, yet as miserable comforters, and physicians of no value.
 Now names, notions, creeds, traditions, controversies, honours, riches, compliments,
 pastimes, etc., are little regarded when death, the king of terrors, is in view,
 and the great Judge stands at the door, who, without respect of persons,
-judgeth and rewardeth according to every man`'s work.
+judges and rewards according to every man`'s work.
 Now nothing will administer comfort but the inward absolution of our holy high priest,
 the Lord Jesus Christ;
 nothing but the unction of the blessed spirit of intercession and adoption.
@@ -74,7 +76,7 @@ are found to have the best religion, and to be the true believers in Christ,
 and witnesses of his redemption and salvation;
 and those to be the true and most honourable scholars,
 who have been taught by the grace of God, which brings salvation,
-and hath appeared unto all men, to deny ungodliness and the world`'s lusts,
+and has appeared unto all men, to deny ungodliness and the world`'s lusts,
 and to live soberly, righteously and godly in this present world.
 
 There we may find the righteous, with Abraham, Isaac, Jacob and Joseph, advising,
@@ -93,15 +95,15 @@ and others of the faithful servants and followers of Christ, embracing death,
 hastening to meet it, longing to be dissolved and to be with him, their captain,
 fore-runner and rewarder.
 Thus preaching and praying, and praising the Lord freely and fervently,
-boldly and experimentally, and all without book, as the holy spirit gives utterance,
+boldly and experimentally, and all without book, as the Holy Spirit gives utterance,
 has upon a deathbed often proved an affecting,
 tendering and converting season to many hearers.
 
-To such an house of mourning, or shall I say rejoicing,
-the Author of these collections kindly invites thee, Christian reader; where,
+To such a house of mourning, or shall I say rejoicing,
+the Author of these collections kindly invites you, Christian reader; where,
 by hearing the dying songs and sayings of the ransomed and redeemed,
 who knew in whom they had believed,
-thou mayest also come to know and believe in that great and true light,
+you may also come to know and believe in that great and true light,
 which enlightens every man coming into the world; for it was by the inshining thereof,
 that the feet of these blessed ones, now at rest with the Lord,
 as of all the righteous ages past, were guided into the way of truth and peace.
@@ -114,4 +116,5 @@ in the face of Jesus Christ, for whose sake they suffered the loss of all,
 and followed him in the regeneration and self-denial,
 and are now entered with him into that rest which remains for the people of God.
 
+[.signed-section-signature]
 Christopher Meidel.

@@ -106,18 +106,13 @@ Aged seventy-nine years and nine months; a minister of Christ.
 
 In the year 1660 he was imprisoned for not swearing,
 and remained a prisoner in Lancaster six weeks.
-
 In the year 1668 he was imprisoned again for not swearing,
 and was a prisoner at Preston seven weeks.
-
 In the year 1669 he was imprisoned for nonpayment
 of tithes at Lancaster four years and six weeks.
-
 In the year 1687 he was a prisoner on the same account at Lancaster one year.
-
 In the year 1691 he was a prisoner again, about tithes at Lancaster,
 four years and two months.
-
 So that in all he was a prisoner nearly ten years.
 
 [.asterism]
@@ -175,6 +170,10 @@ He departed not long after, being the 3rd of the Ninth month, 1707, aged forty-o
 
 But before his departure, he dictated the following letter to his son.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Son Samuel,
 
 First learn to live in the love and fear of God,
@@ -188,6 +187,8 @@ to wait upon the Lord for counsel and instruction in all things.
 
 And it is thy father`'s desire, that thou mayest be loving and dutiful unto thy mother,
 and loving and kind to thy wife.
+
+--
 
 [.asterism]
 '''
@@ -230,11 +231,11 @@ This servant of Christ being taken ill the 10th of the Tenth month, 1707,
 the first thing he expressed his care for, was the church,
 and to have friends preserved in unity,
 saying he was well satisfied with the Lord`'s dealing with him.
-
 "`He hath been a good God to me all along, and hath let me live to good old age,
 and been my support from time to time, and is so in this present exercise.`"
 Another time he said, "`My days are expiring apace;
 but I have lived to see the goodness of the Lord in the land of the living.`"
+
 He then expressed his love to his wife in a very tender, affectionate manner,
 and prayed to the Lord that he would bless and preserve her and his children to the end,
 desiring they might live together in love, and watch over one another therein.
@@ -244,7 +245,6 @@ if the Lord did see fit to restore him,
 and he could be an instrument to gain more souls to God, he could be glad;
 for that was his great joy,
 when he considered how he had spent his time in the Lord`'s service.
-
 This honest, zealous old man gave good advice to many that came to see him,
 and for their children, laying a charge upon such friends as had them,
 to keep their children to the plain language,
@@ -254,10 +254,10 @@ and to ask them questions for opening their understanding,
 that they might know what God is, and where he is to be found,
 and to do thus while they are young and tender; and said, "`Oh! that men,
 especially young men, did know the comfort of living a sober life.`"
+
 A neighbour coming to visit him, asked him how he did; he replied, "`Weak,
 and am going apace out of this troublesome world,
 to a place where there is neither sorrow nor trouble.`"
-
 After this, he said, "`Friends were formerly known by their fewness of words,
 and keeping to their word in their dealings.`"
 He very often desired Friends to keep to plainness, both in habit and speech,
@@ -308,13 +308,13 @@ and the Lord was pleased to hear and answer.
 She bore all her long exercise with great patience.
 On the 12th of the Seventh month, though much weakened,
 she was opened and strengthened to speak very strongly, which was written down, viz.:
+
 "`Oh! what a blessing have I enjoyed in this my quarter of a year`'s weakness.
 It has been the best and most sweet, pleasant, and profitable time of all my life.
 I have seen the end of all worldly enjoyments.
 Although I have a kind father, a loving husband, and dear babes, yet I can freely, yea,
 heartily, with all my heart, leave all to be with Christ my Redeemer, my Saviour,
 and the beloved of my soul.
-
 Oh! he hath been near me, yea, with me day and night.
 He hath so drawn me, and won upon me, with the cords of his love, taking me by the hand,
 and opening his arms to receive me into his bosom, that I am overcome with his love.
@@ -326,13 +326,13 @@ They have also two good fathers, who will take care of them,
 where I can leave them freely; only I desire thee, father,
 to take care of John`'s schooling and education,
 and get him apprentice to some good Friend at Bristol, or elsewhere, as thou seest fit.
-
 All my care I have cast upon God, and upon thee, my father and my husband;
 so that I am easy.
 Blessed be the Lord for this good and precious time,
 wherein I am freely devoted to his will, and right glad to leave this troublesome world,
 having the earnest of that eternal glorious redemption,
 through my blessed Lord and Saviour, Jesus Christ.`"
+
 Then calling her children one by one, charged them, saying, "`Fear God,
 dwell in love one with another,
 and be sure obey your father;`" then blessing them particularly in the name of the Lord,
@@ -344,6 +344,7 @@ yet as I have cast all my care for you upon the Lord, I am easy,
 and leave you to his protection and divine providence, who gave you all to me,
 who never fails those that trust in him, being a tender Father,
 both to the fatherless and motherless children.`"
+
 To her eldest son John she farther added, "`I have been a tender mother to you,
 and now must leave you.
 Therefore, dear child, observe the counsel and advice of thy dying mother,
@@ -357,12 +358,12 @@ for a lying tongue is an abomination to the Lord.
 Read, and remember what wise Solomon saith will be the portion of such
 as despise or neglect the good counsel of father or mother,
 and thereby do evil in breaking God`'s command, to obey father and mother.
-
 Oh! dear child, consider of these things, and be wise: God Almighty bless thee,
 and you all, and preserve you out of all evil.
 This is the one great thing that I desire for you; not to be great in the world,
 which hurts many; but to be great in virtue and godliness,
 which has the promise both of this world, and that which is to come.`"
+
 Then she lay still some little time, desiring all might leave the room except Anna,
 her husband`'s eldest daughter,
 betwixt whom and her there had been a great endearedness and strong bond of love.
@@ -552,10 +553,10 @@ he one time said to those about him, "`Dear children,
 you have a great deal of trouble and exercise about me, the Lord be your reward;
 but you shall see a little time will put an end to all these troubles,
 and a happy end it will be for me, I doubt it not at all.`"
+
 Another time, being some days before he died,
 John Moore`'s eldest daughter standing by him, he took her by the hand, and said,
 "`Dear Anna, the Lord will reward thee for thy care and pains about me.`"
-
 Seeing her affected with sorrow,
 as well she might be for the approaching loss of so near and dear a friend,
 he farther added, "`Death will not be said nay; but it will be well with me,
@@ -564,6 +565,7 @@ The Lord who hath been with me,
 and hath borne up my spirit through and over all
 the various exercises and trials of my time;
 he will be with me to the end; there is no doubt of it.`"
+
 One time lying upon his bed, in a sweet and heavenly frame of mind and spirit, he said,
 "`I have served the Lord in sincerity, with all my heart, and with all my soul,
 and with all my strength; hallelujah, hallelujah, hallelujah.`"
@@ -717,8 +719,7 @@ and honour, for thou art a merciful God.`"
 After this manner she lay praising the Lord for some time.
 A neighbour coming in, who was not called a Quaker, seeing her in such a heavenly frame,
 spoke with tears, "`She will not leave her fellow behind her:
-she will reap the fruit of her doings, joy unspeakable, and full of glory.
-
+she will reap the fruit of her doings, joy unspeakable, and full of glory.`"
 "`What a mercy,`" adds the neighbour, "`it is,
 the Lord lays no more upon her than he gives her patience to bear.`"
 She answered, "`The Lord is very good to me, what a great mercy it is,
@@ -756,11 +757,11 @@ gives us resignation of mind to his divine will.
 This may be soon spoken of; but it is sweet to come to the living experience of it,
 and God hath mercifully given me this resignation and quietness of mind,
 in which I have peace, notwithstanding the weakness and pains I lie under.`"
+
 Then observing some young people about his bed,
 he counselled them to keep low in the fear of the Lord,
 not to seek to themselves great things, nor to post after the riches of this world;
 though a moderate care, within the bounds of truth, was allowable.
-
 But he spoke against extending our desires that way,
 to the forgetting the work of religion, and the preparation for our latter end;
 "`For,`" said he, '`a little, with God`'s blessing, will suffice.`"
@@ -811,12 +812,11 @@ before ever God gave me a child,
 they might rather be taken off in the innocency of their days,
 than live to dishonour him.`"
 So, in the fear and favour of God, he departed this life, the 11th of the Seventh month,
-1708.
-
-Aged about sixty-three; convinced about thirty-seven;
+1708+++.+++ Aged about sixty-three; convinced about thirty-seven;
 and a minister about twenty-five years.
 He was also a prisoner several years for his testimony against tithes,
 and for refusing to swear, in obedience to Christ`'s command.
+
 His body was interred the 13th of the said Seventh month,
 in Friends`' burying-ground at Minver,
 being attended thither by a numerous company of Friends, relations, and neighbours;
@@ -863,7 +863,6 @@ Another time he said to his mother,
 than ever before.`"
 Again said, "`I strove to serve the Lord in my health, and now I reap the benefit of it.
 I can look forward, and that is a mercy.`"
-
 Being frequently comforted in spirit, and filled with the love of God, he would say,
 "`Oh! if the earnest be so precious, what will the fullness be.`"
 When weak in body, he was strengthened in spirit,
@@ -917,6 +916,9 @@ Aged near nineteen, and a minister about six years.
 This testimony was given by his friends in Dublin concerning him,
 which I thought meet here to insert.
 
+[.embedded-content-document.testimony]
+--
+
 It pleased the Lord to favour this youth with a gracious visitation,
 even in his childhood, and so to prepare him for his service, whereunto he appointed him,
 that there appeared deep impression of a concerned mind,
@@ -966,8 +968,14 @@ and be dutiful to their parents, etc.
 And though it is our loss, to have such an one taken from us,
 we believe it is his gain to be removed from where trouble and temptations attend,
 to where the wicked cease from troubling, and the weary are at rest.
-From our meeting in Dublin, the 19th of the Second month 1709.
 
+[.signed-section-closing]
 Signed in behalf of the said meeting, by
 
+[.signed-section-signature]
 Amos Strettell, Richard Sealey, George Rook.
+
+[.signed-section-context-close]
+From our meeting in Dublin, the 19th of the Second month 1709.
+
+--

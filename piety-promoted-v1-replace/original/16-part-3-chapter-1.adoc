@@ -171,7 +171,11 @@ She also in her life-time gave forth several good papers, which are printed; and
 the day she died, she left a paper for Friends,
 as a testimony of her good will and love to them all; which is as followeth.
 
-The Testimony of Priscilla Cotton, to Friends, the day she died.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== The Testimony of Priscilla Cotton, to Friends, the day she died.
 
 All my dear friends, who have found your Redeemer, oh! wait upon him at all times,
 that you may stand continually in his presence where life is,
@@ -202,7 +206,7 @@ and keep to the cross when alone, or in company;
 what the pure mind of God stands against in you, that the cross is against.
 
 So friends, watch daily to keep Christ`'s command,
-'`Take up your daily cross;`' be not at liberty one day, but deny thy own will,
+"`Take up your daily cross;`" be not at liberty one day, but deny thy own will,
 thy own thoughts, and thy own self.
 Taking up the cross, you feel the power, the strength of the Lord God,
 which breaks down all, keeps in order, in safety, and in peace.
@@ -215,10 +219,12 @@ tenderhearted, courteous, forgiving, forbearing, long-suffering,
 and supporting one another.
 Here the power of the cross is known, which brings all to God`'s praise,
 and to his honour and glory, and to his children`'s prosperity and peace: so let it be.
-
 Amen.
 
+[.signed-section-signature]
 Priscilla Cotton.
+
+--
 
 After this, seeing her departure was nigh at hand,
 she desired several Friends to be called; being come,
@@ -343,8 +349,8 @@ Whereas I had need of a physician, the Lord was unto me instead of a physician;
 and when I had need of patience, he gave me patience; and when I had need of sleep,
 he accompanied me with his living presence from time to time;
 whereby my soul was sweetly consoled, so that I can say with the Psalmist,
-"`It is good for me that I was afflicted;`" and with Simeon,
-that "`Mine eyes have seen his salvation;`" and with Job, that "`My Redeemer liveth,
+'`It is good for me that I was afflicted;`' and with Simeon,
+that '`Mine eyes have seen his salvation;`' and with Job, that "`My Redeemer liveth,
 and mine eyes have seen him.`"
 See how good the Lord is.
 Oh! my soul, praise thou the Lord, let all that is within me praise the Lord.`"
@@ -454,7 +460,6 @@ have unity one with another;`" and she confessed the love of God, and said,
 and walk in God`'s truth forever.
 Women Friends, I exhort you all in the love of God, govern well in your own houses,
 or else you cannot govern well in the church of Christ.
-
 Likewise, young women, be sober-minded, and fear the Lord, and be charitable,
 and walk in love to the end.
 Dear friends, I salute you all in the Lord;
@@ -509,7 +514,7 @@ He was a lover of unity amongst brethren, but as a sword against that spirit, wh
 under pretence of love to the light of Christ Jesus in their consciences,
 would plead for a liberty that was out of the truth,
 and sought to draw others from the footsteps of the flock of Christ:
-to which purpose he wrote a book, entitled, "`An Epistle of Love.`"
+to which purpose he wrote a book, entitled, [.book-title]#An Epistle of Love.#
 He was a man devoted to the service of God, and was an example to believers,
 even in word, in conversation, in charity, in spirit, in faith, and in purity,
 and gave attendance to reading, and to exhortation, and to doctrine,
@@ -593,19 +598,22 @@ She died the 27th of the Eighth month, 1678, in the nineteenth year of her age.
 [.asterism]
 '''
 
-THE words and testimony of THOMAS GETTOS, of Bandon, in Ireland,
+The words and testimony of THOMAS GETTOS, of Bandon, in Ireland,
 about eight hours before his departure out of this life.
 He was weak in body, but fervent in mind, and perfect in memory;
 taken from his mouth the 22nd of the Third month, 1682.
 
-"`I have known the terrors of the Lord for sin,
+[.embedded-content-document.testimony]
+--
+
+I have known the terrors of the Lord for sin,
 and for transgression committed against him in the time of my youth.
 But he that is an everlasting fountain of life and mercy,
 did not leave me in the greatness of my wickedness,
 but in the abundance of his pity and compassion visited me, and found me out,
 and laid hold on me by his judgments, and did awaken me,
 even in that dead state and condition he found me in.
-Ile made manifest his living truth, viz. Christ Jesus, the light of the world,
+He made manifest his living truth, viz. Christ Jesus, the light of the world,
 which enlightens every one that cometh into the world, of the whole stock of mankind.
 
 So the light and life being made manifest to me, it became the joy of my heart,
@@ -617,7 +625,7 @@ It became a very great cross to the fleshly part, which I saw I must daily keep 
 for when I went from that which crucified me to the world, and the world to me,
 my enemy prevailed over me; so that I saw the words of Christ fulfilled in me,
 in that respect, according to his testimony, who declared on this wise;
-'`Whosoever doth not bear his cross, and come after me, cannot be made my disciple.`'
+"`Whosoever doth not bear his cross, and come after me, cannot be made my disciple.`"
 
 When I came to see that heavenly treasure, made manifest, and revealed in my soul,
 and kept my affections thereunto,
@@ -713,8 +721,12 @@ you will feel a hungering after the bread of life, day after day,
 and a thirsting after the water of life also.
 So being kept here, you are capable of the blessing of the Lord,
 and will see the-Scripture fulfilled in yourselves, which saith,
-'`Blessed are they that hunger and thirst after righteousness,
-for they shall be satisfied.`"`' About eight hours
+"`Blessed are they that hunger and thirst after righteousness,
+for they shall be satisfied.`"
+
+--
+
+About eight hours
 after he had delivered this to Friends present,
 he died in peace the 22nd of the Third month, 1682.
 
@@ -894,9 +906,11 @@ A little before she died her husband asked her how she did, and she said,
 about the tenth hour at night, the 14th of the Twelfth month, 1704,
 in the thirty-fourth year of her age.
 
-A few words of tender counsel and advice to Friends,
-given forth by Mercy Johnson upon her dying bed, two days before she died;
-which she desired might be communicated to Friends.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== A few words of tender counsel and advice to Friends, given forth by Mercy Johnson upon her dying bed, two days before she died; which she desired might be communicated to Friends.
 
 Dear friends, both old and young, wherever these may come, my love salutes you dearly,
 desiring the welfare of your bodies and souls.
@@ -934,4 +948,7 @@ when you come to a dying-bed, as I now am.
 I feel peace and true consolation with the Lord, and my love herein dearly salutes you,
 and bids you all farewell, who am your dear and tender sister,
 
+[.signed-section-signature]
 Mercy Johnson.
+
+--
