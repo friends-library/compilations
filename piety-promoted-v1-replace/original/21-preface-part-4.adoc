@@ -1,4 +1,4 @@
-== Preface. 
+== Preface.
 
 [.chapter-subtitle--blurb]
 +++[+++By Another Hand.]
