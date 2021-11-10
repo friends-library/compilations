@@ -1,7 +1,9 @@
-== Preface.
+== Preface. 
 
+[.chapter-subtitle--blurb]
 +++[+++By Another Hand.]
 
+[.salutation]
 Friendly Reader:
 
 Give ear to that advice which was given by the lawgiver in Duet. 32:29,
