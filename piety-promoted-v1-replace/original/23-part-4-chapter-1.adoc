@@ -629,6 +629,9 @@ The weighty sayings following, being found of his own hand-writing,
 some years after his decease, by his son Caleb, are here printed,
 being worthy of observation.
 
+[.embedded-content-document.letter]
+--
+
 [.offset]
 "`Stand in awe of the living God, that created thee to glorify his name.`"
 
@@ -657,6 +660,8 @@ thou mayest lay down thy head in peace with the living God;
 which far exceeds all the world, or the world`'s enjoyments.
 And in so doing, thou wilt not only answer the requirings of the Lord,
 but of thy dear and tender father also.`"
+
+--
 
 [.asterism]
 '''
