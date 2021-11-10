@@ -1,6 +1,9 @@
 == Preface.
 
-Impartial Reader, the Author`'s design in continuing these collections,
+[.salutation]
+Impartial Reader,
+
+The Author`'s design in continuing these collections,
 having already been discovered in his two former treatises upon this subject,
 to be no less than the promoting of piety,
 I hope I shall not need to recommend this third part of his so necessary,
@@ -34,7 +37,7 @@ There we may often hear a more reaching sermon in a few broken words,
 than the most elegant in the pulpit;
 but especially from two sorts of experienced teachers, namely, sinners repenting,
 and saints triumphing: there we may hear all agreeing in one common prayer,
-viz. Oh! let me die the death of the righteous, and let my latter end be like his.
+viz. "`Oh! let me die the death of the righteous, and let my latter end be like his.`"
 There we may hear men discovering what they really believe,
 often very differently from what they formerly professed;
 and many with the repenting thief, come to have a better religion upon their deathbed,
@@ -113,4 +116,5 @@ in the face of Jesus Christ, for whose sake they suffered the loss of all,
 and followed him in the regeneration and self-denial,
 and are now entered with him into that rest which remains for the people of God.
 
+[.signed-section-signature]
 Christopher Meidel.

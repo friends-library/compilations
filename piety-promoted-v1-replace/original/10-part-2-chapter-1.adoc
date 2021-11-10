@@ -80,6 +80,10 @@ so that he could no longer be in the city.
 He then determined to return home; but before he went,
 he left a letter for the Yearly meeting, which is as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friends and Brethren,
 
 I did not know till this last night but that I should
@@ -93,18 +97,27 @@ so that I cannot be with you at this Yearly meeting;
 but desire the Lord to assist you with his blessed power and heavenly life,
 to bring in the scattered ones to their everlasting comfort, and his glory forever.
 Amen.
+
+[.signed-section-closing]
 And that it may be so with you, is the prayer of your loving brother,
 
+[.signed-section-signature]
 William Dewsbury.
 
+[.signed-section-context-close]
 London, the 30th of the 3rd Month, 1688.
+
+--
 
 He lived but seventeen days after he left London; and making short journeys,
 got home to Warwick, and continued weak in body.
 A few days before his departure, some friends being together with him in his chamber, he,
 rising up in his bed, in great weakness of body, said to them as followeth:
 
-"`My God hath yet put in my heart to bear a testimony to his name and blessed truth,
+[.embedded-content-document.testimony]
+--
+
+My God hath yet put in my heart to bear a testimony to his name and blessed truth,
 and I can never forget the day of his great power and blessed appearance,
 when he first sent me to preach his everlasting gospel,
 and proclaim the day of the Lord to all people;
@@ -139,7 +152,9 @@ and the Lord will prosper his work in your hand,
 and cause his truth to flourish and spread abroad; for it shall have the victory,
 and no weapon formed against it shall prosper.
 The Lord hath determined it shall possess the gates of his enemies,
-and the glory and the light thereof shall shine more and more unto the perfect day.`"
+and the glory and the light thereof shall shine more and more unto the perfect day.
+
+--
 
 He concluded in prayers to the Lord,
 with fervent breathings and supplications for all his people everywhere,
@@ -175,7 +190,7 @@ After their arrival at Jamaica, they had several meetings; but,
 about the 18th of the said month, Robert Wardel was taken ill,
 for the climate was exceedingly hot, which made great alteration upon them both,
 especially on Robert Wardel, who was very much indisposed.
-A friend asking him how he found himself, he answered,`" I have been sick many times,
+A friend asking him how he found himself, he answered, "`I have been sick many times,
 but I never felt myself as I am now; therefore I know not how it may be with me:
 the will of the Lord be done: I am given up, and am content with God`'s will.`"
 
@@ -257,7 +272,7 @@ Now I feel the love of God towards me, in my soul!
 He hath opened my heart and brought me into liberty.
 How good a God have I! O the merciful God that I have to do with, that hath remembered me!
 He that said to the thief upon the cross,
-"`Today shalt thou be with me in paradise,`" hath looked upon me.
+'`Today shalt thou be with me in paradise,`' hath looked upon me.
 Now I am satisfied.
 Now I am freely resigned, and given up to the will of God;
 for now hath the Lord given me the assurance of his love forever.`"
@@ -377,6 +392,10 @@ with many more sensible expressions which she uttered.
 That night she received a letter from our friend William Penn, whom she much esteemed,
 and who had been to visit her in the beginning of her sickness; part of it is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Elizabeth,
 
 I am grieved that I am hindered from seeing thee, but the Lord I have sought for thee,
@@ -386,6 +405,8 @@ The Lord God of thy life and the life of his dear people, be with thee,
 and do his blessed good pleasure: in the love of which endless life I bid thee farewell,
 farewell.
 Thy friend and brother in the Lord, where we shall meet again and live forever.
+
+--
 
 The which letter, a friend present, at her desire, answered, and she, at the conclusion,
 expressed these words,`" My love in the Lord Jesus, in whom I received his love,
@@ -477,9 +498,9 @@ To another friend he said, taking his leave of him, "`When thy heart is tendered
 remember me; for it is good for one that is weak to have help.`"
 He often said, "`The time of my going to my long home draws nigh; How good is the Lord,
 and how great is his love!`"
+
 One time he asked his mother how much he wanted of twenty years, she replied,
 "`Three-quarters of a year.`"
-
 "`Then,`" said he, "`if I go to my grave in my youthful days,
 I shall escape a great deal of trouble that is in the world.`"
 And farther said, "`I very often used to go alone into the woods,
@@ -490,6 +511,7 @@ my covenants which I made in my distress;
 yet the Lord has been merciful to me, and I am willing to die.
 This poor carcass, which is much decayed already, will go to the grave;
 but the purer part, or spirit that is in it, will go to the Lord that gave it.`"
+
 He said to his brother, "`I know thou art tender, and often broken into tears:
 if thou wilt be careful, the Lord will be good to thee.
 I desire thee, after meeting on First-days, and on other days, when thou hast time,
@@ -573,8 +595,13 @@ from whence, expecting to see them no more, he wrote an epistle to Friends in Co
 the county where he was born, and where he received truth,
 and also where his family dwelt; which is as followeth:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends in Cornwall.
 
+[.salutation]
 Dear friends,
 
 I send this salutation, as though it were my last unto you,
@@ -676,9 +703,13 @@ my wife`'s dear husband, my children`'s tender father,
 and your own dear friend and brother, in the immortal seed of life,
 where we are nearly and dearly related one to another.
 
+[.signed-section-signature]
 Richard Samble.
 
+[.signed-section-context-close]
 Poole, the 1st of the First month, 1680.
+
+--
 
 Thus our dear friend had a true sense of his death;
 and this letter manifests that he was a true Christian, a good husband, a tender father,
@@ -751,7 +782,6 @@ My dear Father, I have loved thee ever since I knew thee!
 I have followed thee faithfully ever since I did know thy truth!
 Thou blessed God! let all that is within me praise
 thy name! thou hast given me a good reward!
-
 Death is swallowed up of life.
 Thou hast given me victory over the grave.
 My soul longs to be with thee, my sweet Father!`"

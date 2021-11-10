@@ -26,10 +26,13 @@ the destruction of the city of London by fire,
 which was six years before it came to pass; and which vision he published before-hand,
 as a warning to the people to repent; part whereof is as follows:
 
-Part of the vision of Humphrey Smith,
-which he saw concerning the burning of the city of London, in the fifth month, 1660,
-which was three years before his decease, and six years before it was fulfilled.
-"`As for the city herself, and her suburbs, and all that belonged to her +++[+++I beheld]
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== Part of the vision of Humphrey Smith, which he saw concerning the burning of the city of London, in the fifth month, 1660, which was three years before his decease, and six years before it was fulfilled.
+
+As for the city herself, and her suburbs, and all that belonged to her +++[+++I beheld]
 a fire was kindled therein, but she knew not how, even in her goodly palaces,
 and the kindling of it was in the foundation of her buildings.
 There was none could quench it, neither was there any able;
@@ -40,7 +43,7 @@ and it consumed all the lofty things therein,
 and the fire searched out all the hidden places, and burned most in secret places,
 but the consumption was exceedingly great wherewith it was consumed.
 
-"`And as I passed through her streets, I beheld her state to be very miserable,
+And as I passed through her streets, I beheld her state to be very miserable,
 and very few were those that were left in her, who were but here and there one,
 and they feared not the fire, neither did the burnings hurt them;
 but they were (and walked) as mournful people, and the fire burned everywhere,
@@ -58,9 +61,13 @@ and part of broken desolate walls and buildings in the midst,
 which the fire continued burning against; and that which was taken, as to make use of,
 which yet escaped the fire, became useless in men`'s hands, as a thing of naught.
 And the vision thereof remained in me, as a thing that was secretly showed me of the Lord.
-"`And now let her wise men find out the matter, and her prudent men read,
+
+And now let her wise men find out the matter, and her prudent men read,
 and her divines, so called, interpret the vision,
-and let every one look to their own ways.`"
+and let every one look to their own ways.
+
+--
+
 This, with much more that Humphrey Smith saw, was printed and published in the year 1660,
 as a warning whereby people might stand in the day of trial,
 and endure the hour of trouble.
@@ -81,7 +88,7 @@ after a whole year`'s imprisonment, he fell sick.
 In the time of his sickness he spoke many precious words to friends about him,
 signifying that he was given up to the will of God, either in life or death.
 And as he lay under great illness, he said,
-"`My heart is filled with the power of God;`" and,`" It is good for a man,
+"`My heart is filled with the power of God;`" and, "`It is good for a man,
 at such a time as this, to have the Lord to be his friend.`"
 Another time he said, "`Lord, thou hast sent me forth to do thy will,
 and I have been faithful unto thee in my small measure,
@@ -223,7 +230,6 @@ and his faithful messengers, saying,
 "`I have hardened my heart at many precious meetings, when the Lord hath smitten me;
 and I have seen plainly, that the Lord would have gathered me; but I said in my heart,
 if I receive this, if I give up to this, I must be a Quaker, and I cannot be a Quaker.
-
 Then would I take my heart from attending upon the ministration of truth,
 and then my heart became more hard.
 What shall I do,`" said she,
@@ -289,7 +295,7 @@ and so without groan or sigh, or the least motion, she shut her eyes and slept.
 Glory to God forever.
 
 She died at the widow Mary Forster`'s, in that called St. John`'s street,
-near Smithfield, London, in the year 1668
+near Smithfield, London, in the year 1668.
 
 [.asterism]
 '''
@@ -368,6 +374,8 @@ which George Fox desired him to prepare, and he would call for it as he came bac
 He spake them forth in the power of the Lord, as fresh as if he had ailed nothing,
 and a friend took it in writing, which is as followeth:
 
+[quote]
+____
 Forasmuch as I have been informed,
 that Lodowick Muggleton hath vaunted concerning my departure out of the body,
 because of his pretended sentence of damnation given against me;
@@ -386,7 +394,8 @@ in what he said to me at that time,
 viz. That from henceforth I should always be in fear of damnation,
 which should be a sign to me that I was damned; which fear I never was in since;
 so that his sign given by himself did not follow his prophecy,
-which sufficiently declares him to be a false prophet.`"
+which sufficiently declares him to be a false prophet.
+____
 
 George Fox, when he came back again, found Josiah sitting by the fireside,
 filled with the power of the Lord, and speaking to friends about him as followeth:
@@ -452,17 +461,23 @@ sentence of premunire was given against him by the judge, in these words:
 your lands are confiscated to the king during your life,
 and your goods and chattles forever; and you to be a prisoner during your life.`"
 
+[.discourse-part]
 F+++.+++ Howgill replied, "`An hard sentence for my obedience to the commands of Christ;
 the Lord forgive you all.`"
 
-Judge.
+[.discourse-part]
+_Judge:_
 "`Well, if you will yet be subject to the laws of the king,
 the king will show you mercy.`"
 
-F+++.+++ Howgill.
+[.discourse-part]
+_Francis Howgill:_
 "`The Lord hath showed mercy unto me, and I have done nothing against the king,
 or government, or any man, blessed be the Lord, and herein stands my peace;
 for it is for Christ`'s sake I suffer, and not for evil doing.`"
+
+[.small-break]
+'''
 
 The court broke up, and many were sorry to see what was done against him;
 but he signified how contented and glad he was,
@@ -493,7 +508,6 @@ but the Lord stirred up enemies against them, even three great nations,
 whereby the violence of their hands was taken off.
 I say again, God will own his people, even all those that are faithful; and as for me,
 I am well, and content to die; I am not afraid at all of death.
-
 Truly one thing was of late in my heart,
 and that I intended to have written to George Fox and others,
 even that which I have observed, which thing is, that this generation passeth away,
@@ -501,6 +515,7 @@ when so many good and precious Friends, within these few years have been taken f
 and therefore Friends had need to watch and be very faithful,
 so that we may leave a good, and not a bad savour, to the next succeeding generation;
 for you see that it is but a little time that any of us have to stay here.`"
+
 Often he said in the time of his sickness, that he was content to die,
 and that he was ready;
 and praised God for the many sweet enjoyments and refreshments
@@ -671,7 +686,7 @@ but thou wilt see thou art mistaken.`"
 Many relations and neighbours being in her chamber, were in great sorrow;
 among whom was a great professor, and an old acquaintance of hers,
 who desired those about her to pray for her; which she hearing,
-when others thought she had been dying, answered, "`My Advocate is with the Father,
+when others thought she had been dying, answered, "`My advocate is with the Father,
 and my peace is made.
 I am feeding at a table none of you perceiveth.`"
 Some lamenting much her being like to be taken away from her nine children,
@@ -689,7 +704,7 @@ and my eternal joy is already begun;`" the certain earnest of which she received
 and +++[+++had]
 often preferred before all other enjoyments.
 
-Her life and conversation, as well as her latter endgg,
+Her life and conversation, as well as her latter end,
 were such as gained her not only great love and esteem from friends of truth,
 but also from others of her acquaintance.
 
@@ -724,7 +739,7 @@ These things she suffered before she was married.
 Afterwards Thomas Whitehead, aforesaid, took her to be his wife,
 by whom she had five children that she left behind her.
 
-At Ivelchester, she endured five months imprisonment, with a young child at her breast,
+At Ivelchester, she endured five months`' imprisonment, with a young child at her breast,
 in a cold winter,
 for speaking the words of truth and soberness to the priests of North Cadbury.
 But the Lord upheld her by the word of his power,
@@ -797,7 +812,7 @@ and to Friends in Barbados.
 I went freely in tender love to them.`"
 He uttered more sensible words; and about half an hour past four in the morning,
 he departed this life, as if he had gone to sleep, being on 1st day of the Fourth month,
-in the year 1675, on board the Samuel of London,
+in the year 1675, on board the _Samuel_ of London,
 in the latitude of 46 degrees and 36 minutes.
 
 [.blurb]
@@ -826,17 +841,16 @@ by which thou hast revealed thy Son.
 Oh! my King, let all people fear and stand in awe of thy power,
 by which thou hast gathered many out of their sinful ways, into pure obedience to thee.
 Thou hast given us a living knowledge.
-
 Oh! pure, glorious, and holy God, let thy life reach unto all my dear friends,
 and keep them that know thee sure and stedfast upon thy holy foundation, Christ Jesus,
 my king, whose appearance is very glorious at this day,
 and of his government no end is to be, but thousands of thousands, millions of thousands,
 shall come to see, and be made partakers of his glorious, bright, shining day.`"
+
 Another time he said, "`There are many ways and baptisms in the world; but oh! thou pure,
 holy, holy One, we have known thy spiritual baptism into Christ Jesus my Lord,
 by whom the living water we have known and felt.
 Oh! it is indeed exceedingly pure, by which we have been washed from all our sins.
-
 Oh! my King, thou wast slain, and by the virtue of thy pure blood we have this given.
 Oh! that all may wait continually upon thee,
 that they may be kept from all the deceitful ways of the world.`"
@@ -880,7 +894,6 @@ During his illness, these following words, with many more, were spoken by him, v
 "`No separation like unto this; soul separated from the body,
 the spirit returning to God that gave it, and the body to the earth,
 from whence it came.
-
 Great has the lovingkindness of the Lord been to me, and not to me only,
 but to all my dear friends who are faithful unto death.
 I have always been faithful to the truth, as to what was manifested;
@@ -922,7 +935,6 @@ He said, "`If any bad spirits speak evil of me when I am gone,
 you are living witnesses`" (speaking to two friends present,
 who were his neighbours) "`that I am an innocent man, and the Lord hath cleared me,
 and I lay down my head in peace.
-
 As to my wife, I give her freely up to the Lord; for she loveth the Lord,
 and he will love her.
 I have often told my dear wife, as to what we have in outward things,

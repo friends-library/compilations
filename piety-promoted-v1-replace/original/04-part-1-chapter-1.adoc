@@ -217,6 +217,9 @@ Here follows a copy of William Robinson`'s paper, offered to the court,
 before he was sentenced to death, concerning their coming into those parts,
 for which they were put to death; which was denied by the governor to be read.
 
+[.embedded-content-document.paper]
+--
+
 On the 8th day of the Eighth month, 1659, in the after part of the day,
 in travelling betwixt Newport in Rhode Island and Daniel Gould`'s house,
 with my dear brother Christopher Holder, the Word of the Lord came expressly to me,
@@ -253,7 +256,7 @@ but by my Spirit, saith the Lord of Hosts.
 I will perform what my mouth hath spoken, through my servants, whom I have chosen;
 mine elect, in whom my soul delighteth.`"
 
-"`Friends, the God of my life, and the God of the whole earth,
+Friends, the God of my life, and the God of the whole earth,
 did lay this thing upon me, for which I now suffer bonds near unto death.
 He, by his Almighty power, and everlasting love, constrained me,
 and laid this thing upon me, and truly I could not deny the Lord,
@@ -263,9 +266,9 @@ be not hasty in judging in this matter, lest ye speak evil of the thing ye know 
 Of a truth, the Lord God of heaven and earth commanded me by his spirit,
 and spake unto me by his Son, whom he hath made heir of all things,
 and in his life I live, and in it I shall depart this earthly tabernacle,
-if unmerciful men be suffered to take it from me.`"
+if unmerciful men be suffered to take it from me.
 
-"`Herein I rejoice, that the Lord is with me, the Ancient of Days,
+Herein I rejoice, that the Lord is with me, the Ancient of Days,
 the Life of the suffering Seed, for which I am freely given up,
 and singly do I stand in the will of God; for to me to live is Christ,
 and to die is gain.
@@ -278,9 +281,9 @@ Blessed be the Lord God of my life, who hath counted me worthy, and called me he
 to bear my testimony against ungodly and unrighteous men,
 who seek to take away the life of the righteous without a cause;
 as the rulers of Massachusetts Bay do intend,
-if the Lord stop them not from their intent.`"
+if the Lord stop them not from their intent.
 
-"`Oh! hear ye rulers, and give ear and listen,
+Oh! hear ye rulers, and give ear and listen,
 all ye that have any hand herein to put the innocent to death, for in the name, and fear,
 and dread of the Lord God, I here declare the cause of my staying here amongst you,
 and continuing in the jurisdiction after there was
@@ -292,9 +295,9 @@ And now, ye rulers, ye do intend to put me to death, and my companion,
 unto whom the word of the Lord came, saying,
 Go to Boston with thy brother William Robinson.
 Unto which command he was obedient, who had said unto him,
-he had a great work for him to do.`"
+he had a great work for him to do.
 
-"`This thing is now seen, and the Lord is now doing it;
+This thing is now seen, and the Lord is now doing it;
 and it is in obedience to the Lord, the God of the whole earth,
 that we continued amongst you, and that we came to the town of Boston again,
 in obedience to the Lord, the Creator of heaven and earth, in whose hand your breath is.
@@ -306,19 +309,29 @@ Not only upon yourselves will ye bring innocent blood, but upon the town,
 and the inhabitants thereof, and everywhere within this jurisdiction,
 that had the least hand therein.
 Therefore be instructed, ye rulers of this land, and take warning betimes,
-and learn wisdom, before it be hid from your eyes.`"
+and learn wisdom, before it be hid from your eyes.
 
-"`Written in the common jail the 19th of the Eighth month, 1659, in Boston,
+[.postscript]
+====
+
+Written in the common jail the 19th of the Eighth month, 1659, in Boston,
 by one who feareth the Lord, who is by ignorant people called a Quaker,
 and unto such am I only known by the name of William Robinson,
-yet a new name have I received, which such know not.`"
+yet a new name have I received, which such know not.
+
+====
+
+--
 
 Here followeth a copy of Marmaduke Stevenson`'s paper
 of his call to the work and service of the Lord,
 given forth by him a little before he was put to death,
 and after he had received his sentence.
 
-"`In the beginning of the year 1655, I was at the plough in the east parts of Yorkshire,
+[.embedded-content-document.paper]
+--
+
+In the beginning of the year 1655, I was at the plough in the east parts of Yorkshire,
 in old England, near the place where my outward being was.
 And as I walked after the plough,
 I was filled with the love and presence of the living God,
@@ -347,7 +360,7 @@ under the shadow of His wings,
 who hath made us willing to lay down our lives for his name`'s sake,
 if unmerciful men be suffered to take them from us; and if they do,
 we know we shall have peace and rest with the Lord forever in his holy habitation,
-when they shall have torment night and day.`"
+when they shall have torment night and day.
 
 In obedience to the living God,
 I made preparation to pass to Barbados in the Fourth month, 1658.
@@ -373,11 +386,14 @@ suffer outward bonds, near unto death.
 And this is given forth to be upon record, that all people may know who hear it,
 that we came not in our own wills, but in the will of God.
 
-"`Given forth by me, who am known to men by the name of Marmaduke Stevenson;
+Given forth by me, who am known to men by the name of Marmaduke Stevenson;
 but have a new name given me, which the world knows not of,
-written in the Book of Life.`"
+written in the Book of Life.
 
+[.signed-section-context-close]
 Written in Boston Prison, in the Eighth Month, 1659.
+
+--
 
 [.asterism]
 '''
@@ -409,6 +425,10 @@ and to be a record to future generations, how truth hath conquered in a woman,
 is here inserted Mary Dyer`'s letter, which she wrote the day after her reprieve,
 as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 The 28th of the Eighth Month, 1659.
 
 Once more to the general court assembled in Boston, speaks Mary Dyer, even as before.
@@ -449,7 +469,10 @@ that I may know what his pleasure and counsel is concerning me, on whom I wait t
 for he is my life, and length of my days; and as I said before, I came at his command,
 and go at his command.
 
+[.signed-section-signature]
 Mary Dyer
+
+--
 
 Mary Dyer being thus freed as aforesaid, returned to Rhode Island,
 where her husband and children dwelt, and after some stay with them,
@@ -459,30 +482,39 @@ but she was moved of the Lord to return to Boston again,
 and she came thither on the 21st of the Third month, 1660.
 On the 31st of the same she was sent for to the general court,
 where the governor said to her,
-"`Are you the same Mary Dyer that was here the last general sessions?`"
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Governor:_ Are you the same Mary Dyer that was here the last general sessions?`"
+
+[.discourse-part]
+_Mary Dyer:_
 I am the same Mary Dyer.
 
-Governor.
+[.discourse-part]
+_Governor:_
 You will own yourself a Quaker, will you not?
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 I own myself to be so reproachfully called.
 
-Governor.
+[.discourse-part]
+_Governor:_
 The sentence was passed upon you the last general court, and now likewise;
 you must return to the prison from whence you came,
 and there remain till tomorrow at nine o`'clock,
 then from thence you must go to the gallows, and there be hanged till you are dead.
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 This is no more than what thou saidst before.
 
-Governor.
+[.discourse-part]
+_Governor:_
 And now it is to be executed; therefore prepare yourself tomorrow at nine o`'clock.
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 I came in obedience to the will of God to the last general court,
 desiring you to repeal your unrighteous laws of banishment upon pain of death,
 and that same is my work now, and earnest request,
@@ -490,11 +522,16 @@ because you refused before to grant me my request; although I told you,
 that if you refused to repeal them,
 the Lord would send other of his servants to witness against them.
 
-Governor.
+[.discourse-part]
+_Governor:_
 Are you a prophet?
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 I spoke the words that the Lord spake in me.
+
+[.small-break]
+'''
 
 And beginning to speak of the call of the Lord to her, the governor said,
 "`Away with her, away with her.`"
@@ -506,18 +543,27 @@ So he had her away with a company of soldiers, beating a drum before and behind,
 that they might not hear her speak; and being upon the ladder at the place of execution,
 some said to her, if she would return, she might save herself.
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 Nay, I cannot; for in obedience to the will of the Lord God I came,
 and in his will I abide faithful unto death.
 
-A priest called out to her,`" Mary Dyer, O repent, repent.`"
-M+++.+++ Dyer.
+[.offset]
+A priest called out to her, "`Mary Dyer, O repent, repent.`"
+
+[.discourse-part]
+_Mary Dyer:_
 Nay, man; I am not now to repent.
 
+[.offset]
 One said that she should say that she had been in paradise.
 
-M+++.+++ Dyer.
+[.discourse-part]
+_Mary Dyer:_
 Yes, I have been in paradise several days.
+
+[.small-break]
+'''
 
 And more she spoke concerning her eternal happiness.
 So, sweetly and cheerfully in the Lord she finished her testimony,
@@ -528,6 +574,10 @@ containing an account of the persecutions and martyrdom of the people called Qua
 Here followeth the copy of a letter that Mary Dyer sent to the rulers of Boston,
 after she had received sentence of death.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the General Court in Boston.
 
 Whereas I am by many charged with guiltiness of my own blood:
@@ -543,7 +593,7 @@ that the truth and servants of the Lord may have free passage amongst you,
 and you be kept from shedding innocent blood,
 which I know there are many among you would not do, if they knew it so to be.
 Nor can the enemy, that stirreth you up thus to destroy this holy seed,
-in any measure countervail the great damage that you will by thus doing procure.`"
+in any measure countervail the great damage that you will by thus doing procure.
 
 Therefore, seeing the Lord hath not hid it from me, it lieth upon me,
 in love to your souls, thus to persuade you.
@@ -560,7 +610,7 @@ Of whom take you counsel?
 Search with the light of Christ in you, and it will show you of whom, as it hath done me,
 and many more, who have been disobedient and deceived, as now you are.
 As you come into this light, and obey what is made manifest to you therein,
-you will not repent that you were kept from shedding blood, though by a woman.`"
+you will not repent that you were kept from shedding blood, though by a woman.
 
 It is not mine own life I seek (for I choose rather to suffer with the people of God,
 than to enjoy the pleasures of Egypt), but the life of the seed,
@@ -621,7 +671,10 @@ that shall you reap from him,
 that will render to every one according to the deeds done in the body,
 whether good or evil; even so be it, saith,
 
+[.signed-section-signature]
 Mary Dyer.
+
+--
 
 [.asterism]
 '''
@@ -635,20 +688,28 @@ in an open prison, till the First month, 1661,
 when he was brought to the court at Boston with his chains and log at his heels.
 The court told him that he was found guilty, and was to die.
 
-W+++.+++ Leddra asked what evil he had done.
+[.discourse-part]
+William Leddra asked what evil he had done.
 
+[.discourse-part]
 The court replied that his own confession was as good as a thousand witnesses.
 
-W+++.+++ Leddra.
+[.discourse-part]
+_William Leddra:_
 What was that?
 
+[.discourse-part]
 The court answered, that he had owned, that those who were put to death,
 viz. William Robinson, Marmaduke Stevenson, and Mary Dyer, were innocent +++[+++of that]
 for which they died; and that he would not put off his hat in court,
 and that he would say thee and thou to the magistrates.
 
-W+++.+++ Leddra.
+[.discourse-part]
+_William Leddra:_
 Then you put me to death for speaking English, and for not putting off my clothes.
+
+[.small-break]
+'''
 
 After some more words they pronounced sentence of death upon him,
 and on the 14th of the First month, 1661, they knocked off his chains,
@@ -666,19 +727,23 @@ And as the executioner was putting the halter about his neck,
 in the meekness and sense of Christ Jesus he said, "`I commit my cause to thee, O God.`"
 And just at turning off the ladder he called out, "`Lord Jesus receive my spirit.`"
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle of William Leddra, to Friends,
 written by him the day before he was put to death.
 
+[.salutation]
 To the society of the little flock of Christ, grace and peace be multiplied.
 
-Most dear and inwardly beloved!`"
-
+Most dear and inwardly beloved!
 The sweet influences of the morning star, like a flood,
 distilling into my innocent habitation,
 have so filled me with the joy of the Lord in the beauty of holiness,
 that my spirit is as if it did not inhabit a tabernacle of clay,
 but is wholly swallowed up in the bosom of eternity, from whence it had its being.
-"`Alas! alas! what can the wrath and spirit of man that lusteth to envy,
+Alas! alas! what can the wrath and spirit of man that lusteth to envy,
 aggravated by the heat and strength of the king of the locusts,
 which came out of the pit, do unto one that is hid in the secret places of the Almighty?
 or unto them that are gathered under the healing wings of the prince of peace?
@@ -687,7 +752,7 @@ Under his armour of light they shall be able to stand in the day of trial,
 having on the breast-plate of righteousness, and the sword of the spirit,
 which is their weapon of war against spiritual wickedness, principalities and powers,
 and the rulers of the darkness of this world, both within and without.
-"`O my beloved, I have waited like a dove at the windows of the ark,
+O my beloved, I have waited like a dove at the windows of the ark,
 and have stood still in that watch, which the Master, without whom I could do nothing,
 did at his coming reward with the fulness of his love, wherein my heart did rejoice,
 that I might in the love and life of God speak a few words to you,
@@ -702,7 +767,7 @@ with whom and in whose presence there is life, in which, as you abide,
 you stand upon the pillar and ground of truth.
 For the life being the truth and the way, go not one step without it,
 lest you should compass a mountain in the wilderness;
-for unto everything there is a season.`"
+for unto everything there is a season.
 
 As the flowing of the ocean doth fill every creek and branch thereof,
 and then retires again towards its own being and fulness, and leaves a savour behind it,
@@ -725,7 +790,7 @@ will be like the manna that was gathered yesterday, without any good scent or sa
 For it was only well with the man while he was in the life of innocency,
 but being driven from the presence of the Lord into the earth, what can he boast of?
 
-`"Although you know these things, and many of you much more than I can say,
+Although you know these things, and many of you much more than I can say,
 yet for the love and zeal I bear to the truth and honour of God,
 and tender desire of my soul to those that are young,
 that they may read me in that from which I write,
@@ -761,9 +826,13 @@ there is no assurance of salvation.
 By grace ye are saved, and the witnessing of it is sufficient for you,
 to which I commend you all, my dear friends, and in it remain your brother,
 
+[.signed-section-signature]
 William Leddra.
 
+[.signed-section-context-close]
 Boston jail, 13th of First Month, 1660-1
+
+--
 
 [.asterism]
 '''
@@ -851,7 +920,6 @@ for I am wound into largeness, and am to be lifted up on high,
 far above all:`" so in the evening, being the first day of the week,
 and the 17th of the Sixth month, 1662, he finished his course,
 according to his own words, and was gathered up to his Father.
-
 He wrote many treatises, which are collected together in print.
 
 [.asterism]

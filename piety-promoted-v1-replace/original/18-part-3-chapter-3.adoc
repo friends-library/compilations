@@ -114,9 +114,8 @@ a believer in truth fifty-two years.
 [.asterism]
 '''
 
-An Account of some remarkable words spoken by HAYES HAMILTON, son of Hugh Hamilton,
-of Ireland, a little before his death.
-Aged twelve years.
+[.blurb]
+=== An Account of some remarkable words spoken by HAYES HAMILTON, son of Hugh Hamilton, of Ireland, a little before his death. Aged twelve years.
 
 He said he had been several times in a place by himself,
 where he wished he had been forever,
@@ -159,8 +158,9 @@ in the twelfth year and seventh month of his age.
 [.asterism]
 '''
 
-The dying words of THOMAS VOKINS, son of Richard and Joan Vokins, of West Charlow,
-in the county of Berks.
+[.blurb]
+=== The dying words of THOMAS VOKINS, son of Richard and Joan Vokins, of West Charlow, in the county of Berks.
+
 The day before his departure he prayed thus: "`Oh! blessed God,
 if it be thy will to take me this night, make my passage easy; not my will be done;
 thy will be done.
@@ -544,11 +544,16 @@ A labourer in the gospel about fifty years.
 [.asterism]
 '''
 
-The testimony of HUGH STAMPER, of Lurgan, in Ireland,
-near his departure out of this life.
+[.blurb]
+=== The testimony of HUGH STAMPER, of Lurgan, in Ireland, near his departure out of this life.
 
-About twenty friends being present, he said,
-"`I die in the same faith that I have made profession of, and lived in,
+[.offset]
+About twenty friends being present, he said:
+
+[.embedded-content-document.testimony]
+--
+
+I die in the same faith that I have made profession of, and lived in,
 and suffered for these twenty-three years, and I am as willing to die as to live.
 All the desire I have to live, is to see truth prosper, and if sufferings come,
 I am willing to suffer for it.
@@ -617,7 +622,9 @@ and he will shower down multitudes of blessings upon your heads.
 O friends, I desire you again not to slight this glorious day, which is now dawned,
 for it can be called no less than salvation upon earth,
 but walk faithfully to the receiving of your crown,
-and you will return with sheaves in your bosoms.`"
+and you will return with sheaves in your bosoms.
+
+--
 
 Thus often exhorting Friends to faithfulness, and to be of an honest heart,
 and to keep nothing there but that which is of a right nature, saying,
@@ -877,5 +884,5 @@ He died at his own house in Uric, in Scotland, the third day of the Eighth month
 leaving behind him seven children, four sons and three daughters.
 
 He was born 1648; convinced of truth 1667; wrote his first book for truth 1670;
-and his notable Apology in and about the 27th year of his age, 1675.
+and his notable [.book-title]#Apology# in and about the 27th year of his age, 1675.
 He died in the forty-second year of his age.

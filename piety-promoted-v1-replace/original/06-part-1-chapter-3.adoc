@@ -469,7 +469,6 @@ And further said, "`I am satisfied with my religion.
 I will not forsake it,
 though I should be fed with the bread of adversity and water of affliction.
 Oh! praises, praises to my God, and my Father.
-
 Our Father, which art in heaven,
 hallowed be thy name;`" and so said to the end of the Lord`'s prayer twice over;
 and the third time till she came to that petition, "`Thy will be done on earth,
@@ -477,6 +476,7 @@ as it is done in heaven,`" which she spoke deliberately, signifying to those abo
 that they were all to mind that; "`For,`" said she,
 "`I am freely given up to his blessed will in all things: praises to my God,
 bless his name, O my soul.`"
+
 Another time, her father having her in his arms, she said, "`Oh! my dear father,
 thou art tender and careful over me, and hast taken great pains with me in my sickness,
 but it availeth not, there is no help nor succour for me in the earth;
@@ -578,13 +578,13 @@ I must yield, I must yield.`"
 He died on the 23rd of the Twelfth month, in the year 1683, aged fourteen years.
 After his death, his father found the following verses of Jonah`'s making, viz.:
 
+[verse]
+____
 Humility the spring of virtue is;
-
 Humbling thyself, virtue thou canst not miss.
-
 Delight in virtue; vice be sure to shun:
-
 He`'s happy that a virtuous course doth run.
+____
 
 [.asterism]
 '''
@@ -613,7 +613,7 @@ I am only grieved that there should be so little
 tenderness or pity in the hearts of my persecutors,
 to keep such a poor young one as I am in prison.
 The Lord forgive them, I can freely.`"
-She further said, that her imprisonment was by the permission of the Almighty,
+She further said, "`that her imprisonment was by the permission of the Almighty,
 who is greater, and above the greatest of my persecutors,
 who I believe will shortly set me free from these, and all other bonds,
 over all their heads; and in his peace, in true patience I possess my soul,

@@ -269,12 +269,12 @@ that thereby she might be preserved out of all evil; and added,
 and be sure keep low and humble to it,
 and be not high-minded nor exalted above the pure witness of God in thy conscience,
 for that would be hurtful.`"
+
 Another time, in remembrance of the tender dealings of the Lord to him,
 he said to his sons, who were present, "`My days are very near drawing to an end;
 and though my father and mother cast me off when I was a little lad,
 the Lord hath always preserved me, and his blessings did always attend me,
 having been often in many great dangers, both by sea and land.
-
 Having my mind sober and chaste to God,
 and having the fear of the Lord placed in my heart, by which I was preserved out of evil,
 I did the thing that was right in the sight of the Lord,
@@ -409,7 +409,7 @@ and the foolish virgins`' state they will be found in;
 and though they may desire oil of the wise, the wise will have none to spare;
 but the door will be shut upon such, and misery will be their portion.
 He also gave good counsel to his two daughters, saying there was a blessing for them,
-for their father`'s sake, if they would bow to truth, and abide faithful therein.
+for their father`'s sake, if they would bow to truth, and abide faithful therein.`"
 
 He longed to haste away; but was also willing to wait God`'s pleasure.
 More was spoken by him as friends came to visit him, and as his strength would permit,
@@ -772,10 +772,14 @@ that she might see them before she died.
 The day before she died, Samuel Waldenfield and John Field coming to visit her,
 she was much revived, and spoke to this purpose, as followeth,
 directing her speech to Samuel Waldenfield.
-"`I had a desire to see thee,
-and to invite thee to my burial,`" she having sent for him the day before;
-"`but I hope,`" said she to John Field,
-"`thou wilt not take it amiss that I spoke first to Samuel,
+
+[.embedded-content-document.testimony]
+--
+
+I had a desire to see thee,
+and to invite thee to my burial, (she having sent for him the day before;)
+but I hope, (said she to John Field,)
+thou wilt not take it amiss that I spoke first to Samuel,
 for I did not know of thy coming.
 Thy visit being altogether free, I kindly accept of it as freely,
 and desire thee also to be at my burial.
@@ -806,9 +810,9 @@ for there is forgiveness and mercy with him, that he may be feared.
 Therefore be encouraged to keep faithful to the Lord,
 all that are within the hearing of my voice, both husband, friends, and servants.
 I exhort you all, do justly, love mercy, and walk humbly with your God,
-that so it may be said unto us all, Come, ye blessed of my Father;
-which is what my soul hath desired, and that I might never hear that dreadful sound, Go,
-ye cursed.
+that so it may be said unto us all, "`Come, ye blessed of my Father;`"
+which is what my soul hath desired, and that I might never hear that dreadful sound, "`Go,
+ye cursed.`"
 The Lord hath answered my desire this day, and hath loosed my tongue,
 that was ready to cleave to the roof of my mouth,
 and hath strengthened me to praise his great and honourable name.
@@ -818,7 +822,9 @@ that I may be preserved and kept in patience to the end;
 for it is they that hold out to the end that shall be saved.
 And though I have a dear and tender husband,
 and want for nothing that is convenient for me, yet I can freely part with all.
-I hope the Lord will preserve him near to himself to the end of his days.`"
+I hope the Lord will preserve him near to himself to the end of his days.
+
+--
 
 Cornelius Mason coming in, she said,
 "`Remember my dear love to thy wife and dear children; she hath been kind in visiting me,
@@ -877,4 +883,5 @@ She departed this life the next day, being the 3rd day of the Second month,
 in the year 1702, aged about thirty-nine years,
 and was buried at Friends`' burial ground in Bunhill-fields, London.
 
-THE END OF THE SECOND PART.
+[.the-end]
+END OF THE SECOND PART
