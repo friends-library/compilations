@@ -1,5 +1,7 @@
-[short="Preface"]
-== Preface. +++[+++By another Hand.]
+== Preface. 
+
+[.chapter-subtitle--blurb]
++++[+++By another Hand.]
 
 Wonderful has been the love of God to the children of men,
 and various have been the methods whereby he has given demonstrations of it.
