@@ -1,6 +1,9 @@
 == Preface.
 
-Courteous Reader: As the design of writing and publishing to the world is,
+[.salutation]
+Courteous Reader:
+
+As the design of writing and publishing to the world is,
 or ought to be, instruction and improvement,
 and as the advantage or profit of any knowledge or instruction
 is to be considered according to the usefulness of it,
@@ -82,7 +85,7 @@ and by their example may be provoked to diligence,
 who were concerned to seek the way of the Lord early,
 and an acquaintance with him in their young and tender years,
 and had taken the advice of Christ our Saviour,
-to`'`"Seek first the kingdom of God and his righteousness,`" "`and had
+to `"Seek first the kingdom of God and his righteousness,`" "`and had
 nothing to glory in but the cross of Christ;`" and what is very affecting,
 the lively and sensible expressions of such whose pilgrimage in this world,
 ended when they were very young.
@@ -115,7 +118,7 @@ and the end of my labour in transcribing and publishing them will be fully answe
 Before I conclude this preface, I would earnestly recommend,
 especially to the youth of our society of both sexes,
 the serious perusal of these following sheets, and not of these only,
-but also of the other parts of the Dying Sayings of many
+but also of the other parts of the [.book-title]#Dying Sayings# of many
 of our worthy ancients and pious friends heretofore published.
 For what can be more affecting to tender minds,
 or more prevalent with such who are religiously inclined,
@@ -196,7 +199,11 @@ That these things may be duly considered in time,
 and that all may be prepared whensoever it may please the Lord to call us hence,
 is the desire and prayer of one who wisheth health and salvation to all mankind.
 
+[.signed-section-signature]
 John Bell.
 
-"`But let patience have her perfect work, that ye may be perfect and entire,
-wanting nothing.`" James 1:4.
+[quote.scripture, , James 1:4]
+____
+But let patience have her perfect work, that ye may be perfect and entire,
+wanting nothing.
+____

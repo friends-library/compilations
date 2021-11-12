@@ -61,7 +61,11 @@ About an hour after, he said to his nurse and some others,
 "`Now I am going;`" and so quietly departed the 8th of the Sixth month, 1717,
 like a lamb.
 
+[.offset]
 Here follows a paper that was written by him, giving an account of his age when visited.
+
+[.embedded-content-document.paper]
+--
 
 In the Seventh month, 1706, I being then between twelve and thirteen years of age,
 the Lord was pleased to visit my soul by his divine power, which seized upon me,
@@ -124,7 +128,9 @@ that if I would be Christ`'s disciple, I must take up his cross,
 and give up my heart to the Lord; have my mind taken off from the things of this world,
 and stayed upon God.
 And that saying of the Apostle was brought to my remembrance, viz.,
-"`To be carnally minded is death, but to be spiritually minded is life and peace.`"`'
+"`To be carnally minded is death, but to be spiritually minded is life and peace.`"
+
+--
 
 [.asterism]
 '''
@@ -187,7 +193,7 @@ and with diligence wait to feel his bowing power
 to tender and bow down their spirits before him,
 that so they may come to feel the virtue and weight of truth upon their spirits,
 which in itself is pure and weighty.
-"`And as they thus come, they will be livingly concerned for the honour thereof;
+And as they thus come, they will be livingly concerned for the honour thereof;
 for it is too common to see some amongst us, yea, some that profess the truth,
 with sorrow I speak it, overcome with sleep when they are in meetings,
 which brings trouble and sorrow to the diligent and honest-hearted,
@@ -223,7 +229,6 @@ and encumbered with fading and transitory objects;
 and then they would both clearly see their way,
 and be ready and willing to do and answer what the
 Lord might be pleased to require of them.
-
 Adding, in great tenderness of spirit, that as to herself,
 she could in great humility and reverence, as well as thankfulness, say,
 that she had answered the Lord`'s requirings in her day,
@@ -339,7 +344,7 @@ then there is no more hope.
 The Lord God can, if he please, work miracles upon me, and preserve my life, which,
 if he do, it must be for some good and glorious purpose.
 He is a good God to me;`" and said, "`O thou good and sweet God.
-Who can forget so good a God`'
+Who can forget so good a God.`'
 
 He was proceeding further,
 but was interrupted by the coming in of several friends to visit him;
@@ -382,7 +387,7 @@ his distemper lying pretty much in his head, when awaking, he very livingly utte
 grave, where is thy victory?
 Lord Jesus come quickly.`"
 Then his son-in-law asking him how he did; he answered, "`I am going into another world.`"
-He called his brother Joseph, and said, "`The Lord is good to me`" and pausing a little,
+He called his brother Joseph, and said, "`The Lord is good to me;`" and pausing a little,
 repeated,`"death! where is thy sting?
 grave, where is thy victory?`"
 also signifying he was not afraid of death, nor of what came after.
@@ -407,7 +412,7 @@ for notwithstanding the greatness of his pains, yet he was never observed to rep
 or utter any irreverent expressions, but in his greatest extremity, would praise God,
 and acknowledge his goodness to him;
 and when his speech so failed that he could not speak intelligibly to those about him,
-yet he would clearly and distinctly call on the Lord to the last,
+yet he would clearly and distinctly call on the Lord to the last.
 He deceased in great quietness, without sigh or groan,
 about the eighth hour in the evening, on the 24th of the Tenth month, 1717,
 aged about forty-eight years.
@@ -480,8 +485,8 @@ for we know not how soon we may be taken away.
 I hope the Lord will be merciful to me, not through my good works,
 but by his favour and great lovingkindness.
 It is well I lived so near the Lord, it stands upon us so to do,
-and if the Lord should spare me any longer, I hope I should live nearer to him than ever,
-saying, O God remember me.`"
+and if the Lord should spare me any longer, I hope I should live nearer to him than ever,`"
+saying, "`O God remember me.`"
 She said to her father, "`Dear father,
 have a care that thou do nothing that may offend God;
 and if thou hast done any thing that hath offended him,
@@ -556,7 +561,6 @@ to promise that thou wilt make war, and fight all my battles for me.
 O Lord! thy love, and the enjoyment of thy presence,
 are more to me than all the enjoyments of this fading world; yea,
 far beyond all cordials.
-
 I humbly crave it of thee, if it be thy will, to favour me therewith more and more,
 in this time of great weakness, even to the end.
 O, most holy Lord!
@@ -585,11 +589,10 @@ so that I never had the like in all my time, never so near death as I seem to be
 yet I feel the supporting hand of the Lord underneath:
 and notwithstanding I have as comfortable enjoyments in this world as most of men,
 yet the enjoyment of truth is above all.
-"`Dear friends, labour in your meetings, and in your families,
+Dear friends, labour in your meetings, and in your families,
 to witness the work of truth for yourselves, to help over the dark, dull, heavy spirit,
 that clouds Friends in their meetings.
 There is great need of it for both old and young.
-
 There is also the earth, and the clods of the earth,
 that very much hurt the minds of friends,
 but as friends abide near the truth in themselves, when they come to die,
@@ -598,6 +601,7 @@ This, with several other things relating to his journey to and from London,
 was to the tendering and satisfaction of friends; and so he concluded with "`Praises,
 high praises, to the Lord God, and the Lamb, who over all is worthy, now and forever.
 Amen.`"
+
 He departed this life the 25th of the Fourth month, 1718,
 in the forty-third year of his age,
 and was buried in Friends`' burying-ground in Stramangate, in Kendal, Westmoreland.
@@ -605,9 +609,8 @@ and was buried in Friends`' burying-ground in Stramangate, in Kendal, Westmorela
 [.asterism]
 '''
 
-SAMUEL RANDAL.
-A short account from Ireland, concerning our dear deceased friend, Samuel Randal,
-of Cork, dated the Twelfth month, 1719.
+[.blurb]
+=== A short account from Ireland, concerning our dear deceased friend, SAMUEL RANDAL, of Cork, dated the Twelfth month, 1719.
 
 His first coming to dwell among us was about forty years past, as some of us do remember,
 when but a young man, at which time, by his grave and solid conversation,

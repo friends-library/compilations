@@ -156,8 +156,8 @@ Then he wanted to see his cousin, William Fielden,
 and showed a concern to speak to him by way of advice and warning.
 But he not being in sight, he signified, that though he should warn,
 and his warning be neglected, yet he should be clear,
-and their blood would be upon their own heads; referring to Ezekiel the prophet; "`And,
-said he, as for our friend John Ecroyd, if I die I would have him be easy,
+and their blood would be upon their own heads; referring to Ezekiel the prophet; "`And,`"
+said he, "`as for our friend John Ecroyd, if I die I would have him be easy,
 for I am satisfied he hath done his endeavour.`"
 He also signified that he believed there had been endeavours used sufficient,
 if the Lord saw meet to restore him to health again.
@@ -235,11 +235,16 @@ for the reviving of the memory of the just, as he deserves to be accounted,
 I have inserted the testimony of Hardshaw Monthly meeting concerning him;
 in which place he was many years a serviceable member, which is as follows.
 
+[.signed-section-signature]
 J+++.+++ B.
 
-A short Testimony concerning our dear and ancient friend John Haydock.
+[.embedded-content-document.testimony]
+--
 
-"`We could not stand acquitted before God or men,
+[.blurb]
+=== A short Testimony concerning our dear and ancient friend John Haydock.
+
+We could not stand acquitted before God or men,
 to have buried the corpse of this our worthy friend with a few short sighs,
 and so let his name go with him to the grave.
 We have raised no monument over his sepulchre, but there is one due to his worth.
@@ -286,12 +291,14 @@ and was carried thence to his own house at Coppul,
 and was buried in Friends`' burying-ground in Langtree, the 22nd of the same month, 1719,
 aged about seventy-nine years, and a minister about fifty years.
 
+--
+
 [.asterism]
 '''
 
-WILLIAM AND BLESSING FENNEL.--Some account, by way of testimony,
-from the men and women`'s meeting in Youghall, in Ireland,
-concerning our dear friends deceased, William Fennel, and Blessing his wife.
+[.blurb]
+=== WILLIAM AND BLESSING FENNEL.--Some account, by way of testimony, from the men and women`'s meeting in Youghall, in Ireland, concerning our dear friends deceased, William Fennel, and Blessing his wife.
+
 The said William was eldest son to John Fennel and Mary his wife, of Killcomonbeg,
 in the county of Tipperary, who were early convinced of the blessed truth,
 as professed by us, the people called Quakers,
@@ -299,7 +306,7 @@ and were serviceable in their time and place.
 
 The said Blessing was the eldest daughter of Robert Sandham and Deborah his wife,
 in Youghall,
-of whose pious lives and deaths some account is given in the Dying Sayings of Friends,
+of whose pious lives and deaths some account is given in the [.book-title]#Dying Sayings of Friends,#
 already published.
 
 They, the said William and Blessing, by the account we have had and what we knew of them,
@@ -344,7 +351,11 @@ He departed this life the 13th day of the Seventh month, 1724, aged seventy-thre
 A few weeks after his death, the said Blessing, his widow,
 in answer to a letter of a particular friend, T. W., of Cork,
 gave the following account concerning her said husband, in these words, viz.:
-"`Although I fully believe the Lord hath taken my most dear and tender husband to himself,
+
+[.embedded-content-document.letter]
+--
+
+Although I fully believe the Lord hath taken my most dear and tender husband to himself,
 yet his removal is my exceeding great loss,
 he being a faithful fellow traveller with me in our spiritual journey Zionward.
 He was not a man that would speak so much as some others, but was sincere-hearted to God,
@@ -354,7 +365,9 @@ and keep down a dividing spirit.
 If I may be allowed, that best knew him the last half of his years,
 to give his character in a few words-He was a faithful man, fearing God,
 and hating covetousness, doing nothing through strife and vain glory,
-but in lowliness of mind, esteeming others better than himself.`"
+but in lowliness of mind, esteeming others better than himself.
+
+--
 
 The said Blessing lived about ten years after the death of her husband,
 and continued a serviceable woman in her place, being a mother in our Israel,
@@ -450,7 +463,10 @@ Growing gradually weaker, he lay in a sweet, tender frame of mind,
 and so continued to the 9th of the Tenth month, 1724, on which day he died,
 in the eighty-fourth year of his age.
 
-"`Mark the perfect man, and behold the upright, for the end of that man is peace.`"
+[quote.scripture, , Psa. 37:37]
+____
+Mark the perfect man, and behold the upright, for the end of that man is peace.
+____
 
 [.asterism]
 '''
@@ -722,7 +738,6 @@ which is as an anchor sure and steadfast,
 that all tempests and contrary winds have never been able to shake or overturn,
 because it was built upon the invincible rock,
 the rock of ages and foundation of all the righteous.
-
 My soul shall sing eternal praises unto it,
 because I have tasted of the streams that issue therefrom,
 at this time as well as at many other times.
@@ -735,7 +750,6 @@ and from a faithful dependence upon him.
 My soul is a witness for the pure God, that if we keep to the power, in that,
 we are made more than conquerors by him who hath loved us,
 and shed his most precious blood for us.
-
 Though I am weak, and my outward man decays, yet my faith and hope are renewed in him,
 so that I know whose I am, and whom I serve,
 and nothing shall be able to pluck me out of his hands,

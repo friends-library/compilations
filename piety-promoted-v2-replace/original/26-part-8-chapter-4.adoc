@@ -55,7 +55,11 @@ both persons of great esteem in the Society.
 He was early favoured with a divine visitation,
 of which a more particular account cannot be given
 than is in a paper found in his own hand-writing.
-"`The tender dealings,`" says he, "`of the Almighty with me in my youth,
+
+[.embedded-content-document.paper]
+--
+
+The tender dealings of the Almighty with me in my youth,
 being often fresh in my remembrance, brings a most grateful sense thereof over my mind,
 under which I cannot but with reverence commemorate the same.
 
@@ -87,7 +91,9 @@ but, to the praise of his great name, I speak it,
 his compassionate fatherly care was over me,
 and always attended me with such a portion of his divine and saving grace,
 that I knew preservation thereby through things of the most trying and pinching nature,
-in the experience whereof thankfulness would arise.`"
+in the experience whereof thankfulness would arise.
+
+--
 
 Thus through faithfulness to the divine manifestations,
 he was early anointed to preach the gospel, even in his minority,
@@ -455,7 +461,11 @@ and led them to treat him with much respect,
 and he had several opportunities with them to his satisfaction,
 particularly with the chief magistrate of the town.
 In a letter to a Friend he gives this account of it:
-"`He asked me many questions concerning our principles`' which I answered short,
+
+[.embedded-content-document.letter]
+--
+
+He asked me many questions concerning our principles`' which I answered short,
 but so full that he made no objections; and I was thankful in my mind it was so,
 for it was somewhat difficult for the young man my interpreter,
 though he is always ready to assist me when I have occasion.
@@ -479,7 +489,9 @@ He knows the integrity of my heart.
 I did not set out in a forward spirit, but in his counsel, and in it at this time I stand.
 He knows best what will be most for his own honour.
 And as to what will become of this earthen tabernacle,
-it seems to be the least of my care, so that I may finish my course with joy.`"
+it seems to be the least of my care, so that I may finish my course with joy.
+
+--
 
 After his return from France he returned home, but the concern remaining,
 in about four weeks he came back to London, and again embarked,
@@ -505,7 +517,11 @@ adorning the gospel with a becoming conversation.
 Thus persevering in a course of virtue, about a year before his decease,
 he wrote again to the friend before mentioned in the following manner,
 which shows the integrity of his heart continued:
-"`The sap of life lies very deep in the root,
+
+[.embedded-content-document.letter]
+--
+
+The sap of life lies very deep in the root,
 and that must be waited for in those sorrowful and pinching times I have met with.
 Yet I have had a comfortable hope raised in me of late that all would be well in the end,
 the prospect of which to me hath seemed exceedingly pleasant;
@@ -517,7 +533,9 @@ but have ever looked on myself one of the weakest of his servants;
 yet have endeavoured to come up in faithful obedience to his will made manifest in me,
 and in this now I have great peace,
 and an assurance of an inheritance that will never fade away,
-if I continue in the way of well-doing to-the end of the race.`"
+if I continue in the way of well-doing to the end of the race.
+
+--
 
 After this he visited the city of London,
 which he often hinted he thought might be the last time:
@@ -597,12 +615,11 @@ in a spiritual sense especially.
 In the course of his illness he appeared much resigned to divine disposal,
 and uttered many instructive sayings to those who were with him,
 very intelligibly and with clear understanding,
-expressing that the Father`'s love is the best cordial.
-
-"`This is a trying time.
-We had need to lay up a good foundation against the time to come.`"
-That the peaceful state of his mind was all owing to divine goodness; "`for to us,
-O Lord I belongeth shame and confusion of face.`"
+expressing that "`the Father`'s love is the best cordial.
+This is a trying time.
+We had need to lay up a good foundation against the time to come;`"
+adding that the peaceful state of his mind was all owing to divine goodness; "`for to us,
+O Lord, belongeth shame and confusion of face.`"
 He was under deep travail of spirit that he might
 be thoroughly purified and made meet for the kingdom,
 and was enabled to pray that the Lord would lift up the light of his countenance,
@@ -661,14 +678,20 @@ He bore all with steadiness and resignation,
 and his memory and understanding were preserved to the admiration of many who knew him.
 
 Some lines he wrote about sixteen years before his decease,
-seem to describe the state of his mind in succeeding years, viz.: "`I am now waiting,
+seem to describe the state of his mind in succeeding years, viz.:
+
+[quote]
+____
+I am now waiting,
 and beseeching God Almighty to grant me the continuance
 of his blessed grace and holy spirit,
 to aid and assist me for a full preparation for death, and calmly to resign myself to it;
 and above all, to grant me his aid in that painful and trying season,
 that I may forever praise his holy name, who is forever worthy with his dear Son,
 who is my dear and blessed Saviour.
-Amen.`"
+Amen.
+____
+
 He departed this life at his house in Kendal, the 30th of the Twelfth month, 1769,
 and was interred in Friends`' burial-ground the 1st of the First month, 1770;
 aged ninety-two and a minister upwards of sixty years.
@@ -840,7 +863,10 @@ of an exemplary conduct among men, and of an innocent deportment.
 Having left behind him a narrative in manuscript of his convincement,
 the following is a copy of it, viz.:
 
-"`Some passages of my life having of late been brought fresh into my remembrance,
+[.embedded-content-document.testimony]
+--
+
+Some passages of my life having of late been brought fresh into my remembrance,
 I thought proper to commit them to writing, that others might see the great love of God,
 in Christ, to my soul, and be encouraged to follow on to know and obey him.
 While I was young and tender in years,
@@ -935,8 +961,8 @@ Here the enemy of mankind got advantage upon me,
 and I could not stand faithfully in my testimony for the truth as I formerly had,
 but grew weaker and weaker, and was tossed with a tempest and not comforted.
 Yet in this sorrowful state I sometimes had a little hope that the Lord would deliver me,
-which was some stay to my mind, and I was made to cry, Lord! if thou slay me,
-yet will I trust in thee.
+which was some stay to my mind, and I was made to cry,
+"`Lord! if thou slay me, yet will I trust in thee.`"
 I would often pray unto God, that he would restore me again,
 and that if it pleased him to bring the like concern upon me any more,
 I would be faithful and obedient to his requirings.
@@ -961,13 +987,13 @@ I found my strength renewed.
 After this it was shown me that I must alter the place of my sitting; and one day,
 as the meeting-time drew on,
 I prayed to God in my heart that he would favour me with a good meeting.
-But the answer was, If thou dost not go and sit in that place,
-how canst thou expect a good meeting?
+But the answer was, "`If thou dost not go and sit in that place,
+how canst thou expect a good meeting?`"
 Until now I was not come to a resolution; but now, when the meeting-time came,
 I went and sat in the place showed me, not knowing further what might be required of me;
 and, after some time of silence,
 I found a concern of mind to speak to the people s followeth:
-There is a seed of God amongst you, but it lieth oppressed, etc.
+"`There is a seed of God amongst you, but it lieth oppressed,`" etc.
 
 And now I can say, after many years`' experience, Hitherto the Lord has helped me,
 and he is not a hard master, as some slothful servants have said,
@@ -982,7 +1008,13 @@ for it is he that hath plucked my feet out of the miry clay,
 and set them upon a rock that was higher than I; wherefore to him shall the honour,
 glory, and praise be given, who is over all worthy forever and evermore.
 
-Signed T. M., 1748.`"
+[.signed-section-signature]
+Thomas Mawditt
+
+[.signed-section-context-close]
+1748.
+
+--
 
 In his last illness his understanding and senses were preserved,
 and he expressed his being refreshed in his spirit;
@@ -991,3 +1023,6 @@ if agreeable to the will of the Almighty, that he might be released,
 under a well-grounded apprehension that his day`'s work was done.
 He departed this life the 13th of the Seventh month, 1770; aged eighty-one,
 and had been a minister about forty-eight years.
+
+[.the-end]
+End of the Second Volume

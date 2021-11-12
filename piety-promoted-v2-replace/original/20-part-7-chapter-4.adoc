@@ -146,7 +146,8 @@ He was aged eighty-three years, and a minister about fifty-six years.
 [.asterism]
 '''
 
-A short testimony concerning our ancient and worthy friend JANE FEARON.
+[.blurb]
+=== A short testimony concerning our ancient and worthy friend JANE FEARON.
 
 JANE FEARON, wife of the aforesaid Peter Fearon, was born of religious parents,
 who lived and died in the truth, whose care was to educate her in the way thereof.
@@ -245,6 +246,7 @@ to glorify that God who made them, and show forth his praise,
 whose service she faithfully answered during her
 long pilgrimage and course through this world.
 
+[.signed-section-signature]
 J+++.+++ Bell.
 
 [.asterism]
@@ -461,7 +463,7 @@ and divers times put up her supplications to him for living water,
 and that it might spring up in her unto eternal life.
 Not long before her departure, she said, "`Father,
 the Lord hath assured me I shall be happy.`"
-It was answered, "`that is comfortable indeed; "`Ay,`" replied she,
+It was answered, "`that is comfortable indeed;`" "`Ay,`" replied she,
 "`this is matter of joy and rejoicing can my soul say by living experience.`"
 
 When she took her leave of her dear and only sister, and her cousin Lloyd Zachary,
@@ -480,8 +482,13 @@ and expired as one falling into a sweet sleep, without sigh or groan.
 She departed this life the 2nd day of the Sixth month, 1714,
 aged eleven years and about three months.
 
-An abridgement of _Thomas Chalkley`'s_ testimony concerning _Hannah Hill,_ junior.
-"`There is something on my mind to write in memory of that dear innocent soul,
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== An abridgement of Thomas Chalkley`'s testimony concerning Hannah Hill, junior.
+
+There is something on my mind to write in memory of that dear innocent soul,
 Hannah Hill, junior, who departed this life in the twelfth year of her age,
 in peace with God, and in great love and unity with his people,
 and in much assurance of her own eternal happiness.`"
@@ -511,11 +518,18 @@ she would often sympathize with those who were in affliction, or under exercise,
 of which I was a witness, which greatly affected my heart to consider,
 that her years were so green and her soul so ripe.
 May all who cast their eyes on these lines, say with the man of God of old,
-'`Oh! that I had wings like a dove,
-for then would I fly away and be at rest.`' Ps. 55:6.`"
+"`Oh! that I had wings like a dove,
+for then would I fly away and be at rest.`" Ps. 55:6.
 
-An abridgement of _Griffith Owen`'s_ testimony concerning _Hannah Hill._
-"`The Lord hath been pleased in his great love to give a gift or
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== An abridgement of Griffith Owen`'s testimony concerning Hannah Hill.
+
+The Lord hath been pleased in his great love to give a gift or
 manifestation of his Holy Spirit to the sons and daughters of men,
 to show unto them the way to eternal happiness, and to help them to walk in it.
 And although it is universally extended,
@@ -555,7 +569,9 @@ and by an innocent and righteous conversation,
 the work of regeneration might clearly appear in all their actions and behaviour,
 that those who conversed with them, and beheld their good works,
 coupled with the fear of God,
-might have cause to acknowledge they are the seed whom the Lord hath blessed.`"
+might have cause to acknowledge they are the seed whom the Lord hath blessed.
+
+--
 
 [.asterism]
 '''
@@ -613,10 +629,10 @@ Her mother asked her if she had anything to say to some of her relations.
 She answered, "`I fear there is little to be done with them,
 but remember my dear love to them,
 and I would have them remember that they do not know how soon it
-may be their lot to be in the same condition as I am in.
+may be their lot to be in the same condition as I am in.`"
 Speaking of a kinswoman whom she thought too light and airy, she said,
 "`What hard work will she find when she comes to
-be as I am`" After that she was a little still,
+be as I am.`" After that she was a little still,
 desiring to lie in her mother`'s arms; but finding her oppression to increase,
 she said to her mother,
 "`Pray to the Lord that he would please to give me an easy passage.`"
@@ -784,4 +800,4 @@ aged upwards of eighty-four years, and a minister about 29 years,
 and was buried in Friends`' burying-ground at Baghurst the 23rd of the same month.
 
 [.the-end]
-END OF THE SEVENTH PART.
+END OF THE SEVENTH PART

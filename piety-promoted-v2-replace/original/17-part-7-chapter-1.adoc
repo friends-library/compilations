@@ -252,10 +252,14 @@ her corpse was accompanied by a large number of friends
 to Friends`' burying-ground near Bunhill-fields,
 and there decently interred.
 
+[.signed-section-signature]
 J+++.+++ B.
 
 [.asterism]
 '''
+
+[.embedded-content-document.testimony]
+--
 
 DEBORAH BELL, wife of John Bell, of Bromley, in Middlesex, late of Gracechurch-street,
 London, daughter of the before-mentioned John and Deborah Wynn, was born at Bradford,
@@ -436,8 +440,8 @@ if I had that work to do, what a dreadful thing it would be.`"
 At another time, divers young people being present, she said,
 "`I would have our young people be willing to bear the cross in their youth,
 and despise the shame; for that is the way to have true peace in themselves.`"
-
 Another time she said, "`I now feel that which my soul has longed for.`"
+
 Seeing divers young women standing round her bed,
 whose growth and settlement in the blessed truth she had often been concerned for,
 she looked solidly upon them, and spoke on this wise,
@@ -559,7 +563,10 @@ Therefore, in humble submission to his will who gave, and hath taken away, as kn
 though it is my loss, it is her everlasting gain, I rest,
 and can in sincerity and truth bless his name who is worthy forever.
 
-J+++.+++ B.
+[.signed-section-signature]
+John Bell
+
+--
 
 On the 7th day of the month aforesaid, her body was accompanied from our dwelling-house,
 at Bromley, to the meetinghouse in Gracechurch-street, London, whence,
@@ -567,8 +574,10 @@ after a solemn meeting, many being affected with the removal of so near a friend
 it was carried to Friends`' burying-ground near Bunhill-fields, and buried by her mother,
 according to her desire.
 
-"`Precious in the sight of the Lord, is the death of his saints.`"
-Psalms 116:15.
+[quote.scripture, , Psa. 116:15]
+____
+Precious in the sight of the Lord, is the death of his saints.
+____
 
 [.asterism]
 '''
@@ -636,11 +645,11 @@ that we may be ready to enter into the chamber with him.
 Oh! glory to God.
 I am ready, come when thou pleasest, at midnight or cock-crow;
 glory to God forever.
-These few lines come in true love
+
+"`These few lines come in true love
 to all that may see them when I am gone to my long home,
 as indeed I do not expect to be long or many days,
 because I feel so many distempers to attend this poor house of clay.
-
 Glad I am, that it hath pleased the Lord to work upon my heart in the flower of my age,
 and hath made me willing to serve him in the days of my youth,
 so that I was made to forsake all that was near and dear to me,
@@ -653,7 +662,6 @@ who hath often gone mourning on my way with my hands upon my loins.
 And although I have gone on my way weeping, yet I shall return with joy to Zion,
 with joy and songs of deliverance in my mouth,
 praising the Lord who hath been my rock in every time of trial.
-
 I have fled thither and have found safety.
 Blessed are they who are found building upon him.
 These are they who know whither to fly when the tempest beateth, and the rain descendeth.
@@ -663,11 +671,11 @@ As one that hath been concerned for the welfare of souls for some years,
 that all would prize their time while they have it,
 and not slight the day of their visitation, for it may be,
 such as are now in being may not live to see another day.
-I can truly say, it hath been a concern upon my mind for some years,
+
+"`I can truly say, it hath been a concern upon my mind for some years,
 if it pleased the Lord to order it that I lived so long,
 as that a trying day might come upon this nation, that I might live so,
 as to be sheltered under the Lord`'s wing.
-
 For indeed it is those who are found labouring in the summer
 time who have something to feed upon when winter approaches.
 Therefore I desire that I may prevail with you,
@@ -681,7 +689,6 @@ and he beareth up the spirit of my mind, glory be to his name,
 for he beareth up his children in a trying time,
 who have been made willing to confess him before men;
 those are they whom he will not deny before his Father which is in heaven.
-
 Although you have been as the off-scouring of the world, be not discouraged,
 for the Lord is on his way, and it is my faith to believe,
 that the Lord will get himself a name, and his name will become famous in Israel.
@@ -689,11 +696,11 @@ Therefore be not discouraged, but go on in the name of the Lord.
 Although you may think yourselves weak,
 yet the Lord will be strength in the midst of weakness.
 I speak by good experience, blessed be the name of the Lord for it.
-I have often thought when it pleased the Lord to draw my mind to visit this nation,
+
+"`I have often thought when it pleased the Lord to draw my mind to visit this nation,
 Scotland, and Ireland, then I said, Lord, I am weak, very despicable in the eyes of men,
 how shall I appear before them?
 I can truly say, that it was the word of the Lord that ran through me.
-
 Be not afraid, for though thou art weak, yet I am strong,
 and I will make thee as a trumpet in my hand, which shall give a certain sound.
 Blessed be the Lord, who hath fulfilled his promise not only to my comfort,
@@ -705,14 +712,18 @@ and of ourselves can do nothing that is good: farewell.`"
 
 N+++.+++ B.--I presume the foregoing expressions of this Friend, in her illness,
 were committed to writing, owned by her, and her name put to them before her departure.
+
 She died at the house of William Young, of Droinfield, in Derbyshire, of a consumption,
 in the year 1702, aged about thirty years,
 and was buried in Friends`' burying-ground there.
 
-Doctor Heathcot`'s testimony, concerning Jennet Stow, who was her physician,
-and attended her in her illness.
+[.embedded-content-document.testimony]
+--
 
-"`When first I beheld that holy woman who left this legacy behind her,
+[.blurb]
+=== Doctor Heathcot`'s testimony, concerning Jennet Stow, who was her physician, and attended her in her illness.
+
+When first I beheld that holy woman who left this legacy behind her,
 I thought I never saw so heavenly an image.
 Her eyes seemed full of concern, but not for this world.
 But what way soever her outward eyes looked,
@@ -766,7 +777,10 @@ I am not sorry that she is gone, nor that I am left;
 but may my life and latter end be like hers, then I know, in life or death,
 happy shall I be, and the same happiness I desire for all mankind.
 
-Gilbert Heathcot, M. D.`"
+[.signed-section-signature]
+Gilbert Heathcot, M. D.
+
+--
 
 [.asterism]
 '''
@@ -790,7 +804,6 @@ and watchful and fervent in that great duty of prayer
 when you approach before the Almighty Jehovah.
 It is a dreadful thing to appear before the Lord unprepared,
 for the Lord will be terrible to the wicked.
-
 Israel is to dwell alone, and not to be numbered among the nations.
 And you elders, be ye faithful.
 I am raised up beyond my expectation to exhort you elders to faithfulness,

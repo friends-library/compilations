@@ -117,19 +117,20 @@ him into his kingdom of everlasting rest.
 His corpse was decently buried the 25th day of the said month,
 lovingly accompanied by friends and neighbours.
 Aged about seventy-one years; a minister about forty-seven.
-"`Precious in the sight of the Lord is the death of his saints.`"
-Ps. 116:15.
+
+[quote.scripture, , Psa. 116:15]
+____
+Precious in the sight of the Lord is the death of his saints.
+____
 
 [.asterism]
 '''
 
-THOMAS RAYLTON.
---Some account of the birth, education,
-and convincement of that faithful minister of the everlasting gospel, Thomas Raylton,
-found after his decease, in his own hand-writing:
-to which is added some farther relation of his ministry, etc.,
-since his settlement in London,
-taken from the testimony of the Bull and Mouth monthly meeting, concerning him.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== THOMAS RAYLTON.--Some account of the birth, education, and convincement of that faithful minister of the everlasting gospel, Thomas Raylton, found after his decease, in his own hand-writing: to which is added some farther relation of his ministry, etc., since his settlement in London, taken from the testimony of the Bull and Mouth monthly meeting, concerning him.
 
 I was born on the 30th day of the Sixth month, 1671, in Bowes,
 in the north part of Yorkshire, and educated in the way of the church of England.
@@ -167,23 +168,22 @@ I was soon taken notice of, and complaint made to my mother,
 of my neglecting to conform to these things, by the priest, my then master,
 who was moved at my behaviour, and I suppose, intended at that time to have used the rod,
 and having made preparation, called me to him.
-
 He said, "`I heard today that thou wentest by Mr. Bounskell,
-and didst not put off thy hat, and bid good morrow; adding,
-What is thy reason for so doing?
-whether is it pride or religion?
+and didst not put off thy hat, and bid good morrow;`" adding,
+"`What is thy reason for so doing?
+whether is it pride or religion?`"
 Upon which I told him it was not pride.`"
-Then, said he, it must be religion; and if so,
+"`Then,`" said he, "`it must be religion; and if so,
 thou must not be whipped and so laid down the rod.
-But, said he, if for religion, let me know why thou refusedst, and give me some precedent.
+"`But,`" said he, "`if for religion, let me know why thou refusedst, and give me some precedent.`"
 So I told him I had been reading in the Revelations,
 and there I found that an angel showed John many things, and that John said,
 "`When I had heard and seen,
 I fell down to worship the angel that showed me those things; but the angel said,
 See thou do it not, for I am of thy fellow servants, and of thy brethren the prophets,
 and of them which keep the sayings of this book: worship God.`"
-
 And from this I told him, I refused to do it unto men.
+
 But he endeavoured to persuade me, that what he requested of me,
 was no more than a civil respect between man and man;
 and from thence he thought I might the better conform to it.
@@ -224,7 +224,7 @@ as he called them, he would teach me no longer.
 
 Although I must confess I would gladly have learned a little more,
 being then a bible-scholar, yet +++[+++rather than]
-to have it in a, way I saw I must deny and bear testimony against,
+to have it in a way I saw I must deny and bear testimony against,
 I forsook the school at that time, and went home to my father`'s house,
 and told my mother the occasion of my coming.
 Although she took me to the first meeting but a few weeks before,
@@ -275,8 +275,8 @@ some of the Friends undertook to go and offer me to my father again.
 I went along with them, and coming there,
 they told my father it was their desire that he would take me home again,
 as I was his son; and if he would not accept of me as a son,
-then as a servant into his house; but if he would not as either, then, said they,
-he must become our care, forasmuch as he is become one of us.
+then as a servant into his house; but if he would not as either, "`then,`" said they,
+"`he must become our care, forasmuch as he is become one of us.`"
 This proposition took such place with my parents,
 that the Friends were thanked for the care they had over me.
 Thus I was brought home again, and had free access to their presence morning and evening,
@@ -331,7 +331,6 @@ where there was not the sound of a hammer or iron tool.
 In this quietness in meetings,
 I was greatly refreshed and filled with inward joy to the Lord,
 but could not yet utter by words what I felt.
-
 For, indeed, as the ministry is a great work,
 it made me the more cautious how I entered into it,
 remembering it was not approved that one of old laid hold of the ark +++[+++unbidden]
@@ -361,7 +360,10 @@ As I grew in testimony, a concern came into my mind to visit Friends in Cumberla
 where, after some time, I went, and was kindly received by them,
 and was at most of their meetings, if not all.
 
+[.signed-section-signature]
 T+++.+++ Raylton.
+
+--
 
 This our dear friend Thomas Raylton,
 after he had travelled much in the service of the truth,
@@ -395,4 +397,4 @@ and was decently buried on the ninth of the same month,
 in Friends`' burying-ground near Bunhill-fields.
 
 [.the-end]
-END OF THE SIXTH PART.
+END OF THE SIXTH PART

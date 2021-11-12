@@ -108,7 +108,7 @@ The Lord hath delivered my soul from all unrighteousness;
 there is no obstruction in my way.
 Death is no terror to me; it is the most pleasant thing that ever mine eyes beheld.
 I would not, if I might have my health again, remain here.`"
-Sometimes saying "`I see to the end of mortality, but I cannot come at it yet.`"
+Sometimes saying, "`I see to the end of mortality, but I cannot come at it yet.`"
 
 Henry Jackson, a Friend who had a great respect for him in the time of his health,
 and often visited him in his sickness, to their comfort and inward refreshment,
@@ -251,7 +251,7 @@ and thou wilt do well.`"
 To a friend who lived in the neighbourhood, visiting her,
 she said there was a short sentence which was much in her mind,
 and she had recommended it to several, "`To do nothing against,
-but all that ye can for the truth,`" the reward of which will be great peace in the end,
+but all that ye can for the truth, the reward of which will be great peace in the end,`"
 and that she now witnessed, which was more to her than all the world; adding,
 "`You are a pretty knot of Friends in this neighbourhood,
 and I would have you to be preachers.
@@ -367,14 +367,20 @@ it pleased God to remove hence his dear and loving wife,
 after they had lived together above forty-six years,
 of whose virtue it may not be amiss to give the following short account.
 
+[.embedded-content-document.testimony]
+--
+
 She was a kind and faithful wife, frugal and industrious, but not covetous.
 A mother tenderly affectionate and evenhanded, shining in example; a neighbour peaceable,
 obliging, and beneficent, of good report; and it may be said of her,
 she was a mother in the church: having brought up children, lodged strangers,
 relieved the afflicted, and was diligent in good works.
+
 She departed this life in great peace, in unity with friends,
 and in full assurance of an inheritance with the saints in light,
 saying on her deathbed, she had done her day`'s work in the day time.
+
+--
 
 It were easy to enlarge on their virtues, both public and private,
 but to avoid prolixity, I shall hasten to make some mention of his last illness,
@@ -476,7 +482,7 @@ but also at other times, to wait to feel the incomes of that divine power,
 which as it is given way to, cleanseth the heart,
 and nourisheth up the soul unto life eternal.
 She would often repeat that saying of our blessed Lord and Saviour Jesus Christ, Matt.
-xxii."`Friend, how camest thou in hither, not having a wedding garment?`"
+22:12,"`Friend, how camest thou in hither, not having a wedding garment?`"
 Showing thereby, that being only called a Friend, would avail nothing,
 without the wedding garment, the white linen, the saints`' righteousness.
 This she was earnestly concerned for at many times, as well as in her last illness,
@@ -768,6 +774,9 @@ and left a good report behind her.
 [.asterism]
 '''
 
+[.embedded-content-document.testimony]
+--
+
 Being much inclined to leave something in memory of my dear wife, MARGARET ELLIS,
 who was very dear to me and my children, I may justly say,
 she attained to a good old age,
@@ -780,10 +789,14 @@ since she was convinced thereof, and more especially in the afternoon of her day
 when her candle shone brighter and brighter to the end, to our comfort and encouragement,
 as appears by the following account.
 
+[.signed-section-signature]
 Rowland Ellis.
 
+[.signed-section-context-close]
 Plymouth, in the county of Philadelphia, in Pennsylvania,
 the 8th day of the Sixth month, 1731.
+
+--
 
 MARGARET ELLIS, wife of Rowland Ellis, of Pennsylvania,
 for about the last ten years of her life, was deprived of her eyesight,
@@ -832,7 +845,6 @@ and was kindly received; and to make her earnings the better,
 was admitted to glean among the sheaves,
 the reapers being disposed to let fall handsful for her,
 inviting her to sit at meat with them, and by degrees she came to be the wife of Boaz.
-
 Which remarks she made in great tenderness of spirit before the Lord,
 in the sense of his goodness to them that came to hope under the shadow of his wing;
 comparing this to her convincement,
@@ -869,7 +881,6 @@ Answer being made that that was better than all the world.
 "`I know it well,`" said she, "`in this my sickness,
 for had I not endeavoured to keep a conscience void of offence towards God and man,
 it would have been too hard a task for me now in this my great weakness.
-
 For I made it my concern to look over my day`'s work
 when night came to lay my head upon the pillow,
 and take a view of my own heart,
@@ -932,7 +943,7 @@ Is thy faith weakened so soon?
 Get hold of him who in time of great exercise hath supported thee,
 and he will be the same again.`"
 About an hour before she departed, she asked, what time of the night it was.
-It was answered, about eleven o`'clock.
+It was answered, "`About eleven o`'clock.`"
 "`From twelve till break of day I usually had my bad fits,`" said she,
 "`and by and by I shall rest quiet and easy with my Saviour.`"
 Something to take was offered her; she said, "`No more of the fruit of the vine,
