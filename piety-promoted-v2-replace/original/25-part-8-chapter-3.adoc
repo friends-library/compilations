@@ -367,12 +367,13 @@ A few months before her death,
 she drew up a brief memorial of the gracious dealings of the Lord with her soul,
 which she desired might be communicated to Friends, and is here annexed.
 
-A brief memorial of the Lord`'s gracious dealings with Rachel Chandler,
-formerly R. Penfold, late of Esher in Surry,
-written by herself a few months before her decease,
-and at her particular request communicated to Friends.
+[.embedded-content-document.testimony]
+--
 
-"`When I consider that the grave cannot celebrate the praise that is due
+[.blurb]
+=== A brief memorial of the Lord`'s gracious dealings with Rachel Chandler, formerly R. Penfold, late of Esher in Surry, written by herself a few months before her decease, and at her particular request communicated to Friends.
+
+When I consider that the grave cannot celebrate the praise that is due
 to the Lord on account of his gracious and merciful dealings to my soul,
 I am inclined to say so much on God`'s behalf as may suffice to let mankind know,
 that he of his own free mercy first visited my soul,
@@ -472,9 +473,13 @@ who will not leave his people comfortless,
 blessed be his name! but will come again and cause them to rejoice,
 and their joy shall exceed the joy of harvest, when corn and wine increase.
 
-Rachel Chandler.`"
+[.signed-section-signature]
+Rachel Chandler.
 
+[.signed-section-context-close]
 Esher, Ninth month, 1764.
+
+--
 
 [.asterism]
 '''
@@ -525,12 +530,12 @@ and continued so for some time, but at times got out to meetings.
 On the 24th of the Eleventh month, 1765, in the afternoon he went to meeting,
 and in the evening had an acceptable time in the family,
 in which the divine life spread like to the odour of the precious ointment.
+
 In the course of his illness he dropped many heavenly expressions, some of which follow:
 "`O! it is a good thing to live near the Lord while in health,
 for I find it now enough to do to grapple with the pain of the body.
 But I thank God I am quite easy whether I live or die.
 Death is no terror, for my life is in Christ, and the Lord sweeteneth every bitter cup.
-
 But it is not so with those who follow lying vanities,
 for they are forsaking their own mercies.
 The Lord can bring low, and can raise again, at his pleasure.
@@ -554,7 +559,7 @@ I can say nothing more than to desire you to keep near the Lord, for I wish you 
 The Lord has been my strength and preserver, my all in all; the Lord is my shepherd.`"
 
 To some friends coming into the room: "`Now, friends,
-do you think it is fit-to put off repentance to such an hour as this?
+do you think it is fit to put off repentance to such an hour as this?
 O, it is a sad thing! for we all know we must die, it cannot be otherwise with any.
 But if we take not up our daily cross, and be regenerated and born again,
 we cannot see the kingdom, much less enter into it.
@@ -642,37 +647,40 @@ in great measure a stranger.
 This caused him many times secretly to mourn and
 pour forth earnest prayers to the Father of mercies,
 that he might become a partaker of the same happy experience.
-
 While he was thus exercised it came into his mind
 to go to a meeting of the people called Quakers,
 for an account of which take his own words, in a letter, viz.:
-"`I sat at ease a long time,
+
+[.embedded-content-document.letter]
+--
+
+I sat at ease a long time,
 yet earnestly desired that if the Lord had any particular regard to that people,
 or approved of their manner of worship, he would make me sensible of it.
 Being thus set and grown weary of silent waiting, divine power seized upon my body,
 soul and spirit, which caused me to break out into abundance of tears,
 and my body greatly to tremble.
-
-Then said I, O Lord! why am I thus?
+Then said I, "`O Lord! why am I thus?`"
 To which inward cry of mine, something which till then I knew not,
 though I had often felt a measure of the same power, though never to that degree,
-answered, If thou did but love the Lord thy God with all thy heart, mind and soul,
+answered, "`If thou did but love the Lord thy God with all thy heart, mind and soul,
 that love would be so prevalent over thee, that it would teach thee what to do,
-and what to eschew.
+and what to eschew.`"
 O the surprising state I then found myself in!
 How was my heart then filled with love, peace and joy unspeakable and full of glory!
-
 Soon after, an honest Friend stood up in tears and much trembling, and said,
-'`It is an excellent thing if we can say of a truth,
-Jesus Christ lives in us.`' These words reached my state, I then bowed in my mind,
+"`It is an excellent thing if we can say of a truth,
+Jesus Christ lives in us.`" These words reached my state, I then bowed in my mind,
 adoring the divine power that then influenced me, and said,
-'`Dear Lord! if thou art he that I have long sought and mourned for, tell me,
+"`Dear Lord! if thou art he that I have long sought and mourned for, tell me,
 O thou that hast ravished my heart! what I should do to be saved,
-or to continue in thy favour?`' Upon which the humble Jesus,
+or to continue in thy favour?`" Upon which the humble Jesus,
 the divine bridegroom of my soul, affectionately answered,
-'`I require no rite or ceremonial worship of thee, but that thou give up thy heart.
+"`I require no rite or ceremonial worship of thee, but that thou give up thy heart.
 It is there I would reign, it is there I would rule,
-and there I would be worshipped in spirit and truth.`'`"
+and there I would be worshipped in spirit and truth.`"
+
+--
 
 It was some time before he could get from under the
 prejudices he had in favour of the Roman church,

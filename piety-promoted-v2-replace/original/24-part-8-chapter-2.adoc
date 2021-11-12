@@ -330,7 +330,10 @@ the following abstract of a testimony from the quarterly
 meeting of Norfolk concerning him is here inserted,
 viz:
 
-"`He was educated in the profession of truth, and in his young and tender years,
+[.embedded-content-document.testimony]
+--
+
+He was educated in the profession of truth, and in his young and tender years,
 reached by the extendings of divine love, and happily closing in therewith,
 he soon gave ample proofs of its efficacy,
 that as he grew in years he grew in the knowledge and obedience of truth.
@@ -381,7 +384,9 @@ He got to his own dwelling-house at Northwalsham, the 20th of the Sixth month,
 and departed this life the 2nd of the Seventh month, 1762,
 in the fifty-second year of his age.
 His body was interred on the 6th of the same, in Friends`' burial-ground there;
-a very large concourse of friends and others attending the solemn occasion.`"
+a very large concourse of friends and others attending the solemn occasion.
+
+--
 
 [.asterism]
 '''
@@ -455,7 +460,6 @@ About the year 1749, it pleased the Lord to call her into the work of the minist
 which she in great fear and tenderness gave up to; and although never large in testimony,
 yet she was plain, sound, and edifying, rather backward in her public appearances,
 and afraid, as she said, to awake her beloved till he pleased.
-
 But when she felt the holy fire burn, then she offered her gift,
 and was careful when that abated to sit down in meetings,
 where too many are intent on words.
@@ -474,11 +478,11 @@ in the nurture and admonition of the Lord;
 kind to her friends, charitable to the poor, and an example of humility,
 self-denial and resignation to the divine will,
 and also of industry and prudent management of the affairs of this life.
+
 Her last illness was long and tedious,
 which she endured with much patience and resignation; saying, "`My body is full of pain,
 yea, more than I can well bear.
 O the sad state of those in my weak condition, who want peace of mind!
-
 But forever blessed be my God, who now on my sick-bed answers the desire of my mind,
 in giving me an evidence of my peace with him,
 having nothing to do but to bear with patience the painful
@@ -538,7 +542,10 @@ the following testimony given forth concerning him
 is thought meet to be inserted in this collection,
 viz.:
 
-"`Our dear and well esteemed friend Samuel Watson, of Killconner,
+[.embedded-content-document.testimony]
+--
+
+Our dear and well esteemed friend Samuel Watson, of Killconner,
 in the county of Carlow, in Ireland,
 succeeded his worthy and honourable father John Watson, of the same place,
 not only in his outward possessions there,
@@ -607,7 +614,9 @@ and charitable to the poor.
 He departed this life in peace, at his own house in Kilconner,
 the 14th of the Fifth month, 1762,
 and was interred in Friends`' burying-ground at Ballybrumhill,
-in the county of Carlow aforesaid, the 17th of the same; aged seventy-six years.`"
+in the county of Carlow aforesaid, the 17th of the same; aged seventy-six years.
+
+--
 
 [.asterism]
 '''
@@ -836,16 +845,15 @@ that I might be more fully prepared.
 And he was graciously pleased to hear and grant my request;
 and now he has been pleased to grant me a full assurance of it, and to lengthen my time,
 that I might speak of his goodness to others, and tell what he has done for my soul.
-
 O praises, praises, praises, be given to his great and glorious name!
 My tongue is too short by far: O if, I had the tongue of an angel,
 I could not sufficiently express my gratitude to that gracious
 God who has been thus pleased to favour me in so eminent a manner!
-My disorder is very changeable: very flattering it would be to some,
+
+"`My disorder is very changeable: very flattering it would be to some,
 but it does not flatter me.
 I am resigned to the Lord`'s will, let him do just as best pleaseth him with me,
 his poor frail creature.
-
 A few days ago, when I thought I was just launching into eternity,
 that boundless ocean of eternity,
 I prayed to the Lord that he would be pleased to give me a little longer time,
@@ -909,7 +917,7 @@ I know there are some who deem them innocent amusements,
 and say those books are instructive, and there are good morals in them.
 But, O! must we go to such books for good morals?
 Read the Scriptures, which are the best of all books.
-And there are other good books`'
+And there are other good books.`"
 
 One following the sea coming into the room, and standing by her bedside,
 after a few minutes she spoke to him to this import:
@@ -927,7 +935,7 @@ as she sat thereon she said, "`O I am full of love!
 I feel a degree of divine love.`"
 A neighbour being in the room, noticing how easy and composed her countenance was,
 she answered, "`How can my countenance be sad when my mind is at peace.`"
-The neighbour answering, "`Which the world cannot give,`" she returned,`" No,
+The neighbour answering, "`Which the world cannot give,`" she returned, "`No,
 nor take away.`"
 Two neighbours, not of our Society, coming into the room, she spoke to one of them,
 saying, "`Thou seest me very weak and low, but my mind is at peace,

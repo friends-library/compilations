@@ -156,7 +156,6 @@ He was very careful and tender over those who were young in the experience of tr
 and where he saw good inclinations to grow,
 would often encourage them to their great help and comfort,
 as several have good cause to remember.
-
 So that the loss of him is great, though his being taken away is his gain,
 being one that truly loved and feared the Lord, and was freely devoted to serve truth,
 and his heart and house were free and open to entertain friends.
@@ -191,7 +190,7 @@ and blessed his labours of love for the good of souls.
 He travelled much in England, Wales, Scotland, and Ireland.
 
 In his travels in Gloucestershire, he was taken ill, and at Bristol, in the Ninth month,
-1716, he took his bed, being visited with the small pox; which, when he perceived,
+1716, he took his bed, being visited with the small-pox; which, when he perceived,
 he said that as the Lord had carried him through the nation to this time,
 and now laid this distemper on him, he thought it was for his end.
 So he made his will, and desired a letter might be written to his wife and children.
@@ -245,7 +244,7 @@ and shall not value their lives unto the death.`"
 Another time he said, "`Friends, I desire you not to look at any instrument,
 but let your trust be in the God of Israel, who shall keep and preserve you,
 as he hath my soul.`"
-Then he prayed that the Lord would`' bless Friends in their meetings and in their families,
+Then he prayed that the Lord would bless Friends in their meetings and in their families,
 and to comfort his afflicted wife and children, whom he had left behind,
 and that the Lord would bless and preserve his little ones in this city.
 
@@ -293,7 +292,6 @@ About half an hour before he died, he was raised up in his bed, and said to frie
 sweet Jesus, heavenly Jesus to commune with us;
 for when he comes he puts an end to all rovings and hurries which are in the world,
 with many trials, tribulations and afflictions, which rise not out of the dust.
-
 But dear friends, Israel`'s God will not leave his afflicted ones,
 for he will prosper his work which he hath begun,
 and ye shall see it as you are faithful;
@@ -317,7 +315,7 @@ a few hours before his departure, some friends being there, said,
 "`I have taken an inspection into the course of my life,
 since the time of my convincement, and I have no ill thing to accuse myself with;
 for the fear of the Lord was before mine eyes, by which I was preserved.
-Only, said he, when I was set at liberty from my imprisonment,
+Only,`" said he, "`when I was set at liberty from my imprisonment,
 I thought myself too eager for the getting of this world together;
 yet I have not to charge myself with oppressing any man; but what I have,
 I obtained honestly.`"
@@ -332,10 +330,13 @@ I could not be easy to stay from a week-day meeting.
 I felt the movings of truth to draw me, and set me at liberty from my outward employ;
 not only for my own growth, but that I might be exemplary to others.`"
 
-The quarterly-meeting at Kendal gave the following testimony,
-the 17th of the Second month, 1712, concerning John Dickinson:
+[.embedded-content-document.testimony]
+--
 
-"`He was one whom the Lord was pleased to visit in his young and tender years.
+[.blurb]
+=== The quarterly-meeting at Kendal gave the following testimony, the 17th of the Second month, 1712, concerning John Dickinson:
+
+He was one whom the Lord was pleased to visit in his young and tender years.
 In the time of his apprenticeship he was convinced of the blessed truth,
 and afterward suffered great cruelty from his master for using the single language.
 And though his said master beat him often, to the loss of much blood,
@@ -370,10 +371,14 @@ after a tedious and long night of apostacy;
 that those who succeed may walk worthy of the privileges they now enjoy,
 who are entered into the labours of the ancients, and reap the fruits thereof.
 
+[.signed-section-context-close]
 Signed at our Quarterly-Meeting at Kendal, the 17th of the Second month, 1712, by
 
+[.signed-section-signature]
 Samuel Parrat, Joseph Peasonn William Williamson, John Towanson, Nicholas Booke,
-Richard Skyring, John Skyring, Robert Thompson, John Jopson, Joseph Atkinson.`"
+Richard Skyring, John Skyring, Robert Thompson, John Jopson, Joseph Atkinson.
+
+--
 
 [.asterism]
 '''
@@ -469,7 +474,7 @@ ALEXANDER CLARKE was by occupation a shepherd, whom the Lord visited in his yout
 when given to pleasure and worldly delights,
 and begat in him a true hunger and thirst after the knowledge of God and his truth.
 Hie was drawn from the public ways of worship of divers that professed God and Christ,
-and from following those that said, "`Lo, here is Christ`' and`' Lo,
+and from following those that said, "`Lo, here is Christ`' and "`Lo,
 there!`" seeing by the light of Christ in his heart,
 that their lives and conversation were not agreeable to their profession;
 and he became earnest in his desires,
@@ -758,4 +763,4 @@ she readily turned to the eighth chapter of Genesis, and distinctly read it; the
 covering herself, sweetly died without either sigh or groan.
 
 [.the-end]
-END OF THE FIFTH PART.
+END OF THE FIFTH PART

@@ -220,7 +220,7 @@ the 22nd of the same.
 [.asterism]
 '''
 
-CHRISTIAN BARCLAY, of Ury, in Scotland, widow of Robert Barclay, author of the Apology,
+CHRISTIAN BARCLAY, of Ury, in Scotland, widow of Robert Barclay, author of the [.book-title]#Apology,#
 to whom she was married in the year 1669, and survived him thirty-two years,
 was daughter of Gilbert Molleson, of Aberdeen, merchant, and Margaret his wife,
 whose pious life is recorded in the preceding volume, p.116. She was born in 1647,
@@ -269,7 +269,10 @@ monthly meeting concerning him,
 of which he was a very serviceable member for about fifty years,
 is thought worthy a place in these memoirs.
 
-"`He was born at Sun-big, in the parish of Orton, in the county of Westmoreland,
+[.embedded-content-document.testimony]
+--
+
+He was born at Sun-big, in the parish of Orton, in the county of Westmoreland,
 about the year 1636, of honest parents, who gave him education in grammar learning.
 At or about the seventeenth year of his age, when friends, by the mighty power of God,
 were gathered to be a people, the Lord was pleased to visit him,
@@ -373,7 +376,9 @@ and admired how the presence of the Lord had attended and carried him through th
 He departed this life in great peace and quiet the 8th day of the First month, 1723,
 about the eighty-seventh year of his age, having been a minister about sixty-eight years,
 and was buried the 13th of the same, in Friends`' burial-ground in Bunhill-fields,
-attended by a large number of his friends and others.`"
+attended by a large number of his friends and others.
+
+--
 
 [.asterism]
 '''
@@ -612,7 +617,6 @@ As a flame of fire was he to the rebellious and stubborn;
 but refreshing as the dew on Hermon to the honest traveller,
 ministering counsel and comfort to the drooping soul; being not only an instructor,
 but a father to many.
-
 Zealous and wise in the support of the discipline established among us;
 impartially and honestly doing judgment and justice; no family connections,
 not even his own, could bias him from laying the line upon offenders,
@@ -824,7 +828,7 @@ and having a clear sense of the importance of that weighty service,
 and the necessity of obtaining a certain evidence of his mission,
 he waited for a confirmation thereof, lest he should run, before he was sent.
 In the Fifth month, 1738, he was enabled publicly to utter the following sentence,
-"`If the trumpet give an uncertain sound, who can prepare himself for the battle.`"
+"`If the trumpet give an uncertain sound, who can prepare himself for the battle?`"
 
 This, as he has been heard to say,
 afforded him instruction through the future service of his day, which was very great,
@@ -853,7 +857,7 @@ and near me in this illness.`"
 
 At another time,
 after having repeated his perfect resignation to the will of his great Master, he said,
-"`If it pleased him, he had rather die than live,
+if it pleased him, he had rather die than live,
 unless he had any further service for him to do.
 And he could rejoice, saying, "`O death, where is thy sting?
 O grave, where is thy victory?
@@ -870,7 +874,6 @@ Thanks be to my heavenly Father, I feel his supporting arm underneath,
 and it is a rest indeed, a joy that overcomes all.
 It makes this bed easy, and enables me to bear calmly, and without complaint,
 the dispensations of his gracious providence.
-
 I wish for nothing to myself otherwise than it is.
 I accept with satisfaction and thanks the kindness of my friends:
 in compliance with their request, and thinking it my duty to do what may be in my power,
@@ -885,7 +888,6 @@ not without considering and knowing the many strong temptations of this world, w
 however, as we are obedient to the spirit of Christ, we shall be enabled to overcome;
 that in the conclusion they might have this answer of peace,
 this divine consolation of mind.
-
 It always appeared best to me, to do this in great love and gentleness,
 so that I might persuade, not force them to Christ.
 When this time comes, it will be found hard work, without any additional weight,

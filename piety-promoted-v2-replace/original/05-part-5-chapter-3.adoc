@@ -57,7 +57,7 @@ I shall go to rest, where I shall feel no more pain.`"
 Her mother standing mourning by her, the child looking upon her, said, "`Mother,
 do not cry, let us be contented; the Lord can lay me low, and he can raise me again;
 if I were dead, he can raise me again:`" then she repeated as before, "`Oh! dear Lord,
-if thou seest fit or convenient, give me a little ease`" and seemed earnest to die,
+if thou seest fit or convenient, give me a little ease,`" and seemed earnest to die,
 and go to rest.
 Her mother said to her, "`My dear, why art thou so earnest to die;
 the Lord can ease thee of thy pain, and give thee life?`"
@@ -319,7 +319,7 @@ I desire you to be satisfied, and give me freely up,
 and let your concern be inward;`" adding, "`I want to see thy brother and his wife,
 and thy husband, that I may ease my mind to them.`"
 
-Then he asked if it was day; his daughter said, It is not.`"
+Then he asked if it was day; his daughter said, "`It is not.`"
 He said, "`Call thy brother and his wife.`"
 When he came, he said, Lewis, I find this distemper come so hard,
 that I am not likely to continue long.`"
@@ -669,6 +669,7 @@ in which time his presence was wonderfully felt and witnessed among them,
 insomuch that she, with several others, were broken into tears and sweet harmony,
 with some words she uttered, which were not noted.
 A friend then present kneeling down to prayer, supplicated the Lord for her.
+
 After one had taken leave of her, Eleanor said, "`My dear friend,
 the Lord be with thee and with me.
 Oh! that I may praise him whilst I have a day; for he is worthy,
@@ -679,7 +680,6 @@ Oh! that I may take straight steps whilst I am here; for good is the Lord:
 he hath been very good to me all along.
 Oh! that many were partakers of his goodness;
 for the Lord hath been wonderfully good to me.
-
 Oh! what this truth is, that many may know and be partakers of it,
 and that we may honour the Lord, for he is worthy; he is worthy of all honour.
 The Lord was never so good to me as now.
@@ -793,7 +793,6 @@ and become a fool and a gazing-stock to the world.
 But all was as nothing to me in that day,
 in comparison to the love and favour of God to my poor soul,
 that had long wanted peace with the Lord.
-
 In that day it was my care to accompany myself with
 those that I thought walked most circumspectly,
 and dwelt nearest the Lord in their spirits; and not to look out at, or take example by,

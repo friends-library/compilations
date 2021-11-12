@@ -32,7 +32,6 @@ till they hauled him away into the yard, and had him to their guard.
 
 After they had carried him away, another Friend stood up and preached;
 and they returning, took him away also.
-
 At this time it opened in his mind, that it was the truth they declared,
 and that they knew it was worth suffering for.
 Between that time and the year 1685, he met with great sufferings and loss of goods,
@@ -57,7 +56,7 @@ to help them in their necessity;
 and in whatsoever condition the Lord is pleased to suffer to come on us,
 we ought to be content; as he said, he had been an experiencer of,
 both in and out of prison, in sickness and in health.
-He witnessed that saying of the prophet Isaiah, c. xxvi., ver. 3, 4, fulfilled,
+He witnessed that saying of the prophet Isaiah, chap. 26, ver. 3-4, fulfilled,
 "`Thou wilt keep him in perfect peace, whose mind is stayed on thee,
 because he trusteth in thee.
 Trust ye in the Lord forever: for in the Lord Jehovah is everlasting strength.`"
@@ -407,7 +406,7 @@ being fully satisfied it will be abundantly more gain to me to die than to live.
 He lamented the condition of those who spend their time negligently,
 and in forgetfulness of God, saying, "`A woeful portion they will meet with at one day.`"
 Therefore he fervently exhorted to more diligence, warning them to prize time,
-and be more careful for time to come; and his,
+and be more careful for time to come; and his
 expressions being seasoned with the grace of God,
 they overcame and melted several Friends into tenderness,
 and they were greatly comforted and refreshed by his words.
@@ -759,12 +758,20 @@ which is more to me than all the world.`"
 With many such expressions, good admonitions, and advice,
 he continued until his departure, which was on the 4th day of the Fourth month, 1710.
 
+[.offset]
 A copy of the afore-mentioned letter, sent about ten days before his death,
-directed to the meeting of ministering Friends at West-River.
+directed to the meeting of ministering Friends at West-River:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 From Fishing Creek, the 24th of the Third month, 1710.
 
-Friends: In the love of the Lord Jesus Christ I salute you all.
+[.salutation]
+Friends:
+
+In the love of the Lord Jesus Christ I salute you all.
 I am at this time very weak in body, in expectation of my dissolution to be near at hand.
 Blessed be the Lord God who hath called us, and chosen us to be witnesses,
 not only in word and doctrine, but in a holy life and godly conversation.
@@ -786,7 +793,9 @@ in patience, in meekness, and wisdom, and heavenly gravity, and few words,
 such as minister grace to the hearers, and those who converse with us.
 Since I last saw you, my service has been chiefly at Cecil and Chester,
 and Great Choptank.
-
 Farewell, farewell in the Lord.
 
+[.signed-section-signature]
 Thomas Everden
+
+--
