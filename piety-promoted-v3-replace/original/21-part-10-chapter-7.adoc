@@ -62,6 +62,10 @@ ANN PUMPHREY, wife of Stanley Pumphrey, of Worcester,
 a memorial was drawn up by her husband, of which the following is a copy,
 somewhat abridged, but very little otherwise altered; and that only verbally,
 and principally, if not wholly, in the narrative parts.
+
+[.embedded-content-document.testimony]
+--
+
 On reflecting upon the edifying tendency which the expressions of my dear wife,
 during the few days of her illness, may have upon her surviving friends,
 I have been induced to engage in the task of selecting a few of those expressions.
@@ -119,7 +123,6 @@ if it had been the will of Providence.
 "`Neither was I,`" continued she,
 "`without a prospect of further service in the Lord`'s cause,
 but I now believe the work will be cut short in righteousness.
-
 I found it hard work to get to a state of resignation; and to say,
 as I think I now can sincerely, '`thy will be done.`' I feel very much for thee, my dear;
 I know thy loss will be very great; but seek after the resignation of pious Job, who,
@@ -238,7 +241,6 @@ with desires for their preservation; adding, "`I delegate my precious boys,
 Samuel and Thomas, to your care.
 They have been much with you already.
 I am fully satisfied, and can leave them comfortably under your management.
-
 Give my love also to brother John;
 I wish he may follow those things that make for peace.`"
 
@@ -262,7 +264,7 @@ and been made willing to leave my dear husband and sweet babes;
 and my days had been lengthened out, but not in mercy,
 what an afflicting state would that have been; but I am enabled to resign all, and say,
 thy will be done in all things.
-'`O death,`' she ejaculated, '`where is thy sting?
+'`O death,`'`" she ejaculated, "`'`where is thy sting?
 O grave, where is thy victory?`' Death has no sting for me;
 neither has the grave any victory.`"
 Again; "`Many are the afflictions of the righteous;
@@ -390,7 +392,7 @@ and tell him to be a good boy; kissed him again, and bade him farewell.
 
 The child was no sooner gone than she exclaimed, "`Great and marvellous are thy works,
 Lord God Almighty; just and true are all thy ways,
-thou King of saints!`" "`It is the Lord`'s doing, and it is marvellous in my eyes.
+thou King of saints! It is the Lord`'s doing, and it is marvellous in my eyes.
 It must be his doing; for the more I consider how I am supported,
 the more I am surprised at it!`"
 She gradually grew weaker and weaker, till about one o`'clock on Seventh-day morning,
@@ -405,6 +407,8 @@ heart-consoling effects of religion upon the mind, at the awful period of dissol
 Oh, may the thoughtless be aroused to more reflection; and,
 impressed with a sense of the uncertainty of time, attend to the divine injunction,
 "`Be ye also ready.`"
+
+--
 
 [.asterism]
 '''
@@ -421,6 +425,9 @@ by this pious maid in the course of her final illness,
 will show that the care extended to her had not been in vain.
 It will be related for the most part in the person, and in the words,
 of her affectionate mother-in-law.
+
+[.embedded-content-document.testimony]
+--
 
 On Fourth-day, the 25th of the Ninth month, 1805,
 she was much affected whilst in meeting, during the ministry of a Friend, who,
@@ -573,6 +580,8 @@ Being told they were in the room, she looked up, and again said, "`Farewell.`"
 She then breathed shorter and shorter, till about seven o`'clock in the morning, when,
 without a struggle, she breathed her last.
 She departed at the age of eighteen, on the 7th of the Fourth month, 1806.
+
+--
 
 [.asterism]
 '''
@@ -757,7 +766,7 @@ Some weeks afterwards, on a First-day, she became much more indisposed;
 when no one was present with her but her mother.
 After a season of quiet she said, "`Dear mother, I have heard, as it were,
 a voice sounding in my ear, '`Watch and pray,
-lest ye enter into temptation.`"`' Her mother advising her to attend to it,
+lest ye enter into temptation.`'`" Her mother advising her to attend to it,
 as to a loud call, she replied, "`I hope I shall,
 for I think I cannot be with you long.`"
 The mother observing, that the parting with her would be a bitter cup, Maria answered,

@@ -14,11 +14,15 @@
 
 MARY EVENS, a young woman of seventeen, daughter of Benjamin and Elizabeth Evens,
 of Woodbridge in Suffolk, and eldest sister of Kezia Merryweather,
-mentioned in the Ninth part of Piety Promoted was taken from the probations of time,
+mentioned in the Ninth part of [.book-title]#Piety Promoted# was taken from the probations of time,
 on the 1st of the Eighth month, 1770:
 the following account of her close is but little altered
 from one penned by her pious and affectionate mother:
 for an account of whom, see page 220 of this volume.
+
+[.embedded-content-document.testimony]
+--
+
 She may be truly said,
 to have been an example of patience and resignation
 through the whole course of her affliction;
@@ -57,10 +61,12 @@ A few moments before her close, she gave me one hand, and an intimate friend the
 thus quietly departing about six in the afternoon, as she had besought the Lord, and,
 I doubt not, is entered into the heavenly rest of the righteous.
 
+--
+
 [.asterism]
 '''
 
-SARAH EVENS.-- An account has just been given of Mary,
+SARAH EVENS.--An account has just been given of Mary,
 daughter of Benjamin and Elizabeth Evens, of Woodbridge.
 I come now to relate another deprivation which, in less than half a year after her death,
 these pious parents had to undergo in the loss of their daughter Sarah Evens,
@@ -70,7 +76,7 @@ and I shall generally form my little narration in her own words.
 
 But here,
 seeing I have still the pious close of another sister and of two brothers to relate,
-by which means Piety Promoted will probably contain accounts
+by which means [.book-title]#Piety Promoted# will probably contain accounts
 of two sons and of four daughters of the same family,
 it may not be improper, once for all,
 to mention that the parents were persons not only of exemplary conduct themselves,
@@ -83,6 +89,9 @@ Some of them, we see, were early delivered from the trials of the world,
 passing to final peace through a short path: others still survive,
 to bless the Christian care and love, and even the pious restraints,
 of their honourable parents.
+
+[.embedded-content-document.testimony]
+--
 
 On the 15th of the Twelfth month, 1770,
 Sarah Evens had been downstairs for the last time;
@@ -131,6 +140,8 @@ She was often earnest to be released.
 A friend about this time asking her how she did, "`Thou seest,`" said she, "`how I do.
 I am going, I hope, to heaven.`"
 
+--
+
 She uttered many more expressions to the same import,
 continuing to draw her breath shorter and shorter,
 till between six and seven on the 16th of the First month,
@@ -141,7 +152,7 @@ And, though it is a close trial to part, yet,
 as she expressed a little before her departure that she
 had not the least doubt that we should all meet again,
 several of her near relations being by her, the fervent breathing of my spirit is,
-that we may be enabled to follow her, and live forever in realms of eternal bliss.
+that we may be enabled to follow her, and live forever in realms of eternal bliss.`"
 
 [.asterism]
 '''
@@ -180,9 +191,9 @@ Contrary, however, to his expectation, on the evening of the same day,
 his pain greatly increased, attended with great difficulty of breathing.
 No impatient expression escaped him; but, in the greatest extremity,
 he fervently prayed for patience; and, between nine and ten, he resigned his breath; and,
-saith his pious mother and careful attendant, arrived, I fully believe,
+saith his pious mother and careful attendant, "`arrived, I fully believe,
 at that mansion of rest, where he will sing high praises to Him who sits on the throne,
-and to the Lamb, forever more.
+and to the Lamb, forever more.`"
 
 [.asterism]
 '''
@@ -192,11 +203,17 @@ died when he had nearly attained the age of twenty-one, on the 25th of Tenth mon
 I take this account of him, as most of the others, from the memorandums of his mother,
 and I am inclined here to prefix the little introduction
 with which she has prefaced her account of this loss.
-"`My mind,`" says she, "`hath often been humbled under the late trying dispensation,
+
+[.embedded-content-document.testimony]
+--
+
+My mind [says she,] hath often been humbled under the late trying dispensation,
 wherewith it hath pleased Infinite Wisdom again to try and prove us;
-and the fervent breathing of my spirit at seasons is, Though tried, O Lord,
+and the fervent breathing of my spirit at seasons is, "`Though tried, O Lord,
 grant we may not be forsaken; and, though proved, let us not be forgotten of Thee,
 thou Fountain of all good, who, in the midst of judgment, remembereth mercy.`"
+
+--
 
 Francis underwent much conflict of mind before he was enabled
 to repose with confidence on the bosom of mercy.
@@ -205,12 +222,12 @@ lest he should not be favoured to obtain a habitation in the heavens.
 But, after much labour, and fervent cries to Him who knows the integrity of the heart,
 the arm of everlasting mercy was extended, and he was enabled to acknowledge it,
 though he did not choose to enter into much conversation.
-
 He appeared from time to time broken and contrited, and would often say,
 "`No matter what becomes of the body, if the soul may but enter the glorious kingdom.`"
 About two weeks before he died, his mother, perceiving him to be very low,
 asked him whether he had any expectation of recovery; "`No,`" he replied;
 "`in a very short space I shall be at my everlasting habitation.`"
+
 His mother attended him constantly, and they had many solemn seasons together, which,
 says she, were graciously owned by the incomes of the heavenly Father`'s love,
 to the tendering of our hearts.
@@ -341,7 +358,7 @@ so quietly as scarcely to be perceived, she sweetly breathed her last.
 [.asterism]
 '''
 
-ELIZABETH EVENS.-- Though I have not to record many
+ELIZABETH EVENS.--Though I have not to record many
 particular expressions of Elizabeth Evens of Woodbridge,
 wife of Benjamin Evens;
 yet as notice has been taken in this volume of so many of her children,
@@ -402,7 +419,7 @@ through his adorable mercy, should unalterably unite her to the beloved of souls
 [.asterism]
 '''
 
-BENJAMIN EVENS.-- It has generally been esteemed particularly encouraging, to observe,
+BENJAMIN EVENS.--It has generally been esteemed particularly encouraging, to observe,
 in collections of this sort, the lively hope expressed by young persons,
 who have early felt the touches of redeeming love,
 have submitted to its purifying power in the dawn of their faculties,
@@ -527,17 +544,16 @@ I could have wished that man had died as the beast that perishes,
 and that there had been no rewards nor punishments after death.
 I could have been content to have been shut up in a dungeon,
 never to have seen the light again, if I thereby might have gained peace.
-
 In unutterable condescension it pleased the Lord to break in upon my soul,
 as the light of the sun after a long darkness; which so overcame me,
 that I believe if an account had been brought me
 that all I had in the world had been lost,
 it would have given me no concern.
-Oh, Friends, you that are young, my desires have been earnest for you,
+
+"`Oh, Friends, you that are young, my desires have been earnest for you,
 that you might seek after that which is better than any earthly enjoyment;
 and bend your necks to that which is able to yoke down every unruly passion,
 and every inordinate desire; that thereby you may obtain everlasting peace.
-
 The others that were showed me were all white stones.
 There was no dirt upon them.
 Though there had been many slips, and many omissions,
@@ -636,15 +652,26 @@ and incidents relating to himself and others, are noted;
 and from which the following extracts are made:
 In a letter addressed to a youth with whom he had
 formed an intimate acquaintance at school,
-he expresses himself after this manner: "`I hope,
+he expresses himself after this manner:
+
+[.embedded-content-document.letter]
+--
+
+I hope,
 as we travel on through this transitory state,
 we shall be enabled to cast the cares of this world behind us,
 looking to the Author of all good: who will help all those who trust in Him.
 I believe, beyond all doubt,
-that all those who trust in Him will not lack the bread of life.`"
+that all those who trust in Him will not lack the bread of life.
+
+--
 
 On the 6th of Eleventh month, 1783, a remarkable occurrence fell to his lot,
-which take nearly in his own words: "`This morning, a little after four,
+which take nearly in his own words:
+
+[quote]
+____
+This morning, a little after four,
 I set off from Ely to go to Ramsey,
 to attend the marriage of my cousin Joseph Brown Allen, and Ann Turner.
 When meeting was gathered, we sat in silence about half an hour; when Thomas Cox,
@@ -672,14 +699,15 @@ The 9th of the same month Thomas Cox was buried at Earith, but I could not go,
 because my foot had been very much strained: so I lay in bed till dinner.
 The Lord then showed me, to my great comfort, that my dependency must be on him:
 so that I began to inquire how it stood with me and my God.
-Then was I humbled to cry, '`Help me, O Lord, or I perish.`' The word was,
-'`Draw nigh unto God, and he will draw nigh unto thee,
-indeed.`' Then began I to meditate on the Lord in the night season,
+Then was I humbled to cry, "`Help me, O Lord, or I perish.`" The word was,
+"`Draw nigh unto God, and he will draw nigh unto thee,
+indeed.`" Then began I to meditate on the Lord in the night season,
 and was greatly refreshed thereby.
-A voice passed through me, saying, '`Thou must not have any conversation,
+A voice passed through me, saying, "`Thou must not have any conversation,
 but what may profit thy soul; for unto that man that ordereth his conversation aright,
 will I show my salvation.
-Thy mind must be set on heavenly things, and thy conversation on heaven.`"`'
+Thy mind must be set on heavenly things, and thy conversation on heaven.`"
+____
 
 In a discourse he had shortly after with his cousin Ann King,
 on the subject of what he had seen in the meeting at Ramsey, she said to him,
@@ -695,7 +723,10 @@ Trust thou in the Lord, O my soul; for the Lord loveth holiness,
 and purity is his delight.`"
 
 The 29th of Eleventh month he wrote after this manner:
-"`For the last three days nothing material has occurred; but glory be to our God,
+
+[quote]
+____
+For the last three days nothing material has occurred; but glory be to our God,
 for he hath dealt wonderfully with his servant.
 I cannot express the comfort I have felt in keeping
 to the operation of the word of life in my own heart.
@@ -720,11 +751,16 @@ may not think I have written this of myself.
 I can honestly say, that the Lord hath guided my hand and opened my mouth.
 The next day I went to Littleport meeting;
 where it pleased the Lord to open my mouth in a public manner,
-in which I had great satisfaction, in that I had been obedient to the divine will.`"
+in which I had great satisfaction, in that I had been obedient to the divine will.
+____
 
 In answer to a letter he received from his mother,
-in which she expresses her great concern for his welfare; he says,
-"`The Lord hath been pleased to pluck my feet out of the miry clay;
+in which she expresses her great concern for his welfare; he says:
+
+[.embedded-content-document.letter]
+--
+
+The Lord hath been pleased to pluck my feet out of the miry clay;
 and to open my mouth to make known his will amongst his people.
 I hope it will ever be my care to keep near him,
 as I have experienced a drawing near of the Lord to me; my heart is broken and contrited:
@@ -735,29 +771,38 @@ and to wait for his counsel.
 O that I could express the hundredth part of what I feel in being renewed in his counsel;
 but I must leave them to the Lord.
 
+--
+
+[.offset]
+The journal continues thus:
+
+[quote]
+____
 The 2nd of Twelfth month.
 This day a cloud covered me, and a temptation wounded my soul.
 I was drawn to consider how the Lord pardoned the thief on the cross,
 and to make it a cloak for trusting to a dying hour;
 but I felt the rod that chastised me, and heard a voice, saying,
-'`How camest thou to take thought against thy God?
+"`How camest thou to take thought against thy God?
 He will not be slighted, but looked unto with a single heart,
-for all help.`' The 11th. I found that, during my late journey,
+for all help.`"
+
+The 11th. I found that, during my late journey,
 while my mind was turned inward, then was his presence with me;
 I was preserved in the truth, to my inexpressible comfort.
-
 O may I always keep watch, lest the enemy draw my mind from being stayed on the Lord.
+
 The 17th. Many are the temptations which the enemy lays to draw my mind from the Lord;
 but, look thou, O my soul, to the Lord with unfeigned sincerity,
 and with full purpose of heart,
 in the humility of that spirit which enlightens thee
 and strengthens thee against them all.
+
 The 4th of the First month, 1784.
 In the course of a visit I lately made to my parents,
 two of my relations opened their minds to me, concerning my public appearances,
 wishing I might be favoured to support the honour of the blessed truth;
 which was done in so affecting a manner, that it helped and strengthened me much.
-
 This day I went to Littleport meeting, where I spoke a few words.
 Oh, how I felt the Lord with me this day; blessed be his name!
 Many were the breathings of my soul at times,
@@ -765,8 +810,9 @@ that the Lord would keep his fear always before my eyes, that I might not speak 
 but to his honour.
 Oh, that it was the case of all those who profess with us,
 that nothing might be done but to the glory of God: that we may say,
-'`Thine is the kingdom, the power and the glory,
-forever!`' Then should we answer our high and holy calling.
+"`Thine is the kingdom, the power and the glory,
+forever!`" Then should we answer our high and holy calling.
+
 The 15th of the Second month.
 I never used to write concerning my spiritual welfare
 till I was in a right frame of mind,
@@ -784,9 +830,9 @@ much more of doing any thing that would not tend to his glory; but, on the other
 they would testify against everything of a contrary tendency;
 knowing that God is jealous of his honour,
 and will be sought unto with fear and trembling.
+David saith (Ps. 76), "`Thou, even thou, art to be feared,
+and who may stand in thy sight when once thou art angry.`"
 
-David saith (Ps. lxxvi.), '`Thou, even thou, art to be feared,
-and who may stand in thy sight when once thou art angry.`'
 The 19th. This day was a day of hard labour to me,
 because I was off my guard last night, by entering into a long and needless discourse,
 which drew my mind from the Lord; but he was good to me, and heard me when I cried,
@@ -794,39 +840,44 @@ for my spirit was bowed down in humility before him,
 and heavenly joy abounded when I confessed my error to him.
 This is an evil which many of our Society fall into,
 even those who have been religiously inclined.
-(See Book of Extracts,
-on the head of Conduct and Conversation.) The 25th.
+(See [.book-title]#Book of Extracts,
+on the Head of Conduct and Conversation.#)
+
+The 25th.
 I have this day oftentimes felt a refreshing power,
 with a secret promise that, if I kept under the guidance of the power of truth,
 I should not do any thing to dishonour it,
 for a fear arose in me that I did things that were not an honour to it.
-
-A voice was in me, '`Humble thyself,
-and thou shalt be favoured.`' I have felt a service in keeping a journal,
+A voice was in me, "`Humble thyself,
+and thou shalt be favoured.`" I have felt a service in keeping a journal,
 as it helped to keep me from going back;
 encouraged me in seeing how I was favoured before,
 and what progress I had made in the truth.
 What pleasure has it given me to write of my progress heavenwards!
 On the contrary, what lashes have I felt, when I was not in a frame to write!
 When I had walked obedient to his power, he always gave me a frame to write.
+
 The 27th. Last First-day, I wrote to a Friend concerning our serving burials,
 which I saw, in a clear light, was not consistent with us as a people; because,
 when we serve a burial, it is to gratify the pomp and vanity of the people of the world,
 which is a plain contradiction to that Spirit which we profess to be guided by.
+
 The 8th of Third month.
 This day I had a concern to speak to a Friend concerning gaping in meeting,
 and on another subject.
 He was very high in his expressions; but, finding that I spoke according to the Spirit,
 he was silent, for truth will always prevail.
+
 The 9th. This day, being alone, I read my journal over to the Second month,
 which helped me to see how I followed after God,
 who called me to be more and more humbled.
+Oh, I felt his goodness to flow towards me!
 
-Oh, I felt his goodness to flow towards me!`"
 The 18th. I saw I could not be in such a humble state as I had been called
 to come into without I became as clay in the hands of the Great Potter.
 I saw that my body was to be the temple of the Holy Spirit,
 and that no defiling thought must lodge within me.
+
 The 21st. I went to our meeting at Ely,
 and many were the refreshings that my mind there felt.
 I saw that the Spirit of Christ was the only way that leads to celestial bliss,
@@ -835,11 +886,13 @@ that we must not barely believe that he came down amongst men,
 in a body prepared for him, but must also believe in his power,
 that leads to life eternal.
 Be still, O my soul, and thou wilt find his power made manifest in thee.
+
 The 16th of Fourth month.
 I find that the more I give up my mind to seek after the kingdom of God and his righteousness,
 the more I advance in the work; the more I keep in the power, the stronger I grow.
 My soul longeth for the living God; yea, my inward cry is raised for the bread of life,
-more than the natural man hungereth after natural food.`"
+more than the natural man hungereth after natural food.
+____
 
 Here ends the journal of this pious young man.
 
@@ -864,7 +917,7 @@ mentioning how much Christ bore for him;
 but his mother could not expressly remember his words.
 One day his father, sitting by his bedside, and observing him appear dull,
 asked him if he was any way uneasy about his future state.
-He said, No; for he had many comfortable assurances it would be well with him.
+He said, "`No;`" for he had many comfortable assurances it would be well with him.
 He then burst into tears, and said he was uneasy for his brothers,
 fearing they might be drawn from the truth.
 His father desired him not to make himself uneasy about them;

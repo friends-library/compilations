@@ -173,10 +173,15 @@ he returned about the middle of the Ninth month, with his bodily strength much e
 but with a mind fraught with thankfulness and praise.
 
 The following letter, written a short time after his return from this visit,
-is interesting, and shows the humble, grateful state of his mind, viz.:`"
+is interesting, and shows the humble, grateful state of his mind, viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Morley, 18th of 10th month, 1808.
 
+[.salutation]
 Dear Friend, John Waring:
 
 I have been at home rather more than a month.
@@ -193,6 +198,8 @@ and the Almighty, in unspeakable lovingkindness, was strength in weakness,
 riches in poverty, and a present help in every needful time,
 to whom alone belongs all praise, world without end.
 Amen.
+
+--
 
 In the few meetings which he attended after his return,
 and especially in his own particular meeting,
@@ -431,7 +438,6 @@ If thou seek him he will be found of thee; but if thou forsake him,
 he will cast thee off forever.`' And what a dismal state is this:
 to be cast off from the presence of that Being, who is the greatest friend of mankind.
 Nothing can be more dreadful.
-
 These expressions, I remember when young, were addressed to me by a very worthy friend,
 John Evans, of North Wales,^
 footnote:[That is, a part of Pennsylvania, so called,
@@ -447,9 +453,9 @@ In the evening of the same day, which was First-day,
 when his children and grandchildren were around him,
 he addressed them in an instructive manner, and on several subjects,
 some of which it may be useful to introduce here, in a form somewhat abridged.
-After recommending his family to live in harmony, "`My dear Father,^
-footnote:[Israel Pemberton, mentioned in the American Collection of Memoirs]`" said he,
-"`was a very upright man.
+After recommending his family to live in harmony, "`My dear Father,`"^
+footnote:[Israel Pemberton, mentioned in the [.book-title]#American Collection of Memoirs#]
+said he, "`was a very upright man.
 As occasion offered, he gave advice to us, his children;
 and one of his most frequent admonitions,
 and which made very great impression on me in early life, was,
@@ -466,7 +472,6 @@ His goodness has followed me;
 and I have been favoured in my present indisposition
 much more than I had any reason to expect,
 and much more than I had deserved.
-
 I recommend to you the diligent perusal of the Holy Scriptures.
 Make yourselves acquainted with them.
 In them you will find an abundant source of instruction and edification.
@@ -481,20 +486,20 @@ and unwearied care of a most affectionate mother.`"^
 footnote:[Rachel Pemberton. See the same Collection.]
 
 The following day he said to a Friend,
-It is a great consolation to be free from a guilty conscience at such an hour as this:
+"`It is a great consolation to be free from a guilty conscience at such an hour as this:
 and that, I believe, I am.
 We have all fallen short, far short, of the glory of God;
 but we are under his mercy who careth for us.
 There is one thing which is not enough inculcated
-in our meetings --the mediatorship of the Son,
+in our meetings--the mediatorship of the Son,
 our Lord and Saviour Jesus Christ:
 and I have never seen this so manifested as in my present indisposition.`"
 He then adduced some texts of Scripture relating to this subject, with remarks on them,
 as: "`No man cometh to the Father but by me.`"
 "`It is a great mercy,`" said he,
 "`that God in his wisdom has appointed such wonderful means for the redemption of mankind.
-We have a high-priest, touched with the feeling of our infirmities.`"
-"`Not,`" he observed, "`such a high-priest as is ordained by man;
+We have a high-priest, touched with the feeling of our infirmities.
+Not,`" he observed, "`such a high-priest as is ordained by man;
 but a high priest who is really touched with a feeling of our infirmities.
 This mediation of the Son, with the Father, is a great mystery.`"
 
@@ -504,7 +509,7 @@ and have nobody to assist them: and I have so many!
 How am I loaded with blessings!`"
 This was on the last day of the First month.
 The succeeding day, this was his confession.
-"`Never was I more convinced of the goodness of redeeming love`" In another week,
+"`Never was I more convinced of the goodness of redeeming love.`" In another week,
 his close approached with perceptible steps.
 He had mentioned his doubt of surviving the night of the 7th of the Second month;
 but on the 8th, about noon, after some refreshing sleep, his countenance brightened up,

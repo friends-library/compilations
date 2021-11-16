@@ -31,7 +31,11 @@ particularly to one of her sons.
 
 When she, by letter, took her last leave of him and his family,
 she expressed herself thus:
-"`That my children and grandchildren may be so conducted through mutability,
+
+[.embedded-content-document.letter]
+--
+
+That my children and grandchildren may be so conducted through mutability,
 as that we may all meet in joy and bliss, I entreat (says she) in love,
 that thou and thine may mind your future state above all,
 and let not the hurry of this transitory world, with all its tinsel glare, pride,
@@ -47,7 +51,9 @@ I write with a fervent desire for all your immortal souls,
 each of which is of more value than all this world,
 which with all its checkered pleasures and afflictions,
 must soon end as the bubble on the water,
-and then peace with our Maker will only stand us in stead.`"
+and then peace with our Maker will only stand us in stead.
+
+--
 
 At another time, when to appearance she grew near her end,
 she expressed herself to this effect:
@@ -202,7 +208,7 @@ contrite state before him, who sustains his people in every needful time,
 this beloved youth with an audible voice said,
 "`O what a dreadful day would this have been to me,
 if I had cause to fear I was going to meet an angry judge, that might say,
-'`Depart from me, thou worker of iniquity!`' "`but,`" said he, "`I have hope in God,
+'`Depart from me, thou worker of iniquity!`' but,`" said he, "`I have hope in God,
 that I shall be admitted into his rest.`"
 This much bowed the hearts of all his near connections present,
 and helped to bear up their spirits in that trying season.
@@ -301,7 +307,6 @@ but the people lived rather dissolutely,
 he had no one to tell the distress and exercise of his mind to,
 for his mother dying when he was young, who he had been informed was a religious woman,
 and his father when he was about twelve, he was left quite alone.
-
 But after some time going to live with his sister,
 and those tender impressions continuing,
 the Lord in mercy showed him they were from the immediate operation of his own spirit,
@@ -313,7 +318,7 @@ and through the heavenly influence of the Spirit, he became an able minister,
 rightly dividing the word of truth,
 to the great comfort and edification of the church where his lot was cast.
 
-He vas concerned to travel in truth`'s service before his twentieth year,
+He was concerned to travel in truth`'s service before his twentieth year,
 and visited the provinces of Virginia and Maryland;
 and afterwards in the course of his Christian progress, all the provinces of America,
 and almost all the meetings therein.
@@ -450,16 +455,21 @@ world than for those who had children to leave.
 A near and intimate friend replied, there were many who loved her;
 she said she did not know but it was so, and that love would be consummated hereafter.
 Towards the conclusion she said with great tenderness of spirit,
-that she thought she was going; and added, I would not have you to be troubled,
-it is to joy unspeakable and full of glory.
+that she thought she was going; and added, "`I would not have you to be troubled,
+it is to joy unspeakable and full of glory.`"
 She died the 2nd of the Tenth month, 1772; aged about forty-eight years.
 
 Among other of her writings she left the following epistle,
 which is thought meet to be here inserted, viz.:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Quarterly and Monthly meeting of Women Friends,
 held at Burlington and Chesterfield in West New Jersey, in America.
 
+[.salutation]
 Dearly beloved Friends,
 
 In a fresh remembrance of the many seasons of divine favour,
@@ -517,7 +527,7 @@ If you are faithful to the discoveries of divine grace,
 your understandings will be more and more opened in the mysteries of God`'s kingdom,
 even that which was hid from ages and generations; and, as the apostle testifies,
 is now revealed by the spirit of the dear Son of God, our holy advocate with the father.
-"`I have hinted above and hope I shall die in the faith of it,
+I have hinted above and hope I shall die in the faith of it,
 that the Lord will form a people to himself, that shall show forth his praise,
 and will yet beautify the house of his glory.
 
@@ -530,9 +540,13 @@ Now, in a degree of my heavenly Father`'s love, do I affectionately bid you fare
 desiring that grace, mercy and peace may be multiplied in and amongst you,
 and conclude your true friend,
 
+[.signed-section-signature]
 Elizabeth Smith.
 
+[.signed-section-context-close]
 Burlington, The 30th Of The Third Month, 1772.
+
+--
 
 [.asterism]
 '''

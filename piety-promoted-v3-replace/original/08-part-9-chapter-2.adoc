@@ -173,7 +173,7 @@ Her grandmother was Mary Fisher,
 who was one of the first friends that visited New England in the year 1656, and who also,
 before her marriage with William Bayley, viz., about the year 1660,
 under a great concern of mind, went to Adrianople, to visit the Great Turk:
-the particulars of which are related in Sewel`'s History.
+the particulars of which are related in [.book-title]#Sewel`'s History.#
 
 Her mother continued in profession with friends, but marrying out of the Society, this,
 her daughter, was educated agreeably to her father`'s mind;
@@ -184,7 +184,7 @@ opened to see the vanity and folly of these practices;
 and she, in measure, forsook them,
 but was not fully convinced of the principle of truth
 in her own mind until about the year 1741,
-when, having Barclay`'s Apology by her, she looked into it, as she often expressed,
+when, having Barclay`'s [.book-title]#Apology# by her, she looked into it, as she often expressed,
 to furnish herself with matter for conversation;
 but in the perusal of it her judgment was convinced of the truth of friends`' principles:
 she joined the Society, and became a steady, exemplary member.
@@ -193,7 +193,10 @@ She came afterwards from South Carolina to reside in London, and about the year 
 a concern came upon her to visit the inhabitants of her native country,
 from whence she sent the following account in a letter to a friend.
 
-"`A concern I had often felt in my soul for the happiness
+[.embedded-content-document.letter]
+--
+
+A concern I had often felt in my soul for the happiness
 and eternal welfare of my native country revived in my breast;
 when I was to return and abase myself, by telling what God had done for my soul,
 and to call them from those things,
@@ -204,7 +207,9 @@ with those few that professed with me; and though, at first,
 the meetings were sometimes interrupted by the rude and uncivil treatment of many,
 we met pretty quietly,
 and some of the inhabitants would now and then come and sit with us,
-to whom my mouth was opened at times in rehearsing what God had done for my soul.`"
+to whom my mouth was opened at times in rehearsing what God had done for my soul.
+
+--
 
 During her continuance there,
 she wrote a short account of the dealing of the Lord with her,
@@ -255,7 +260,6 @@ Oh, Father!
 Father!
 Father! bow the heavens, and come down;
 be thou with thy people universally all the world over.
-
 Why do ye weep?
 Weep not for me, but give me up to the Lord, for I am happy;
 far happier than I can express.
@@ -335,12 +339,13 @@ having been weightily concerned for its promotion, and sufferers for its testimo
 had a great care of his education; which had a good effect on his mind,
 as appears by his own account in manuscript, viz.,
 
-"`I was through divine favour, early inclined to the love of truth,
+[quote]
+____
+I was through divine favour, early inclined to the love of truth,
 and to seek after it to the best of my understanding, often seeking places to pray,
 and pour out my soul to the Lord,
 in beseeching him for wisdom and strength to enable
 me to persevere in well-pleasing to him.
-
 And blessed, magnified, and eternally praised be his holy and most worthy name;
 he hath many times, in his own time, answered,
 and caused my cup to overflow in praises to his name, and admiration of his goodness.
@@ -348,7 +353,6 @@ My soul, being as a well watered garden, hath rejoiced in his love; and,
 in abasedness of self, hath largely ascribed praises and glory to him, who,
 with the Son of his love, through the Holy Spirit, is eternally worthy.
 Amen.
-
 I early loved good men, and had a desire to go to meetings;
 so that while I was but very young, if any thing offered to let or hinder my going,
 I can remember I have wept to go, though four miles distant from us.
@@ -359,7 +363,8 @@ The Lord always sufficiently helped me,
 though it was with persons of greater age and capacity, as to the outward, than myself,
 when I found my mind engaged to converse with them on religious subjects;
 and as I grew up, I had great love to truth, and honest, sincere friends;
-in whose company and good conversation I much delighted.`"
+in whose company and good conversation I much delighted.
+____
 
 He was much given up to the service of truth;
 and much concerned that the discipline of the church
@@ -473,6 +478,10 @@ A little before her death she wrote the following paper,
 which she desired might be read in the several meetings in the county,
 which was done accordingly.
 
+[.embedded-content-document.paper]
+--
+
+[.salutation]
 Dear friends,
 
 Under great weakness of body,
@@ -494,6 +503,8 @@ and you will be enabled to praise God acceptably,
 and to magnify his great and worthy name; as doth my soul at this season,
 because I feel the same divine goodness that was my morning light is now my evening song,
 which makes me rejoice in the Lord; and my joy no man can take from me.
+
+--
 
 She departed this life the 29th of the Fifth month,
 and was buried on the 2nd of Sixth month, 1774,
@@ -803,9 +814,9 @@ and said she found a pardon for all.
 Being in great agony, she desired that patience might have its perfect work,
 and often prayed that the Lord would cut the work short in righteousness,
 but desired that not her will, but His should be done.
+
 At another time she expressed herself thus:
 "`O that I were relieved from this world of peril and difficulty!
-
 I have nothing to encounter with but death, and this is no terror to me.
 O that I were safely arrived in the kingdom of heaven,
 where I shall be comfortably spoken to by my God!`"

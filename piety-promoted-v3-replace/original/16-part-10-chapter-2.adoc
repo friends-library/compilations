@@ -70,7 +70,6 @@ could I not have got downstairs to express it to you.
 I have been led to look at the state of our meeting;
 and as many of the elders are removed,
 I wish you weightily to consider what is in your power to do for the Lord.
-
 Oh! how ardent is the desire of my heart, that you may do nothing against the truth,
 but for the truth!
 My heart has been humbled in the recollection of the goodness of the Almighty to me,
@@ -250,11 +249,10 @@ in perfect resignation to his holy will.`"
 After a short pause of silence, she was engaged in prayer, thus: "`O, dearest Lord,
 Almighty Saviour, if thou wilt, condescend to favour thy poor, unworthy,
 afflicted child with the lifting up of the light
-of thy countenance --who am deeply tried.
+of thy countenance--who am deeply tried.
 But thou knowest best, O Father, what is best for us,
 and necessary that we should pass through, in order to fit us for thy glorious kingdom;
 where nothing that is impure or unholy can ever enter.
-
 Therefore, I beseech thee, dearest Lord, let not thine hand spare, nor thine eye pity,
 till thou hast made me perfect.
 Then I hope to be dissolved, poor dust and ashes, and clothed with angel`'s raiment.
@@ -298,7 +296,7 @@ yet I durst not disobey these tender sensations;
 and I believe the Almighty owned these seasons,
 and opened my understanding in early years.
 I have been desirous not willfully to offend him; and have had many hidden exercises,
-remembering it was said, "`In the world ye shall have trouble; but in me peace:`"^
+remembering it was said, '`In the world ye shall have trouble; but in me peace:`'^
 footnote:[This, thus placed, is commonly supposed to be a text of Scripture;
 but it is not one.
 The nearest to it, is the last verse of the 16th chapter of John,
@@ -307,6 +305,7 @@ In the world ye shall have tribulation; but, be of good cheer,
 I have overcome the world.`"]
 which brought great sweetness over my mind.
 Blessed forever be his name!`"
+
 Soon after, as she was lying in great composure and serenity of mind,
 she left the toils of mortality, in the twenty-seventh year of her age.
 Her decease was on the 22nd of the Eighth month, 1788.
@@ -352,6 +351,7 @@ was just extinguished.
 At this time she dictated to a friend some things
 which engaged the attention of her mind;
 among which were the following advice and observations.
+
 "`Let ministers be careful not to judge too highly of any of their services:
 for it is only when the breath of the Lord blows through the trumpet,
 that life and harmony are known, and the great truth is evinced,
@@ -361,9 +361,8 @@ In most places, the elders want to stand deeper in Jordan.
 A more unreserved, total sacrifice of the world must be made,
 and even the accursed thing cast out of some of their tents,
 before they can stand as valiants for the Lord`'s cause upon earth.
-
 Every shekel of pure gold in the sanctuary ever had, and still must have,
-the signature of HOLINESS upon it: for what is of man is but man:
+the signature of "`Holiness`" upon it: for what is of man is but man:
 the Lord bloweth upon it, and lo, it is nothing, however specious in the eyes of man.
 I see clearly that when the ancient simplicity and purity are known again amongst us,
 then the glory of the Lord will appear as in former years;
@@ -481,6 +480,10 @@ then having lately acquired the crown of Hungary,
 to which letter her companions added also their names.
 It is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Leopold the Second, King of Hungary, Bohemia, etc.
 
 Amongst the numerous congratulations awaiting thy accession to the imperial crown,
@@ -533,16 +536,27 @@ but perpetuate it beyond the narrow limits of time, and qualify thee, acceptably
 to cast down thy crown at the feet of Him who is King of kings and Lord of lords;
 who liveth and reigns forever and ever.
 
+[.signed-section-signature]
 George And Sarah Dillwyn, Of Burlington, New Jersey, North America.
 
+[.signed-section-signature]
 Sarah Grubb, Clonmel, Ireland.
 
+[.signed-section-signature]
 Joshua Beale, Cork, Ireland
+
+[.postscript]
+====
 
 Members of the religious Society of Friends in those countries and Great Britain,
 commonly called Quakers.
 
+====
+
+[.signed-section-context-close]
 Mulheim on the Rhine, 29th of 9th Mo., called September, 1790.
+
+--
 
 Soon after this she returned to England, visited her relations in the North,
 and reached her home at Clonmel the 12th of the Eleventh month,
@@ -610,9 +624,9 @@ He was the son of Samuel and Eleanor Waring, of Witney, Oxfordshire,
 and born there in the year 1716; but, his father removing to Alton, Hampshire,
 on his second marriage, he passed his childhood under the care of his grandfather,
 Jeremiah Waring, a valuable ministering Friend,
-of whom there is an account in the Seventh Part of this work, by John Bell.
+of whom there is an account in the [.book-title]#Seventh Part# of this work, by John Bell.
 Of his father and mother-in-law, Samuel and Deborah Waring,
-there are accounts in Thomas Wagstaffe`'s Ninth Part.
+there are accounts in Thomas Wagstaffe`'s [.book-title]#Ninth Part.#
 
 Jeremiah, the subject of this memoir,
 appears to have been of exemplary conduct from a child.
@@ -637,7 +651,7 @@ His first wife was Barbara, the widow of Daniel Pack, of Alton; his second, Mary
 widow of Daniel Weston, of Ratcliffe.
 On occasion of the latter marriage, he removed to reside at Wandsworth, in Surry;
 but their union was of short duration.
-Of Mary Waring, there is an account in Thomas Wagstaffe`'s Eighth Part.
+Of Mary Waring, there is an account in Thomas Wagstaffe`'s [.book-title]#Eighth Part.#
 He continued to reside at Wandsworth until, in the wane of life,
 and as infirmities approached, he went to reside with his only daughter and child,
 the offspring of the former marriage, at Thorpe-Lee, in the same county,
@@ -841,7 +855,7 @@ At another time when some friends were present, she expressed herself after this
 It is better to go to the house of mourning than to the house of mirth.
 Oh, that we may be favoured to feel good from the tree of life!
 Perhaps we may see the sun arise in all his glory: which is glorious indeed,
-to those who view it in its spiritual appearance.`"
+to those who view it in its spiritual appearance.
 O Lord, be thou pleased to hear us, for we have great need of thy supporting presence.
 Give us to sing praises to thy great and glorious name forever and forever more.
 Amen!`"
