@@ -73,8 +73,8 @@ I dare not despair, although I have as much reason to despair as any one;
 were it not for him who showed mercy to the thief upon the cross.
 The thief upon the cross, and Peter who denied his master, are much before me.`"
 
-Being advised to trust in the Lord, he replied, "`I have none else to trust in.`"
-"`Oh!`" said he, "`the Saviour, he is the way, and there is no other.
+Being advised to trust in the Lord, he replied, "`I have none else to trust in. Oh!`"
+said he, "`the Saviour, he is the way, and there is no other.
 I now see there is no other.
 Oh the Saviour!
 I have done too much against him;
@@ -106,13 +106,13 @@ being nearly fifty-four years of age.
 [.asterism]
 '''
 
-ISAAC SHARPLES.
+[.embedded-content-document.testimony]
+--
 
-A short narrative of Isaac Sharples, late of Hitchin,
-written by himself some time before his decease:
-to which are added some of his expressions a little before his end.
+[.blurb]
+=== A short narrative of ISAAC SHARPLES, late of Hitchin, written by himself some time before his decease: to which are added some of his expressions a little before his end.
 
-"`Being now about the eightieth year of my age,
+Being now about the eightieth year of my age,
 it is in my mind to leave some few hints of the Lord`'s
 tender dealings with me from my youth to this time,
 for the information and encouragement of those I may leave behind me.
@@ -158,8 +158,8 @@ yet now I found his call and command was to repentance and amendment of life.
 When I set my heart to seek him, I met with great inward opposition from the world,
 the flesh, and the devil, who assaulted me with manifold temptations.
 But forever magnified be my gracious God,
-he made good the saying of our blessed Saviour, '`My Father is greater than all,
-and none shall be able to pluck you out of my Father`'s hands.`' Thus,
+he made good the saying of our blessed Saviour, "`My Father is greater than all,
+and none shall be able to pluck you out of my Father`'s hands.`" Thus,
 although I was like one cast out and forsaken,
 and in great measure destitute of those natural advantages many are favoured with,
 my education being low, yet, in this state of weakness and ignorance,
@@ -174,8 +174,8 @@ intending to travel through the western counties, and return again to London.
 But I had not gone far from Bristol, before kind Providence,
 watching over me for my good, mercifully interposed, directing my way in his wisdom.
 He was pleased to put a stop to my roving mind,
-and to convince me of the truth of that saying, '`It is not in man that walketh,
-to direct his own steps.`' Meeting with employment in my trade in the county of Somerset,
+and to convince me of the truth of that saying, "`It is not in man that walketh,
+to direct his own steps.`" Meeting with employment in my trade in the county of Somerset,
 and being convinced of the blessed truth, I settled amongst Friends,
 and continued in that part of the country some years.
 About the year 1724,
@@ -200,9 +200,9 @@ Although I sometimes set out in great inward poverty,
 yet I was secretly supported by an invisible hand, that I could truly say,
 the Lord was my shepherd, and bountifully supplied all my wants,
 so as many times to make my cup run over, filling my heart with his love;
-that I can now say, What shall I render to the Lord for all his benefits,
+that I can now say, "`What shall I render to the Lord for all his benefits,
 who has been my morning light,
-and I humbly hope will be my evening song?`"After this journey,
+and I humbly hope will be my evening song?`" After this journey,
 I continued at Thornbury about five years longer,
 visiting the meetings of my friends in most of the western and northwest counties,
 as the Lord was pleased to open my way.
@@ -257,10 +257,15 @@ The Lord did not find me out amongst the wise and prudent
 of this world but he took me from the stones of the street,
 whence, in his wisdom and goodness, he has often raised up children to Abraham.
 I have now to rejoice that my day`'s work is so near a happy close,
-having only patiently to wait my appointed time, until my change come.`"
+having only patiently to wait my appointed time, until my change come.
+
+--
 
 Here ends the account our dear friend gives of himself:
 what follows is extracted from the testimony of Baldock monthly meeting concerning him.
+
+[.embedded-content-document.testimony]
+--
 
 When, through the infirmities attending old age,
 he was rendered incapable of going far from home,
@@ -291,7 +296,7 @@ I desire to be content with the Lord`'s will,
 and to wait all the days of my appointed time, until my change shall come.
 It is pleasant to think I draw so near the end of my race,
 and can now set up my Ebenezer, and say, '`Hitherto the Lord has been my shield,
-and exceeding great reward.`"`' At another time a few friends sitting by him, he said,
+and exceeding great reward.`'`" At another time a few friends sitting by him, he said,
 "`I find my body advancing apace towards its dissolution;
 but death is no king of terrors to me.
 I hope I shall be ready for my final change.
@@ -312,6 +317,8 @@ Thus, our dear and worthy friend, after a long and well spent life, finished his
 and we doubt not,
 hath entered that glorious immortality of rest and peace prepared for the righteous.
 His remains were interred in Friends`' burial-ground at Hitchin the 23rd.
+
+--
 
 [.asterism]
 '''
@@ -342,7 +349,7 @@ On Fourth-day morning he was earnest to have a doctor sent for,
 who had attended him and was gone to the country,
 after which he appeared to be more alarmed and uneasy at his own state, and said,
 "`It was sounded in my ears, '`Set thy house in order for thou shalt die,
-and not live;`"`' and continued in great distress for some time.
+and not live;`'`" and continued in great distress for some time.
 Being desirous to see as many of his relations as were in the house,
 several were called to him.
 When they came he said, "`My dear friends and relations,
@@ -771,7 +778,6 @@ with great power and energy, though under much bodily weakness, viz.:
 or be removed at this time; but I am easy as to the event.
 If, at times, I breathe a sigh, or a groan, it is not from a troubled mind.
 I feel no weight upon my spirit; but all seems clear.
-
 The world, and all that is in it, are nothing to me.
 Though I have been tried with pain of body, and deep inward poverty,
 yet now the Divine presence is near, and I am thankful to feel I am not forsaken.
@@ -926,7 +932,7 @@ for all that is exalted shall be brought down; yea, the sturdy oaks of Bashan,
 and the tall cedars of Lebanon, will the Lord lay low.`"
 
 Then taking her husband and children each by the hand, she kissed them,
-bidding them Farewell, farewell in the Lord.
+bidding them "`Farewell, farewell in the Lord.`"
 She quietly departed this life without sigh or groan, the 26th of Tenth month, 1785,
 aged nearly sixty years, and was interred the 30th of the same,
 in Friends`' burial-ground at Ackworth, in Yorkshire.

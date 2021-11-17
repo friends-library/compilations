@@ -40,8 +40,8 @@ the Lord be with thee;`" and again advised her parents to give her up freely, sa
 
 About two weeks before her decease, after having made divers solid remarks,
 she said to this effect,
-"`There is a language that I have often thought of in the time of health, which is, O,
-that I might walk in all things consistent with the truth I make profession of.`"
+"`There is a language that I have often thought of in the time of health, which is, '`O,
+that I might walk in all things consistent with the truth I make profession of.`'`"
 And at another time, nearer her end, she said, "`I think I may truly say,
 I have not murmured in all this illness.
 The Lord is my refuge.
@@ -156,7 +156,7 @@ At another time, "`I have to remember that '`the Lord is a strong tower,
 whereunto the righteous flee,
 and are saved.`' I can with great thankfulness say to my God,
 '`I have fought the good fight, and have kept the faith,
-henceforth there is laid up for me a crown of righteousness.`"`' The day before he died,
+henceforth there is laid up for me a crown of righteousness.`'`" The day before he died,
 amongst other things, he said, "`I am clear of the blood of every one.
 I feel my disorder making its progress,
 and it appears to me that I shall be removed in a little time.
@@ -269,7 +269,12 @@ A week before his close, dictating a letter to his relations and friends,
 after mentioning that his distress of body, through extreme difficulty of breathing,
 had for a short time been almost equal to any thing
 he could suppose human nature capable of supporting,
-he said, "`Just now, and for several hours past,
+he said:
+
+[.embedded-content-document.letter]
+--
+
+Just now, and for several hours past,
 I have been almost as easy as at any time in my life; I think certainly,
 never more so in my mind.
 I feel no kind of alarm; but the issue is certainly very doubtful.
@@ -286,10 +291,17 @@ Out of the enjoyment of a good degree of this precious inheritance,
 I know of nothing in this world worth living for.
 Ye that know it, suffer nothing, I most cordially beseech you,
 ever to divert your minds from an increasing and fervent pursuit after the fulness of it,
-even unto '`the measure of the stature of the fulness of Christ.`'`"
+even unto "`the measure of the stature of the fulness of Christ.`"
 
-Afterwards, in addition to the foregoing letter, he added,
-"`My spirits are under little or no depression at all.
+--
+
+[.offset]
+Afterwards, in addition to the foregoing letter, he added:
+
+[.embedded-content-document.letter]
+--
+
+My spirits are under little or no depression at all.
 Perhaps I never saw a time before, when all things not criminal,
 were so nearly alike to me, in point of any disturbance to the mind.
 I do not know, but that when awake, and capable of contemplation,
@@ -314,7 +326,9 @@ My very soul abhors the idea, that a Christian can ever be at liberty,
 while under the influence of heavenly good, to seek, or even desire, much wealth;
 though this disposition, in direct opposition to the life and doctrine of Christ,
 has gone far towards the destruction of true spiritual religion, I believe,
-in almost every religious society in the world.`"
+in almost every religious society in the world.
+
+--
 
 As nature became more oppressed with the disease, he observed it, and said,
 that if ever he rose above the present weight which he felt, and seemed sinking under,
@@ -331,7 +345,7 @@ There is nothing in this world worth being enjoyed out of the divine will.`"
 
 Two days before his decease, he said, "`I have no fear;
 for '`perfect love casteth out all fear;
-and he that feareth is not perfect in love.`' The same day he prayed thus; "`O Lord,
+and he that feareth is not perfect in love.`'`" The same day he prayed thus; "`O Lord,
 my God, thou that hast been with me from my youth to this day, if a man who hath endured,
 with a degree of patience the various turnings of thy holy hand,
 may be permitted to supplicate thy name, cut short the work in righteousness,
@@ -494,7 +508,7 @@ her mind was comforted in the fresh revival of those expressions of the prophet 
 "`Although the fig-tree shall not blossom, neither shall fruit be in the vine;
 the labour of the olive shall fail, and the field shall yield no meat;
 the flocks shall be cut off from the fold, and there shall be no herd in the stall;
-yet will I rejoice in the Lord, I will joy in the God of my salvation.`"`'
+yet will I rejoice in the Lord, I will joy in the God of my salvation.`"
 
 She reached London the 18th of the Sixth month,
 where for some time she appeared under great conflict of spirit; being very desirous,
@@ -514,7 +528,7 @@ During her confinement she was led to speak instructively to those about her;
 at one time nearly in these words: "`To look back, the world appears trifling and vanity;
 and if fresh trials come, and the storm be permitted to beat as against the wall,
 it is good to trust in the Lord, who, in gloomy seasons,
-is the protector of those that fear him.
+is the protector of those that fear him.`"
 After encouraging those present to greater dedication,
 she said that the highest anthem that could be sung was, "`Thy will be done.`"
 At another time she said she believed it was right
@@ -600,4 +614,4 @@ in the eighty-seventh year of his age, and was interred there on the 15th;
 having been a minister about sixty-five years.
 
 [.the-end]
-THE END OF THE NINTH PART.
+THE END OF THE NINTH PART

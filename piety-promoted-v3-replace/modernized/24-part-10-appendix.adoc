@@ -1,6 +1,6 @@
 == Appendix
 
-[.heading-continuation-blurb]
+[.chapter-subtitle--blurb]
 Containing some Account of Deceased Friends, of an Earlier Date than the Preceding
 
 [.chapter-synopsis]
@@ -17,7 +17,7 @@ who died there the 27th of the Eleventh month, 1720.
 In doing this, and in looking over the few papers relating to this ancient Friend,
 which are in my possession,
 I am confirmed in the truth of a common remark of pious persons,
-'`That the memory of the just is precious.
+"`That the memory of the just is precious.`"
 It is encouraging to observe, that the general trials, deliverances, habits,
 and sources of hope, are the same at every period of time.
 
@@ -52,7 +52,7 @@ I have a letter from him to his daughter Hannah, the wife of Joseph Gurney, of N
 (of whom there is an account in the collection of testimonies concerning
 public Friends deceased,) written about four months before his death.
 It shows the temper of his mind at that time; and,
-if the partiality of a descendant do not deceive me, is worth preserving.
+if the partiality of a descendant does not deceive me, is worth preserving.
 
 [.embedded-content-document.letter]
 --
@@ -67,7 +67,7 @@ I had yours, whereby understanding of your health, am glad:
 and though I could like well more often to know of your state, yet,
 as I receive information thereof from, with whom we have now a frequent correspondence,
 I do not take offense at your writing seldom:
-nor must you expect many letters from my hand, it being now a +++[+++great]
+nor must you expect many letters from my hand, it being now a great
 trouble to write.
 So as Providence has placed us at such a bodily distance,
 we must endeavor to converse in spirit, remembering one another,
@@ -84,7 +84,7 @@ So with remembrance of my true love, with my wife`'s, to you and your husband,
 and your little ones, and to brother Gurney and his family,
 and all the rest of relations,
 I conclude this with my fervent prayer to the Lord for his blessing on you all:
-not forgetting and her children.
+not forgetting +++_______+++ and her children.
 
 I say,
 as the Lord has favored all of you with competent increase in the things of this life,
@@ -101,18 +101,18 @@ Joshua Middleton.
 His last illness seems to have been a painful one; for his son,
 in a letter to another of his daughters, settled at Norwich,
 dated one week before the departure of their father, thus relates of him:
-he had been relieved from his pain and retchings by a removal of the stricture; '`but,`'
-says his son, '`he has taken nothing these two or three days,
+he had been relieved from his pain and retchings by a removal of the stricture; "`but,`"
+says his son, "`he has taken nothing these two or three days,
 and grows weaker and weaker; but continues sensible,
 and many living expressions drop from him.
 I doubt not but God has heard his prayer, and sweetened his bitter cup,
 which he said he had to drink.
 Soon after he had so said, he broke out into these expressions:
-"`Blessed be the name of the Lord!
+'`Blessed be the name of the Lord!
 He has sweetened my cup.
-I am refreshed.`"
+I am refreshed.`'
 As we were sitting one night about him, he bid us go to bed, and let him go,
-and commit him to the Lord; and he should be received to mercy.`'
+and commit him to the Lord; and he should be received to mercy.`"
 
 [.asterism]
 '''
@@ -137,8 +137,8 @@ Her husband and friends then began to hope;
 but she had a view of her approaching dissolution, and endeavored to be prepared for it.
 She was fervent and frequent in prayer, and earnest with her mother^
 footnote:[She was one of Robert Barclay`'s children, of whom John Gratton says:
-'`As they grew in years,
-they grew also in the knowledge of the blessed Truth;`'
+"`As they grew in years,
+they grew also in the knowledge of the blessed Truth;`"
 which he much attributes to the care of their mother.]
 to join her in it.
 She had a firm confidence that it would be well with her,
@@ -152,15 +152,15 @@ alluding to the follies of her youth, which she then esteemed to have been vanit
 and therefore she earnestly desired, if it were his will, that she might be removed;
 for she was then ready, and certain of eternal happiness;
 but she feared that it might not be so well if she should live longer.
-'`Have you not given me up?`'
+"`Have you not given me up?`"
 said she to her mother.
-'`I desire you will give me up freely, and not endeavor to hold me, or interrupt me,
-but let me go; I am ready, and have nothing to do but to die.`'
+"`I desire you will give me up freely, and not endeavor to hold me, or interrupt me,
+but let me go; I am ready, and have nothing to do but to die.`"
 At another time, her father inquired of her whether she would be willing to live,
 if it pleased the Lord.
-She answered, '`God forbid, but that if he have any service for me, I should be willing;
+She answered, "`God forbid, but that if he have any service for me, I should be willing;
 but if not, I desire to die; for now I am ready, and have nothing to do but to die.
-My joy is full.`'
+My joy is full.`"
 
 She expressed a tender and affectionate regard for her friends, but most for her husband.
 She declared that she had great satisfaction in her marriage,
@@ -169,9 +169,9 @@ and desires for his good, were very great and strong.
 Her patience in her illness, and her fear of offending her Maker by complaining,
 were remarkable: careful of her words, that she might not offend with her tongue.
 One time being in great pain, and finding herself thirsty, she said,
-'`Now my tongue wants cooling, but soon I shall be in Abraham`'s bosom,
+"`Now my tongue wants cooling, but soon I shall be in Abraham`'s bosom,
 where all my sorrows will be at an end, and I shall rest forever.
-I have nothing to do but to die.`'
+I have nothing to do but to die.`"
 This was frequently her expression.
 She would continue in supplication sometimes for hours together.
 The sweet, heavenly disposition she was in the latter part of her time,
@@ -235,30 +235,35 @@ She seems, previously,
 to have been tried by means of much deprivation of that heavenly comfort and support,
 which she loved and sought.
 
-As I quietly rode along, '`says she,
-'`the Lord was pleased in mercy to break in upon my mind by his living presence and power,
+[.embedded-content-document.letter]
+--
+
+As I quietly rode along [says she,]
+the Lord was pleased in mercy to break in upon my mind by his living presence and power,
 and it became the language of my soul, Speak, Lord, and your servant will hear.
 After which, many things were divinely opened to me; wherein I greatly rejoiced,
 and was thankful to the Lord my God.
 I then found a sudden but gentle rebuke; and heard, as it were, a voice that said,
 in the secret of my soul,
-'`The dispensations you most delight in are least pleasing to me;
+"`The dispensations you most delight in are least pleasing to me;
 and not so beneficial to your soul as that pure poverty of spirit,
 brokenness and contrition of heart, which brings into humility of mind.
 And the reason why this is so little desired, and so unpleasant to the creature is,
 that it can have no part therein; but is wholly excluded and set at naught;
 can discover no beauty or excellency in it.
-And for this cause it is that I will in no wise despise
+And for this cause it is that I will in no way despise
 the offering of a broken and contrite spirit,
 as it is most pure, and without any mixture of the creature.
 For whether there be prophecies, divine openings or revelation, consolations,
-joying or rejoicing in the Holy Ghost, gifts of healing, or tongue of utterance;
+joying or rejoicing in the Holy Spirit, gifts of healing, or tongue of utterance;
 in all these self can rejoice, and have a share, being obvious to it,
-and bringing it honor.`'
-Then, said I, Lord dispense to me what is most pleasing to you, and best for my soul,
+and bringing it honor.`"
+"`Then,`" said I, "`Lord dispense to me what is most pleasing to you, and best for my soul,
 so long as my weak faith and patience can endure; and when I am ready to faint,
 give me a little of the wine well refined on the lees, that my soul may rejoice in you,
-the God of my salvation.`'
+the God of my salvation.`"
+
+--
 
 On the 17th of the Third month, 1757, she was married to Samuel Neale,
 a valuable minister then residing within the compass of Edenderry monthly meeting;
@@ -278,7 +283,7 @@ During this short illness, she sometimes raised her voice in a melodious manner,
 though she did not always express herself in words.
 She longed to be dissolved, and entreated the Lord to give her a release; and when,
 about half an hour before her decease, her pain ceased, she then said,
-'`I praise your name, O my God, for this favor.`'
+"`I praise your name, O my God, for this favor.`"
 
 [.asterism]
 '''
@@ -316,18 +321,18 @@ He was never heard in the least to repine, but seemed wholly given up to the Div
 Thus far his father.
 A few of his expressions are preserved, confirming this paternal testimony.
 
-Lying in a weak state, he said, '`The Lord has been very gracious to me all along,
+Lying in a weak state, he said, "`The Lord has been very gracious to me all along,
 and followed me with the extendings of his love.
-Praised be his name.`'
-To his brother and other relations present he said, '`Grieve not for me.
-It will, I believe, be well with me.`'
+Praised be his name.`"
+To his brother and other relations present he said, "`Grieve not for me.
+It will, I believe, be well with me.`"
 He desired those present to take care of their company and their behavior, adding,
-'`The Lord has been good to me, and I think I would rather go than stay in this world,
+"`The Lord has been good to me, and I think I would rather go than stay in this world,
 where there are troubles enough for every day.
 You have done all you could.
 Don`'t sorrow for me.
-I am going to eternity --a blessed eternity, where we shall meet again,
-if we live as we ought.`'
+I am going to eternity--a blessed eternity, where we shall meet again,
+if we live as we ought.`"
 
 [.asterism]
 '''
@@ -373,7 +378,10 @@ for the collection of many more of them into the fold of safety, yes, of salvati
 I was certainly then neither a religious character, nor a judge of it: though then,
 I believe, like her, a lover of good men.
 
-At length, says another relation,
+[.embedded-content-document.testimony]
+--
+
+At length, [says another relation,]
 it was the merciful favor of her gracious Redeemer to give her a sight of her errors,
 and a true penitent heart for every folly;
 also to enable her to hold forth a powerful exhortation to her intimate
@@ -383,3 +391,8 @@ Being thus redeemed, she had no desire for recovery.
 She dropped, before her close, many comfortable expressions; saying,
 that though the Lord was pleased to afflict her body, her mind was not afflicted;
 that she had sweet assurance, and that at times she seemed already in heaven.
+
+--
+
+[.the-end]
+END OF THE TENTH PART

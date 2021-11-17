@@ -1,7 +1,7 @@
 [short="Historical Account of Piety Promoted"]
 == A Historical Account Of The Work Entitled Piety Promoted And Of The Compilers And Editors Of The Nine Preceding Parts.
 
-As the Volumes entitled Piety Promoted have met with a very general acceptance,
+As the volumes entitled [.book-title]#Piety Promoted# have met with a very general acceptance,
 and I believe have often proved incentives to a pious life,
 by recounting so many instances of happy death,
 I have thought that a concise relation of their origin and continuation,
@@ -21,7 +21,10 @@ James Parnell, who died of sheer ill usage, in Colchester Castle.
 To this volume the author has prefixed a copious preface; from which the following lines,
 explanatory of his purpose, which is the same with that of succeeding compilers, may,
 not inaptly, be inserted here.
-"`The design,`" says he, "`of this collection is,
+
+[quote]
+____
+The design of this collection is,
 that godliness and holiness may increase and prevail amongst men,
 that they might have fruit unto holiness, that their end might be everlasting life.
 Having, in the course of my reading,
@@ -43,13 +46,14 @@ The Lord give them that read,
 a heart to understand the things which belong to their peace:
 and if these shall be any means to stir up any to more faithfulness and diligence,
 in making their calling and election sure, my design is answered;
-and God shall have the praise of all; who is worthy forever.`"
+and God shall have the praise of all; who is worthy forever.
+____
 
 The second part or volume appeared the following year, also published by John Tomkins.
 It contains upwards of nine sheets, and about forty-five names,
 but they are not so methodically arranged as in the former volume.
 It has a preface by another hand, without a name,
-but Whiting`'s Catalogue has the initials J. R. John Tomkins,
+but [.book-title]#Whiting`'s Catalogue# has the initials "`J. R. John Tomkins,`"
 having thus engaged in an acceptable service, seems to have persevered in it to the last;
 for, the first volume having been reprinted in 1703, in 1706 he published a third,
 containing ten sheets, and about forty-eight names,
@@ -70,22 +74,30 @@ and was also esteemed a skilful minister.
 He was about forty-three years of age at the time of his decease,
 and left a widow and children.
 There is a copious account of some of his dying expressions
-in the fourth part of Piety Promoted,
-and also in J. Kendall`'s revised collection, Vol.
-II. p. 77. Besides these three parts or volumes of Piety Promoted,
+in the fourth part of [.book-title]#Piety Promoted,#
+and also in J. Kendall`'s [.book-title]#Revised Collection, Vol.
+II.# p. 77. Besides these three parts or volumes of [.book-title]#Piety Promoted,#
 he was author of the following works:
 
-1+++.+++ The Harmony of the Old and New Testament, and the fulfilling of the prophecies,
+[.numbered-group]
+====
+
+[.numbered]
+_1+++.+++_ [.book-title]#The Harmony of the Old and New Testament,# and the fulfilling of the prophecies,
 concerning our Lord and Saviour Jesus Christ,
 and his kingdom and glory in the latter days with a brief
 Concordance of the names and attributes given to Christ, etc.
 
-2+++.+++ A Brief Testimony to the Great Duty of Prayer, showing the nature and benefit thereof;
+[.numbered]
+_2+++.+++_ [.book-title]#A Brief Testimony to the Great Duty of Prayer,# showing the nature and benefit thereof;
 with above one hundred instances of God`'s answering prayer.
 
-3+++.+++ A Trumpet Sounded, or a Warning to the Unfaithful,
+[.numbered]
+_3+++.+++_ [.book-title]#A Trumpet Sounded,# or [.book-title]#A Warning to the Unfaithful,#
 to prize the day of their visitation before it be over:
 with a collection of the dying sayings of sundry persons.
+
+====
 
 John Whiting informs us, that John Tomkins died at Maryland Point, near Stratford:
 probably at the house of his friend and preface-writer, Christopher Meidel; who,
@@ -110,11 +122,16 @@ dated 22nd of Sixth month, 1708, to our historian, William Sewell,
 that he had been taken prisoner in France, probably on his return to his native country.
 An extract from this letter may be acceptable to the reader, viz.:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Paris, 22nd 6th mo., 1708.
 
+[.salutation]
 Dear Friend:
 
-That blessed God who is pleased sometimes to lead his poor travailing children into,
+That blessed God who is pleased sometimes to lead his poor travailing children into
 paths of straits and difficulties, to try their faith and patience,
 and to show his power and goodness in bringing them out again,
 has brought me along hitherto, blessed be his name, and kept my poor soul from fainting,
@@ -157,7 +174,10 @@ with due respects to thy dear wife and children,
 I conclude thy poor obliged friend and fellow traveller,
 who desires the prosperity of Zion,
 
+[.signed-section-signature]
 C+++.+++ Meidel.
+
+--
 
 John Field, also of London, who, before the death of Tomkins, was well known there,
 as the author of many short pieces, several of them controversial,
@@ -165,7 +185,7 @@ next took up the work in which the latter had engaged, and, in 1711,
 produced a fourth volume, of upwards of eleven sheets,
 and having in it about fifty-four different narratives.
 This volume has a long preface by an anonymous writer, and also another,
-called an Introduction, by the compiler, Field.
+called [.book-title]#An Introduction,# by the compiler, Field.
 
 The fifth volume came out in 1717,
 and this likewise is owing to the diligence of John Field.
@@ -192,7 +212,7 @@ Thomas Raylton again took up the pen as prefacer.
 
 John Field had retired to Hammersmith, where he died;
 but he was buried at Bunhill-fields, London,
-and is described in the register of the quarterly meeting --of George-Yard, haberdasher.
+and is described in the register of the quarterly meeting of George-Yard, haberdasher.
 This was probably only descriptive of his company.
 I have heard that his trade was a woollen-draper.
 Thomas Raylton, of course, was his near neighbour, and probably his intimate friend.
@@ -293,11 +313,11 @@ of the travels of Friends devoted to the cause of truth.
 
 Besides the publication and republication of most of these volumes,
 some selections from them have been printed; particularly one in 1781, by James Phillips,
-in twelves, forming a closely printed volume, entitled, "`Brief memorials, etc.,
-particularly of young persons,
-extracted from the eight volumes entitled Piety Promoted.`"
+in twelves, forming a closely printed volume, entitled, [.book-title]#Brief memorials, etc.,
+Particularly of Young Persons,
+Extracted from the Eight Volumes Entitled Piety Promoted.#
 William Rawes also, of Marnhull, in Dorsetshire, formed a similar, but smaller selection,
-under the title of "`Examples for Youth.`"
+under the title of [.book-title]#Examples for Youth.#
 William Rawes was an acknowledged minister in good esteem,
 and very serviceable in the discipline, in the part where he resided.
 He died at Marnhull, in 1805, in his fifty-first year.
@@ -317,7 +337,9 @@ of John Goodwin and Elizabeth Kendal; both which are in T. Wagstaffe`'s eighth v
 He has a short preface or introduction, giving some account of the work in general;
 in which he makes a useful remark to the following effect.
 
-"`I have no further hint to give thee, reader, than this;
+[quote]
+____
+I have no further hint to give thee, reader, than this;
 that if thou have received the truth in the love of it,
 and should perceive that some of the descendants of this
 people do not walk in the steps of their ancestors;
@@ -325,12 +347,15 @@ and even that some having with Demas loved this present world,
 have wholly turned their back on the truth, be not discouraged,
 for truth descends not by inheritance.
 Neither be thou puffed up against them; but stand in the holy fear of God;
-and take the advice of the apostle Paul,`" (Rom. 11:20-22) +++[+++Well,
+and take the advice of the apostle Paul, +++[+++"`Well,
 they were broken off through unbelief, and thou standest by faith.
 Be not high-minded, but fear.
-For if God spared not the natural branches, take heed lest he also spare not thee.]
+For if God spared not the natural branches,
+take heed lest he also spare not thee.`"--Rom. 11:20-22.]
 "`that, having finished thy course, and kept the faith,
 thou may receive the crown of righteousness, and enter into the joy of thy Lord.`"
+____
+
 Next he inserts an exhortation extracted from the writings of William Penn,
 and then he gives an abridgement of the preface of Tomkins.
 In the accounts themselves, he simply translates the narrative;
@@ -355,7 +380,7 @@ idolatrous.
 
 In fine, he forsook the Romish communion, and went to live at Jersey,
 in order to be among Protestants.
-Here he met with Barclay`'s Apology;
+Here he met with [.book-title]#Barclay`'s Apology;#
 and this book was the instrument to determine him
 to settle in the principles and profession of Friends.
 He suffered some persecution in Jersey, and was even at length banished,
@@ -363,7 +388,7 @@ under pain of corporal punishment; but this was set aside by order of the king.
 He, nevertheless, took England for his home in the year 1745,
 and died at a very advanced age, at Barking, in Essex, in the year 1786.
 He translated, besides the work which has here introduced him to notice,
-the first part of William Penn`'s No Cross, No Crown.
+the first part of William Penn`'s [.book-title]#No Cross, No Crown.#
 In private life, he was industrious, very unassuming, and harmless.
 In his public ministry, sound and fervent, but tender in spirit.
 He travelled at times in the exercise of his ministry, and often on foot;
@@ -380,8 +405,14 @@ in which it was usual to prefer his petitions in these appropriate terms,
 He was enabled to endure a lingering disease with great patience,
 and declared to those who conversed with him, that all fear of death was removed.`"
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 To The People Of Guernsey.
-My Friends Of Both Sexes,
+
+[.salutation]
+My Friends of Both Sexes,
 
 As I passed along your great street, one market day,
 I beheld your souls with the eye of faith,
@@ -392,7 +423,6 @@ which are so dear and precious, by any wilful sin.
 Among other things, do not take the name of God in vain:
 for he will not hold any one guiltless who takes his holy name in vain.
 God would save you.
-
 Why should any of you destroy yourselves?
 Abstain from drunkenness, and from all excess: and even from every appearance of evil.
 Love one another, as Jesus Christ loved you.
@@ -408,6 +438,10 @@ But this witness of God is his word, even the Word of Life,
 which is able to save your souls.
 Amen!
 
+[.signed-section-signature]
 Claude Gay.
 
+[.signed-section-context-close]
 Guernsey, 1st Seventh month, 1776.
+
+--
