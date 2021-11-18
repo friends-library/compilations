@@ -75,7 +75,7 @@ These few words she revived in the hearing of many visitors,
 affectionately entreating her younger friends that they would, through Holy help,
 withstand his suggestions,
 when they would witness all the snares laid for them to be broken; adding,
-in the language of encouragement: The city, the strong city!
+in the language of encouragement: "`The city, the strong city!
 The city, the strong city! flee unto it!`"
 
 From this state of weakness this dear ancient friend so far recovered
@@ -215,8 +215,9 @@ and illustrated this doctrine by his own example,
 sacrificing things of a secular nature which stood
 in the way of performing his religious duties.
 
-In the year 1805, he was deprived by death of an amiable and tenderly-beloved wife; this,
-with other subsequent domestic afflictions, of a peculiarly trying nature,
+In the year 1805, he was deprived by death of an amiable and tenderly-beloved wife;^
+footnote:[See [.book-title]#Part 10# of this work.]
+this, with other subsequent domestic afflictions, of a peculiarly trying nature,
 he was enabled to bear with Christian resignation.
 
 He repeatedly visited the meetings of Friends in Ireland,
@@ -268,8 +269,7 @@ and that fades not away.`"
 [.asterism]
 '''
 
-MARY FAIRBANK.
---In compiling this volume, an opportunity has been instructively afforded,
+MARY FAIRBANK.--In compiling this volume, an opportunity has been instructively afforded,
 to survey the character of more than a few, who, from early to advanced age,
 have endeavored to walk in the path of the just.
 The lives of these have convincingly shown,
@@ -282,7 +282,8 @@ heavenward tenor of their course, has shown on whom their hopes of salvation wer
 and that to them the gracious promise was one of consoling reality,
 "`Be faithful unto death, and I will give you a crown of life.`"
 
-In this number may be included Mary Fairbank,
+In this number may be included Mary Fairbank,^
+footnote:[See page 141 of this work.]
 who died at the advanced age of eighty-eight.
 She was the widow of William Fairbank, of Sheffield;
 and they were both Friends highly esteemed in that meeting.
@@ -358,7 +359,7 @@ Being deprived of her father at a very early age,
 the care of her education devolved solely upon her mother,
 who was piously concerned to train up her children in the right way of the Lord:
 desiring much more that they might become possessors of heavenly riches,
-than of any thing of a perishable nature.
+than of anything of a perishable nature.
 
 The tendency of Deborah`'s mind is said, by herself, to have been such as to require,
 in early life, much parental restraint;
@@ -413,7 +414,7 @@ nothing but a poor worm; and that it is through Divine grace alone,
 as it has been measurably attended to, that I have been made any way tolerable.`"
 She then earnestly enjoined all around her,
 to be very careful not to say a single word that
-could possibly attribute any thing to her;
+could possibly attribute anything to her;
 again emphatically saying: "`I am nothing at all but a poor worm:
 I have not one scrap of my own; no, not one scrap to trust to.
 It is of Divine grace and mercy,
@@ -428,7 +429,7 @@ and instructed in Divine things; that their tender minds might be closely watche
 and everything withheld from them which would encourage pride,
 or any other wrong disposition: remarking,
 that she considered children as a very important charge,
-and that a great weight of responsibility attached to patents to whom they were committed.
+and that a great weight of responsibility attached to parents to whom they were committed.
 She spoke much on the necessity of keeping to the simplicity of Truth,
 in what may be termed little things; saying,
 "`I have seen and found that nothing else will do.`"
@@ -539,7 +540,7 @@ You only know my sufferings, and are able to deliver me out of them all.`"
 On another occasion, she intimated, that her being saved was of mere mercy,
 having no righteousness of her own to depend upon.
 When it appeared probable that she would not continue much longer, she observed:
-"`I shall die in peace with all, feeling inexpressible love to every one.`"
+"`I shall die in peace with all, feeling inexpressible love to everyone.`"
 And again, she said: "`Now, Lord, let me depart in peace,
 for my eyes have seen your salvation.`"
 
@@ -600,7 +601,7 @@ and the consciousness of moral rectitude alone,
 was insufficient to support his mind at this solemn moment.
 Excellent and indispensable as morality of life is,
 it is only as we come to pass from a state of nature to a state of grace,
-and our souls experience the renewings of the Holy Ghost,
+and our souls experience the renewings of the Holy Spirit,
 that our conduct among men will redound to the glory of God,
 and be viewed with acceptance in his pure and holy sight.
 
@@ -633,13 +634,14 @@ The fear of death appeared to be taken from him,
 and he could look forward without dismay,
 being comforted in the hope that all would be well; often saying:
 "`Oh! that my hour were come: I want to be gone.`"
-He was much interested on behalf of one of his school-fellows,
-and on one occasion said to him in substance: '`Be very guarded in your conduct;
+He was much interested on behalf of one of his school-fellows,^
+footnote:[This young Friend died a short time after.]
+and on one occasion said to him in substance: "`Be very guarded in your conduct;
 the enemy is constantly devising mischief.
 You are in a very dangerous and critical situation; lay your soul open to your Redeemer,
 and put your trust and confidence in him.
 I am going to where I shall behold the face of my Redeemer.
-He has guarded and watched over me.`'
+He has guarded and watched over me.`"
 
 He frequently said with much feeling: "`Oh! for patience.
 Father of mercies, grant me a little ease.
@@ -678,7 +680,7 @@ and requested to be placed in an easy chair.
 Soon afterwards he was heard to say: "`If consistent with your holy will,
 be pleased to release me from my sufferings, and take me to yourself.`"
 He then raised his eyes, and faintly uttered: "`It is done,
-oh! it is done`" and thus passed peacefully away.
+oh! it is done,`" and thus passed peacefully away.
 
 He was in the nineteenth year of his age, and,
 until the period at which he was attacked with cold,
@@ -686,7 +688,7 @@ enjoyed an almost uninterrupted share of health.
 The prospect of such an early termination of his earthly course,
 appears to have been far from his thoughts.
 Let us, then, who survive, seriously reflect upon the uncertainty of life,
-and the awful situation of such as are suddenly called hence in an unprepared state.
+and the awful situation of such as are suddenly called from here in an unprepared state.
 And although there is good ground to believe this was not the case
 with him whose steps we have briefly traced to the hour of death;
 yet, had he attended more early and diligently to the visitation of the love of God,
@@ -702,3 +704,6 @@ is no security that it will be alike extended to us.
 May all, then, seek with increasing diligence,
 an establishment upon the sure and immutable foundation, Jesus Christ, the rock of ages,
 who lives and abides forever!
+
+[.the-end]
+THE END OF THE ELEVENTH PART

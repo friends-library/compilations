@@ -158,7 +158,10 @@ by granting them less certain evidence of his acceptance; but to these also,
 as they persevere unto the end, shall the consoling assurance be verified:
 "`Ye shall reap, if ye faint not.`"
 
-1805.--Tenth month, 22. "`At seasons,
+[.embedded-content-document.letter]
+--
+
+1805.--Tenth month, 22. At seasons,
 I feel a degree of consolation and Divine peace that cannot be expressed in words,
 which I would not exchange for a thousand times the treasures of both the Indies;
 in comparison of which I should esteem, I do esteem,
@@ -168,20 +171,20 @@ And at the much more frequent seasons, when heavenly good is least sensibly felt
 are so firmly anchored on the everlasting rock, Christ Jesus,
 that when the rains descend, and the winds and the storms beat, I am not greatly moved.
 I know him in whom I have believed, and that he will, in mercy,
-keep all those who have committed themselves to Him!`"
+keep all those who have committed themselves to Him!
 
-1813.--Sixth month, 10. "`With regard to myself, I am not destitute of hope;
+1813.--Sixth month, 10. With regard to myself, I am not destitute of hope;
 for though many have been better stewards of the manifold grace of God than I have been,
 I am not conscious, at any time, in my religious labours,
 of having done the work of the Lord deceitfully.
 Yet I might have been more diligent;
 I might have watched more frequently at Wisdom`'s gate; I might have been more devoted,
-and, like the holy prophet, more ready to say, '`Here am I,
-send me.`' But I trust in divine mercy, knowing in whom I have believed;
+and, like the holy prophet, more ready to say, "`Here am I,
+send me.`" But I trust in divine mercy, knowing "`in whom I have believed;`"
 and I am persuaded that He is able to keep that which
-I have committed unto Him against that day.`"
+I have committed unto Him against that day.
 
-1814.--First month, 28. "`With regard to myself,
+1814.--First month, 28. With regard to myself,
 I am moving on in my Christian pilgrimage in a low way; yet not destitute of hope,
 that the dispensations I have, or may have to pass through,
 may be graciously intended for my further refinement, of which I have great need:
@@ -189,7 +192,9 @@ so that, in the solemn close, I may be numbered amongst all those, who,
 through faith and patience, inherit the promises.
 But if I should be thus happy to find acceptance with God, in the awful day of decision,
 I am sure it will be the effect of his unfailing mercy in Christ Jesus;
-for I have no claim from merits, to rewards.`"
+for I have no claim from merits, to rewards.
+
+--
 
 He enjoyed an excellent constitution, and mostly uninterrupted health,
 until the autumn of 1815, when he had a slight attack,
@@ -211,10 +216,9 @@ that when walking alone in the lanes and fields, in an evening,
 I frequently gratified myself by singing aloud; and indulged therein,
 even after my mind became uneasy with the practice, until,
 in one of my solitary evening walks, and when in the act of singing, I heard, as it were,
-a voice distinctly say, "`If thou wilt discontinue that gratification,
-thou shalt be made partaker of a much more perfect harmony.`"
-
-"`So powerful was the impression then produced, that,`" he added,
+a voice distinctly say, '`If thou wilt discontinue that gratification,
+thou shalt be made partaker of a much more perfect harmony.`'`"
+So powerful was the impression then produced, that, he added,
 he never afterwards indulged in the practice.
 In relating this short anecdote, he was, towards the latter part of it,
 considerably affected, and could not suppress his tears,
@@ -224,6 +228,9 @@ He conversed cheerfully with his family the remainder of the evening,
 and said that he thought it a great favour to be removed without much bodily suffering.
 The following day, the 30th of Ninth month, 1817, while sitting in his chair,
 he closed his eyes, and quietly departed.
+
+[.asterism]
+'''
 
 SARAH HUSTLER was the daughter of John and Christiana Hustler, of Undercliff,
 near Bradford, in Yorkshire; and was born there, in the Second month, 1765.
@@ -284,17 +291,24 @@ and evinced an ardent desire to discharge every duty that filial tenderness coul
 In a memorandum, dated the 18th of the Second month, 1811, penned, as it appears,
 after a time of very bitter conflict, are the following expressions:
 
-"`There are seasons when all I ask is an ability to fulfill my duty to my Maker,
+[quote]
+____
+There are seasons when all I ask is an ability to fulfill my duty to my Maker,
 and my fellow creatures; to continue to the end my watchful, patient,
 and affectionate attention to my dear parent; and to devote myself, body, soul,
 and spirit, for the remainder of my days, to that work and service,
 in doing or in suffering, which He who has been my Preserver, the dew of my youth,
 the stay of middle age, and my support in many an hour of deep and hidden conflict,
-shall be pleased to require at my hands.`"
+shall be pleased to require at my hands.
+____
 
+[.offset]
 Towards the close of the same year, in writing to some intimate friends, she remarks:
 
-"`Let me not be thought ungrateful to the Preserver of men.
+[.embedded-content-document.letter]
+--
+
+Let me not be thought ungrateful to the Preserver of men.
 I forget not, I think,
 to commemorate the mercy which has sustained in the way of affliction;
 supported through many deep and hidden conflicts:
@@ -310,14 +324,16 @@ and were it not for a degree of confidence in the truth of the remark,
 that steps taken in simple faith are large steps in Christian advancement,
 I should be often ready to cast away the shield.
 I know nothing I covet so much, as to be able to adopt the language of David;
-'`My heart is not haughty, nor my eyes lofty;
+"`My heart is not haughty, nor my eyes lofty;
 neither do I exercise myself in great matters.
-My soul is become as a weaned child.`' And as to this world,
+My soul is become as a weaned child.`" And as to this world,
 I hope I am losing my interest in every other prospect
 than that of standing in my right allotment:
 whether it ever be required of me to run in the way of the Lord`'s commandments,
 in a public line, again: or whether a short time only remains for me to trim the lamp,
-and, through Divine aid, have it burning, when the midnight cry is heard.`"
+and, through Divine aid, have it burning, when the midnight cry is heard.
+
+--
 
 This exercised servant of the Lord was often deeply
 concerned for the spiritual welfare of our Society;
@@ -338,8 +354,11 @@ which had been so conspicuous a trait in her character through life.
 In a memorandum, made in the Seventh month, 1815, she observes:
 "`I humbly trust I have been enabled to stand in dedication to the unfoldings
 of duty;`" and after adverting to divers services in which she had been engaged,
-and reviewing her endeavours to fulfill her vows, she adds,
-"`I commemorate the mercy which has hitherto kept me in heights and in depths,
+and reviewing her endeavours to fulfill her vows, she adds:
+
+[quote]
+____
+I commemorate the mercy which has hitherto kept me in heights and in depths,
 so that the power of the enemy has not ultimately prevailed.
 But though the cup of suffering hath been largely administered;
 though faith hath been often ready to fail,
@@ -347,21 +366,25 @@ and many severe provings and conflicts have been my experience,
 known only to the Searcher of hearts, the ability is yet, at seasons,
 mercifully afforded, to bear testimony to the divine faithfulness,
 in that his promise hath so far been verified:
-'`Thy life will I give unto thee for a prey, in all places whither thou goest.`'
-
+"`Thy life will I give unto thee for a prey, in all places whither thou goest.`"
 May patience then have its perfect work in me, and the fiery baptisms do their office,
 until, in the end of days,
 a capacity may be received to unite in the final surrender of the Holy Pattern,
-'`Thy will, O Father, and not mine,
-be done!`' and thereby to join in the song of the redeemed, even,
-'`Great and marvellous are thy works, Lord God Almighty just and true are thy ways,
-thou King of saints.`' Amen, and amen,--saith my soul.`"
+"`Thy will, O Father, and not mine,
+be done!`" and thereby to join in the song of the redeemed, even,
+"`Great and marvellous are thy works, Lord God Almighty just and true are thy ways,
+thou King of saints.`" Amen, and amen,--saith my soul.
+____
 
+[.offset]
 In the course of the year 1816, she removed into Bradford,
 and writes thus instructively of her new residence, in the Fourth month following;
-"`I ought thankfully to say, that I have about me every outward means of comfort:
+
+[quote]
+____
+I ought thankfully to say, that I have about me every outward means of comfort:
 and having nothing left to desire, might be employed in numbering my blessings.
-Nevertheless, I feel (and I am glad I can fee]) that nothing earthly,
+Nevertheless, I feel (and I am glad I can feel) that nothing earthly,
 or of earthly origin, can satisfy the wants of an immortal spirit; so that,
 while my dwelling, and everything about it,
 have been preparing to become all that I could wish them to be,
@@ -369,7 +392,7 @@ the habitation of the spirit has been in a land of deserts, of gins, and of snar
 and never more sensible danger has been experienced
 of losing the portion of that better country,
 where the voice of the oppressor of souls is not heard;
-for they hear not the voice of the oppressor.
+for "`they hear not the voice of the oppressor.`"
 
 None of my friends, therefore,
 need have any apprehension that I am going to dwell at ease in my ceiled house;
@@ -377,10 +400,11 @@ for I know the state of my own heart, and I ask myself the question almost daily
 I would willingly leave it all for a safe passport to a better, or,
 under the clothing of divine requisition, sensibly felt,
 to go to any part of the heritage.
-I can say of a truth, '`I have seen an end of all perfection,`' as to created good;
+I can say of a truth, "`I have seen an end of all perfection,`" as to created good;
 and oh, when the height and the depth, the length and the breadth,
 the wonderful extent of the law of love, are in any degree opened to the mind,
-how are earthly consolations swallowed up and lost!`"
+how are earthly consolations swallowed up and lost!
+____
 
 In the Eighth month, 1817,
 Sarah Hustler proposed to her friends to attend the half-year`'s meeting at Aberdeen,
@@ -449,6 +473,9 @@ On the 26th of the Tenth month, 1817, at the age of fifty-two,
 her soul was released from its afflicted tabernacle, prepared,
 as we may reverently believe, through redeeming mercy,
 to partake of the blessing which was promised to the pure in heart.
+
+[.asterism]
+'''
 
 SPECIAL WEST was born in the Borough of Southwark, in the year 1740.
 His parents professed with our Society,
@@ -554,6 +581,9 @@ He continued in a sweet frame of spirit, and sensible to the last;
 and was favoured to close, in great peace, a life of much piety and usefulness,
 on the 30th of the Tenth month, 1817, in the seventy-seventh year of his age.
 
+[.asterism]
+'''
+
 HANNAH WEST survived her husband nearly three years;
 she had long been afflicted with a complaint, which terminated in a dropsy of the chest.
 Her sufferings were great; but she was enabled to beg for patience,
@@ -578,6 +608,9 @@ Do not hold me; for I have an assurance of happiness.
 Pray for me, that my patience may hold out to the end; and when I am gone,
 rejoice evermore.`"
 She quitted this scene of conflict at the age of eighty, the 4th of the Ninth month, 1820.
+
+[.asterism]
+'''
 
 REBECCA BEVAN, who died on the ninth of the Eleventh month, 1817,
 at the age of thirty-four, was the daughter of Jasper and Anne Capper,
@@ -610,7 +643,10 @@ and was permitted to enjoy the reward of a quiet and peaceful mind therein.
 The following memorandum is descriptive of her character,
 and instructively marks the self-examination which she was concerned to maintain.
 
-1811.--Tenth month, 27. "`Returned home on the 16th, and the following day,
+[.embedded-content-document]
+--
+
+1811.--Tenth month, 27. Returned home on the 16th, and the following day,
 after attending the marriage of M.M. (and there, for once,
 endeavouring to do in simplicity, what was required of me,
 in which I found peace,) was surprised with the information, that, during my absence,
@@ -623,7 +659,6 @@ But recollecting, that He to whom the prayer was offered,
 can accept the sincere breathing of the heart, as well as the more public petition,
 I contented myself with turning to Him in secret,
 and I think felt my strength renewed by so doing.
-
 But have I dwelt in his fear,
 or in a disposition to be dedicated to his service since that time?
 No: I have again let in lukewarmness and indolence, both in and out of meetings;
@@ -631,7 +666,9 @@ and I am afraid I shall never be fit to be admitted of the number of his redeeme
 The opinion of my friends, though their unity is very pleasant,
 cannot alter the real state of things between my soul and its Maker; and I much fear,
 that it is possible to be thought well of by our fellow-pilgrims,
-and yet to be weighed in the balance and found wanting.`"
+and yet to be weighed in the balance and found wanting.
+
+--
 
 In the exercise of her gift,
 it was her great concern that she might not move
@@ -656,7 +693,11 @@ about the latter end of the year 1816, to Tottenham.
 From this time she felt herself gradually weaning from the world;
 her mind being strongly impressed with the apprehension
 that her continuance here would be but of short duration.
-In the Sixth month, 1817, she wrote as follows: "`Since my return to this meeting,
+In the Sixth month, 1817, she wrote as follows:
+
+[quote]
+____
+Since my return to this meeting,
 my state of mind has been much as of late years;
 mostly attended with great want of earnestness in spiritual things; but now and then,
 for a short time, aroused to greater diligence;
@@ -664,7 +705,8 @@ and a desire has been much impressed on my mind, that if, at the close of time,
 I should be favoured with the least sense of acceptance, no one may, in future,
 sink under discouragement;
 for I think it impossible that any should feel more destitute of good,
-and even of living desires after it, than I do at times feel.`"
+and even of living desires after it, than I do at times feel.
+____
 
 The illness which preceded her dissolution was both protracted and severe.
 In its progress she endured much excruciating pain; yet,
@@ -734,7 +776,7 @@ One of her medical attendants remarking that her sufferings had been great, she 
 I shall not regret them.`"
 And being in much pain, she uttered this short prayer: "`O,
 heavenly Father! if it please thee, hasten the time; but, more than all,
-enable me to say, '`Thy will be done.`"`'
+enable me to say, '`Thy will be done.`'`"
 
 For the last few days of her life,
 the disorder under which she had laboured made more rapid advances;
@@ -746,6 +788,9 @@ in the morning of her day, and to carry forward the work of purification,
 condescended to support her by his presence in the hour of suffering;
 and there is cause reverently to believe, that He granted her an admission,
 through our Lord and Saviour Jesus Christ, into the joys of his salvation.
+
+[.asterism]
+'''
 
 SARAH HACK was the daughter of William and Mary Fairbank, of Sheffield,
 and was born there, in the year 1762.
@@ -772,7 +817,9 @@ by a public acknowledgment of his goodness and mercy.
 Her feelings, at the time of the first performance of this act of duty,
 so contrary to her natural inclination, are thus described:
 
-"`I found there was a power that could give a more convincing proof than any instrument,
+[quote]
+____
+I found there was a power that could give a more convincing proof than any instrument,
 and my dependence was to be there alone.
 He that could give voice and utterance, set before me the fruits of obedience;
 and I was raised, I know not how, off my seat, and expressed what I believe was right,
@@ -788,11 +835,12 @@ in my great suffering, my confidence never entirely left me,
 although I was often almost overwhelmed with grief.
 But in the depth of my distress my sorrows were suddenly removed,
 comfort was poured in upon my soul: I could then experimentally say,
-'`O Lord! thou art my rock and my refuge;--a present help in the needful
-time.`' May the recollection of these things tend to preserve me in humility,
+"`O Lord! thou art my rock and my refuge;--a present help in the needful
+time.`" May the recollection of these things tend to preserve me in humility,
 and to strengthen me in every manifest requiring;
 may it keep down all self-love and self-seeking,
-the greatest impediment in every good word and work.`"
+the greatest impediment in every good word and work.
+____
 
 In the year 1799,
 the subject of this memoir was united in marriage to James Hack of Chichester,
@@ -823,15 +871,26 @@ Her lamp shone with peculiar brightness, and she was strengthened,
 in the power of the Gospel,
 to offer instructive counsel to those among whom she travelled.
 Towards the close of the year, in writing to a friend, she remarks:
-"`The interruptions to my health, that have occurred of late, are, I have no doubt,
+
+[.embedded-content-document.letter]
+--
+
+The interruptions to my health, that have occurred of late, are, I have no doubt,
 mercifully intended to prepare either for a better and more enduring inheritance,
 or for engaging with more dedication and perfect love in whatsoever may be called for:
 in order that the work which my great and good master may, in adorable condescension,
 see meet to give me to do, may be finished to his praise,
-and the exaltation of his name.`"
+and the exaltation of his name.
 
+--
+
+[.offset]
 In a letter written when her health was in some degree improved, she says:
-"`To know of the welfare of my dear connections and friends,
+
+[.embedded-content-document.letter]
+--
+
+To know of the welfare of my dear connections and friends,
 and that they felt me near to them, was all that I dared to ask to know;
 feeling it to be of unspeakable importance to have
 my communion and union with the Father of mercies,
@@ -839,18 +898,28 @@ who, when under great bodily oppression, attracted me to himself,
 opened the joys of a glorious immortality,
 and gave me a capacity to comprehend some of the mysteries of his kingdom.
 Yea, blessed be the name of my God, I was sustained by the Son of his love.
-It was a theme I was delighted to dwell upon, that of redemption through Christ Jesus.`"
+It was a theme I was delighted to dwell upon, that of redemption through Christ Jesus.
 
+--
+
+[.offset]
 And in another letter, penned several months afterwards,
 she thus alludes to her religious feelings:
-"`I hope I have not forgotten the signal support granted, the forepart of my illness;
+
+[.embedded-content-document.letter]
+--
+
+I hope I have not forgotten the signal support granted, the forepart of my illness;
 it was marvellous to myself to be so condescended to.
 The dispensation has since been somewhat changed.
 I believe, had not the sustaining arm been underneath, though invisible,
 and ofttimes not known to be near, my faith would have failed me.
 The condescension then so eminently displayed, to one of the least worthy in the family,
 has been a means of fixing my reliance on the immutable rock--the rock Christ Jesus,
-my Redeemer, my Saviour.`"
+my Redeemer, my Saviour.
+
+--
+
 In the course of a long and suffering illness,
 she was often favoured with the sweet influence of the love of God,
 and qualified to administer counsel to those who visited her; and though, at times,

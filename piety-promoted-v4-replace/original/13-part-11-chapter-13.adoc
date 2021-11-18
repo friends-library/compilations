@@ -119,6 +119,9 @@ with the solemn ascription of praise unto Him who is everlastingly worthy.
 Her peaceful close took place the same night, the 23rd of Fourth month, 1826,
 at the advanced age of eighty-four.
 
+[.asterism]
+'''
+
 JOHN CONRAN was born in the city of Dublin, in the year 1739.
 His parents professed with the established Church of England,
 and being in easy circumstances, they provided him with a liberal education,
@@ -209,7 +212,7 @@ sacrificing things of a secular nature which stood
 in the way of performing his religious duties.
 
 In the year 1805, he was deprived by death of an amiable and tenderly-beloved wife;^
-footnote:[See Part X. of this work.]
+footnote:[See [.book-title]#Part 10# of this work.]
 this, with other subsequent domestic afflictions, of a peculiarly trying nature,
 he was enabled to bear with Christian resignation.
 He repeatedly visited the meetings of Friends in Ireland,
@@ -257,6 +260,9 @@ honourable valiant in the Lamb`'s warfare;
 and there is no doubt, that through the redeeming mercy of Him whom his soul loved,
 he has been admitted to "`an inheritance incorruptible, undefiled,
 and that fadeth not away.`"
+
+[.asterism]
+'''
 
 MARY FAIRBANK.--In compiling this volume, an opportunity has been instructively afforded,
 to survey the character of more than a few, who, from early to advanced age,
@@ -338,6 +344,9 @@ at the same time she manifested great humility, often saying,
 that she had nothing to boast of;
 but to feel no condemnation was a favour for which she wished to be sufficiently thankful.
 Thus waiting the Lord`'s time, she died on the 22nd of the Sixth month, 1827.
+
+[.asterism]
+'''
 
 DEBORAH BACKHOUSE was the daughter of Richard and Elizabeth Lowe, of Worcester.
 Being deprived of her father at a very early age,
@@ -475,6 +484,9 @@ She passed quietly away, on the 10th of the Twelfth month, 1827,
 at the age of thirty-four; and her spirit was added, we cannot doubt,
 to the redeemed of the Lord.
 
+[.asterism]
+'''
+
 ELIZABETH BLUDWICK, wife of John Bludwick of Warrington, was a native of Cheshire.
 In early life her deportment was serious and orderly;
 and through the influence of Divine love she became, when further advanced in years,
@@ -526,6 +538,9 @@ for mine eyes have seen thy salvation.`"
 In this heavenly state of mind she was permitted to look towards
 an exchange of the trials of time for a peaceful immortality.
 She died the third of the First month, 1828, at the age of eighty.
+
+[.asterism]
+'''
 
 RUITER SHOLL, son of John and Elizabeth Sholl, of London,
 was educated at Ackworth school; and in the Eleventh month, 1824,
@@ -657,7 +672,7 @@ and requested to be placed in an easy chair.
 Soon afterwards he was heard to say: "`If consistent with thy holy will,
 be pleased to release me from my sufferings, and take me to thyself.`"
 He then raised his eyes, and faintly uttered: "`It is done,
-oh! it is done`" and thus passed peacefully away.
+oh! it is done,`" and thus passed peacefully away.
 He was in the nineteenth year of his age, and,
 until the period at which he was attacked with cold,
 enjoyed an almost uninterrupted share of health.
@@ -680,4 +695,5 @@ May all, then, seek with increasing diligence,
 an establishment upon the sure and immutable foundation, Jesus Christ, the rock of ages,
 who liveth and abideth forever!
 
-THE END OF THE ELEVENTH PART.
+[.the-end]
+THE END OF THE ELEVENTH PART

@@ -82,9 +82,9 @@ He also manifested a desire to read books on religious subjects;
 especially the Holy Scriptures, in which he appeared to delight.
 When about the age of fifteen, in reply to a letter from his father,
 on the subject of books,
-he observed that he had been reading Newton`'s Dissertations on the Prophecies,
+he observed that he had been reading [.book-title]#Newton`'s Dissertations on the Prophecies,#
 from which he derived much satisfaction;
-and that he was surprised any one could entertain principles of infidelity,
+and that he was surprised anyone could entertain principles of infidelity,
 after a careful perusal of this work,
 in which there are such clear proofs of Scripture
 prophecies having been already fulfilled.
@@ -95,7 +95,7 @@ there appeared to be an increased watchfulness in all his actions,
 with renewed attention to his religious duties, retiring, when opportunity offered,
 for meditation and prayer.
 Those who witnessed his comparatively innocent life,
-entertained the hope that he would have but little conflict of`' mind to pass through;
+entertained the hope that he would have but little conflict of mind to pass through;
 yet it pleased Divine Wisdom to try him with deep baptisms of spirit,
 from the awful impression of the extreme sinfulness of sin.
 
@@ -143,7 +143,7 @@ The day before his death he suffered much.
 He said, he had prayed that the conflict might be over that night;
 but he was afraid it was presumption in him,
 as it might be too much the result of feelings arising from great bodily affliction;
-adding, very sweetly, "`Dear father, pray for me; but be sure say, Your will be done,
+adding, very sweetly, "`Dear father, pray for me; but be sure to say, Your will be done,
 and not mine.`"
 He then fell into a short sleep; but soon awoke under considerable agitation of mind,
 which continued through the night, with but short intervals of composure.
@@ -161,8 +161,8 @@ on the 1st of the Fifth month, 1819.
 [.asterism]
 '''
 
-JOSEPH RANSOM, son of John and Ailn Ransom, of Hitchin in Hertfordshire,
-was a young manl of orderly conduct, and well respected by his friends and acquaintance.
+JOSEPH RANSOM, son of John and Ann Ransom, of Hitchin in Hertfordshire,
+was a young man of orderly conduct, and well respected by his friends and acquaintance.
 He was of active, industrious habits; and having a taste for agriculture, rural scenery,
 and natural history,
 he combined rational amusement with the pursuit of his usual occupations.
@@ -180,7 +180,7 @@ and thus his long-protracted illness was made a blessing to him.
 
 On the 11th of the Fourth month, 1819,
 his mother inquired of him as to the state of his mind, when he replied:
-I am comfortable, very comfortable.
+"`I am comfortable, very comfortable.
 Indeed, I have often felt so, that I have wondered, and been afraid to acknowledge it,
 when I considered my own great unworthiness, lest it should be a false feeling;
 but I believe it is not so.
@@ -217,19 +217,19 @@ He frequently petitioned for patience to endure the violent pain,
 which was indeed distressing; but, he said,
 "`The presence of my Savior makes up for all.`"
 Affectionately pressing his mother`'s hand in both his, he said, in substance:
-
 "`Farewell, my dearest mother: may the Lord reward you and yours,
 for all your kindness to me.`"
 In the evening he took an affectionate leave of his surrounding relations;
 and to two of his cousins, added emphatically: "`Remember your latter end,
 now in the days of your youth.
-May all take warning not to defer any thing to a time like this.
+May all take warning not to defer anything to a time like this.
 It is, indeed, hard enough to have to struggle with the pains of the body.`"
 In the extremity of his sufferings, he exclaimed: "`It is hard, very hard to bear.
 Blessed Jesus! come quickly; but your will be done.`"
 And he soon added: "`Oh, if for purposes of your glory,
 it be yet lengthened out for hours and days, grant me patience, and all will be well.`"
-He soon after exclaimed: '`Oh, how the prospect brightens!`"
+He soon after exclaimed: "`Oh, how the prospect brightens!`"
+
 About this time, which was nearly two hours before his decease,
 the acuteness of his suffering ceased, and his breathing gradually became shorter.
 During this time he was repeatedly heard to say, "`Jesus, precious Jesus!
@@ -316,10 +316,10 @@ stanza from one of Addison`'s hymns:
 
 [verse]
 ____
-My life, if you preserve my life,
-Your sacrifice shall be;
+"`My life, if thou preserv`'st my life,
+Thy sacrifice shall be;
 And death, if death should be my doom,
-Shall join my soul to thee.
+Shall join my soul to thee.`"
 ____
 
 Some time afterwards, he was again able to attend meetings,
@@ -341,7 +341,7 @@ He died on the 5th of the Twelfth month, 1819, at the age of eighty-five.
 [.asterism]
 '''
 
-ROBERT SEARLES was horn at Glatten, in Huntingdonshire, in the year 1764,
+ROBERT SEARLES was born at Glatten, in Huntingdonshire, in the year 1764,
 of parents professing the religion of the Church of England.
 In his youth, he was a frequent associate with persons of irreligious character,
 in the lowest stations of life; but when about twenty-three years of age,
@@ -354,15 +354,18 @@ are described by himself nearly in the following words.
 After regretting that a difference in religious sentiments should
 produce so hostile a disposition in some serious minds,
 as at that period he had observed, he proceeds to remark:
-"`The great Leader and Pattern of Christianity said to his disciples,
-'`He that is not against us, is on our part;`' but some think,
+
+[quote]
+____
+The great Leader and Pattern of Christianity said to his disciples,
+"`He that is not against us, is on our part;`" but some think,
 because another does not see as they do, and does not walk with them,
 he cannot be a disciple.
 Whereas it would be much better to endeavor to imitate our holy Pattern,
 who was meek and lowly, kind and compassionate, willing to endure the cross,
 and despise the shame.
 
-"`I began to listen to what some of our neighbors said, that this was right,
+I began to listen to what some of our neighbors said, that this was right,
 and the other wrong.
 I left off going to the meetings of the General Baptists,
 who held salvation possible to all men; and went among the Calvinistic Baptists,
@@ -375,14 +378,14 @@ there may be none provided for them!
 But what a favor, that no one is excluded from it but those who exclude themselves.
 Welcome the ignorant and polite; the learned and the rude.
 
-"`I constantly attended the meetings of the Calvinistic Baptists,
+I constantly attended the meetings of the Calvinistic Baptists,
 was very earnest to be instructed, paid all the attention I possibly could,
 and was glad when meeting-day was near, that I might go and hear another sermon.
 I also wanted to feel more of that power within,
 which was so much talked of among them; but in that I knew I fell short,
 although I greatly longed for it.
 
-"`I read much; prayed earnestly and constantly;
+I read much; prayed earnestly and constantly;
 endeavored to get with those who I thought were spiritual:
 but all would not make me quite satisfied.
 I thought the people with whom I walked in a religious way were right,
@@ -397,7 +400,7 @@ I was respected as a servant or laborer; but felt a great deal of that about me,
 which needed doing away: yet not applying rightly for the perfecting of the work,
 it went slowly on.
 
-"`In the course of time my wife also became a member with the same people,
+In the course of time my wife also became a member with the same people,
 and remained so until her death.
 I think I went on in this way about eight or nine years,
 and did not gain much spiritual ground, as I thought.
@@ -407,12 +410,12 @@ as it is called.
 He being observant of his new set of men, and religiously inclined,
 left books in our counting-house, which,
 being desirous of knowing religious people and things, I used to get and read.
-One of these books was, Robert Barclay`'s Apology for the Christian Faith,
+One of these books was, Robert Barclay`'s [.book-title]#Apology for the Christian Faith,#
 as held by the people called Quakers.
 I thought myself a match for that, but was mistaken; for whenever I read in it,
 it used to reach my feelings.
 
-"`I cannot very well remember how it happened,
+I cannot very well remember how it happened,
 but I went to one of the quarterly meetings of Friends;
 and there being a pretty-many ministering Friends
 that day on an appointment from their yearly meeting,
@@ -425,7 +428,8 @@ but I did not know what I must do, nor how the matter would end.
 However, I was so far inclined to them,
 that I ventured the next first day to attend their meeting again:
 and some of the same Friends were there, and bore living testimony to the power of Truth,
-and again refreshed my spirit.`"
+and again refreshed my spirit.
+____
 
 Robert Searles became a diligent attender of our religious meetings;
 and in the course of a few years, was, with the full unity of friends,
@@ -474,7 +478,7 @@ among the concerns relating to this present life:
 although my service in this matter seems to me on the decline;
 yet I am most easy to do what is proper for me to do.
 
-I cannot think that I have done any thing, or suffered any thing,
+I cannot think that I have done anything, or suffered anything,
 worthy of the regard of him who so plentifully promises to reward in this life,
 and in the world to come with life everlasting; but I feel myself as a beginner,
 desiring to obtain a measure of strength to abide the day of trial,
@@ -524,8 +528,8 @@ tranquillity! but I desire first to bear patiently all that
 is needful for a preparation for such a pure state.`"
 
 On the 17th, a friend going to see him,
-in the course of conversation he instructively remarked:--
-"`There is nothing will do but keeping in the cross;`" and further observed,
+in the course of conversation he instructively remarked:--"`There is nothing
+that will do but keeping in the cross;`" and further observed,
 that he knew not how it might be, but in this illness he felt no condemnation.
 The same friend visited him again on the 21st when under great suffering of body;
 but his mind was remarkably calm and tranquil:
@@ -539,7 +543,7 @@ that we may be more fully dedicated-more resigned to follow the Lord,
 to follow Jesus Christ: there is no other way.`"
 And soon after he remarked:
 "`I do not see but I may yet abide;`" at the same time adding,
-Oh! that I had wings like a dove, then would I flee away and be at rest,
+"`Oh! that I had wings like a dove, then would I flee away and be at rest,
 and hasten my escape from the windy storm and tempest.
 I have need of resignation to bear these sharp afflictions.`"
 
@@ -591,7 +595,7 @@ at that time, no other situation, as a necessary provision for a livelihood,
 presented itself.
 
 After accompanying two women Friends on a religious engagement in Scotland,
-he visited the town of Newcastle upon Tyne, when an-entire stranger to the place;
+he visited the town of Newcastle upon Tyne, when an entire stranger to the place;
 and in the year 1788, concluded to fix his future residence there.
 On his entering upon the cares of life, he sought, and was favored to find,
 wise and experienced counsellors, in whose society he took great delight;
@@ -709,7 +713,7 @@ that it was wonderful to him that he was again restored; but continued,
 Let all do their duty: keep in a tender, watchful, humble state of mind.`"
 
 Articulation had now become more difficult;
-but that.gentleness and gratitude which had been the clothing
+but that gentleness and gratitude which had been the clothing
 of his mind during a long and painful illness,
 shone conspicuously to the last.
 While free from extreme suffering, he seemed centered in stillness,
@@ -719,7 +723,7 @@ when the connected aspiration was not collected.
 
 Thus closed the earthly existence of one whose life
 was peculiarly marked by love to his fellow-men,
-and by a more than common interest in the peace and welfare`'
+and by a more than common interest in the peace and welfare
 of the religious Society of which he was a member;
 and we may consolingly believe,
 that his purified spirit was mercifully translated to the realms of eternal bliss.
@@ -742,7 +746,11 @@ She was taken from her at an early age; after which period, by unwatchfulness,
 she deviated from the simplicity of our testimonies.
 But, through Divine mercy afresh extended, her mind was humbled,
 and she became sensible of the dangers to which she had been exposed;
-and wrote as follows: "`You are my God, and I will praise you; my Savior,
+and wrote as follows:
+
+[quote]
+____
+You are my God, and I will praise you; my Savior,
 and I will extol you.
 What moved you, O you Father of infinite goodness and mercy! to cast an eye,
 a pitying eye, upon me, a poor worthless creature,
@@ -754,8 +762,9 @@ When I was sitting low in the earth,
 wearied with following the vanities of this licentious age,
 wanting to find more of happiness than this transitory world can give,
 then you looked upon me, O Lord! in your infinite and unspeakable mercy, and said,
-'`Follow me:`' no, not only so, but led me forth, free from the entanglements of the world,
-and from the many snares that are therein.`"
+"`Follow me:`" no, not only so, but led me forth, free from the entanglements of the world,
+and from the many snares that are therein.
+____
 
 About the twenty-second year of her age she first spoke as a minister; and,
 in the year 1789, was married to Nicholas Naftel, and settled in the island of Guernsey,
@@ -765,7 +774,10 @@ and in the latter part of her life removed with her husband to Chelmsford;
 from which place she was absent about two years, on a religious visit in America,
 where her gospel labors and circumspect conduct were edifying.
 On a review of this visit, she writes thus:
-"`Since my return to my own habitation in peace,
+
+[quote]
+____
+Since my return to my own habitation in peace,
 in commemoration of the Lord`'s gracious dealings with me,
 how can I do less than leave testimonies to his goodness and tender mercy,
 in permitting me to return with joy.
@@ -773,7 +785,8 @@ Strength has been afforded me to give in my certificates,
 both to the monthly and quarterly meetings, with those from the American continent.
 Oh! how often is my mind bound up with some there,
 in the ever-blessed covenant of love and life, which, I trust,
-will never be dissolved or broken.`"
+will never be dissolved or broken.
+____
 
 The friends of her own monthly meeting, in their testimony concerning her, remark:
 "`Having had large experience, and being favored with clear discernment,
@@ -858,7 +871,9 @@ through Christ Jesus our Lord.
 The following, found among other valuable memorandums,
 made in reference to her declining health, mark the state of her mind.
 
-"`What times for telling us the truth such seasons of sickness are;
+[quote]
+____
+What times for telling us the truth such seasons of sickness are;
 but oh! for an abidance under these feelings.
 How do I fear for myself, upon my recovery, in returning to the world,
 lest I should not keep near enough to that preserving Power,
@@ -868,15 +883,15 @@ What a desirable attainment! the chief one to be longed for.
 May I more and more press after it,
 that I may the more closely follow the great and perfect Pattern of humility.
 
-"`'`Be also ready, for at such an hour as you think not, the Son of man comes.`'
+"`You also be ready, for at such an hour as you think not, the Son of man comes.`"
 How awful and unexpected was my attack on the 29th of Eleventh month, 1819.
 When I left my home in the morning, I was not much more poorly than I often am; and,
 in less than an hour, obliged to return, by a seizure, which, I was well aware,
 might be uncertain in its consequences.
 I felt the awfulness of eternity;
 but I was enabled to throw myself entirely at the footstool of mercy and redeeming love;
-feeling that I had not the least degree whatever of any thing like merit;
-or any thing that I had ever done, that I hoped might have been right in his pure sight,
+feeling that I had not the least degree whatever of anything like merit;
+or anything that I had ever done, that I hoped might have been right in his pure sight,
 to trust to; for, that I was truly and altogether an unprofitable servant.
 But in his very abundant lovingkindness, He was pleased to lay no burden on me to bear,
 not even the weight of the smallest offense.
@@ -892,13 +907,14 @@ How was Divine goodness pleased to break in upon my soul,
 when I was endeavoring to wait upon Him for help!
 And I was permitted to feel the inestimable privilege
 of knowing what that language means,
-'`Be still, and know that I am God.`'
+"`Be still, and know that I am God.`"
 
-"`Oh! the entire unworthiness I feel of any claim to everlasting good;
+Oh! the entire unworthiness I feel of any claim to everlasting good;
 and I am thankful in being made sensible of it,
 and in feeling that it is wholly and alone of the free mercy of a gracious God,
 and the redeeming love of a crucified Savior,
-whereby I can hope to be made a participator in immortal light, love, and praise.`"
+whereby I can hope to be made a participator in immortal light, love, and praise.
+____
 
 At one time she remarked,
 that her sufferings during the preceding evening and night had been indescribable,

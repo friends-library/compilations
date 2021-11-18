@@ -8,7 +8,7 @@ Some of the Members of the Religious Society of friends.
 [.section-author]
 By William and Thomas Evans
 
-[quote.section-epigraph]
+[quote.epigraph, , Titus 3:5-6]
 ____
 Not by works of righteousness which we have done,
 but according to his mercy he saved us by the washing

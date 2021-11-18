@@ -76,6 +76,9 @@ watched by his affectionate daughter for nine days,
 his purified spirit quitted the afflicted tenement, on the 12th of the Seventh month,
 1814.
 
+[.asterism]
+'''
+
 HENRY TUKE, son of William and Elizabeth Tuke, was born at York in the year 1755,
 and died in that city, the 11th of the Eighth month, 1814.
 He was, when a boy, of a lively, active disposition,
@@ -132,7 +135,10 @@ when reflecting upon his own experience in this station,
 are agreeably manifested in the following extract from a letter,
 written in the latter part of his life.
 
-"`I can say that I sympathize with thee in thy various exercises,
+[.embedded-content-document.letter]
+--
+
+I can say that I sympathize with thee in thy various exercises,
 from within and without; but thus it behooves some to suffer,
 that they may be the better qualified to speak a word in due season,
 to the weary traveller;
@@ -147,7 +153,9 @@ that the longer I live the more I am reduced to that state which breathes the la
 "`I cannot speak;`" though, at others the more resigned language will prevail: "`Take me,
 and lead me where thou wouldst have me to go.`"
 And here I wish to centre, and leave all to Him who doeth all things right; and who,
-my small experience has taught me, is worthy to be served and obeyed in all things.`"
+my small experience has taught me, is worthy to be served and obeyed in all things.
+
+--
 
 In the discipline of the Church, the subject of this memoir was active, skilful,
 and extensively useful.
@@ -244,6 +252,9 @@ A few hours before his decease, he said to him, with Christian fortitude:
 But I am perfectly resigned to the will of my heavenly Father.
 If I die, I die as I have lived, in the faith and hope of a Christian.`"
 Thus closed his useful life, in peace with God and man.
+
+[.asterism]
+'''
 
 JOSEPH GURNEY BEVAN was born in the city of London, in the year 1753.
 He was a youth of a lively, intelligent mind,
@@ -347,14 +358,19 @@ into "`a house not made with hands.`"
 In a letter dictated to a much-loved relative, on the 1st of the Ninth month,
 after alluding to his health, he adds:
 
-"`I hope what I have said will not be set down as the language of repining;
+[.embedded-content-document.letter]
+--
+
+I hope what I have said will not be set down as the language of repining;
 for I believe I may say that, in a retrospect of my complaints, I have scarcely, if ever,
 dared to desire that things had been ordered for me, otherwise than they have been.
 I am ready to be surprised,
 that so unworthy a creature has hitherto been preserved in the
 degree of composure which I have been permitted to experience;
 and well will it be, if self-love, or some other hidden cause,
-does not make me think more favourably of the state of my own mind than I ought.`"
+does not make me think more favourably of the state of my own mind than I ought.
+
+--
 
 On the 11th of the same month, being First-day, he spent the morning pleasantly.
 In the evening he desired to have a little stillness,
@@ -367,6 +383,9 @@ which he considered as calling for increased diligence,
 especially among its more conspicuous members; after which he fell asleep.
 In a few minutes he was heard to cough, and, without any indication of pain,
 soon passed quietly away.
+
+[.asterism]
+'''
 
 JOHN KENDALL was a Friend who, during a long and honourable life,
 manifested a zeal for the cause of truth and righteousness,
@@ -386,7 +405,10 @@ for the space of sixty years.
 In the year 1764, he married Ann Havens, of Colchester, who died in 1805,
 and of whom he left the following short testimony:
 
-"`She was a woman of great humility, never aiming at high things,
+[.embedded-content-document.testimony]
+--
+
+She was a woman of great humility, never aiming at high things,
 nor to be highly thought of; one who, from her youth upwards,
 was preserved walking in the fear of the Lord.
 The benevolence of her mind appeared in many instances,
@@ -394,7 +416,9 @@ especially in a charity for the benefit of poor widows, in the town of Colcheste
 which she was the means of instituting,
 and contributed largely towards building a house for their accommodation.
 Her lively hope in Christ, and increasing love of God and man,
-filled her mind with comfort and peace.`"
+filled her mind with comfort and peace.
+
+--
 
 John Kendall was concerned through life as well by example as precept,
 to encourage all around him to the exercise both of civil and religious duties.
@@ -444,13 +468,13 @@ I wonder my days are thus prolonged; but amidst afflictions,
 I have cause to be thankful for many mercies.
 We have an unwearied enemy, who seeks to draw us aside; and if he cannot by great things,
 he will by little ones.
-
 But while I am speaking, I feel great thankfulness in my mind,
 that we are not left without One to help us; this is an unspeakable mercy.
 I have had a great share of the Lord`'s goodness, both by sea and land,
 and now my life is spared in a wonderful manner.
 I can recommend nothing better to us than the love of God.
 Oh, this brings great sweetness with it!`"
+
 The following portions of Scripture were often repeated by him during his illness:
 "`The Lord is my shepherd, I shall not want.
 He maketh me to lie down in green pastures: He leadeth me beside the still waters.`"
@@ -468,6 +492,9 @@ resignation slopes;`" but could not articulate more than "`farewell--farewell;`"
 and in great quietness quitted this life,
 in the eighty-ninth year of his age; evincing, by the calmness of his evening,
 that his day had been blessed.
+
+[.asterism]
+'''
 
 MARY PRYOR, wife of John Pryor, of Hertford, was born in the city of London,
 in the year 1738.
@@ -583,6 +610,9 @@ and had no confidence in the flesh, peacefully close their earthly pilgrimage.
 Such was the lively experience of this devoted Christian, who died in the Second month,
 1815, at the age of seventy-seven.
 
+[.asterism]
+'''
+
 JANE PEARSON, daughter of Jonathan and Jane Gibson, was a native of Cumberland,
 and died at Whitehaven, at the advanced age of eighty-one, in the Third month, 1815.
 It pleased the Lord, when she was young in years,
@@ -612,13 +642,18 @@ In the following year her husband was removed by death; this was a heavy afflict
 and a few remarks, in a testimony which she wrote to his worth,
 may be not unsuitably here introduced.
 
-"`Oh, my loss is inexpressible!
+[.embedded-content-document.testimony]
+--
+
+Oh, my loss is inexpressible!
 His kindness, his nearness in a religious sense, cannot be set forth by me;
 his compassion, his patience towards me,
 his condescension to my weakness in my infant state, cannot be penned.
 For indeed I had gone through various and deep provings;
 many weary years had passed over my head,
-whilst I was under the preparing hand of my God.`"
+whilst I was under the preparing hand of my God.
+
+--
 
 Not long previously to this event,
 she had lost her two youngest children by the small-pox;
@@ -673,6 +708,9 @@ but the words could not be understood.
 She quietly drew her last breath about three the same morning;
 and there is every reason to believe that she entered
 into the rest prepared for the people of God.
+
+[.asterism]
+'''
 
 ELIZABETH ASHBY was the daughter of James and Elizabeth Stevens, of Stains,
 in the county of Middlesex, from whom she received a guarded and religious education.
@@ -744,7 +782,6 @@ our merciful Creator is mindful of all.
 He knows the heart;
 and there are many that are but little accounted of by their fellow creatures,
 who are precious to Him.
-
 I often think, when we look round and are ready to suppose things are growing worse,
 and that there is so much wickedness in the world, that it is very distressing;
 that we should look on the other side,
@@ -791,14 +828,14 @@ And I hope you will not think that I speak boastingly;
 but I think it is no more than gratitude demands,
 to tell a little to those that can understand the goodness of our merciful Creator:
 it is very great.
-I often have thought of the expression, "`He knoweth our frame:
-He remembereth that we are dust;`"--yet He is a God of justice.`"
+I often have thought of the expression, '`He knoweth our frame:
+He remembereth that we are dust;`'--yet He is a God of justice.`"
+
 At another time, when a little revived,
 she said in reference to her state of uncertainty as to recovery: "`I have thought,
 if I were only permitted to be able to sit and give directions,
 and have some oversight of my family, I should be content;
 but even this is scarcely likely, and I must not look that way.
-
 There is One that can be a Father to the fatherless; and I trust He will care for them.
 It is our duty, when we can not be doing, to submit to a state of suffering;
 and by endeavouring to do so patiently, when it is our allotment,
@@ -850,8 +887,8 @@ if they do but work for us a far more exceeding and eternal weight of glory,
 will be light indeed, compared with the everlasting reward.`"
 
 To another relation she said, at another time: "`When I was almost at the worst,
-that text often ran through my mind: "`O! death, where is thy sting?
-O! grave, where is thy victory!`"
+that text often ran through my mind: '`O! death, where is thy sting?
+O! grave, where is thy victory!`'
 I remembered, that the sting of death is sin; and I hoped that sin was done away.
 I have esteemed it an inexpressible favour, in this time of great trial,
 to feel no condemnation; yet the approach to eternity has felt so exceedingly awful,

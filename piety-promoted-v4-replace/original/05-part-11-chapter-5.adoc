@@ -75,6 +75,9 @@ and looking at her with great emotion, on her reading that passage of Holy Scrip
 His face beamed with heavenly peace; and as he gently passed away,
 a sweet smile fixed on his countenance.
 
+[.asterism]
+'''
+
 JOHN TREGELLES died at Ashfield, near Falmouth, on the 8th of the Eighth month,
 aged nineteen years and a half.
 His early youth was marked by an unusual sweetness of natural disposition,
@@ -160,6 +163,9 @@ and sent messages of love to all he could think of; saying he felt it abundantly
 Between five and six the next morning nature gave way,
 and in a few minutes his spirit was liberated without a struggle,
 from its earthly tenement.
+
+[.asterism]
+'''
 
 JOSEPH TREGELLES was removed from this state of being at the age of twenty-six.
 He was a young man whose general demeanour, and obliging disposition,
@@ -254,6 +260,9 @@ on the 26th of the Seventh month, 1817;
 a remarkable evidence being granted to those present,
 that he had entered into that rest for which his soul had so ardently longed.
 
+[.asterism]
+'''
+
 CATHERINE TREGELLES, daughter of Samuel and Rebecca Tregelles of Falmouth,
 through early submission to the regulating power of the Lord`'s Spirit,
 was a striking example in the discharge of social and relative duties;
@@ -289,7 +298,10 @@ for their affectionate interest in her comfort and accommodation.
 The prospect of death being very awful to her, she thus described her feelings,
 in a letter written about the end of the Eleventh month, to one of her sisters:
 
-"`I cannot be too thankful to my truly kind friends,
+[.embedded-content-document.letter]
+--
+
+I cannot be too thankful to my truly kind friends,
 for the openness with which I have been treated respecting my complaint:
 for so flattering is its nature, that I might have been kept in ignorance to this day.
 It is not in my power to express what I felt for
@@ -307,7 +319,9 @@ My dear sister, do not suppose I am complaining,
 in telling thee what my feelings have been since my indisposition;
 for I do hope I am grateful in being able to feel,
 that although in myself I am unworthy of the smallest of favours,
-yet I am not forsaken.`"
+yet I am not forsaken.
+
+--
 
 Her health gradually declined for some months after writing the foregoing;
 but she was at times favoured with strong hopes of approaching bliss,
@@ -370,6 +384,9 @@ thou mayest have nothing to contend with but the pains of the body.`"
 After this she spoke no more, but gently drew her last breath, at the age of twenty,
 at Ashfield near Falmouth.
 
+[.asterism]
+'''
+
 HENRY TREGELLES.--Of this family, already so stripped,
 another very promising branch was soon taken away; for,
 in about two years after the decease of Catherine, Henry Tregelles,
@@ -422,6 +439,9 @@ Lord Jesus from Him on whom he was enabled fully to cast himself,
 as having nothing, and yet possessing all things in Him.
 And in this state of deep stillness, he passed gently away,
 on the 23rd of the Eighth month, 1821.
+
+[.asterism]
+'''
 
 MARY TREGELLES, fourth daughter of Samuel and Rebecca Tregelles,
 was born on the 1st of the Eighth month, 1795.
@@ -548,7 +568,7 @@ One who was near, answered, "`And He has heard thee.`"
 She added, "`Yes, and delivered me from all my fears.
 Oh! praise the Lord.`"
 As she gradually, for a few minutes, breathed more gently, she was heard to say,
-"`It is nearly over: it is a very pleasant prospect, and very near;
+"`It is nearly over: it is a very pleasant prospect, and very near;`"
 and almost in the moment of death,
 those around her distinctly heard the sound of "`Hallelujah! hallelujah!`"
 These were her last words;
@@ -558,6 +578,9 @@ there to know the fruition of that bliss of which
 so merciful a foretaste had been afforded her:
 it being literally verified in her experience, that,
 although "`weeping may endure for a night, yet joy cometh in the morning.`"
+
+[.asterism]
+'''
 
 WILLIAM SOWERBY, late of Wensleydale, in the north of Yorkshire,
 joined our Society by convincement in early life,
@@ -593,6 +616,9 @@ and participating in that good, of which the patient,
 sincere travailer might be permitted to partake.
 He was seized with an apoplectic fit, a few days afterwards,
 and died at the age of eighty-four, in the Second month, 1816.
+
+[.asterism]
+'''
 
 JOHN BATEMAN was born at Bunhill, in Norfolk, in the year 1732,
 of parents who were members of our religious Society;
@@ -671,6 +697,9 @@ And not long before his death, he said, "`It was given him that day to believe,
 that his day`'s work was done, and reconciliation mercifully vouchsafed.`"
 He quietly drew his last breath, on the 24th of the Third month, 1816,
 in the eighty-fourth year of his age.
+
+[.asterism]
+'''
 
 ANN DYMOND was born in the Second month, 1768.
 She was the eldest daughter of George and Ann Dymond, who were many years elders,
@@ -756,7 +785,14 @@ put a sudden period to her existence; and thus she was, as in a moment of time,
 released from further conflict, and from further service in the militant church;
 and permitted, as we have good ground to believe,
 to join the church triumphant in heaven.
-"`Be ye also ready, for in such an hour as ye think not the Son of Man cometh.`"
+
+[quote.scripture, , Matt. 24:44]
+____
+Be ye also ready, for in such an hour as ye think not the Son of Man cometh.
+____
+
+[.asterism]
+'''
 
 RICHARD REYNOLDS was the son of Richard and Jane Reynolds,
 and was a native of the city of Bristol.
@@ -822,13 +858,18 @@ he resigned his property in the iron-works to two of his sons,
 A few days after the accomplishment of this important object,
 he thus wrote to one of his friends:
 
-"`The first religious meeting I attended, after quitting the trade,
+[.embedded-content-document.letter]
+--
+
+The first religious meeting I attended, after quitting the trade,
 though small and silent, as ours generally are,
 was a season of comfort and refreshment to me; and earnest were my desires,
 that it might not only be a time of renewal of strength, but of renewal of covenant also;
 that now I was, in one sense of the word, become more than before, my own free man,
 I might be, more than ever I have been, a servant of Christ, of his church,
-and of his people.`"
+and of his people.
+
+--
 
 He had long been an active and useful member of our religious Society, advocating,
 with Christian courtesy and firmness,
@@ -863,7 +904,10 @@ The parental care and tenderness towards his beloved children,
 which especially marked his character, even when engaged in the busy scenes of life,
 are instructively shown in the two following extracts from his letters.
 
-1776+++.+++ "`Let not, my dear, the example of others, who may be ashamed of the cross,
+[.embedded-content-document.letter]
+--
+
+1776+++.+++--Let not, my dear, the example of others, who may be ashamed of the cross,
 and of the plainness and simplicity which we possess, influence thy conduct;
 nor the levity of heart incident to youth,
 prevent thy seriously and frequently reflecting on
@@ -876,10 +920,10 @@ It ridicules, or despises, that fear in which are true safety and real wisdom.
 But let us be rather the companions of the despised
 followers of a despised and crucified Saviour,
 in meekness and lowliness of mind, than grieve them, and injure our own souls,
-by conforming to the world and its fashions and practices.`"
+by conforming to the world and its fashions and practices.
 
 1778.--Twelfth month.
-"`The most earnest wish of my heart for my dear, as for myself, is, that by a constant,
+The most earnest wish of my heart for my dear, as for myself, is, that by a constant,
 earnest attention, and faithful obedience to the inspeaking word of divine grace, we may,
 in the Lord`'s due time,
 experience that change of heart which our Saviour calls being born again;
@@ -912,14 +956,20 @@ Give my dear love to him, and let him remember, let us all remember, God sees th
 If our professed desires to grow in grace are sincere, they will be heard and answered.
 To the protection and preservation of the Almighty Arm,
 in every season of danger and difficulty, I desire to commit you both,
-with my own soul.`"
+with my own soul.
 
+--
+
+[.offset]
 The subjoined extracts are introduced,
 as instructively indicating that course of life and conduct
 which his views of Christian purity led him to aspire after.
 
+[.embedded-content-document.letter]
+--
+
 1777.--Twelfth month, 17.
-"`Thou askest me how I feel myself as to the late news from America.
+Thou askest me how I feel myself as to the late news from America.
 I do feel and sympathize with our suffering friends on that continent,
 and am sorry for the effusion of blood the contest occasions;
 but with respect to the political justice, or injustice,
@@ -935,9 +985,9 @@ so I think it my duty to pity and pray for those I believe to be wrong,
 and to acquiesce in every dispensation of Providence, with a steady belief,
 that all things will work together for good to those who love God;
 with an earnest endeavour to evince my love to Him by keeping his commandments, and,
-in particular, the new commandment, to love one another.`"
+in particular, the new commandment, to love one another.
 
-1777.--Eleventh month, 7. "`I should not be just to the unmerited mercy of God,
+1777.--Eleventh month, 7. I should not be just to the unmerited mercy of God,
 if I did not acknowledge, with the deepest gratitude, my hope,
 that through the assistance of his grace,
 I have experienced a small degree of deliverance
@@ -949,9 +999,9 @@ I might have witnessed a much greater advancement; and that I have not,
 is cause of much sorrow of heart unto me.
 And oh! that it may continually operate to the quickening of my
 desires and prayers for perfect redemption from the power of sin,
-as well as from condemnation for past transgression.`"
+as well as from condemnation for past transgression.
 
-1789.--Third month, 24. "`I often contrast the lively zeal,
+1789.--Third month, 24. I often contrast the lively zeal,
 the apparent heavenly-mindedness of some I know and love,
 with my own cool or constrained devotion; the difficulty with which I restrain,
 or rather attempt to restrain, my thoughts from wandering, when in public worship,
@@ -971,15 +1021,15 @@ of his salvation, and am equally desirous of being delivered from the power,
 as from the guilt of sin; still this appears to me, at times, more like a cool,
 rational deduction from admitted premises,
 than an experimental knowledge in my own particular; though I admit,
-and admire it in others, more worthy.`"
+and admire it in others, more worthy.
 
-1791.--Sixth month, 19. "`I am sure thou wilt not be offended, if,
+1791.--Sixth month, 19. I am sure thou wilt not be offended, if,
 as an apology for my entertaining different sentiments
-on what thou stylest innocent dissipations,
+on what thou stylest "`innocent dissipations,`"
 as concerts and theatrical exhibitions, I observe,
 that if to withdraw a young man from the dangers of temptation is a visionary hope,
 I cannot think leading him into them is advisable; or,
-though intended to be the means of procuring him the enjoyment of life,
+though intended to be the means of procuring him "`the enjoyment of life,`"
 likely to effect it without a participation of its vices.
 
 To those who call themselves Christians,
@@ -996,9 +1046,9 @@ But the thought that occurred to my mind, when I first read thy letter,
 and with which I will conclude this subject, was,
 whether any of those virtues to which our Saviour, in his sermon on the mount,
 annexed the beatitudes, were promoted by, nay, were consistent with, the dissipations,
-by so many of his professed disciples, considered as innocent.`"
+by so many of his professed disciples, considered as innocent.
 
-1796.--Second month, 25. "`I may also further confess,
+1796.--Second month, 25. I may also further confess,
 that considering our fallen estate,
 and the momentous consequences of our present probationary existence,
 with the necessity of our becoming new creatures, of our becoming new members of Christ,
@@ -1021,7 +1071,9 @@ that impassioned descriptions of fancied happiness or ideal woe,
 related with all the advantages of elegance of style, and beauty of composition,
 may have an effect on the mental taste of others,
 similar to that which high-seasoned dishes have on the palate, by rendering plain food,
-though most wholesome, insipid, if not disgustful.`"
+though most wholesome, insipid, if not disgustful.
+
+--
 
 In the year 1804, Richard Reynolds removed to Bristol,
 to spend the remainder of his valuable life in his native city.
@@ -1067,8 +1119,11 @@ are a confirming evidence that he was strengthened
 to trust in the Lord Jesus as his only hope of glory,
 and to believe that he had an interest in Him.
 
+[.embedded-content-document.letter]
+--
+
 1814.--Eleventh month, 12.
-"`This day I commence the eightieth year of my age a circumstance so awful,
+This day I commence the eightieth year of my age a circumstance so awful,
 that it indisposes for every other employment but the consideration of the speedy termination
 of a life already so much protracted beyond the admitted natural term of human existence.
 Most reasonably may I expect soon to follow those who are
@@ -1086,10 +1141,10 @@ or my expectation rested upon works of righteousness which I have done, or can d
 my hope would perish and my confidence fail; but I trust I may, in all humility,
 though in a very limited degree, adopt the language of the apostle, and say,
 "`I know in whom I have believed,`" and commit my soul to him as unto a faithful Creator,
-and all-sufficient Redeemer.`"
+and all-sufficient Redeemer.
 
 1814.--Eleventh month.
-"`My dependence is truly not upon any works of righteousness that I have done, or can do;
+My dependence is truly not upon any works of righteousness that I have done, or can do;
 but upon his mercy who saveth us by the washing of regeneration,
 and renewing of the Holy Ghost, through Jesus Christ our Saviour: that,
 being justified by his grace,
@@ -1102,9 +1157,9 @@ short of the rest which remains for the children of God.
 But whatever sufferings it may be necessary I should endure, or deprivations sustain,
 to prevent so fatal a delusion, may I be preserved from it;
 and however inferior my talents, or imperfect my obedience, may I,
-through the mercy of God in Christ Jesus, have hope in my death.`"
+through the mercy of God in Christ Jesus, have hope in my death.
 
-1816.--Fifth month, 28. "`It is true, that in this variable state of things,
+1816.--Fifth month, 28. It is true, that in this variable state of things,
 and especially as we advance towards the termination of the probationary scene,
 the bitters may, at times, appear to exceed the sweets:
 yet it is with thankfulness I acknowledge, that ever since we parted,
@@ -1116,7 +1171,9 @@ yet, in hearing the Scriptures read,
 I have even at such times been enabled to apply (I hope I was not presumptuous,
 if I thought I was permitted to appropriate) the gracious invitations
 and promises of our blessed Saviour more to my encouragement and confirmation,
-than at some opportunities in times of greater bodily strength and mental energy.`"
+than at some opportunities in times of greater bodily strength and mental energy.
+
+--
 
 As the diligence of this pious Christian induced
 a care to leave nothing to be done on the morrow,
@@ -1134,11 +1191,16 @@ Not long after his arrival at home, he was induced,
 by the anxious solicitations of his friends, to try the waters of Cheltenham,
 when he thus wrote to one of his intimate friends:
 
-"`I will not conclude without mentioning,
+[.embedded-content-document.letter]
+--
+
+I will not conclude without mentioning,
 that throughout my illness I have not been without hope, and which +++[+++I may say]
 with humility and thankfulness, is continued, and, I trust, will be to the end;
 but it is solely founded on the mercy of God in Christ Jesus who died for us,
-in whom we have redemption through his blood, '`forgiveness of sins.`'`"
+in whom we have redemption through his blood, "`forgiveness of sins.`"
+
+--
 
 In the course of a few weeks after writing the foregoing lines,
 Richard Reynolds was called to receive the reward of the righteous.

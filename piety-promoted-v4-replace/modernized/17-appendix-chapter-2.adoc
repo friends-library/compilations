@@ -58,7 +58,7 @@ and do not come under the yoke nor bear the cross.
 Oh! the cry that ran through my soul;
 and in the anguish and bitterness of my spirit I said, Lord,
 what will you do with Friends`' children when we are gone off the stage of this world?
-Will you raise up children +++[+++in your church]
+Will you raise up children in your church
 and not those of believing parents?
 And this was the word that livingly sprung up in my soul.
 They reject my counsel, and cast my law behind their backs,
@@ -70,8 +70,8 @@ The answer was, There are some who are innocent,
 whom I will bless with a blessing from me, and they shall shine forth to my praise.
 And now, Oh friends! that you may abide in the innocent life,
 and so you may feel the blessing of the Lord daily to descend upon you.
-But for you that '`Reject the counsel of the Lord, and cast his law behind your backs,
-and will have none of his reproofs,`'
+But for you that "`Reject the counsel of the Lord, and cast his law behind your backs,
+and will have none of his reproofs,`"
 which are sorrowful sayings concerning you who are the children of believing parents,
 you who are under the profession of the truth, which will do you no good,
 unless you return unto the Lord, I desire you may all return unto him,
@@ -79,7 +79,7 @@ while the day of a long-suffering, merciful God lasts.
 But if you still reject the counsel of the Lord,
 and the many faithful warnings you have had,
 how will you answer it in the day when he comes,
-'`To render unto every one according to their deeds?`'
+"`To render unto everyone according to their deeds?`"
 
 Something further is with me to parents of children.
 Dear friends, you that have been convinced of God`'s unchangeable truth,
@@ -89,8 +89,8 @@ Oh! that we may all abide faithful in his work, and retain our integrity to the 
 then let our breathing cries and prayers be offered up to the Lord for our children,
 that he would be pleased to look down in mercy upon them,
 and visit them as he did our souls.
-But as David said, '`If I regard iniquity in my heart,
-the Lord will not hear me;`' so I desire we may all
+But as David said, "`If I regard iniquity in my heart,
+the Lord will not hear me;`" so I desire we may all
 be clear in our offerings before the Lord,
 that he may smell a sweet savor from them.
 
@@ -112,14 +112,14 @@ and I believe that many had as clear a call to leave their native country,
 as some of old had,
 which caused many days and nights of sore travail and exercise before the Lord,
 and no ease could we have, but in giving up life and all to him, saying,
-'`Lord do what you will with us, only let your presence preserve us.`'
+"`Lord do what you will with us, only let your presence preserve us.`"
 And to his praise we can say, he has been with us since we came to this country,
 and preserved us through many and various exercises, both inwardly and outwardly.
 
 And now that which lies on our parts I desire may be considered by us all,
 that so suitable returns may be made to the Lord,
 by walking in humility and godly fear before him; that so we may be good patterns,
-by keeping our places '`To the praise of him who has called us,`'
+by keeping our places "`To the praise of him who has called us,`"
 for he is worthy forever more.
 And, friends, something more is with me which I thought to omit,
 but find I can not well do it; that is, concerning our children,
@@ -299,7 +299,7 @@ He was gifted in the discipline of the church,
 and likewise qualified for the service of visiting families,
 wherein he was engaged the last time he was absent from home,
 within the limits of Bush River and Deer Creek particular meetings.
-On his return from there, he told a friend, '`There was
+On his return from there, he told a friend, "`There was
 an unusual weight over his spirit, and a cloud that he could not see beyond,
 which made him think his day`'s work was nearly over.`"
 The night he returned home, he was affected with sickness and much pain,
@@ -435,6 +435,7 @@ and be so wicked as to swear and take God`'s name in vain;
 and told him what Christ said to the Jews, '`You are of your father the devil,
 because his works you do;`' and those that did the devil`'s work could not truly call God,
 Father, according to Christ`'s doctrine.`"
+
 These remarks carried conviction to the minds of his hearers, who made no reply,
 but wondered that one so young should speak in such a manner;
 and his faithfulness afforded great peace to his own mind.
@@ -529,7 +530,7 @@ Having entered on this solemn work, "`I had,`" says he, "`such a fear of dishono
 that I often cried with tears, '`Never let me live to dishonor You!
 Oh! it had been better for me that I had never been born,
 than that I should live to dishonor You, or willfully reproach the name of Christ, who,
-with the Father, is only worthy of Divine honor.`"
+with the Father, is only worthy of Divine honor.`'`"
 
 Soon after he was out of his apprenticeship,
 he began to travel in the work of the ministry,
@@ -538,7 +539,7 @@ and visited many of the meetings of Friends in Great Britain; and in the Tenth m
 in company with Thomas Turner, William Ellis, and Aaron Atkinson,
 fellow-laborers in the gospel, to visit the churches in that land.
 Having performed his religious service in those parts, he returned to England in 1699,
-and the same year was married to Martha Betterton, s religious young woman,
+and the same year was married to Martha Betterton, a religious young woman,
 who proved a help meet to him.
 About the year 1700 they emigrated to Pennsylvania,
 and settled in the city of Philadelphia;
@@ -711,7 +712,12 @@ he was sued in the beginning of the following year for priests`' wages,
 and for his refusal to comply with the demand, he offered to the magistrates in writing,
 sundry considerations, which being taken amiss, he was, after some time,
 indicted by the grand jury, and summoned before the governor and council.
-In this time of trial he says, "`Some forsook me as being ashamed of my testimony,
+In this time of trial he says:
+
+[.embedded-content-document]
+--
+
+Some forsook me as being ashamed of my testimony,
 and of my sufferings for it.
 At my first appearance the fierceness of the dragon was felt,
 his dark power seeming to be great and terrible,
@@ -725,7 +731,7 @@ being greatly desirous that I might not give way one jot from my testimony,
 through fear even of death itself;
 for I thought I felt the bitterness of it strike at my natural life.
 
-"`On the day when final judgment on the case was to be given,
+On the day when final judgment on the case was to be given,
 I was brought before them the third time,
 and they demanded what I had further to say before sentence was passed.
 I then desired liberty to make my defense,
@@ -749,9 +755,9 @@ appears to be a tender man, and well convinced,
 having since gladly received meetings into his house, and, as he has told me,
 laid down his commission.
 
-"`Being committed to prison, I was first placed in the debtors`' apartment,
+Being committed to prison, I was first placed in the debtors`' apartment,
 but in a few days was removed into the common side, where condemned persons are kept,
-and, for some time had not the privilege of seeing any body, except a negro,
+and, for some time had not the privilege of seeing anybody, except a negro,
 who once a day brought water to the prisoners.
 This place was so dark, that I could not see to read even at noon,
 without creeping to small holes in the door; being also very noisome,
@@ -768,11 +774,13 @@ without any acknowledgment or compliance, and this brought me into an acquaintan
 and ready admittance to the governor, who said I was a meek man.
 Thus I returned home with praise and thanksgiving in my heart to the Lord,
 who had caused his truth to triumph over the strong
-efforts of man and the powers of the earth.`"
+efforts of man and the powers of the earth.
+
+--
 
 In the year 1725, accompanied by Thomas Pleasants, he again visited friends in Maryland,
 and the yearly meeting near Choptank.
-My concern here (he says) "`Was principally to labor
+"`My concern here`" (he says) "`Was principally to labor
 for the restoration of wholesome discipline,
 the neglect whereof I conceive has been a great cause of the disorder
 and undue liberty prevailing among the professors of truth there.
@@ -782,7 +790,7 @@ having left an example of that useful and necessary practice of visiting familie
 joining friends therein for some time; we are, thanks be to God,
 come and coming into the same in Virginia, which, with some assistance,
 I have pretty generally performed through our monthly meeting, and never I think,
-was more sensible of the company and ability of +++[+++the Spirit of]
+was more sensible of the company and ability of the Spirit of
 truth in any service, according to the dignity of it.`"
 
 A malicious person getting into his possession the judgment
@@ -795,15 +803,14 @@ He so managed the matter in his absence, as to make the debt amount to twenty po
 though the demand was but eight pounds, and serving the execution on his body,
 he was again committed to prison in the Twelfth month, 1727, where,
 being confined fifteen weeks, he was at length discharged,
-without any person paying any thing for him, which he would not allow.
+without any person paying anything for him, which he would not allow.
 
 Soon after he was brought under a trial, with others of his friends,
 by the operation of a militia-law,
 whereupon they addressed governor Gooch on his arrival,
 representing to him their sufferings by spoil of goods and imprisonment, which,
 with the friends who attended on the occasion, he received with kindness.
-
-"`Having this year, he remarks, suffered persecution in body and estate,
+"`Having this year,`" he remarks, "`suffered persecution in body and estate,
 as a preparative to a greater affliction, all which does and will work for good, my dear,
 affectionate wife was called away.`"
 
@@ -840,8 +847,8 @@ In his sentiments he was generous and charitable,
 yet a firm opposer of obstinate libertines in principles or practice,
 demonstrating his love to the cause of religion and righteousness above all other considerations,
 being careful to adorn the doctrine of the gospel by a life of piety and benevolence;
-and we have ground to hope and believe he was prepared for.
-the sudden`' summons from his pilgrimage here,
+and we have ground to hope and believe he was prepared for
+the sudden summons from his pilgrimage here,
 which was on the fifth day of the Eighth month, O. S. 1742.
 
 Being at the house of one of his most intimate friends

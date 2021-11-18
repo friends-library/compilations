@@ -124,14 +124,15 @@ In the course of these visits, way did not open for much active religious servic
 but the concern which was uppermost in his mind,
 appears to be well set forth in the following extract from one of his memorandums.
 
-"`In the remembrance of that uniting language of our dear Lord, '`One is your Master,
-even Christ, and all ye are brethren,`' a fervent desire has been raised in my heart,
+[quote]
+____
+In the remembrance of that uniting language of our dear Lord, "`One is your Master,
+even Christ, and all ye are brethren,`" a fervent desire has been raised in my heart,
 that it may please the Father of the Universe, the Arbiter of the whole earth,
 to spread more and more in the hearts of men universally,
 the knowledge of his ways and of his goodness; and cause the dominion of his dear Son,
 our holy Redeemer, to be enlarged; that thus the day may be advanced,
 when nation shall not lift up sword against nation.
-
 Since I have been in this land, my cry hath often been,
 that He who was pleased to restrain Rehoboam, king of Judah,
 from going against his brethren, the children of Israel, may be pleased to grant,
@@ -142,7 +143,8 @@ I have felt, with gladness, that I could hail them as my brethren, as my fellow-
 with a strong desire,
 that we may be enabled to hail each other in that charity which is the bond of perfectness,
 and through the merciful dealings of our Heavenly Father,
-become fellow-citizens with the saints in light, and with the household of God.`"
+become fellow-citizens with the saints in light, and with the household of God.
+____
 
 He also very deeply felt the importance of a circulation
 of the Scriptures in that city and country;
@@ -225,14 +227,22 @@ The concluding expressions of the testimony of Friends of Wiltshire monthly meet
 concerning this devoted follower of the Lamb,
 may not unsuitably terminate the present narrative.
 
-"`In closing this memorial of one who, through faith in God,
+[.embedded-content-document.testimony]
+--
+
+In closing this memorial of one who, through faith in God,
 and in the redeeming power of Christ Jesus our Lord,
 and through the efficacy of his grace, was a bright example amongst us,
 we deeply feel our loss; at the same time we reverently believe,
 that in his release from that tribulated path which
 was his allotted portion in the militant church,
 death is swallowed up in victory; and that the blessing pronounced by the lip of truth,
-on the poor in spirit, is his reward forever.`"
+on the poor in spirit, is his reward forever.
+
+--
+
+[.asterism]
+'''
 
 TABITHA LOWE was the daughter of Joseph and Sarah Burgess, of Grooby Lodge,
 near Leicester, and was born the 16th of the Eighth month, 1783.
@@ -272,8 +282,11 @@ and the conflicts and baptisms which she experienced,
 whilst under preparation for this awful service,
 may be considered as descriptively conveyed in the following memorandum.
 
+[.embedded-content-document]
+--
+
 1809.--Twelfth month.
-"`The Lord alone knows the state of my heart.
+The Lord alone knows the state of my heart.
 I often think, none ever experienced the like.
 Lord! what will become of me?
 I tremble, and, as it were, recoil,
@@ -283,25 +296,28 @@ and the trial it would be to my naturally timid disposition,
 would be the most awful part; but that does not now seem the worst:
 with my past manifold transgressions, how is it possible?
 But I know all things are possible with Thee:
-make me as clay in the hands of the potter.`"
+make me as clay in the hands of the potter.
+
+--
 
 On the 27th of the Third month, 1814,
 she thus notices her entrance upon the important station which
 she had believed herself designed to occupy in the church.
-
 "`I had publicly to offer up supplication in our meeting at Southwark,
 on First-day morning; and my heart acknowledges it is the Lord`'s doing,
 and marvellous in our eyes.
 May He be pleased to help me, then I need not fear; nor can I wish for more.`"
-
 During a long confinement to the house, in the year 1816, she thus wrote:
 
-"`My faith, in this weak and debilitated state of health,
+[quote]
+____
+My faith, in this weak and debilitated state of health,
 has been many times nearly tried; yet I may with humble gratitude acknowledge,
 that He who knoweth the hearts of his children,
 has often graciously extended his all-sustaining, life-giving presence,
 to the unspeakable comfort of my poor, feeble mind; so that I have been ready to say,
-'`Lord! what am I, that thou shouldst thus regard me, and make my cup to overflow?`'`"
+"`Lord! what am I, that thou shouldst thus regard me, and make my cup to overflow?`"
+____
 
 The religious communications of this departed Friend,
 were evidently the fruit of lively exercise,
@@ -317,7 +333,10 @@ She evinced her concern for the present and eternal welfare of her children,
 by frequent counsel adapted to their capacities,
 and petitions of soul to the throne of grace on their behalf;
 and in some records of her maternal and Christian solicitude, writes thus:
-"`I trust I can with sincerity say, my chief desire for them is,
+
+[quote]
+____
+I trust I can with sincerity say, my chief desire for them is,
 that they may be brought up in the fear of the Lord, and the love of his truth;
 that they may be plain, simple, and humble.
 I covet not great things for them, nor the possession of much riches:
@@ -326,7 +345,8 @@ When we consider that we are only placed here for a very short time,
 and must hereafter exist forever and ever, either in unspeakable misery,
 or in the glorious presence of God and our blessed Redeemer,
 how should we be seeking first the blessing of heaven,
-and feel it our duty and privilege to have all things in subserviency thereto.`"
+and feel it our duty and privilege to have all things in subserviency thereto.
+____
 
 Her last illness was a consumption, and came on in the beginning of the year 1825.
 Early in the disorder, she mentioned to an intimate friend,
@@ -369,6 +389,9 @@ she might be released from further sufferings adding, "`Not my will, but thine b
 Thus resigned and peaceful, her redeemed spirit quitted its earthly tenement,
 on the 3rd of the Sixth month, 1825.
 
+[.asterism]
+'''
+
 GEORGE SANDERS.
 Our late friend, George Sanders, was one of those useful characters,
 who conscientiously endeavour, in their walk through life,
@@ -393,7 +416,10 @@ Amongst other means which he adopted to advance his spiritual progress,
 it was his frequent practice to seek after retirement.
 His care in this respect, is thus described by himself,
 in some memorandums made in the Fourth month, 1782.
-"`Having often been convinced of the necessity of frequently waiting on the Lord,
+
+[quote]
+____
+Having often been convinced of the necessity of frequently waiting on the Lord,
 in order to find strength and ability to walk in his way, I have, at times,
 begun to dedicate about an hour in the morning to that service;
 but through weakness and want of proper attention,
@@ -406,7 +432,8 @@ and to hold sweet communion with my Lord,
 I do propose to dedicate an hour every morning to Him, before business,
 that I may thereby be enabled to dwell near his presence;
 beseeching Him to vouchsafe to be with me, and help my weak endeavours;
-for without this divine aid my efforts will be in vain.`"
+for without this divine aid my efforts will be in vain.
+____
 
 On one occasion, after spending some time in waiting upon the Lord,
 and in serious reading, he remarks: "`It pleased the Lord to break in upon my spirit,
@@ -471,6 +498,9 @@ when a short illness terminated his earthly existence,
 that the change to him was unspeakably glorious.
 He departed this life the 19th of the Ninth month, 1825, at the age of seventy,
 having been a minister about thirty years.
+
+[.asterism]
+'''
 
 ISAAC PEASE, son of Edward and Rachel Pease, of Darlington,
 was a youth of quick abilities and kind dispositions.
@@ -556,12 +586,13 @@ but I have not worshipped my Heavenly Father as I ought.`"
 On the 5th of the Ninth month, after being removed from his couch to the bed,
 and evidently feeling the pressure of disease, this patient sufferer lay awhile quiet,
 his countenance beaming with serenity, and afterwards said:
-"`I trust I have a well-grounded hope of a better inheritance; bus it is all of mercy,
+"`I trust I have a well-grounded hope of a better inheritance; but it is all of mercy,
 great mercy: it is not by works of righteousness which we have done! no, no,
 but according to his mercy He saveth us, or where would be my hope?
 Oh! how precious is this love of Jesus: I have felt it very precious.
 He gave his life as an atonement for our sins; an atonement! yes,
 and a propitiatory sacrifice: how precious has the recollection of this been to me.`"
+
 On his father`'s expressing his rejoicing that his son was thus comforted, and his hope,
 that should lengthened days be allotted,
 the recollection of these moments would accompany
@@ -569,7 +600,6 @@ the future steppings of the latter through life,
 he replied, "`Yes, I hope so.
 But oh, the deceitfulness, the allurements, the temptations of this world:
 I know they are powerful, and I fear I should fall.
-
 It is hard work to maintain our steadfastness through all,
 and be good examples in the great cause.
 I think I had rather go now.`"
@@ -585,6 +615,9 @@ Very early the following morning, he sunk quietly away; being, we may humbly tru
 rendered meet for an inheritance amongst the saints in light,
 through the mercy of God in Christ Jesus.
 He died at the age of twenty, on the 27th of the Ninth month, 1825.
+
+[.asterism]
+'''
 
 WILLIAM GROVER was a friend much esteemed and beloved in our Society.
 He was one who from early life appears to have chosen the right way of the Lord,
@@ -614,7 +647,10 @@ might be in the power and authority of the Holy Spirit.
 In speaking of his character in some other respects,
 the friends of Thaxted monthly meeting thus describe him.
 
-"`It is not our intention to extol the character of the deceased as a man,
+[.embedded-content-document.testimony]
+--
+
+It is not our intention to extol the character of the deceased as a man,
 estimable as he was in the various relations of life;
 but to exhibit his Christian virtues, and to ascribe, as he did,
 all excellency to the power of Divine grace,
@@ -664,13 +700,16 @@ it seemed to be the constant clothing of his mind,
 and was evinced towards all classes of society.
 The youth especially were the objects of his tender solicitude,
 for whose early attention to the reproofs of instruction,
-and for their growth and establishment in the Truth, he felt an unremitting concern.`"
+and for their growth and establishment in the Truth, he felt an unremitting concern.
+
+--
 
 A few expressive lines, thus describe his attachment to the cause of our blessed Redeemer.
 "`I believe it is consistent with the genuine principles of Friends,
 that all the communications of the mercy, love, power, and goodness of God,
 to his creature, man, are in, by, and through our Lord and Saviour Jesus Christ,
 and no otherwise; and in this belief I am thankful to live and unite.`"
+
 William Grover possessed a sound constitution,
 and through the greater part of his life enjoyed good health.
 On Second day, the 16th of the Fifth month, 1825,
@@ -737,6 +776,9 @@ Thus terminated the life of this honourable elder in the church of Christ,
 to whom may be emphatically applied this holy declaration,
 "`Blessed are the dead who die in the Lord from henceforth: yea, saith the Spirit,
 that they may rest from their labours; and their works do follow them.`"
+
+[.asterism]
+'''
 
 SARAH KNIGHT, wife of Henry Knight, Jr., of London, and daughter of John and Jane Lewis,
 of Haverfordwest, died the 16th of the First month, 1826,

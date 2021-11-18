@@ -3,7 +3,7 @@
 The following accounts have chiefly been compiled from a,
 collection of memorials published in the last century under the
 direction of the yearly meeting of Friends of Philadelphia.
-As the narratives in the preceding pages of Piety Promoted principally
+As the narratives in the preceding pages of [.book-title]#Piety Promoted# principally
 relate to persons who lived in Great Britain and Ireland,
 it has been thought that some addition respecting individuals in our own country,
 would be acceptable in an American edition.
@@ -20,6 +20,7 @@ their conformity in spirit and practice to the holy law of the Lord,
 evincing the delight and benefit to be found therein;
 for "`Verily there is a reward for the righteous,
 verily he is a God that judgeth in the earth.`"
+
 "`What scene in this life more dignifies humanity;
 what school is more profitably instructive, than the deathbed of the righteous,
 impressing the understanding with the convincing evidence,
@@ -64,7 +65,7 @@ Christian experiences of those who have not been so solicitous for the approbati
 of men as to be found humble followers of Christ Jesus the Lord,
 their meek and lowly pattern, and omnipotent Redeemer;
 yet it is hoped that there are many to whom the contents
-of this Collection will afford information,
+of this collection will afford information,
 edification, and encouragement in the pursuit of their most substantial interest,
 a life of true wisdom, piety, and virtue;
 and that the number of such may increase is the design of this publication.

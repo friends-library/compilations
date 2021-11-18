@@ -150,12 +150,12 @@ to the weary traveller;
 and patiently undergoing the various exercises allotted in Infinite Wisdom,
 may experience them ultimately to terminate in the increase of
 joy and peace;--in believing that faithful is He that has promised,
-'`I will never leave you nor forsake you;`' and, '`who also will do it.`'
+"`I will never leave you nor forsake you;`" and, "`who also will do it.`"
 One thing I find,
 that the longer I live the more I am reduced to that state which breathes the language,
-'`Lord, I am a child;`' sometimes with an addition like that of, '`I cannot speak;`' though,
-at others the more resigned language will prevail: '`Take me,
-and lead me where you would have me to go.`'
+"`Lord, I am a child;`" sometimes with an addition like that of, "`I cannot speak;`" though,
+at others the more resigned language will prevail: "`Take me,
+and lead me where you would have me to go.`"
 And here I wish to center, and leave all to Him who does all things right; and who,
 my small experience has taught me, is worthy to be served and obeyed in all things.
 
@@ -311,7 +311,7 @@ and his pen was often judiciously employed in support of its principles.
 
 For many years he filled the station of an elder, with acceptance to his friends;
 endeavoring faithfully to discharge his duty in this character.
-Many can acknowledge that he was, to them, a counsellor, and.a sympathizing friend,
+Many can acknowledge that he was, to them, a counsellor, and a sympathizing friend,
 when they apprehended themselves called to appear first in the ministry,
 at the same time carefully turning them to the Lord alone for strength and direction.
 His acquaintance with the Scriptures, his meditation upon their contents,
@@ -344,7 +344,7 @@ He had appeared among his brethren as an intrepid
 advocate for the pure truths of the Christian religion;
 and earnest were his desires, that that redemption, which comes by the Lord Jesus,
 might be experimentally felt and borne witness to among us;
--- that his name and power might be magnified.
+--that his name and power might be magnified.
 Yet such was his humility,
 so exalted were his views of that holiness without which no man shall see the Lord,
 that he was often ready to fear,
@@ -365,14 +365,20 @@ into "`a house not made with hands.`"
 
 In a letter dictated to a much-loved relative, on the 1st of the Ninth month,
 after alluding to his health, he adds:
-"`I hope what I have said will not be set down as the language of repining;
+
+[.embedded-content-document.letter]
+--
+
+I hope what I have said will not be set down as the language of repining;
 for I believe I may say that, in a retrospect of my complaints, I have scarcely, if ever,
 dared to desire that things had been ordered for me, otherwise than they have been.
 I am ready to be surprised,
 that so unworthy a creature has hitherto been preserved in the
 degree of composure which I have been permitted to experience;
 and well will it be, if self-love, or some other hidden cause,
-does not make me think more favorably of the state of my own mind than I ought.`"
+does not make me think more favorably of the state of my own mind than I ought.
+
+--
 
 On the 11th of the same month, being First-day, he spent the morning pleasantly.
 In the evening he desired to have a little stillness,
@@ -407,7 +413,12 @@ and attended the yearly meeting in London, with little intermission,
 for the space of sixty years.
 
 In the year 1764, he married Ann Havens, of Colchester, who died in 1805,
-and of whom he left the following short testimony: "`She was a woman of great humility,
+and of whom he left the following short testimony:
+
+[.embedded-content-document.testimony]
+--
+
+She was a woman of great humility,
 never aiming at high things, nor to be highly thought of; one who,
 from her youth upwards, was preserved walking in the fear of the Lord.
 The benevolence of her mind appeared in many instances,
@@ -415,7 +426,9 @@ especially in a charity for the benefit of poor widows, in the town of Colcheste
 which she was the means of instituting,
 and contributed largely towards building a house for their accommodation.
 Her lively hope in Christ, and increasing love of God and man,
-filled her mind with comfort and peace.`"
+filled her mind with comfort and peace.
+
+--
 
 John Kendall was concerned through life as well by example as precept,
 to encourage all around him to the exercise both of civil and religious duties.
@@ -645,13 +658,19 @@ and, in the year 1773, first appeared as a minister, very acceptably to her frie
 In the following year her husband was removed by death; this was a heavy affliction,
 and a few remarks, in a testimony which she wrote to his worth,
 may be not unsuitably here introduced.
-"`Oh, my loss is inexpressible!
+
+[.embedded-content-document.testimony]
+--
+
+Oh, my loss is inexpressible!
 His kindness, his nearness in a religious sense, cannot be set forth by me;
 his compassion, his patience towards me,
 his condescension to my weakness in my infant state, cannot be penned.
 For indeed I had gone through various and deep provings;
 many weary years had passed over my head,
-while I was under the preparing hand of my God.`"
+while I was under the preparing hand of my God.
+
+--
 
 Not long previously to this event,
 she had lost her two youngest children by the small-pox;
@@ -687,7 +706,7 @@ that when the trials of time should terminate,
 she should be admitted to an inheritance incorruptible, that fades not away.
 
 Not many weeks before her death, upon a friend`'s taking leave of her,
-she seemed affected, and said, '`Though I drop tears, I am not left comfortless.
+she seemed affected, and said, "`Though I drop tears, I am not left comfortless.
 No; we have not followed cunningly-devised fables.
 I think, what I feel might convince the whole world.
 Oh, it is marvelous! it is marvelous!`"
@@ -764,7 +783,7 @@ But nothing is little that tends to draw us further from, or strengthen us in, o
 And now my desire is, while ability to speak remains,
 to impress it on those I leave behind,
 that they will be so kind as to extend a little care towards my dear infants;
-and when any thing occurs, by way of advice, that may seem needful,
+and when anything occurs, by way of advice, that may seem needful,
 do not be afraid to give it; for much may be done this way,
 much may be done through love.`"
 Adding, after some further remarks: "`We have not a hard master, I can truly testify:
@@ -812,7 +831,7 @@ attended with symptoms which seemed to indicate the near approach of death;
 but she afterwards revived, and, for a few days,
 appeared to be gaining a little strength.
 She sweetly expressed her thankfulness for some abatement of violent pain, saying,
-This may look a little like recovery; but I desire not to build upon it,
+"`This may look a little like recovery; but I desire not to build upon it,
 neither to be uneasy at again entering into life.
 I desire to be resigned either way.`"
 
@@ -873,7 +892,7 @@ who has felt his support and assistance as I have done: and all of his free merc
 for I deserve nothing?`"
 
 On one of her relations expressing a wish, when she was in pain,
-that it were in her power to do any thing to alleviate her sufferings, she replied: "`Oh,
+that it were in her power to do anything to alleviate her sufferings, she replied: "`Oh,
 no; you cannot.
 You are all very kind, and do all you can; but there is only One that can ease my pain,
 or enable me to support it: and that He has done wonderfully, beyond what I can express.
