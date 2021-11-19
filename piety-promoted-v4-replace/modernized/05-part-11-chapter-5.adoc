@@ -12,8 +12,7 @@
 * Ann Dymond
 * Richard Reynolds
 
-ROBERT TREGELLES.
---In relating some particulars of the last days of several young persons,
+ROBERT TREGELLES.--In relating some particulars of the last days of several young persons,
 children of Samuel and Rebecca Tregelles, of Falmouth,
 all of whom survived their exemplary mother,
 it should awaken pious reflections thus to observe
@@ -125,7 +124,7 @@ At another time, being inquired of respecting the disposal of his books, he answ
 On being told that none of them appeared to be of a hurtful tendency, "`No,`" he replied,
 "`I hope not; but now I should wish to have such as would be really profitable.`"
 After this, he gave many clear directions respecting things which he wished to have done;
-saying,`" These appear trifles now; but I should not find them trifles on a deathbed.`"
+saying, "`These appear trifles now; but I should not find them trifles on a deathbed.`"
 
 On the 26th, he intimated that what had been said to him in the line of ministry,
 in a time of religious retirement which had occurred, was very suitable;
@@ -155,7 +154,7 @@ I have always found that He helped me out of my troubles.
 I have settled my outward affairs to my satisfaction.
 I have had time, and repented of all my sins;
 and I believe they have been freely forgiven, through the merits of my Redeemer.
-I owe no man any thing but love.`"
+I owe no man anything but love.`"
 
 To an intimate friend, who was one of the family during the last part of his illness,
 he said: "`My dear Charles, farewell.
@@ -206,7 +205,7 @@ If I could expect to live but a few weeks, what a blessing should I consider it;
 but of this there is no probability.
 The fever which I now have, must soon wear me out.
 It is the uneasiness which I feel about myself, that prevents my sleeping:
-if it were not for this, I could sleep soundly any where;
+if it were not for this, I could sleep soundly anywhere;
 but I have so long rejected what I knew to be right, that I fear it is now too late.`"
 
 On his sister`'s remarking,
@@ -249,7 +248,7 @@ that nothing short of the infinite mercy of an all-merciful God can reach my cas
 After this he became tranquil, and remained so until the close of life,
 frequently expressing his great thankfulness.
 He was often fervent in supplication, and the night before his departure, in these words:
-Oh!
+"`Oh!
 Lord God Almighty, have mercy on me, and pardon me, through your beloved Son,
 our blessed Redeemer, who gave himself a ransom for the sins of the whole world.`"
 
@@ -302,7 +301,11 @@ for their affectionate interest in her comfort and accommodation.
 
 The prospect of death being very awful to her, she thus described her feelings,
 in a letter written about the end of the Eleventh month, to one of her sisters:
-"`I cannot be too thankful to my truly kind friends,
+
+[.embedded-content-document.letter]
+--
+
+I cannot be too thankful to my truly kind friends,
 for the openness with which I have been treated respecting my complaint:
 for so flattering is its nature, that I might have been kept in ignorance to this day.
 It is not in my power to express what I felt for
@@ -319,7 +322,9 @@ My dear sister, do not suppose I am complaining,
 in telling you what my feelings have been since my indisposition;
 for I do hope I am grateful in being able to feel,
 that although in myself I am unworthy of the smallest of favors,
-yet I am not forsaken.`"
+yet I am not forsaken.
+
+--
 
 Her health gradually declined for some months after writing the foregoing;
 but she was at times favored with strong hopes of approaching bliss,
@@ -502,7 +507,7 @@ could not eventually be cast out.
 On the evening of the 3rd of the Twelfth month,
 she asked one of her sisters to sit by her; when, in a very feeling manner,
 she described some of the conflicts through which she had
-had to pass during tile interval of their separation.
+had to pass during the interval of their separation.
 She said,
 that some symptoms indicative of more disease in the lungs than she had been aware of,
 had greatly afflicted her;
@@ -526,7 +531,7 @@ On my return home,
 I wished to make my sisters promise that I should go nowhere and see no person:
 this was pride and ingratitude.
 But after the time to which I allude, I can hardly describe the change;
-every one seemed to claim my love, and all the creation appeared lovely;
+everyone seemed to claim my love, and all the creation appeared lovely;
 and should I now return to health, I trust this time may never be forgotten.`"
 She then embraced her sister with much warmth of affection,
 saying she hoped she could forgive every unkind word,
@@ -543,7 +548,7 @@ to whom a remarkable sense of her state appeared to be given.
 She told her,
 that a day would come when this language would be verified in her experience:
 "`I have heard of you by the hearing of the ear; but now my eye sees You:
-wherefore I abhor myself, and repent in dust and ashes.`"
+therefore I abhor myself, and repent in dust and ashes.`"
 This was inexplicable to her,
 as she considered that she had more than heard with the ear,
 and had understood with more than the natural understanding; and it was not till now,
@@ -571,7 +576,7 @@ She added, "`Yes, and delivered me from all my fears.
 Oh! praise the Lord.`"
 
 As she gradually, for a few minutes, breathed more gently, she was heard to say,
-"`It is nearly over: it is a very pleasant prospect, and very near;
+"`It is nearly over: it is a very pleasant prospect, and very near;`"
 and almost in the moment of death,
 those around her distinctly heard the sound of "`Hallelujah! hallelujah!`"
 
@@ -735,7 +740,7 @@ even when I scarcely knew what it meant.
 Thus did my heavenly Parent condescend to visit me by the in-shinings of his good Spirit,
 although I knew him not.
 Oh, wonderful condescension, indeed!
-My soul now bows in reverent gratitude for these his unmerited favors.
+My soul now bows in reverent gratitude for these his unmerited favors.`"
 
 For a time she resisted these heavenly calls, and gave way to a levity of disposition,
 which opposed her entering into that narrow path,
@@ -798,7 +803,10 @@ released from further conflict, and from further service in the militant church;
 and permitted, as we have good ground to believe,
 to join the church triumphant in heaven.
 
-"`Be also ready, for in such an hour as you think not the Son of Man comes.`"
+[quote.scripture, , Matt. 24:44]
+____
+You also be ready, for in such an hour as you think not the Son of Man comes.
+____
 
 [.asterism]
 '''
@@ -863,15 +871,21 @@ In the year 1789, having long wished to retire from business,
 and be left more at liberty to prepare for eternity,
 he resigned his property in the iron-works to two of his sons,
 (having married again,) and removed to Coalbrook-dale.
-
 A few days after the accomplishment of this important object,
-he thus wrote to one of his friends: "`The first religious meeting I attended,
+he thus wrote to one of his friends:
+
+[.embedded-content-document.letter]
+--
+
+The first religious meeting I attended,
 after quitting the trade, though small and silent, as ours generally are,
 was a season of comfort and refreshment to me; and earnest were my desires,
 that it might not only be a time of renewal of strength, but of renewal of covenant also;
 that now I was, in one sense of the word, become more than before, my own free man,
 I might be, more than ever I have been, a servant of Christ, of his church,
-and of his people.`"
+and of his people.
+
+--
 
 He had long been an active and useful member of our religious Society, advocating,
 with Christian courtesy and firmness,
@@ -909,7 +923,7 @@ are instructively shown in the two following extracts from his letters.
 [.embedded-content-document.letter]
 --
 
-1776.-- Let not, my dear, the example of others, who may be ashamed of the cross,
+1776.--Let not, my dear, the example of others, who may be ashamed of the cross,
 and of the plainness and simplicity which we possess, influence your conduct;
 nor the levity of heart incident to youth,
 prevent your seriously and frequently reflecting
@@ -936,7 +950,7 @@ as well as of the impieties, of a wicked world.
 Great would be the advantage, even in this life.
 The truly happy are the truly religious, who having known, in their measure,
 a death to sin, and a new birth to righteousness, love God above all;
-while in a due subordination to Iim: they are more susceptible of pure impressions,
+while in a due subordination to him: they are more susceptible of pure impressions,
 and better qualified for the endearing connections of affection and friendship,
 than those whose licentious passions are not regulated
 by the salutary restraints of religion.
@@ -1023,11 +1037,11 @@ than an experimental knowledge in my own particular; though I admit,
 and admire it in others, more worthy.
 
 1791.--Sixth month, 19. I am sure you will not be offended, if,
-as an apology for my entertaining different sentiments on what you call '`innocent dissipations,`'
+as an apology for my entertaining different sentiments on what you call "`innocent dissipations,`"
 as concerts and theatrical exhibitions, I observe,
 that if to withdraw a young man from the dangers of temptation is a visionary hope,
 I cannot think leading him into them is advisable; or,
-though intended to be the means of procuring him '`the enjoyment of life,`'
+though intended to be the means of procuring him "`the enjoyment of life,`"
 likely to effect it without a participation of its vices.
 
 To those who call themselves Christians,
@@ -1135,13 +1149,13 @@ If it depended on my own unassisted efforts,
 or my expectation rested upon works of righteousness which I have done, or can do,
 my hope would perish and my confidence fail; but I trust I may, in all humility,
 though in a very limited degree, adopt the language of the apostle, and say,
-'`I know in whom I have believed, '`and commit my soul to him as unto a faithful Creator,
+"`I know in whom I have believed,`" and commit my soul to him as unto a faithful Creator,
 and all-sufficient Redeemer.
 
 1814--Eleventh month.
 My dependence is truly not upon any works of righteousness that I have done, or can do;
 but upon his mercy who saves us by the washing of regeneration,
-and renewing of the Holy Ghost, through Jesus Christ our Savior: that,
+and renewing of the Holy Spirit, through Jesus Christ our Savior: that,
 being justified by his grace,
 I shall be made an heir according to the hope of eternal life.
 Though, through mercy, I am enabled, at times,
@@ -1185,12 +1199,18 @@ during which his strength obviously declined; but he accomplished the journey.
 Not long after his arrival at home, he was induced,
 by the anxious solicitations of his friends, to try the waters of Cheltenham,
 when he thus wrote to one of his intimate friends:
-"`I will not conclude without mentioning,
+
+[.embedded-content-document.letter]
+--
+
+I will not conclude without mentioning,
 that throughout my illness I have not been without hope,
 and which I may say with humility and thankfulness, is continued, and, I trust,
 will be to the end;
 but it is solely founded on the mercy of God in Christ Jesus who died for us,
-in whom we have redemption through his blood, '`forgiveness of sins.`'`"
+in whom we have redemption through his blood, "`forgiveness of sins.`"
+
+--
 
 In the course of a few weeks after writing the foregoing lines,
 Richard Reynolds was called to receive the reward of the righteous.

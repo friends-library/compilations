@@ -61,7 +61,10 @@ a Friend residing in the island, on the 8th of Ninth month, following.
 The subjoined account of him whilst there is taken
 from a paper drawn up by one of the Friends:
 
-"`They were received with much love and joy,
+[.embedded-content-document.paper]
+--
+
+They were received with much love and joy,
 being made to rejoice together in the tender mercies and love of God,
 which was manifested that day, to the honour and praise of his great name,
 and also to the comforting of his poor people.
@@ -110,7 +113,12 @@ The last two days he was in much pain,
 yet he was preserved in much patience and resignation,
 and had his perfect senses to the last, exhorting friends to faithfulness.
 On the 6th day of the Tenth month, about six o`'clock at night, he went away like a lamb,
-with praises and thanksgiving in his lips but about two minutes before.`"
+with praises and thanksgiving in his lips but about two minutes before.
+
+--
+
+[.asterism]
+'''
 
 CADWALADER EVANS was a native of the principality of Wales,
 and arrived in Pennsylvania in the year 1698 and
@@ -187,6 +195,9 @@ he was going to that place which God had prepared for those who love him,
 he had a happy exit from time to eternity, the 30th of the Third month, 1745,
 aged eighty-one.
 
+[.asterism]
+'''
+
 WILLIAM LEVIS, of Kennet, in Chester County, Pennsylvania, son of Samuel Levis,
 an early settler in Springfield, in said county, was born in Springfield aforesaid,
 about the year 1688, and removed to Kennet about 1718.
@@ -212,7 +223,6 @@ and I charge you that are elders,
 to discharge your trust faithfully in the sight of the Lord,
 having your eye single to him, and let nothing of self rule,
 and then his work will be carried on in love and patience.
-
 I could be glad to have an opportunity once more with my friends, but if I should not,
 I would have those present to acquaint them with what I have to say,
 and press it home to the elders, that they may faithfully discharge their duty,
@@ -229,7 +239,7 @@ and less concerned to deck and set them off,
 and provide things to make them look great in the world,
 it would be of far more benefit to them.
 
-And my desire is, that elders may walk faithfully, as good stewards,
+"`And my desire is, that elders may walk faithfully, as good stewards,
 not only in their own families, but to the flock which they have the oversight of;
 that so they may leave a good savour to the rising and succeeding generation.
 I am sensible that all those who are rightly concerned
@@ -243,9 +253,9 @@ But keep ye your places, and labour in faithfulness with such, if possible to ga
 but if after friends labour, they will not be gathered,
 friends will be clear and have peace in themselves;
 but a blast will come on such troublesome spirits.
-
 And as Friends faithfully maintain this their discipline, the Lord will preserve them,
 but if they neglect it, they shall surely suffer loss.`"
+
 To some present, who had been engaged in the service of visiting families, he said,
 "`It was a good work, and desired it might not be forgotten.`"
 At another time, being in a weighty frame of mind, he said,
@@ -274,6 +284,9 @@ like one going to sleep, and, we believe,
 in peace with God and unity with faithful friends.
 He died the 17th of the Second month, 1747, in the fifty-ninth year of his age,
 and was interred in Kennet burying-ground, the 19th of the same month.
+
+[.asterism]
+'''
 
 EVAN EVANS, of Gwynedd, in Pennsylvania, was born in Merionethshire,
 in the principality of Wales, in the year 1684,
@@ -336,6 +349,9 @@ who had raised him up an instrument in his hand, and on whom he had relied all h
 continued to be his shield and support in the evening of his days and close of life;
 which was on the 24th of the Fifth month, 1747.
 He was buried at Gwynedd.
+
+[.asterism]
+'''
 
 ALICE GRIFFITH, late wife of Hugh Griffith, of North Wales, in Pennsylvania,
 was one that feared the Lord from her youth, remarkable for her modesty and plainness.
@@ -403,6 +419,9 @@ she being cheerful and pleasant, and never sad, as before.
 Her decease was on the First-day of the Second month, 1749,
 and was buried on the 3rd of the same.
 
+[.asterism]
+'''
+
 SARAH PLEASANTS, fourth daughter of Thomas and Mary Pleasants,
 was taken ill the 26th of the Seventh month,
 and departed this life the 7th of the Eighth month; 1749,
@@ -443,6 +462,9 @@ whether poor or rich, who are of a corrupting spirit,
 and will tend to the hurt of those who associate with them; but keep thy place,
 and thou wilt be like a light set on a hill, as a guide to others,
 who will praise God on thy behalf.`"
+
+[.asterism]
+'''
 
 ANN ROBERTS, of Gwynedd, in Pennsylvania,
 was convinced of the truth in her native country, Wales, when young,
@@ -516,6 +538,9 @@ having been a minister fifty years, and was buried at Gwynedd aforesaid;
 on which solemn occasion, we had a good meeting,
 the extendings of Divine love being witnessed.
 
+[.asterism]
+'''
+
 ISRAEL PEMBERTON was born in the county of Bucks, in Pennsylvania, in the year 1684,
 being descended of pious parents,
 well esteemed among Friends in the first settlement of this province.
@@ -558,6 +583,9 @@ and accompanied the corpse to the graveyard, where he was seized with a fit,
 supposed to be of the apoplectic kind, and expired in about an hour,
 being the 19th of the First month, 1754, and was buried on the 22nd of the same month,
 in the sixty-ninth year of his age.
+
+[.asterism]
+'''
 
 PETER ANDREWS, of Burlington, in New Jersey,
 having received from the Lord a gift in the ministry, he was faithful thereto,
@@ -694,6 +722,9 @@ and no doubt he rests, with the spirits of the just made perfect,
 in those glorious mansions prepared for all those
 that hold out in faithfulness to the end.
 
+[.asterism]
+'''
+
 JOHN EVANS, of Gwynedd, in Pennsylvania, was born in Denbighshire,
 in the principality of Wales, in the year 1689,
 and arrived in Pennsylvania with his parents in 1698,
@@ -777,8 +808,8 @@ with a perfect resignation to the will of God,
 whether life or death should be his portion.
 
 On the day of his departure, observing his wife troubled,
-he said with a cheerful countenance, "`I am easy, I am easy,
-and desired her to be easy also;`" indeed,
+he said with a cheerful countenance, "`I am easy, I am easy,`"
+and desired her to be easy also; indeed,
 it appeared that the Lord had strengthened him on the bed of languishing,
 and made all his bed in his sickness.
 Thus having served God in his generation, he departed the 23rd day of the Ninth month,

@@ -32,6 +32,9 @@ that she was not unfrequently favoured to partake of the feeling of peace.
 She died the 18th day of the Tenth month, 1812, at the age of seventy,
 having been a minister about forty-five years.
 
+[.asterism]
+'''
+
 ROBERT MARRIAGE, of Chelmsford, in Essex, died on the first of the First month, 1813,
 having attained to but little more than fifty years of age.
 He was a man of an upright character, diffident of his religious qualifications,
@@ -107,7 +110,7 @@ And again, "`This is a struggle.`"
 A belief was expressed,
 that it would work for him a far more exceeding and eternal weight of glory;
 when he exclaimed, with great energy, "`Glory to God in the highest!
-Oh! that Thou mayst come quickly-come quickly; but I will endeavour to wait thy time.`"
+Oh! that Thou mayst come quickly--come quickly; but I will endeavour to wait thy time.`"
 He often prayed fervently for a little ease from pain,
 and that his mind might be kept tender; and on one occasion, when under great suffering,
 he remarked: "`Now I feel something run through me which takes away all my pain.
@@ -116,6 +119,9 @@ About a week before his decease, expressing a belief that he should not continue
 he added, "`The arms of mercy are open to receive me.`"
 He continued in a quiet, resigned state of mind; his understanding remained unclouded,
 and his close was full of peace.
+
+[.asterism]
+'''
 
 JOHN ELIOT was born in London, the second of the Twelfth month (old style), 1734-5,
 of parents who were members of our Society.
@@ -277,6 +283,9 @@ at his house in Bartholomew-close, London.
 He had nearly attained the age of seventy-eight,
 and had been a minister about fifty-three years.
 
+[.asterism]
+'''
+
 JOHN GLAISYER, of Brighthelmstone, was born at Icklesham, near Rye, in Sussex,
 in the year 1739, and was educated by his parents as a member of the church of England.
 About the twentieth year of his age,
@@ -338,6 +347,9 @@ which he delighted to dwell from his youth;
 and when he had the free use of his faculties, this seemed to be the anchor of his soul,
 and that of which he was desirous that others should become partakers.
 He died the 18th of the Fourth month, 1813, at the age of seventy-three.
+
+[.asterism]
+'''
 
 MARY BEVAN, wife of Joseph Gurney Bevan, of Stoke Newington,
 was the daughter of Robert and Hannah Plumsted, and was born in London, in the year 1751.
@@ -404,6 +416,9 @@ On the 23rd of the Fifth month, 1813, she was released from the conflicts of tim
 and her surviving friends had the consolation to believe that her
 purified spirit ascended to the realms of everlasting peace.
 
+[.asterism]
+'''
+
 ANN KITCHING, daughter of William and Ann Kitching, of Darlington, was born there,
 in the First month, 1776.
 She was an amiable and dutiful child, and, when about nineteen years of age,
@@ -440,16 +455,19 @@ and earnestly sought after resignation.
 The following extracts from some of her letters to a beloved brother,
 instructively show the progress of the work of purification.
 
+[.embedded-content-document.letter]
+--
+
 1809.--Tenth month, 12.
-"`I far more dread a lingering illness, than a removal from a state of mutability.
+I far more dread a lingering illness, than a removal from a state of mutability.
 I think I could give up all that is dear to me in this world,
 if it please the All-wise Disposer of events to cut the thread of my life ere long,
 having nothing that I know of to stand in my way, or make me very uncomfortable.
 What I most desire is,
 that I may stand fully resigned to whatever it is my lot to undergo,
-whether my life be longer or shorter.`"
+whether my life be longer or shorter.
 
-1811.--Third month, 16. "`If I am not mistaken, and I hope I am honest,
+1811.--Third month, 16. If I am not mistaken, and I hope I am honest,
 I have liberty to remark, that I have several times been enabled to say, Lord,
 give me patience and resignation, with a humble hope that I may be accepted,
 when it shall please Thee to deprive me of life; and then I am content, and can say,
@@ -459,9 +477,9 @@ to support in our trying conflicts with bodily infirmities,
 is an attainment worth striving for.
 I hope I have felt something of this under my late sufferings,
 which has been a cause of thankfulness; and I believe a great support to me,
-and many times kept me from complaining outwardly, which could do no good.`"
+and many times kept me from complaining outwardly, which could do no good.
 
-Eleventh month, 16. "`I can, after all, confess with gratitude,
+Eleventh month, 16. I can, after all, confess with gratitude,
 that I have indeed my low times: although they are trying,
 yet I firmly believe they are of great use,
 and make a state of silent tranquillity an enjoyment,
@@ -469,10 +487,10 @@ which we should not sufficiently prize without them.
 Command divine, "`Be still, and know that I am God.`"
 What instruction has this single line at times been to me,
 when my mind has comparatively been as a troubled sea, yet under all evidently supported;
-yea, I may perhaps say comforted, by a secret something that kept me from despairing.`"
+yea, I may perhaps say comforted, by a secret something that kept me from despairing.
 
 1812.--Fifth month, 5.--(Written by a friend, as dictated and signed by herself,
-her weakness and sufferings being such as to prevent her writing herself.) "`As
+her weakness and sufferings being such as to prevent her writing herself.) As
 thou so affectionately desirest to be informed of the feelings of my mind,
 I can freely acknowledge, in the depths of humility, and, I sincerely trust,
 without presumption, that since my close confinement to my chamber,
@@ -490,11 +508,11 @@ Low seasons, seasons of darkness, and, as it were,
 the withdrawing of that consolation and quietude which are so desirable,
 I have cause to believe, bring great good, when properly abode under.
 Preservation, and fortitude to desire, wish or be anxious for nothing,
-is what I most earnestly crave.`"
+is what I most earnestly crave.
 
 Eighth month,
 15.--(Written in addition to a letter which had been begun three months previously,
-but which she was then unable to finish.) "`When I look back,
+but which she was then unable to finish.) When I look back,
 and reflect on my apparent recovery from so very trying and additional suffering,
 I cannot but admire the condescending goodness of a merciful Creator,
 who dispenses a due portion of strength to support even the least of the family.
@@ -507,9 +525,9 @@ seeing so much has already been granted, and my poor spirits kept up to admirati
 It is good to trust in the Lord, and to resign all into his Almighty hands.
 He is indeed strength in weakness, and a never-failing helper in every time of need.
 Oh! that I may never cease to praise Him for all his benefits,
-for He is worthy of adoration and praise, at all times, and in all places.`"
+for He is worthy of adoration and praise, at all times, and in all places.
 
-Twelfth month, 4.--"`To look towards a recovery seems now almost out of the question;
+Twelfth month, 4.--To look towards a recovery seems now almost out of the question;
 but still I think I feel the sufficiency of that
 power that is able to calm the troubled sea.
 My greatest fear is, that,
@@ -524,9 +542,9 @@ and as if I were ready to faint by the way; still these have been profitable sea
 We should not expect or desire always to be filled.
 I seem as if there was no better way for me, at present,
 but to endeavour to keep under the refining fire, to be resigned and willing,
-either to remain still suffering, or to be restored.`"
+either to remain still suffering, or to be restored.
 
-1813.--Tenth month, 3. "`It is a good thing to feel resigned,
+1813.--Tenth month, 3. It is a good thing to feel resigned,
 and requires great watchfulness to keep us in so safe a place:
 if we do but resign ourselves, and everything belonging to us,
 fully and freely to the hands of a kind and gracious Providence,
@@ -544,11 +562,16 @@ What a melancholy time should I have had,
 if a most kind and loving Father had not so tenderly condescended
 to compassionate all the various states of a poor worm,
 and held out the cup of consolation in the needful time.
-"`
 
+--
+
+[.offset]
 She thus further describes her feelings to her absent friends.
 
-"`Surely, whilst the Lord is our Shepherd, we shall not want any good thing.
+[.embedded-content-document.letter]
+--
+
+Surely, whilst the Lord is our Shepherd, we shall not want any good thing.
 I have been as comfortable since our parting as I could wish.
 Oh! how humble ought we to be,
 when we consider the daily benefits that a most beneficent
@@ -563,7 +586,9 @@ I can acknowledge, that I never felt so comfortable,
 until I was enabled to do my best in pressing forward daily,
 without being anxious for the future, which saves much anxiety.
 We know not how much may be ours; therefore, to do our best each day,
-as we may be favoured with them, is certainly wise.`"
+as we may be favoured with them, is certainly wise.
+
+--
 
 We may be instructed in observing how, through the power of the Holy Spirit,
 the afflictions of our departed friend became the means of her increased purification.
@@ -635,8 +660,8 @@ and this language had been impressed on her spirit: "`Be still, and know that I 
 cannot I do all things for thee?
 Who is there in all the earth that can do thee any good?`"
 
-"`Yes,`" she added, "`Be still, and know that I am God.`"
-"`But`" she continued,
+"`Yes,`" she added, "`Be still, and know that I am God.
+But`" she continued,
 "`We are so unwilling to endure all those operations of the divine hand,
 which are so necessary for our purification, that,
 instead of waiting in stillness and resignation of mind,
@@ -661,6 +686,9 @@ on the 5th of the Eleventh month, 1813,
 her spirit was mercifully withdrawn from its afflicted tenement,
 and no doubt was admitted into those regions of purity and peace,
 of the nature of which it had so long and so largely partaken.
+
+[.asterism]
+'''
 
 WILLIAM WRIGHT, of Cork, was the son of William and Mary Wright, of the same place,
 and was born there in the year 1783.
@@ -694,6 +722,9 @@ evincing that his mind was stayed in resignation to the will of God,
 which he also expressed to be the case.
 On the 4th of the Twelfth month, 1813, he quietly expired,
 leaving the consoling evidence that his end was peace.
+
+[.asterism]
+'''
 
 JANE SHIPLEY, daughter of John and Elizabeth Dearman, of Braithwaite, near Thorne,
 in Yorkshire, was born in the year 1734.
@@ -798,7 +829,6 @@ I am apt to fear I have said or done something which has offended my great Maste
 that it pleases him to keep me so long here, in a poor, afflicted state,
 wherein I seem of no use in the creation; yet I know all his ways are just and equal,
 and it is not for us to fathom his inscrutable designs.
-
 These fears will, through weakness, intrude; yet, at other seasons,
 my mind is favoured with a full belief, that, whenever the solemn close may come,
 my spirit will be graciously admitted into everlasting rest.`"

@@ -62,6 +62,9 @@ at the age of sixty-seven.
 His burial was numerously attended by his friends and fellow-citizens,
 amidst the general regret of all classes.
 
+[.asterism]
+'''
+
 CHARLES COLEBY, of Alton, in Hampshire, was the son of Joshua and Mary Coleby, of London.
 In childhood he discovered an active and cheerful disposition; and at Ackworth,
 and other schools, gained the affection of his school-fellows,
@@ -76,7 +79,7 @@ especially the Holy Scriptures, in which he appeared to delight.
 
 When about the age of fifteen, in reply to a letter from his father,
 on the subject of books,
-he observed that he had been reading Newton`'s Dissertations on the Prophecies,
+he observed that he had been reading [.book-title]#Newton`'s Dissertations on the Prophecies,#
 from which he derived much satisfaction;
 and that he was surprised any one could entertain principles of infidelity,
 after a careful perusal of this work,
@@ -136,7 +139,7 @@ The day before his death he suffered much.
 He said, he had prayed that the conflict might be over that night;
 but he was afraid it was presumption in him,
 as it might be too much the result of feelings arising from great bodily affliction;
-adding, very sweetly, "`Dear father, pray for me; but be sure say, Thy will be done,
+adding, very sweetly, "`Dear father, pray for me; but be sure +++[+++to] say, Thy will be done,
 and not mine.`"
 He then fell into a short sleep; but soon awoke under considerable agitation of mind,
 which continued through the night, with but short intervals of composure.
@@ -150,6 +153,9 @@ although the voice was so feeble, that his attendants could not collect the subs
 except that, in one instance, he clearly articulated, "`Thy will be done forever.`"
 After this he departed without a struggle, at the age of sixteen years and a half,
 on the 1st of the Fifth month, 1819.
+
+[.asterism]
+'''
 
 JOSEPH RANSOM, son of John and Ann Ransom, of Hitchin in Hertfordshire,
 was a young man of orderly conduct, and well respected by his friends and acquaintance.
@@ -229,6 +235,9 @@ With this last expression his articulation became indistinct,
 and he passed from time into eternity, at the age of thirty-five,
 on the 8th of the Eleventh month, 1819.
 
+[.asterism]
+'''
+
 JAMES GRAHAM was born at Westerkirk, on the borders of Scotland, in the Eleventh month,
 1734.
 His parents were religious characters,
@@ -298,9 +307,13 @@ After he had somewhat recovered,
 he intelligibly and pathetically repeated the following
 stanza from one of Addison`'s hymns:
 
-"`My life, if thou preserv`'st my life, Thy sacrifice shall be;
-
-And death, if death should be my doom, Shall join my soul to thee.`"
+[verse]
+____
+"`My life, if thou preserv`'st my life,
+Thy sacrifice shall be;
+And death, if death should be my doom,
+Shall join my soul to thee.`"
+____
 
 Some time afterwards, he was again able to attend meetings,
 though the power of articulation was not fully restored.
@@ -318,6 +331,9 @@ He was preserved in a meek and quiet spirit,
 tears often trickling down his furrowed cheeks.
 He died on the 5th of the Twelfth month, 1819, at the age of eighty-five.
 
+[.asterism]
+'''
+
 ROBERT SEARLES was born at Glatten, in Huntingdonshire, in the year 1764,
 of parents professing the religion of the Church of England.
 In his youth, he was a frequent associate with persons of irreligious character,
@@ -332,8 +348,10 @@ After regretting that a difference in religious sentiments should
 produce so hostile a disposition in some serious minds,
 as at that period he had observed, he proceeds to remark:
 
-"`The great Leader and Pattern of Christianity said to his disciples,
-'`He that is not against us, is on our part;`' but some think,
+[quote]
+____
+The great Leader and Pattern of Christianity said to his disciples,
+"`He that is not against us, is on our part;`" but some think,
 because another does not see as they do, and does not walk with them,
 he cannot be a disciple.
 Whereas it would be much better to endeavour to imitate our holy Pattern,
@@ -385,7 +403,7 @@ as it is called.
 He being observant of his new set of men, and religiously inclined,
 left books in our counting-house, which,
 being desirous of knowing religious people and things, I used to get and read.
-One of these books was, Robert Barclay`'s Apology for the Christian Faith,
+One of these books was, Robert Barclay`'s [.book-title]#Apology for the Christian Faith,#
 as held by the people called Quakers.
 I thought myself a match for that, but was mistaken; for whenever I read in it,
 it used to reach my feelings.
@@ -403,7 +421,8 @@ but I did not know what I must do, nor how the matter would end.
 However, I was so far inclined to them,
 that I ventured the next first day to attend their meeting again:
 and some of the same Friends were there, and bore living testimony to the power of Truth,
-and again refreshed my spirit.`"
+and again refreshed my spirit.
+____
 
 Robert Searles became a diligent attender of our religious meetings;
 and in the course of a few years, was, with the full unity of friends,
@@ -444,7 +463,10 @@ and eminently owned, as the duties of a faithful minister of his Lord and Master
 The following extracts from two letters, written in the early part of the year 1820,
 describe the watchful state of his mind.
 
-1820.--First month, 21. "`I feel glad to find myself at home again,
+[.embedded-content-document.letter]
+--
+
+1820.--First month, 21. I feel glad to find myself at home again,
 amongst the concerns relating to this present life:
 although my service in this matter seems to me on the decline;
 yet I am most easy to do what is proper for me to do.
@@ -452,9 +474,9 @@ I cannot think that I have done any thing, or suffered any thing,
 worthy of the regard of him who so plentifully promises to reward in this life,
 and in the world to come with life everlasting; but I feel myself as a beginner,
 desiring to obtain a measure of strength to abide the day of trial,
-and to do the day`'s work in the day.`"
+and to do the day`'s work in the day.
 
-1820.--Fourth month, 7. "`I long that I may be one of the subjects of Christ`'s kingdom,
+1820.--Fourth month, 7. I long that I may be one of the subjects of Christ`'s kingdom,
 which, he tells us, is not of this world;
 so that I may be redeemed from the root of all striving,
 patiently submitting unto the Heavenly Father`'s will in all things.
@@ -473,7 +495,9 @@ Therefore, learn more and more to cease from man,
 and trust in the Lord alone for help and strength, to work whilst it is day,
 and vigour is felt, before desire fail.
 Oh! fear not man; neither what he can do unto thee; but look inward,
-have thy mind centred in the life alone, and as that moves, move with it.`"
+have thy mind centred in the life alone, and as that moves, move with it.
+
+--
 
 In the spring of the year 1820, he was taken unwell, but generally attended to his work.
 On Seventh day, the 15th of the Fourth month, he became much worse.
@@ -521,6 +545,9 @@ did not forsake him in sickness; that which had been to him riches in poverty,
 was now a present help in the time of need;
 evincing the truth of that declaration concerning our Lord, that "`having loved his own,
 He loved them unto the end.`"
+
+[.asterism]
+'''
 
 HADWEN BRAGG was born at Whitehaven in Cumberland, about the year 1763.
 His parents, John and Margaret Bragg, were Friends in good esteem,
@@ -688,6 +715,9 @@ of the religious Society of which he was a member;
 and we may consolingly believe,
 that his purified spirit was mercifully translated to the realms of eternal bliss.
 
+[.asterism]
+'''
+
 MARY NAFTEL was born at Austle in Cornwall, in the Tenth month, 1756.
 Her parents, John and Joanna Higman, were members of our Society;
 and as the meeting to which they belonged was very small,
@@ -705,7 +735,9 @@ But, through Divine mercy afresh extended, her mind was humbled,
 and she became sensible of the dangers to which she had been exposed;
 and wrote as follows:
 
-"`Thou art my God, and I will praise thee; my Saviour, and I will extol thee.
+[quote]
+____
+Thou art my God, and I will praise thee; my Saviour, and I will extol thee.
 What moved thee, O thou Father of infinite goodness and mercy! to cast an eye,
 a pitying eye, upon me, a poor worthless creature,
 when I was running in the sure road to eternal destruction?
@@ -717,7 +749,8 @@ wearied with following the vanities of this licentious age,
 wanting to find more of happiness than this transitory world can give,
 then thou lookedst upon me, O Lord! in thy infinite and unspeakable mercy,
 and saidst,`" Follow me:`" nay, not only so, but leddest me forth,
-free from the entanglements of the world, and from the many snares that are therein.`"
+free from the entanglements of the world, and from the many snares that are therein.
+____
 
 About the twenty-second year of her age she first spoke as a minister; and,
 in the year 1789, was married to Nicholas Naftel, and settled in the island of Guernsey,
@@ -728,7 +761,9 @@ from which place she was absent about two years, on a religious visit in America
 where her gospel labours and circumspect conduct were edifying.
 On a review of this visit, she writes thus:
 
-"`Since my return to my own habitation in peace,
+[quote]
+____
+Since my return to my own habitation in peace,
 in commemoration of the Lord`'s gracious dealings with me,
 how can I do less than leave testimonies to his goodness and tender mercy,
 in permitting me to return with joy.
@@ -736,7 +771,8 @@ Strength has been afforded me to give in my certificates,
 both to the monthly and quarterly meetings, with those from the American continent.
 Oh! how often is my mind bound up with some there,
 in the ever-blessed covenant of love and life, which, I trust,
-will never be dissolved or broken.`"
+will never be dissolved or broken.
+____
 
 The friends of her own monthly meeting, in their testimony concerning her, remark:
 "`Having had large experience, and being favoured with clear discernment,
@@ -761,7 +797,7 @@ and to have only the pains of the body to struggle with.`"
 Soon after, speaking of resignation, she said, "`Oh! it is a fine thing to be resigned,
 to be quite resigned, and to love the Lord with all the heart;`" and after a short pause,
 added, "`What a very sweet place it is, where it is said,
-"`I know thy works and tribulation.`"
+'`I know thy works and tribulation.`'`"
 And at another time said, "`Oh! how precious is love.
 I wish my love to all friends, everywhere.
 I never felt greater love than I do now;`" and then added, "`The joy I feel.`"
@@ -779,6 +815,9 @@ which she bore with Christian patience,
 evincing that her mind was greatly favoured with Divine love, and said, "`Through mercy,
 I have a hope that, if I am taken, I shall be gathered to the just of all generations.`"
 She passed away quietly, from time to eternity, on the 18th of the Eleventh month, 1820.
+
+[.asterism]
+'''
 
 ELIZABETH SYBILLA FRY, wife of William Fry, of Stamford-hill, near London,
 was born the 4th of the Seventh month, 1775, and was educated by her parents,
@@ -814,7 +853,9 @@ through Christ Jesus our Lord.
 The following, found among other valuable memorandums,
 made in reference to her declining health, mark the state of her mind.
 
-"`What times for telling us the truth such seasons of sickness are;
+[quote]
+____
+What times for telling us the truth such seasons of sickness are;
 but oh! for an abidance under these feelings.
 How do I fear for myself, upon my recovery, in returning to the world,
 lest I should not keep near enough to that preserving Power,
@@ -822,10 +863,10 @@ in true simplicity and humility.
 This humility, that seeks not the praise of man.
 What a desirable attainment! the chief one to be longed for.
 May I more and more press after it,
-that I may the more closely follow the great and perfect Pattern of humility.`"
+that I may the more closely follow the great and perfect Pattern of humility.
 
-'`Be ye also ready, for at such an hour as ye think not,
-the Son of man cometh.`' How awful and unexpected
+"`Be ye also ready, for at such an hour as ye think not,
+the Son of man cometh.`" How awful and unexpected
 was my attack on the 29th of Eleventh month,
 1819.
 When I left my home in the morning, I was not much more poorly than I often am; and,
@@ -852,13 +893,14 @@ How was Divine goodness pleased to break in upon my soul,
 when I was endeavouring to wait upon Him for help!
 And I was permitted to feel the inestimable privilege
 of knowing what that language meaneth,
-'`Be still,
-and know that I am God.`' Oh! the entire unworthiness
+"`Be still,
+and know that I am God.`" Oh! the entire unworthiness
 I feel of any claim to everlasting good;
 and I am thankful in being made sensible of it,
 and in feeling that it is wholly and alone of the free mercy of a gracious God,
 and the redeeming love of a crucified Saviour,
-whereby I can hope to be made a participator in immortal light, love, and praise.`"
+whereby I can hope to be made a participator in immortal light, love, and praise.
+____
 
 At one time she remarked,
 that her sufferings during the preceding evening and night had been indescribable,

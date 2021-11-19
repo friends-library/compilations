@@ -19,12 +19,15 @@ Although his general conduct from early life had been such
 as to gain for him the esteem and love of his friends,
 yet, in taking a retrospect of the past, he writes thus:
 
-"`I feel and know that time and expression would fail me,
+[quote]
+____
+I feel and know that time and expression would fail me,
 were I to attempt to show the great mercy, long suffering,
 and forbearance of a merciful God to my soul,
 and the many sins of omission and commission which I have been guilty of;
 rebelling against his grace and good spirit in my soul,
-even whilst highly professing with his people.`"
+even whilst highly professing with his people.
+____
 
 In his youthful days,
 after he had been favoured with the convictions of the Spirit of Truth,
@@ -33,7 +36,9 @@ and other works of the same character.
 His own remarks, in after life, upon this dangerous practice,
 contain the following reflections:
 
-"`I have found, and now record it as a caution, that they were extremely hurtful to me,
+[quote]
+____
+I have found, and now record it as a caution, that they were extremely hurtful to me,
 and fed almost every evil propensity of the natural mind.
 For though it is urged that honey may be extracted from even poisonous flowers,
 yet I know by experience that the depraved mind will
@@ -57,7 +62,8 @@ particularly some of the wicked imprecations and expressions,
 that I could not go through, but trembled very much,
 and retired with a resolution not to attempt it again; which, by renewed mercy,
 I was enabled to keep to,
-though the love and root of the matter still remained in degree.`"
+though the love and root of the matter still remained in degree.
+____
 
 As Adey Bellamy advanced in years,
 he became more decided in his attachment to the cause of piety and virtue.
@@ -72,19 +78,21 @@ and zealously concerned for the faithful maintenance of the same.
 The following memorandums instructively show the exercise
 of his mind on subjects of the highest importance.
 
-1783+++.+++ Fourth month, 13th. "`Is it not a near advance to Christian perfection,
+[quote]
+____
+1783+++.+++--Fourth month, 13th. Is it not a near advance to Christian perfection,
 if not the highest state of it, in this militant state,
 to be made willing to do and suffer all the will of God, made manifest in us?
 And is not watchfulness the first step towards this state of perfection?
-O Lord, make me ever more watchful, humble, and attentive to thy voice.`"
+O Lord, make me ever more watchful, humble, and attentive to thy voice.
 
-1785+++.+++ Eleventh month, 18th. "`When the light of the Lord shines most upon my soul,
+1785+++.+++--Eleventh month, 18th. When the light of the Lord shines most upon my soul,
 oh! how it humbles the creature; then do I indeed appear as vile in his sight,
 and that my sins ought to be forever before me,
 and my whole life dedicated to acknowledge the same,
-and to praise his mercy and goodness, in that I was ever brought to a sight of myself.`"
+and to praise his mercy and goodness, in that I was ever brought to a sight of myself.
 
-1793+++.+++ Fifth month, 1st. "`How precious it is, O Lord,
+1793+++.+++--Fifth month, 1st. How precious it is, O Lord,
 to have a heartfelt sense of the prevalence of thy love over every sensible object.
 How necessary, how desirable it is,
 to be sought after and waited for in abstraction
@@ -96,10 +104,10 @@ Unless Thou draw us, we should never follow Thee, much less run after Thee;
 but be ever seeking enjoyment and consolation where they are not permanently to be found.
 May we then, more often than the morning,
 desire to experience the drawing cords of thy love to be manifested in our souls;
-and oh! strengthen us to follow Thee whithersoever Thou leadest.`"
+and oh! strengthen us to follow Thee whithersoever Thou leadest.
 
-1795+++.+++ Ninth month.
-"`I think I may say without boasting,
+1795+++.+++--Ninth month.
+I think I may say without boasting,
 that I am no bigot--not disposed to favour any particular
 system of religion merely as such;
 but one who wishes for, and sometimes is enabled to pray for,
@@ -111,13 +119,13 @@ to walk after his example, in self-denial,
 and in the mortification of the will and wisdom which are striving to attain
 the gratifications of this life--I see in myself so much want of the one,
 and proneness to the other, that I can readily make allowance for others.
-
 Yet, whatever our profession of religion may be, unless it is a principle which,
 if followed, will bring us nearer to God, humble and contrite our spirits before Him,
 and give us strength to overcome the propensities of fallen nature,
 and to see the beauty of holiness,
 and beget in us desires to become more and more like the holy Pattern, it will prove,
-however ostensible and high in the sight of man, but an illusion, a dream.`"
+however ostensible and high in the sight of man, but an illusion, a dream.
+____
 
 Adey Bellamy first spoke as a minister in our Society,
 in the forty-first year of his age,
@@ -135,7 +143,7 @@ which seemed likely to prove mortal;
 and although of such a nature as to occasion great suffering,
 yet his mind appeared to be preserved in much quietness and resignation.
 Some hours after he had been relieved from this extremity,
-he spoke thus:"`I desire not to be anxious as to the event,
+he spoke thus: "`I desire not to be anxious as to the event,
 for which of us by taking thought can add one day or one hour to our lives.
 No, no--the great thing is, to be prepared for our final change;
 to beg forgiveness for what we have done amiss,
@@ -145,7 +153,7 @@ to bring us to this,--'`Ye are my friends,
 if ye do whatsoever I command you.`' Oh! it is a
 precious thing to be the friend of Christ,
 and to have Him for our friend: '`Whom the Lord loveth, He chasteneth,
-and scourgeth every son whom He receiveth.`'
+and scourgeth every son whom He receiveth.`'`"
 
 Although at the commencement of his illness, and for many weeks afterwards,
 it was not supposed that he could long survive,
@@ -163,6 +171,9 @@ if it is the will of the Almighty, I might not go off in such extremity,
 but that I might quietly leave my friends.`"
 This desire was mercifully granted; for, on the 29th of the Third month, 1810,
 he was released without apparent suffering.
+
+[.asterism]
+'''
 
 JOHN HALL, of Little Broughton, near Cockermouth, was born there in the Third month, 1744.
 His parents were Isaac and Alice Hall;
@@ -252,7 +263,10 @@ he answered with great difficulty, "`Nothing at all: I am going to heaven.`"
 These were almost the last expressions which could be understood.
 About noon, the following day, he quietly drew his last breath,
 at his own house in Little Broughton, the 2nd of the Sixth month, 1810,
-at the age of sixty-six
+at the age of sixty-six.
+
+[.asterism]
+'''
 
 RICHARD JACOB was the eldest son of Joseph and Hannah Jacob, of Waterford,
 and was born there, in the Sixth month, 1758.
@@ -332,12 +346,14 @@ After the meeting, but before he reached his own dwelling, he was seized with ap
 which, in about three hours, terminated his life.
 The testimony of the monthly meeting of Waterford,
 from which the foregoing account is compiled, adds:
-
 "`The solemn calm,
 mercifully diffused at the time that he was thus suddenly
 but peacefully translated from this probationary state,
 was humbly accepted as an evidence of his admittance
 into permanent and undefiled rest.`"
+
+[.asterism]
+'''
 
 SARAH JONES, wife of George Jones, of Stockport, in Cheshire,
 was born in the borough of Southwark, the 15th of Third month, 1768,
@@ -413,8 +429,8 @@ that she could not always feel her mind in such a thankful state;
 and she had been thinking that, being at that time favoured therewith,
 afforded her some ground to hope and trust in divine goodness and mercy.
 
-On another occasion she also said, "`I have at times been permitted to feel a hope,
-+++[+++of eternal salvation]
+On another occasion she also said, "`I have at times been permitted to feel a hope
++++[+++of eternal salvation,]
 and I count it an unspeakable favour--an unmerited mercy.
 I have thought, for a long time past, though I mourned all my days,
 if at last I could but feel a hope, I should be very thankful.`"
@@ -432,6 +448,9 @@ and she remarked how gently she had been dealt with.
 She passed quietly away from time to eternity;
 and her surrounding friends had the comfortable persuasion that,
 having served the Lord in her generation, she fell asleep in Jesus, her Saviour.
+
+[.asterism]
+'''
 
 CHRISTIANA HUSTLER, of Undercliff, near Bradford in Yorkshire,
 was the widow of John Hustler, of the same place, whom she survived many years,
@@ -514,6 +533,9 @@ until the 27th of the Sixth month, 1811, when, at the age of seventy-nine,
 her spirit was released from the conflicts of mortality, prepared, we cannot doubt,
 to partake of the joys of God`'s salvation.
 
+[.asterism]
+'''
+
 MERCY RANSOM, late of Hitchin, in Hertfordshire, was, from her youth,
 a friend of steady and consistent conduct; and was favoured, when in the vigour of life,
 to yield, in measure, to the power of that love,
@@ -544,61 +566,64 @@ The following extracts from some memorandums made by her,
 during this painful confinement, are introduced,
 as exemplifying the consolations of religion, in the midst of much bodily suffering.
 
-1806.--Fifth month, 7. "`Last night went to bed unwell, and in considerable pain,
+[quote]
+____
+1806.--Fifth month, 7. Last night went to bed unwell, and in considerable pain,
 which was unremitting, until near two o`'clock; but my mind was calm,
 and enabled to aspire after heaven and heavenly things; and, I thought,
 renewedly qualified to join in the language of David,
 when he calls upon all the creation to praise the Lord.
 Surely praise is always due to Him, whether we are in prosperity or adversity;
-because he maketh all things work together for good, to them that love and fear Him.`"
+because he maketh all things work together for good, to them that love and fear Him.
 
-Sixth month, 15. "`Ill all day yesterday.
+Sixth month, 15. Ill all day yesterday.
 Went to bed poorly.
 Dropped asleep; but soon waked in much pain; was relieved, yet no inclination for sleep.
 As I lay musing, the excellency of pressing forward in the heavenly race,
 was afresh opened to my view;
 with desires that I might follow the example of the holy apostle,
-in leaving the things that are behind, and pressing forward to the mark for the prize.`"
+in leaving the things that are behind, and pressing forward to the mark for the prize.
 
-1807.--Fifth month, 30. "`Last night waked before twelve o`'clock in much pain,
+1807.--Fifth month, 30. Last night waked before twelve o`'clock in much pain,
 which abated in about two hours; but I could get no sleep until after five:
 yet my mind was favoured with sweet serenity,
 so that my pain of body was sustained without much sense of suffering.
 Thanksgiving and praise, for the secret, humble hope vouchsafed,
-of an admission within the pearl gates when time shall terminate.`"
+of an admission within the pearl gates when time shall terminate.
 
-1808.--Fifth month, 20. "`This morning under great pain of body,
+1808.--Fifth month, 20. This morning under great pain of body,
 and closely tempted and tried; I was reduced to great fear,
 and almost sunk below hope of ever rising again;
 but even then I was enabled to derive a little encouragement,
 from the fresh remembrance of this gracious and animating assurance,
-'`Blessed is the man that endureth temptation; for when he is tried,
+"`Blessed is the man that endureth temptation; for when he is tried,
 he shall receive the crown of life,
-which the Lord hath promised to them that love Him.`'`"
+which the Lord hath promised to them that love Him.`"
 
 1809.--Seventh month, 22.
-"`This morning early I was lifted up in recollection
+This morning early I was lifted up in recollection
 of the Lord`'s mercies bestowed upon me,
 and enabled to commemorate them: they are both ancient and new; yea, renewed every day.
 I was under bodily pain; but heavenly dew refreshed my mind,
 and then all my trials seemed light, and, as it were, driven away for a time,
-as chaff before the wind.`"
+as chaff before the wind.
 
-Eleventh month, 27. "`Last evening the following language livingly arose in my mind:
-'`I know that my Redeemer liveth.`'`"
+Eleventh month, 27. Last evening the following language livingly arose in my mind:
+"`I know that my Redeemer liveth.`"
 
-1810.--Fourth month, 1st. "`Musing this morning, under bodily distress,
+1810.--Fourth month, 1st. Musing this morning, under bodily distress,
 my spirit earnestly craved patience in proportion to the trial,
 which was mercifully granted;
 and every disposition of soul was centred in entire resignation and thanksgiving;
 and I thought I could adopt the language of the apostle:
-'`In all things I am instructed.`'`"
+"`In all things I am instructed.`"
 
-Ninth month, 15th. "`My night watches were for some hours very comfortable;
+Ninth month, 15th. My night watches were for some hours very comfortable;
 many passages in Holy Writ were brought to my remembrance, with fresh instruction;
 and some afforded consolation, being, as I apprehended, opened by Him that openeth,
 and no man shutteth; and I was enabled to offer the sacrifice of brokenness of heart,
-with tears that afforded joy.`"
+with tears that afforded joy.
+____
 
 This tried servant of the Lord was confined to her
 bed for about four months before her death,
@@ -636,6 +661,9 @@ As her sufferings increased, her hope of acceptance with God increased also,
 and she often longed to be released; and when articulation became more difficult,
 she was mercifully borne up under the last conflict.
 She died at the age of eighty-three, on the 25th of the Fifth month, 1811.
+
+[.asterism]
+'''
 
 THOMAS COLLEY, of Sheffield, was a friend well known in our Society,
 and highly esteemed as a faithful and diligent minister of the Gospel of Christ,
@@ -680,13 +708,16 @@ and he was enabled to look, in faith, unto Him, and to lay hold on his gracious 
 
 Being favoured to return home in safety, he penned the following reflections.
 
-"`Under a grateful remembrance of the many favours of the Almighty,
+[quote]
+____
+Under a grateful remembrance of the many favours of the Almighty,
 graciously extended to us, through the course of this long and perilous journey,
 in preserving us in the midst of a raging and tumultuous war,
 in opening our way in the service in which we were engaged,
 and affording ability and strength to discharge the duty of the day,
 are our spirits humbly bowed in deep reverence and thankfulness
-to the Father and Fountain of all our living mercies.`"
+to the Father and Fountain of all our living mercies.
+____
 
 A few years after his return from the above-mentioned voyage,
 this devoted servant of Christ again left his near connections,
@@ -699,16 +730,19 @@ among those of other religious societies.
 
 In reference to one of the last-mentioned of these services, he thus writes from London:
 
-"`I have laboured many weeks in this populous place;
+[quote]
+____
+I have laboured many weeks in this populous place;
 visited all the meetings in this city, and most of them on First-days;
 and also have attended their quarterly and monthly meetings,
 and have had public meetings at all the meetinghouses, and in other places;
 in which service, I may with reverence acknowledge, that the Lord has been near,
-and his ancient promise fulfilled: '`As the day is,
-so shall thy strength be.`' The meetings have generally been large;
+and his ancient promise fulfilled: "`As the day is,
+so shall thy strength be.`" The meetings have generally been large;
 neither unfavourable weather, nor snow on the ground,
 prevented the people from attending; and that living Power,
-which is both ancient and new, was a crown and diadem to our assemblies.`"
+which is both ancient and new, was a crown and diadem to our assemblies.
+____
 
 When not engaged in religious service, he was diligent in attention to his business,
 which was that of a cutler, and of which the superintendence,
@@ -782,6 +816,9 @@ appearing to be in a state of patient waiting for the full
 accomplishment of the Divine will concerning him;
 and, on the 12th of the Sixth month, 1812, he expired in the seventieth year of his age,
 having been a minister forty-four years.
+
+[.asterism]
+'''
 
 FRANCIS FOX.--It is instructive,
 and cause of thankful acknowledgment to the goodness of our heavenly Father,

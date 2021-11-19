@@ -82,7 +82,6 @@ whose light in my conscience showed me the way I should walk in!
 How often hath he knocked at my stony heart, saying,
 This is the blessed truth which the Quakers preach,
 by which all souls that I have made shall be saved!
-
 Then have I said in my heart, After such a thing and such a thing is accomplished,
 I will leave off my life of vanity, and become a new creature.
 Oh!
@@ -102,7 +101,7 @@ my heart shall never go after the sight of my eyes.
 My dear mother, pray for me; for whatsoever thou askest of the Lord,
 it shall be given thee.
 
-My dear mother,
+"`My dear mother,
 thou hast often told us of the terrible and dreadful day of the Lord God that is at hand.
 O, it will be a dreadful day to the wicked of all sorts, the Lord hath showed it me.
 Woe, woe, to the children of scoffers! for as it was in Elisha`'s day,
@@ -116,7 +115,6 @@ O my mother, I have heard God`'s thundering power rattle upon the heads of his e
 A woe will be to the children of pride in that day;
 and woe will be to the blind guides that wear the long robes,
 the false teachers of this nation.
-
 Did not our blessed Lord say, if the blind lead the blind,
 both should fall into the ditch?
 Ah, Lord! how should it be otherwise?
@@ -138,6 +136,7 @@ then I will speak of thy wonderful power; yea,
 my voice shall be as the sound of a trumpet, which shall convert sinners unto thee; yea,
 I will sit in the dust, and cover my head with ashes,
 and put on sackcloth within and without.`"
+
 Taking something to drink, she lay still a little time, and with joy in her heart,
 made sweet melody to the Lord, but did not utter any words;
 then she broke forth again in praising and magnifying his great works.
@@ -161,7 +160,6 @@ Pray, my mother, call my father; I have something to say to him.
 I desire my body may not be laid in that abominable place,
 but among the people of the Lord called Quakers.
 Now I am a true Quaker, now I tremble before the Lord and his holiness.
-
 Come, ye holy prophets, who were quakers and tremblers at the word of the Lord; come,
 Moses and Jeremiah; come, holy Habakkuk, now I am one with thee: now my heart drops,
 because of the Lord, and the greatness of his majesty.
@@ -203,12 +201,12 @@ their measure is running over; but they never tasted the joys,
 the unspeakable ravishments of soul that attend the humble, holy life of Jesus.
 Oh! if they had ever tasted the least mite thereof,
 they would bid adieu to all their life of vanity.
-
 Ah, they would not dare to spend their precious time in adorning themselves like Jezebel,
 patching and painting, and curling their monstrous heads.
 The Christian life is another thing,
 they must not give themselves liberty to think their own thoughts,
 much less to act such abominations as these.`"
+
 After she had lain awhile, praising and magnifying the Lord,
 she spoke very deep and weighty things, which are not set down,
 concerning the wise virgins and their lamps burning,
@@ -220,7 +218,6 @@ this is that flaming sword you must pass through, mark that, you must pass throu
 before you can come to the tree of life.
 This is the cup my Saviour asked if you could drink of,
 and this was that baptism he asked if you could be baptized withal.
-
 Come all you that call yourselves Christians, what of the life of holy Jesus is in you?
 who was a man of sorrows.
 You light and airy ones, you wild and wanton ones,
@@ -231,13 +228,13 @@ but not doers: you workers of iniquity,
 that think ye can never have enough of the pride of life, the lust of the flesh,
 and the lust of the eye, which is not of my heavenly Father,
 and so you are of your father the devil, for his servants you are whom ye obey.`"
+
 At another time she said, "`I have heard them say,
 that my mother is so grounded in her religion, that it is impossible ever to turn her.
 My mother is grounded indeed, she is established upon the rock that shall never be moved:
 my mother shall never be moved, her name is written in heaven, yea,
 in the Lamb`'s book of life it is sealed: the Lord hath told me so, and bid me tell her,
 There should none be able to pluck her out of his hand.
-
 Come, my blessed mother, I have something to say to thee--thou art Mary,
 thou hast chosen that good part which shall never be taken from thee;
 thou shalt sit continually at the feet of thy Lord, aye, this is my mother`'s portion: O,
@@ -252,7 +249,6 @@ for my sins stood like mountains, that I could not come near thee.
 I would fain have prayed, but could not.
 I lay several days and nights prostrate before thee, struggling for life,
 but could find none; and I said, there is no mercy for me.
-
 Then said I, I will never leave thee; if I perish, I will perish here.
 I will never cease crying unto thee.
 Then I heard a voice say, Jacob wrestled all night before he obtained the blessing.
@@ -262,6 +258,7 @@ then the spirit of prayer and supplication was poured into my soul;
 and now I can sing as David did of mercy and judgment.
 Unto thee, O Lord, will I sing: with a rended heart, and my mouth in the dust,
 will I sing praises unto thee, my blessed Saviour.`"
+
 For several days she had a very great conflict in soul and spirit concerning the tempter,
 and strong were her cries to the Lord for strength to overcome the enemy.
 She was so deeply engaged in the holy war of the Lord,
@@ -293,7 +290,6 @@ O my dear mother, if it please our dear and heavenly Father to spare me this tim
 we will get us into the country to some remote place, amongst the woods,
 where none can hear us; then shall our cries pierce through the heavens,
 and shall make the earth to ring, and the birds shall hear the echo thereof.
-
 There my blessed mother, will we sing praises with rended hearts,
 and our mouths in the dust, to the one, holy Lord.
 O thou glorious One, thou hast overcome my heart, thou hast ravished my soul.
@@ -330,7 +326,6 @@ praise and exalt him above all things forever: thou sun and moon,
 ye stars in the firmament of his power, magnify the Lord above all forever.
 All ye fishes in the sea, why come ye not forth to praise the Lord, the mighty God,
 who gives you breath and being?
-
 I will praise thee whilst I have any breath: praise the Lord, O my soul,
 sing praises to the God of my salvation: my holy One, thou hast overcome my heart,
 thou hast ravished my soul.
@@ -343,8 +338,12 @@ how glorious art thou!
 I have seen thy glory; my heart is overcome with thy sweet countenance.
 O come away, why dost thou stay?
 I am ready, I am ready.`"
+
 After lying some time very still, she was heard in a heavenly harmony,
 in which frame of spirit she departed without either sigh or groan, aged fifteen years.
+
+[.asterism]
+'''
 
 JOHN SIMCOCK was a nursing father in Israel, tender over the seed of God,
 and wherever he saw it, in the least appearance, he was a cherisher of it,
@@ -356,7 +355,7 @@ He was a great sufferer for truth`'s sake, both by imprisonments and loss of goo
 He travelled much in truth`'s service, and notwithstanding all his sufferings,
 he was in no ways chargeable to any, but rather helpful to those who stood in need.
 
-In Joseph Besse`'s history of Friends`' sufferings,
+In Joseph Besse`'s [.book-title]#History of Friends`' Sufferings,#
 are some accounts of those sustained by him, and of his pious,
 meek disposition towards his oppressors.
 Once he was imprisoned a year and three months,
@@ -405,6 +404,9 @@ and to be an atonement for all them that would come to God by him,
 who is the living Word and promised seed of the covenant.`"
 He died the 27th of the First month, 1703.
 
+[.asterism]
+'''
+
 ELEANOR SMITH, wife of John Smith of Darby, in Pennsylvania, was born at Harborough,
 in Leicestershire, Old England: her maiden name was Eleanor Dolby.
 She received truth about the age of thirteen years, and lived and died therein,
@@ -435,6 +437,10 @@ She died the 10th day of the Seventh month, 1708, aged fifty-five years.
 In the time of her last illness, she wrote the following epistle to the monthly-meeting,
 of women friends at Darby, viz:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear Sisters,
 
 Herewith I send you the last salutation of my love,
@@ -455,9 +461,16 @@ but your branches laden with good and weighty fruit, which will find acceptance 
 So no more, but my tender love to you in the blessed truth.
 I take my leave and bid you farewell in the Lord.
 
+[.signed-section-closing]
 The last from your loving sister,
 
+[.signed-section-signature]
 Eleanor Smith.
+
+--
+
+[.asterism]
+'''
 
 JOHN SMITH, of Darby, in Pennsylvania, was born in Leicestershire, in Old England,
 in 1645, and was convinced of the truth at the age of fourteen years,
@@ -502,6 +515,9 @@ This he spoke just before his departure, being fresh in spirit,
 and perfect in sense and memory to the last hour.
 He died the 11th day of the Twelfth month, 1714, aged sixty-nine years and four months.
 
+[.asterism]
+'''
+
 BENJAMIN JORDAN was born the 18th of the Seventh month, 1674,
 in Nancemond county in Virginia, of believing parents,
 who were careful to educate their children in the blessed truth for which they suffered,
@@ -535,6 +551,9 @@ into thy hands I commit my spirit.
 Lord, help me at this time.`"
 And so departed in quietness, the 12th of the Twelfth month, 1716,
 aged about forty-two years.
+
+[.asterism]
+'''
 
 ELIZABETH SMALL, wife of Benjamin Small, of Nancemond county, Virginia,
 was born the 31st of the Sixth month, 1666.
@@ -579,6 +598,9 @@ She told her son William, "`She hoped that day would be a good one to her,`" and
 "`She had prayed for an easy passage.`"
 And accordingly she quietly departed the 25th of the Seventh month aforesaid,
 aged fifty-two, a minister about eleven years,
+
+[.asterism]
+'''
 
 ELLIS PUGH was born in the parish of Dolgelly, in the county of Merioneth,
 and principality of Wales, in the Sixth month, 1656.
@@ -645,7 +667,7 @@ He was in a declining state of bodily health about
 a year and three months before his decease,
 so that he was not well able to follow his calling; but his candle shone brighter,
 as may be seen by perusing his treatise,
-called "`A salutation to the Britons;`" which he wrote in his own language +++[+++Welsh]
+called [.book-title]#A Salutation to the Britons;# which he wrote in his own language +++[+++Welsh]
 in the time of his long sickness,
 when his view was towards that which pertains to eternity.
 It was designed more especially for the sake of those to whom the
@@ -675,6 +697,9 @@ the righteous judge, shall give me at that day; and not to me only,
 but unto all them also that love his appearing.`"
 Being patient in his tedious indisposition, and contented to wait the Lord`'s time,
 he slept with his fathers on the 3rd day of the Tenth month, 1718, in favour with God.
+
+[.asterism]
+'''
 
 WILLIAM HAIG, of Pasquotank county, who removed from Antigua with his family,
 and settled in the province of North Carolina, was of a loving and sweet spirit.
@@ -718,6 +743,9 @@ sure foundation and rock that can never be removed,
 he quietly departed this life, at his own house, on the 6th of the Eleventh month, 1718,
 and now rests in joy.
 
+[.asterism]
+'''
+
 MARY HAIG, wife of the aforesaid William Haig,
 was a woman of an exemplary life and conversation, of a sweet and loving behaviour,
 and was favoured with a gift in the ministry of the gospel of Christ Jesus.
@@ -740,7 +768,7 @@ the Lord made himself known to me; but I then lived where there were no Friends;
 and after some time, I went to Pennsylvania, and there met with Friends.
 Some were loose and light, others were solid and weighty, and with these I joined,
 and received much benefit from the family of the Lloyds.
-After I was married we went to Antigua;, and there, in the first meeting,
+After I was married we went to Antigua; and there, in the first meeting,
 the power of the Lord was greatly with me,
 insomuch that the people`'s expectations were upon me for words.
 But soon after, it pleased the Lord to send two of his servants,
@@ -763,6 +791,9 @@ and I have loved thee ever since I knew thee, and my case is no doubtful case.
 I come, I come; hasten thou my journey.`"
 She died the 13th of the Eleventh month, 1718, aged about thirty-nine years.
 
+[.asterism]
+'''
+
 JOSEPH GLAISTER, of Pasquotank county, in North Carolina,
 formerly of Cumberland in Great Britain, who removed with his family,
 and settled in North Carolina, was a valuable minister,
@@ -778,11 +809,11 @@ for I can say with one of old, Lord, I have long waited for thy salvation,
 and now have an assurance of it; and although the pains +++[+++of death]
 are great, yet the comfort and pleasure I see before me outbalance them all.`"
 
-Again he said, "`He hoped that friends might keep their places in being faithful,
+Again he said, he hoped that friends might keep their places in being faithful,
 and not shrink one from another when troubles or differences may arise in the church,
 or amongst neighbours, by any evil spirit that may get into any unfaithful one,
 for want of a true and faithful watch.
-And if any such thing do happen, pray friends, I hope that such as now are,
+"`And if any such thing do happen, pray friends, I hope that such as now are,
 or may then be, will stand firmly together, and give judgment in or by a living, fresh,
 and Divine spirit, and keep constant in mind,
 and thereby the transgressor or transgressors may be judged down,
@@ -799,6 +830,9 @@ but being almost spent, they could not hear every word so as to pen it down.
 Thus this good man ended his life, with a sense of the great love of God to his soul,
 on the 31st of the Eleventh month, 1718, aged about forty-five years,
 and a minister about twenty-four years.
+
+[.asterism]
+'''
 
 VINCENT CALDWELL was born in Derbyshire, Great Britain,
 and was convinced of the principles of truth held by the religious Society
@@ -857,6 +891,9 @@ and was interred in Friends`' burying-ground at Kennet; and we believe,
 he is entered into the mansions of glory,
 where "`The wicked cease from troubling and the weary are at rest.`"
 
+[.asterism]
+'''
+
 ANTHONY MORRIS,
 a well-esteemed member of the monthly meeting of Friends
 of Philadelphia at the early institution thereof,
@@ -896,7 +933,7 @@ At the same time, he said,
 Christ Jesus, the only Saviour and Mediator.`"
 Some friends who were going to attend a neighbouring yearly meeting coming to visit him,
 he took an affectionate leave of them,
-saying "`'`Remember my dear love to friends in general; tell them I am going,
+saying "`Remember my dear love to friends in general; tell them I am going,
 and all is well.`"
 He departed this life the 23rd of the Eighth month, 1721, aged sixty-seven years;
 and on the 25th his corpse was borne to the meetinghouse in High street, Philadelphia,
@@ -906,6 +943,9 @@ and thence to the burial-ground where it was interred.
 Concerning him there is reason to believe that he hath obtained
 an entrance into the mansions prepared by Christ Jesus our Lord,
 for those who continue faithful to the end of their time here, as did this friend.
+
+[.asterism]
+'''
 
 JAMES DANIEL SR.--The memory of the righteous cannot
 soon be forgotten by those who follow their footsteps,
@@ -971,6 +1011,9 @@ So, remaining sensible, he departed in the faith and hope of the gospel,
 like one falling into a sweet sleep, at his own house, on the 26th of the Tenth month,
 1726, in the fifty-second year of his age.
 
+[.asterism]
+'''
+
 CALEB PUSEY was born in Berkshire, Old England, and educated among the Baptists,
 but after he arrived to years of religious consideration,
 he was convinced of the principles of truth professed by the people called Quakers.
@@ -995,6 +1038,9 @@ no;`" after which he spoke little that could be understood,
 only desired "`That friends might keep their meetings in uprightness.`"
 He died the 24th of the Twelfth month, 1726-7, in the seventy-sixth year of his age,
 and was interred in Friends`' burying-ground at London Grove.
+
+[.asterism]
+'''
 
 HANNAH HILL, wife of Richard Hill, and daughter of Thomas Lloyd,
 formerly governor of the province of Pennsylvania, by Mary,
@@ -1049,13 +1095,13 @@ were objects of her peculiar care.
 In her younger years she received a gift in the ministry of Christ`'s gospel,
 which she retained with faithfulness to the end; and though not large in her testimonies,
 yet they were with great modesty and soundness of expression.
-'`Her doctrine dropped as the dew,
-and distilled as the small rain,`' and was therefore truly acceptable.
+"`Her doctrine dropped as the dew,
+and distilled as the small rain,`" and was therefore truly acceptable.
 She travelled in the service of the gospel to New England,
 and divers other parts of this continent,
 and was also concerned for the good order and discipline of the church,
 having for a number of years served in the station of clerk of the women`'s monthly,
-quarterly, and yearly meetings, wherein she gave satisfaction.`"
+quarterly, and yearly meetings, wherein she gave satisfaction.
 
 Although bodily weakness frequently attended her in the latter years of her life,
 it did not abate her love and zeal for the everlasting truth,
@@ -1082,6 +1128,9 @@ She was twenty-six years the wife of Richard Hill,
 who was a serviceable member both in church and state, and died in good esteem,
 the 4th of the Seventh month, 1729.
 
+[.asterism]
+'''
+
 JOHN BEVAN was born in Wales, about the year 1646, and well descended;
 his parents died when he was very young, leaving five children,
 of whom he was the eldest.
@@ -1093,7 +1142,10 @@ and gave them the means of subsistence in the world.
 Some years after he was convinced of the blessed truth as it is in Jesus;
 the manner of which, as he himself hath left it in writing, was thus:
 
-"`My wife was religiously inclined in her young years,
+[.embedded-content-document]
+--
+
+My wife was religiously inclined in her young years,
 and zealously concerned to observe the ceremonies of the church of England, and,
 I believe, as she has often told me,
 she aimed sincerely therein at God`'s glory and the salvation of her immortal soul.
@@ -1107,7 +1159,7 @@ the people called Quakers came before the view of my mind;
 and hearing of a book written by George Fox, the younger, at a relation`'s house,
 I was willing to go thither for it; and in the reading thereof I was so well satisfied,
 that I can truly say, what I then read answered the witness of God in my own bosom,
-as '`Face answereth face in a glass.`' Soon after I came home,
+as "`Face answereth face in a glass.`" Soon after I came home,
 my wife perceiving me to be more serious and weighty in my spirit than formerly,
 was jealous that I had an inclination towards the way which
 the people called Quakers made profession of;
@@ -1137,7 +1189,7 @@ into the weighty work of the salvation of her immortal soul;
 and the Lord`'s love was manifested to her, so that, in a little while after,
 her understanding was opened,
 and she came to be convinced of God`'s everlasting Spirit of truth,
-that was promised '`To lead into all truth.`'
+that was promised "`To lead into all truth.`"
 
 And having tasted of that living bread which gives life to the soul,
 she came to see there was no need of the outward bread,
@@ -1160,7 +1212,7 @@ several friends were taken from our house at two different times,
 and brought before two justices of the peace,
 who tendered the oath of allegiance and supremacy to them, and because,
 for conscience`' sake, they could not break the command of Christ, who said,
-'`Swear not at all,`' they were committed to prison,
+"`Swear not at all,`" they were committed to prison,
 where they remained about fourteen weeks, and then were set at liberty; ever since which,
 the meeting has been quietly kept either at our house or at the meetinghouse,
 without any more disturbance.
@@ -1219,7 +1271,7 @@ and has finished her course in peace with her Maker,
 and is gone to her eternal rest in the mansions of bliss and joy,
 to laud and magnify him forever.^
 footnote:[A short testimony concerning her, worthy of perusal,
-is printed in the Fifth part of Piety Promoted.]
+is printed in the fifth part of [.book-title]#Piety Promoted.#]
 "`We landed at last at Shields in Northumberland,
 and stayed over the meeting on the First day, where we were comforted with friends.
 
@@ -1244,7 +1296,9 @@ yet I am willing to part with all,
 for the Lord is better than all.`' She quietly departed
 this life the 26th of the Eleventh month,
 1710; aged seventy-three years and about four months;
-and though my loss thereby is great, yet it is her eternal gain.`"
+and though my loss thereby is great, yet it is her eternal gain.
+
+--
 
 John Bevan and his wife were examples of meekness, temperance, and charity,
 and having lived in love and fellowship with their brethren and sisters,
@@ -1259,7 +1313,7 @@ and were eminently favoured therein with the Divine presence.
 His sufferings, considering his faithfulness and the time he lived in,
 were not very many; his relations at times diverting the strokes of persecution from him.
 However, after a long prosecution by the vicar of the parish for his pretended dues,
-he was at last confined to Cardiff goal, in 1721, upon an excommunicato capiendo;
+he was at last confined to Cardiff goal, in 1721, upon an _excommunicato capiendo;_
 but there being some error in it, he was discharged the following sessions,
 and ever after left unmolested.
 

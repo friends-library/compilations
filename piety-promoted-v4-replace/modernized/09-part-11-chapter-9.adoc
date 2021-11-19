@@ -121,10 +121,14 @@ will furnish the best account of the manner in which
 her views were first directed towards our Society.
 After describing the grounds of her dissatisfaction with
 the profession of religion in which she had been educated,
-she says; "`I looked repeatedly on all the denominations I knew, and in so doing,
-those called Quakers were the only people.
-who appeared to live near that blessed Truth which is able to make us free indeed.`'
-I had once, out of mere curiosity, read Robert Barclay`'s Apology,
+she says:
+
+[quote]
+____
+I looked repeatedly on all the denominations I knew, and in so doing,
+those called Quakers were the only people
+who appeared to live near that blessed Truth which is able to make us free indeed.
+I had once, out of mere curiosity, read Robert Barclay`'s [.book-title]#Apology,#
 and could neither understand nor make anything of it; but now,
 the more I read of their writings,
 the more clearly I perceived their principles to
@@ -134,7 +138,7 @@ with their doctrine in every particular,
 and therefore exceedingly lamented that my education
 had not been in this religious Society;
 where they profess not only the necessity of worshipping in spirit and in truth,
-but are not ashamed.to wait in silence,
+but are not ashamed to wait in silence,
 until it shall please the Lord to prepare in them an acceptable offering.
 Yet this wish was altogether unattended with any idea that
 such a conformity would ever be required at my hands;
@@ -147,8 +151,8 @@ still a conformity to so singular a persuasion seemed utterly impossible;,
 and I wished that any other people had possessed
 the Truth in the same purity they hold it.
 
-"`Sometimes I prayed to be made obedient in all things, even unto death; and at others,
-'`I sought to avoid the name of Quaker,
+Sometimes I prayed to be made obedient in all things, even unto death; and at others,
+I sought to avoid the name of Quaker,
 which I was sensible must incur many reproaches from men,
 while all other professions accord in appearance with the world.
 But although the prospect before me was such as made nature shrink back at the view,
@@ -159,7 +163,8 @@ For He who tried me, and saw the way that I took, was a present help in the need
 when vain was the help of man.
 And here I found the peace of a Christian did not
 consist in being free from temptations and difficulties,
-but in calmly and steadily overcoming them, through Him who overcame.`"
+but in calmly and steadily overcoming them, through Him who overcame.
+____
 
 When she became fully convinced that it was required
 of her openly to make profession with Friends,
@@ -212,7 +217,7 @@ principle were strikingly obvious in her last illness;
 for although, to a very advanced age,
 her mental powers had been wonderfully preserved to her,
 the nature of the disorder which brought her valuable life to a close,
-was such as materially to weaken htr faculties: nevertheless,
+was such as materially to weaken her faculties: nevertheless,
 fervent piety and heavenly love were retained in their full strength, and appeared,
 indeed, to shine forth with increased brightness.
 In this truly desirable frame of spirit, all care and anxiety were removed from her;
@@ -289,7 +294,7 @@ requiring so much to be done during my waking hours,
 I find it difficult to get to that quietude which is so desirable.
 Short prayers frequently arise, which seem all that I am capable of.`"
 He several times expressed his desire for a more full assurance of acceptance with God;
-and once added, If that be granted but half an hour before the close,
+and once added, "`If that be granted but half an hour before the close,
 it will be enough.`"
 
 About a fortnight before his death, after expressing to one of his relations,
@@ -357,7 +362,7 @@ As he was earnest in the pursuit of substantial truth,
 and desirous of living in the fear of God, he was favored, from time to time,
 with the influence of his Holy Spirit.
 He read the Scriptures diligently, with a mind sincerely turned unto the Lord;
-and found that they were gradually opened to.
+and found that they were gradually opened to
 him, to his spiritual instruction.
 He continued for some years to be a steady attender of our religious meetings;
 and was admitted as a member of Lancaster monthly meeting,
@@ -465,7 +470,7 @@ they were preserved in a remarkable degree of Christian circumspection.
 
 Soon after leaving Bath, Joseph Naish settled in business in his native village,
 and resided with his aged father; his mother being deceased.
-Tn early life he married one who proved to him a faithful and affectionate help-meet;
+In early life he married one who proved to him a faithful and affectionate helpmate;
 and who, by her diligence in his temporal concerns,
 set him much at liberty to pursue those religious duties to which he felt himself called.
 She also united with her beloved husband,
@@ -482,7 +487,7 @@ His property was limited, but he had a sufficiency;
 and his habitation became well known as a place of Christian hospitality,
 and also of repose and succor, to many sincere laborers for the prosperity of Truth.
 His moderate estimate of his own endowments,
-rendered him less conspicuous`' than many in the larger meetings of his brethren;
+rendered him less conspicuous than many in the larger meetings of his brethren;
 but his gifts were well known and duly appreciated,
 in his more constant sphere of action.
 To women Friends, called to travel in the work of the ministry,
@@ -551,7 +556,7 @@ that he felt much for them; that they were near his heart.
 And on another occasion, when speaking of heaven, he observed:
 "`This is the only country I feel any relish for now.
 How I wish I could take you all there!
-Think no evil, speak no evil, do no evil; and then, if any one speak evil of you,
+Think no evil, speak no evil, do no evil; and then, if anyone speak evil of you,
 it cannot harm you.
 The enemy is endeavoring to entice and draw you off your guard.`"
 A while after, he said to a young woman who came to see him: "`You see me a dying man;
@@ -567,7 +572,7 @@ At one time, when engaged in prayer, the following words only were collected; "`
 look down upon me, for I am only as a little child.`"
 
 Nearly all the friends of the meeting to which he belonged,
-visited him in the course of his illness; and he imparted to every one suitable counsel.
+visited him in the course of his illness; and he imparted to everyone suitable counsel.
 Indeed, his manner was so impressive,
 and his mind so richly furnished with heavenly wisdom,
 that few left his chamber without being deeply affected.
@@ -799,7 +804,7 @@ and that, as I grow in stature, I may grow in grace.
 Oh! may I always walk in the narrow way that leads to eternal life,
 and be among the few that find it.
 May I be faithful in the few things,
-simply resigning the little that no be called for at my hands,
+simply resigning the little that may be called for at my hands,
 and faithful to every manifestation.
 
 1811+++.+++ have completed my fourteenth year.

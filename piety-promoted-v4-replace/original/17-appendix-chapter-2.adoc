@@ -37,7 +37,10 @@ manifesting her pious regard for the youth,
 and her anxiety for the increase and prosperity of the church of Christ,
 is thought proper to be here annexed, viz.:
 
-"`Upon the 4th day of the Fourth month, I was drawn forth to wait on the Lord,
+[.embedded-content-document.epistle]
+--
+
+Upon the 4th day of the Fourth month, I was drawn forth to wait on the Lord,
 and as I was waiting,
 the consideration of my dear children whom the Lord had taken to himself in their innocency,
 came before me, and my soul blessed his holy name for his great love towards them and me,
@@ -69,8 +72,8 @@ whom I will bless with a blessing from me, and they shall shine forth to my prai
 
 And now, Oh friends! that you may abide in the innocent life,
 and so you may feel the blessing of the Lord daily to descend upon you.
-But for you that '`Reject the counsel of the Lord, and cast his law behind your backs,
-and will have none of his reproofs,`' which are sorrowful sayings
+But for you that "`Reject the counsel of the Lord, and cast his law behind your backs,
+and will have none of his reproofs,`" which are sorrowful sayings
 concerning you who are the children of believing parents,
 you who are under the profession of the truth, which will do you no good,
 unless you return unto the Lord, I desire you may all return unto him,
@@ -78,10 +81,9 @@ whilst the day of a long-suffering, merciful God lasteth.
 But if you still reject the counsel of the Lord,
 and the many faithful warnings you have had,
 how will you answer it in the day when he cometh,
-'`To render unto every one according to their deeds?`'
+"`To render unto every one according to their deeds?`"
 
 Something further is with me to parents of children.
-
 Dear friends, you that have been convinced of God`'s unchangeable truth,
 and have known the work and operation of it,
 working out and bringing down that which was of a contrary nature to it.
@@ -89,8 +91,8 @@ Oh! that we may all abide faithful in his work, and retain our integrity to the 
 then let our breathing cries and prayers be offered up to the Lord for our children,
 that he would be pleased to look down in mercy upon them,
 and visit them as he did our souls.
-But as David said, '`If I regard iniquity in my heart,
-the Lord will not hear me;`' so I desire we may all
+But as David said, "`If I regard iniquity in my heart,
+the Lord will not hear me;`" so I desire we may all
 be clear in our offerings before the Lord,
 that he may smell a sweet savour from them.
 
@@ -113,16 +115,16 @@ and I believe that many had as clear a call to leave their native country,
 as some of old had,
 which caused many days and nights of sore travail and exercise before the Lord,
 and no ease could we have, but in giving up life and all to him, saying,
-'`Lord do what thou wilt with us,
-only let thy presence preserve us.`' And to his praise we can say,
+"`Lord do what thou wilt with us,
+only let thy presence preserve us.`" And to his praise we can say,
 he has been with us since we came to this country,
 and preserved us through many and various exercises, both inwardly and outwardly.
 
 And now that which lies on our parts I desire may be considered by us all,
 that so suitable returns may be made to the Lord,
 by walking in humility and godly fear before him; that so we may be good patterns,
-by keeping our places '`To the praise of him who
-hath called us,`' for he is worthy forever more.
+by keeping our places "`To the praise of him who
+hath called us,`" for he is worthy forever more.
 And, friends, something more is with me which I thought to omit,
 but find I can not well do it; that is, concerning our children,
 that we be very careful while they are young,
@@ -136,7 +138,13 @@ and keep our children out of the fashions and customs of this world.
 And oh! that we were all of one heart and mind in these and other things;
 then would the work of the Lord go on easily, which is the sincere desire of your friend,
 
-Hannah Carpenter.`"
+[.signed-section-signature]
+Hannah Carpenter.
+
+--
+
+[.asterism]
+'''
 
 ROBERT JORDAN was son of Thomas and Margaret Jordan, of Nancemond county in Virginia,
 born the 11th of the Seventh month, 1668,
@@ -166,6 +174,9 @@ he blessed God that he had been pleased to support him through
 every dispensation of his providence to that time.
 He died the 3rd of the Eighth month, 1728, and on the 9th of the same month,
 after a large meeting held on the occasion, was interred in the family burying-ground.
+
+[.asterism]
+'''
 
 ROWLAND ELLIS was born in the year 1650, in Merionethshire, North Wales,
 convinced of the truth about the twenty-second year of his age,
@@ -212,6 +223,9 @@ to which particular meeting he belonged, in the Seventh month, 1729.
 We trust it may be said concerning him, he rests in Jesus,
 enjoying the reward of the righteous, and his works do follow.
 
+[.asterism]
+'''
+
 ANN PARSON, of Wrightstown monthly meeting, in Bucks county, Pennsylvania,
 appeared in the ministry in her youthful days, and continuing faithful,
 travelled in that service several times through New England, the Jerseys, Pennsylvania,
@@ -219,11 +233,11 @@ Maryland and Virginia, in America, and through England, Ireland, Scotland and Wa
 in Europe; her ministry being savoury and to edification.
 She was a good example of an inoffensive life, patient in affliction,
 and died in good unity with the church.
+
 In her last illness, she said to her brother, Abraham Chapman:
 "`I have travelled a pretty deal in my time, and, according to my ability,
 have laboured in the love of God, in the service of truth, and good-will to all men,
 which springs in my bosom now as fresh as ever: blessed be His name.
-
 I desire thee, if I die now, by a few lines, to remember my kind love to Friends,
 desiring they may stand in the counsel of God; for I have often rejoiced and been glad,
 to see Friends stand in his counsel, and keep their places in the truth.
@@ -236,7 +250,6 @@ It is my advice to Friends, that they stand in the counsel of God,
 which will be to them as a mighty rock in a weary land,
 and enable them to wade through the various exercises and troubles which
 may fall to their share to meet with in this troublesome world.
-
 I have found it by experience to be a sure help in every needful and difficult time,
 when exercises seemed to surround me on every hand like the billows of the main;
 then I found, to stand in the counsel of God,
@@ -266,6 +279,9 @@ when time to him in this life should be no more,`" with many more of the like ex
 at several times during her illness.
 She died the 9th of the Tenth month, 1732, in the fifty-seventh year of her age,
 having been a minister thirty-three years.
+
+[.asterism]
+'''
 
 JOSEPH ELGAR was born at Folkstone, in Kent, Old England, the 30th of the Fourth month,
 1690, of believing parents; and came into America about the year 1720,
@@ -300,6 +316,9 @@ His remains were interred in Friends`' burying-ground at East Nottingham;
 on which solemn occasion, Mungo Bewley, of Ireland,
 who was then on a religious visit`' in America,
 exercised his gift to the comfort of many Friends.
+
+[.asterism]
+'''
 
 JOSEPH JORDAN was born in Nancemond county, in Virginia, in the year 1695,
 being the third son of Robert Jordan,
@@ -353,6 +372,9 @@ Thus, having happily completed his day`'s work,
 he laid down his head in much resignation and peace with the Lord Jesus,
 the 26th of the Ninth month, 1735, aged forty years; a minister about 17.
 
+[.asterism]
+'''
+
 CHRISTOPHER WILSON was born in Yorkshire, Old England,
 of parents who were members of the church of England.
 In his youth he was inclined to vanity,
@@ -378,6 +400,9 @@ Keeping mostly still and quiet, he, in a resigned, composed frame of mind,
 and in the faith of the Lord Jesus, finished his course the 11th of the Seventh month,
 1740, in the fiftieth year of his age; a minister about 12 years;
 and was interred in Center burying-ground.
+
+[.asterism]
+'''
 
 THOMAS CHALKLEY was born in Southwark, London, the 3rd of the Third month, 1675.
 He was descended of honest, religious parents,
@@ -618,6 +643,9 @@ with but little abatement, until Fourth-day morning, the 4th of the Ninth month,
 when he departed, we doubt not, to receive a crown of glory that shall never fade away.
 He was aged about sixty-six, and a minister about forty-six years.
 
+[.asterism]
+'''
+
 ROBERT JORDAN was born in the county of Nancemond, in Virginia,
 the 27th of the Tenth month, 1693, of parents in good esteem among Friends,
 and about the year 1718 he received a gift in the ministry,
@@ -628,7 +656,10 @@ then on a religious visit from Great Britain, were, under divine help, made inst
 Of his first travels in the service of truth,
 the following is an abstract from an account committed to writing by himself:
 
-"`I early found a concern on my mind to visit Friends in Maryland,
+[.embedded-content-document]
+--
+
+I early found a concern on my mind to visit Friends in Maryland,
 which I did on both sides of the Chesapeake bay, in fear and trembling,
 being young and weak, and the work very exercising, by reason of an obvious declension,
 which occasioned me much exercise in speaking and writing against the spirit of liberty,
@@ -673,7 +704,9 @@ and the emergency of times and occasions;
 so let not us of the ministry imitate one another in this respect, but be careful,
 dear friends, to keep to our true guide, the holy Spirit; for youth is warm, zealous,
 and, without seasonable caution and watchfulness, apt to exceed ability and experience,
-and so may be overstrained, and sustain loss and injury.`"
+and so may be overstrained, and sustain loss and injury.
+
+--
 
 In the year 1722, he performed a religious visit as far as New England,
 which employed him about ten months, and on his return home,
@@ -681,9 +714,12 @@ he was sued in the beginning of the following year for priests`' wages,
 and for his refusal to comply with the demand, he offered to the magistrates in writing,
 sundry considerations, which being taken amiss, he was, after some time,
 indicted by the grand jury, and summoned before the governor and council.
-In this time of trial he says,
+In this time of trial he says:
 
-"`Some forsook me as being ashamed of my testimony, and of my sufferings for it.
+[.embedded-content-document]
+--
+
+Some forsook me as being ashamed of my testimony, and of my sufferings for it.
 At my first appearance the fierceness of the dragon was felt,
 his dark power seeming to be great and terrible,
 as though he would have swallowed me up quickly,
@@ -739,7 +775,9 @@ without any acknowledgment or compliance, and this brought me into an acquaintan
 and ready admittance to the governor, who said I was a meek man.
 Thus I returned home with praise and thanksgiving in my heart to the Lord,
 who had caused his truth to triumph over the strong
-efforts of man and the powers of the earth.`"
+efforts of man and the powers of the earth.
+
+--
 
 In the year 1725, accompanied by Thomas Pleasants, he again visited friends in Maryland,
 and the yearly meeting near Choptank.

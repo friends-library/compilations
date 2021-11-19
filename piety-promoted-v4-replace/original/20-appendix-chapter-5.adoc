@@ -105,6 +105,9 @@ and was buried at Gwynedd, the 2nd of the Fifth month, 1765; being, we trust,
 admitted to the general assembly and church of the first-born,
 which are written in heaven.
 
+[.asterism]
+'''
+
 WILLIAM MOTT, of Mamaroneck, in New York government,
 being on a religious visit to Friends in Pennsylvania,
 after attending the yearly meeting at Philadelphia, intended proceeding to Nottingham;
@@ -154,6 +157,9 @@ until a few hours before his decease, when he signified,
 "`he had almost done with time.`"
 And changing fast, he quietly departed, the 15th of the Tenth month 1765, in a sensible,
 composed frame of spirit.
+
+[.asterism]
+'''
 
 MARGARET ELLIS, late of Radnor, was born in the principality of Wales,
 of parents professing episcopacy, and religious in that way.
@@ -215,6 +221,9 @@ as she lived in the fear of God, we doubt not she was accepted of him,
 and enjoys the reward of her faithfulness.
 She died the 13th of the Eleventh month, 1765, in a good old age.
 
+[.asterism]
+'''
+
 MARY MOORE, late wife of James Moore, of Sadsbury, in Pennsylvania,
 and daughter of Joseph and Sarah Wildman, of Bucks county,
 was born the 8th day of the Eighth month, 1720.
@@ -244,6 +253,9 @@ at the same time encouraged him to faithfulness,
 and desired Friends would be still and quiet until her departure.
 Being sensible to the last, she quietly expired the 13th of the Seventh month, 1766,
 aged forty-five years.
+
+[.asterism]
+'''
 
 JOHN CHURCHMAN was born at Nottingham, Chester county, Pennsylvania,
 the 4th of the Sixth month, 1705.
@@ -330,11 +342,11 @@ but in the time of these visitations, I concluded it was only to bring me under 
 and to take me from my pleasure; and so I had withstood or neglected these visitations.
 I now saw clearly, that herein I had followed the lying suggestions of Satan, my enemy.
 At this time, my old will in the fallen nature gave up its life, and I cried:
-"`I am not worthy to live or enjoy thy favour; yet, O Lord,
+'`I am not worthy to live or enjoy thy favour; yet, O Lord,
 if thou wilt be pleased to look on me with an eye of pity; do what thou wilt with me;
 magnify thy own name; prepare me by thy judgments and power,
 that thy mercy may be shown in and by me, whether thou cut the thread of my life,
-or grant me more days.`"
+or grant me more days.`'`"
 
 His heart was now tendered,
 and his tears flowed freely in deep penitence and contrition of soul;
@@ -390,25 +402,28 @@ and spent more than four years in the engagement,
 attending the meetings of Friends in England, Scotland, Wales, Ireland, and Holland,
 where his service was cordially received,
 and tended to the edification and comfort of his brethren.
-
 On his return to England from Holland, he relates the following circumstance.
-"`Before going to Holland, I was several times at the shop of a barber in this city,
+
+[.embedded-content-document]
+--
+
+Before going to Holland, I was several times at the shop of a barber in this city,
 +++[+++Norwich,]
 and the second time I was there had to wait awhile for my turn.
 When the others were gone, he told me if I would come on Saturdays and Wednesdays,
 in the forenoon, I need not wait, but in the afternoon others came.
 I asked him what days of the week those were.
 He seemed to wonder at my ignorance, but knew not how to tell me otherwise.
-I said, '`I do not read in the Scriptures of any days so named.`' He replied,
-'`That is true.`' '`For what reason, then,`' said I,
-'`dost thou call them so?`' '`Because it is a common custom,`' said he.
-'`Suppose then,`' said I, '`we lived in a heathen country, among infidels,
+I said, "`I do not read in the Scriptures of any days so named.`" He replied,
+"`That is true.`" "`For what reason, then,`" said I,
+"`dost thou call them so?`" "`Because it is a common custom,`" said he.
+"`Suppose then,`" said I, "`we lived in a heathen country, among infidels,
 who worshipped idols.
-Should we follow their customs because common?`' He replied,
-'`By no means.`' I then said, '`If I have understood rightly,
-the heathen gave the days of the week those names.`'
-'`I never heard that before,`' said he;
-'`pray, for what reason?`' I answered,
+Should we follow their customs because common?`" He replied,
+"`By no means.`" I then said, "`If I have understood rightly,
+the heathen gave the days of the week those names.`"
+"`I never heard that before,`" said he;
+"`pray, for what reason?`" I answered,
 that they worshipped the sun on the first day of the week, and named it,
 after their idol, Sunday; the moon on the second day of the week so came Monday;
 third day, they called Tuesday, after their idol Tuisco; and, after their idol Woden,
@@ -438,7 +453,9 @@ idolatrous customs; saying, for excuse,
 that those to whom they speak best understand them,
 and that it saves further explanation;
 which excuse is far from a disposition apt to teach,
-and letting the light of truth shine as they ought.`"
+and letting the light of truth shine as they ought.
+
+--
 
 After his return home from Europe,
 he continued to be much devoted to the service of Christ;
@@ -577,6 +594,9 @@ he requested to be helped up, and was placed in his chair,
 in which he expired on Second-day night, the 24th of the Seventh month, 1775,
 being aged nearly seventy, and a minister about forty-two years.
 
+[.asterism]
+'''
+
 SARAH MORRIS was born in the city of Philadelphia,
 and was the daughter of Anthony and Elizabeth Morris,
 who were careful to instruct her in the fear of the Lord,
@@ -604,7 +624,10 @@ through the early visitations of Divine grace,
 being sensibly expressed in a short account written by herself,
 is worthy to be preserved, as follows:
 
-"`Having been one who was born of religious parents,
+[.embedded-content-document]
+--
+
+Having been one who was born of religious parents,
 I was by that means favoured with a sober and virtuous education;
 but what was far beyond all outward blessings,
 the Lord in his mercy was pleased to make very early impressions of religion on my soul,
@@ -662,7 +685,7 @@ and raiment to put on, in a spiritual sense,
 and bring me to my Heavenly Father`'s house in peace, thou shalt be my God,
 and I will serve thee!
 
-And the Lord, who knew the tenderness of.my heart at that time, for it was his own work,
+And the Lord, who knew the tenderness of my heart at that time, for it was his own work,
 was pleased graciously to shower down of the heavenly rain of his kingdom,
 by which my soul was greatly comforted and refreshed in his presence;
 and in a true sight and sense of my own nothingness and inability to do
@@ -678,7 +701,7 @@ light and life, at times was made to say,
 surely nothing shall ever be able to make a separation
 from the love of God in Christ Jesus.
 
-"`But alas! this lasted not long,
+But alas! this lasted not long,
 for when it was clearly shown me what was required of my hands,
 which was to bear a public testimony for God,
 and to declare unto others what he had done for my soul,
@@ -706,7 +729,9 @@ according to my weak apprehension, left very much to myself,
 without the sensation of Divine love upon my soul, or the ability to seek after it,
 or rightly to wait for it, or to stir or move any way as to my soul, but,
 in a stupidity not to be described, stripped of all inward comfort,
-and not able to take pleasure in any thing this world can afford.`"
+and not able to take pleasure in any thing this world can afford.
+
+--
 
 Being, through the mercy of the Lord, preserved under this close probation, and,
 in his time,
@@ -821,7 +846,6 @@ O! that I could be thankful enough for this favour; this sweet, though short, qu
 which we cannot get at but when thou, O Father! pleasest.
 O! that the people would but believe, that in thy peace their strength consists;
 and that they would more generally seek to know it before it is too late.
-
 But too many are contented without witnessing the frequent renewings of Divine love,
 in which only there is life:
 if they are but preserved from gross evils and go on in prosperity,
@@ -840,7 +864,7 @@ of the Lord`'s gracious dealings with me,
 when in a land of darkness and drought, where no water is, a land of pits and deserts,
 beset as with noxious creatures, and amongst serpents and scorpions,
 from whence none could deliver but him who can open
-and none can shut--have seen the necessity,
+and none can shut--I have seen the necessity,
 after having done the will of God,
 to wait with patience to receive the promise of him who is the same today as yesterday,
 and will so continue forever.
@@ -852,11 +876,11 @@ though at other times I hardly dare say so;
 I have many times been glad to feel a little opening of strength with my friends,
 and may say, I am thankful for this quiet, solemn opportunity,
 for great have been and still are my trials, and close may be your provings.
-
 I do not speak it to discourage any, but I find,
 without the renewings of divine love and life,
 we are incapable of keeping the word of his patience,
 being so frequently beset and surrounded with weakness and infirmities.
+
 "`O! may you, my dear friends, who have been called and anointed for services,
 witness a renewed supply of holy oil, whereby your lamps may be kept burning,
 and your lights shining; and experience the law to go forth from Zion,
@@ -871,7 +895,6 @@ Therefore, cry mightily to him, that we may know him to do so for us; for I find
 without sensibly feeling the drawing cords of his love,
 which opens and enlarges the heart,
 we cannot apply those gracious promises to our comfort.
-
 When he draws, let not the cares of this life, nor slavish and unnecessary fears,
 prevent your following him faithfully, whatever afflictions may attend.
 O may we be so preserved in his holy hand,

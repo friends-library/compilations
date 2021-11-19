@@ -48,29 +48,31 @@ and enabled vocally to offer prayer unto Him.
 The following extracts from some of her letters,
 instructively exhibit her concern for her own spiritual advancement.
 
+[.embedded-content-document.letter]
+--
+
 1812.--Fifth month, 14.
-"`Most fully do I unite with thee in the blessedness of obedience to the Divine will.
+Most fully do I unite with thee in the blessedness of obedience to the Divine will.
 In the Christian life we see there is such a variety
 of means for the attainment of the same great end,
 that it has always appeared to me that we are not sufficient
 of ourselves to choose those means which are best for us:
 and that, the more we commit our way unto the Lord,
 the more we are likely to prosper in that spiritual life,
-which is '`life and peace.`' And I think that the Scriptures authorize us to believe,
+which is "`life and peace.`" And I think that the Scriptures authorize us to believe,
 that the Light, or Holy Spirit,
 is all-sufficient to lead us in the way in which we should go;
 that it reproves us for every evil thought and word,
 and that it instructs us in our duties.
-
 And does it not also open our minds to understand the important doctrines of Christianity?
 Surely obedience, which is so enforced by Friends,
 does not lessen but increase our faith in the redeeming power of Christ.
 At those times, when we most endeavour to do right,
 have we not sufficient proofs of our great infirmity,
 and of the corruptions of human nature, to teach us, that, of ourselves, we are blind,
-and poor, and miserable, and naked, until clothed with the righteousness of Christ.`"
+and poor, and miserable, and naked, until clothed with the righteousness of Christ.
 
-1812.--Fifth month, 24. "`It is consoling,
+1812.--Fifth month, 24. It is consoling,
 under the sense and burden of our manifold infirmities,
 to find that others have had the same trials, the same pilgrimage to pass through.
 At times, the present state of probation,
@@ -83,15 +85,17 @@ Oh! how important it is, that we should at all times be found watching;
 but how far I am from attaining this desirable state,
 no mortal knows but myself:--almost every day proves my unwatchfulness and want of faith;
 this makes me feel the necessity of going on quietly, and professing little; in short,
-of showing our faith more by our works than our words.`"
+of showing our faith more by our works than our words.
 
 1816.--First month, 17.
-"`Though the travellers Zionward often have to walk in the wilderness,
+Though the travellers Zionward often have to walk in the wilderness,
 yet it is the appointed way towards the promised land: and though the way is narrow,
 and the gate strait, yet it leads to eternal life.
 It would be pleasant to escape the wilderness;
 but if we were always permitted to partake of the fulness of Divine love,
-where would be our walk in faith?`"
+where would be our walk in faith?
+
+--
 
 In the year 1816, Priscilla Gurney accompanied a relation in a declining state of health,
 to the south of France, and spent several months at Nice.
@@ -104,7 +108,10 @@ her mind was preserved in great watchfulness and care on her own account,
 and in a lively concern for others,
 as appears by the following extracts from some of her letters and memorandums.
 
-Lyons, 1816.--Tenth month, 31. "`Our separation from the church,
+[.embedded-content-document]
+--
+
+Lyons, 1816.--Tenth month, 31. Our separation from the church,
 as well as from our various natural ties, is no light matter.
 It is often the secret prayer of my heart,
 that this separation may lead us to a nearer union with, and more undivided love,
@@ -118,10 +125,10 @@ which I think were never more forcibly brought home to me, than on this journey,
 I do not know that I ever felt the consoling and the unsearchable
 riches which are in and through Christ,
 more than I have done at times in the secret of my heart:
-this has sustained me through many pains and many discouragements.`"
+this has sustained me through many pains and many discouragements.
 
 Nice, 1816.--Twelfth month.
-"`It is no easy, no light work,
+It is no easy, no light work,
 to keep a conscience void of offence towards God and towards man.
 I believe the first is what we should continually aim at, and then the next must follow.
 I can say, with truth,
@@ -133,10 +140,10 @@ which certainly does appear to me (I hope without the spirit
 of judgment) enchained and darkened by forms and ceremonies.
 But this submission to the Spirit, to its guidance, to its baptisms, to its humiliations,
 its teachings, and its sanctifications, we find daily and hourly in the way of the Cross;
-and therefore, alas! it is too much of a stumbling-block to many of us.`"
+and therefore, alas! it is too much of a stumbling-block to many of us.
 
 Nice, 1817.--First month.
-"`I have felt an earnest desire that thou mayest not be
+I have felt an earnest desire that thou mayest not be
 discouraged in the important duty of attending meetings.
 It appears to me most desirable,
 that we should ever bear in mind for what we go to meeting;--not to seek man,
@@ -147,16 +154,18 @@ How does every fresh experience of life make me desire, for those in early life,
 that they may remember their Creator in the days of their youth:
 I feel so very sure that they will never have cause
 to regret any sacrifice made in his service,
-or for his sake.`"
+or for his sake.
 
 Nice, 1817.--Second month, 2.
-"`Oh! how I long to be more willing to submit to that
+Oh! how I long to be more willing to submit to that
 nothingness which it is often my allotment in life to feel;
 but to be really brought down, to be really sensible that we are, of ourselves, naked,
 blind, etc., I believe one of the hardest lessons to human nature to learn.
 O Lord, teach us to become as little children, more humble, more dependent upon Thee.
 Enable us to come unto Thee, that in thy beloved Son we may be made rich,
-and that we may be clothed with the raiment of his righteousness.`"
+and that we may be clothed with the raiment of his righteousness.
+
+--
 
 In private life,
 the conduct and conversation of this self-denying
@@ -196,7 +205,10 @@ The following extracts from some of her letters, written near the close of life,
 very instructively describe the humility and liveliness
 of spirit which continued to prevail.
 
-1820.--Sixth month, 30. "`The future is entirely in obscurity to me,
+[.embedded-content-document.letter]
+--
+
+1820.--Sixth month, 30. The future is entirely in obscurity to me,
 nor do I wish to penetrate it; but rather confine my views to the present,
 seeking day by day for the gift (for I am sure it
 is nothing of our own) of a meek and quiet spirit,
@@ -205,13 +217,13 @@ I am thankful to say, I am able, very much, to leave the past.
 I have sometimes felt that if I had had more faith, more child-like obedience,
 my situation might in some things have been different, and my life more fruitful;
 but we cannot judge ourselves,
-'`There is one that judgeth.`' Nothing I have found availingly consoling in illness,
+"`There is one that judgeth.`" Nothing I have found availingly consoling in illness,
 and the prospect of death,
 but looking to that mercy and redemption which covers our transgressions,
-and forgives our sins.`"
+and forgives our sins.
 
 Tenth month.
-"`Oh! that I could be always humbly and reverently thankful,
+Oh! that I could be always humbly and reverently thankful,
 that our dear Lord and Master has kept me in some degree of submission to his will,
 and in some degree of that perfect peace, which we can only feel when the soul,
 and all belonging to us, is stayed on Him; that he has sometimes given me a glimpse,
@@ -222,9 +234,9 @@ often feel much brightness or elevation of soul;
 but this, I am sure, I have no right to expect.
 That my weak, frail, and fearful frame should be preserved in quietness, trust;
 and composure, through all that may yet await me in this pilgrimage,
-is my earnest desire, and all that I can venture to ask for myself.`"
+is my earnest desire, and all that I can venture to ask for myself.
 
-Eleventh month, 20. "`Deeply sensible as I am of my shortcomings,
+Eleventh month, 20. Deeply sensible as I am of my shortcomings,
 I have had some comforting assurance of the unsearchable riches of Christ,
 as our Redeemer from sin and from death.
 In the prospect of the uncertainty of life, and the probability of a nearness to death,
@@ -241,19 +253,21 @@ I can yet bear testimony to the tender mercy and all-sufficiency of that power, 
 when He sees meet, can make use of the most feeble instruments in his service.
 I can hardly do otherwise, than encourage others to be faithful,
 keeping a single eye to our Lord, watching against imaginations,
-and the delusions of our own framing, or of our spiritual enemy.`"
+and the delusions of our own framing, or of our spiritual enemy.
 
-Twelfth month, 29. "`My experience has long been,
+Twelfth month, 29. My experience has long been,
 that of walking through the valley to which I see not the end,
 yet a quiet hope generally prevails, that I shall be upheld through it,
 that it may be the passage to more of the glorious liberty of the children of God,
-even here; but should it prove '`the valley of the shadow of death,`' still, I believe,
+even here; but should it prove "`the valley of the shadow of death,`" still, I believe,
 there is cause for faith and confidence, that the good Shepherd will be with me,
 that his rod and his staff will comfort me.
 I cannot but hope, that this wilderness journey, and my many low estates,
 will be blessed, in more effectually shaking all self-dependence,
 and in leading me to place my trust, more simply and more faithfully in the Saviour,
-as our only hope of glory.`"
+as our only hope of glory.
+
+--
 
 The disease of our departed friend, which was consumption,
 made a constant yet gradual progress; the more gradual, probably,
@@ -317,6 +331,9 @@ all fear was taken from her.
 Thus trusting, and thus patiently waiting the Lord`'s appointed time,
 she peacefully expired, on the 25th of the Third month, 1821.
 
+[.asterism]
+'''
+
 THOMAS FOX, of Wellington, in Somersetshire,
 was a friend much esteemed for the soundness of his judgment,
 and the religious consistency of his conduct.
@@ -340,7 +357,6 @@ if I can only keep the lamp burning; but I rely on the goodness of a merciful Cr
 through the Redeemer, that my change will be for the better.`"
 A few days afterwards he said: "`In the midst of my sufferings,
 it is a comfort to look round on my wife and children.
-
 Keep in the littleness, keep in the simplicity, keep in the dependence,
 seeking the manna daily.
 The Lord will indeed preserve them that are his;
@@ -350,6 +366,7 @@ I would not exchange situations with the greatest potentate.
 Everything on earth is nothing, yea, less than nothing, and vanity,
 compared with an interest in Christ.
 With what I am now permitted to feel, nothing here is worthy to be compared.`"
+
 At another time he remarked:
 "`Although I am convinced that we are not saved by our own righteousness,
 I believe that numbers miss the mark, by imagining,
@@ -363,7 +380,6 @@ He further observed: "`It is an unspeakable consolation to me to reflect,
 that die when I may, I shall die in peace and love with all mankind.
 I have no malice nor dislike to any; and those who have endeavoured to injure me,
 I heartily forgive.
-
 I wish to be affectionately remembered to our servants and work-people;
 particularly to the foremen, and to those who conduct themselves well.
 Unknown and unrevealed as are the purposes of Divine Wisdom respecting me,
@@ -403,6 +419,9 @@ He loved his wife, he loved his children, he loved his friends;
 but the joys and comforts on which he expected to enter, were very great.
 He continued gradually to decline, until the 29th of the Fourth month, 1821, when,
 at the age of seventy-three, he was released from all his sufferings.
+
+[.asterism]
+'''
 
 MARGARET WATSON was born in the year 1767.
 Her parents, John and Abigail Wright, of Balinaclay, in the county of Wexford,
@@ -477,6 +496,7 @@ At another time, in addressing the same child, she remarked:
 "`This is a close trial to thee, and I pray my gracious heavenly Father,
 that He will give thee strength to bear it.
 He does not suffer more privations to attend, than He gives us strength to bear.`"
+
 On one occasion, being very weak and low,
 she petitioned the Almighty for patience to hold out to the end, saying:
 "`I expect to have sharp sufferings yet:
@@ -486,6 +506,7 @@ Let not thy hand spare, nor thy eye pity,
 until everything is removed that should be taken away.
 My Lord and Saviour suffered much.
 Oh! gracious Father, receive my spirit.`"
+
 At one time she desired her daughter to sit down by her, and said to her:
 "`I thought it would be a comfort to thee to hear of the goodness of the Almighty to me.
 When I awoke out of that quiet sleep this morning there
@@ -493,7 +514,6 @@ was such a sweetness on my mind as I cannot describe,
 I do not want to boast; but the Almighty himself has comforted me,
 and given me assurance; the time is near at hand, when I shall be at my everlasting rest.
 I have that within me, that will bear me up to the end.`"
-
 And again; "`The Rock of Ages is underneath to sustain me:
 the Lord is my shield and my buckler, and then, who can make me afraid?`"
 Inquiry being made relative to her bodily sufferings, she sweetly remarked:
@@ -517,10 +537,13 @@ About three in the afternoon her speech became suddenly affected,
 extreme pain succeeded for three or four hours.
 During this time her petitions were addressed to the Throne of Grace for support,
 and she requested her friends to pray for her.
-Her last words, which could be distinctly understood, were, "`'`Gracious Father,
+Her last words, which could be distinctly understood, were, "`Gracious Father,
 grant patience for the few remaining moments.`"
 She was favoured with ease for some time before her death, and passed very quietly away,
 on the 1st of the Fourth month, 1821.
+
+[.asterism]
+'''
 
 JAMES IANSON, of Darlington, was born there, in the year 1784,
 and died on the 10th of the Sixth month, 1821, at the age of thirty-seven.
@@ -532,7 +555,10 @@ reflections on the importance of a religious life,
 at that critical period to which they more particularly refer.
 The following extracts are made from the paper already alluded to.
 
-"`I have not the least doubt,
+[.embedded-content-document.paper]
+--
+
+I have not the least doubt,
 that the Spirit of the Almighty began to influence my mind whilst I was yet very young;
 but those propensities to which childhood is so prone, led me away an easy captive.
 I do not recollect that my younger years were remarkable
@@ -600,7 +626,9 @@ And oh, that I may, from time to time,
 be favoured with strength to advance in the path of righteousness,
 as well as to bear those washings and baptisms to which it is necessary I should submit,
 before I come to a state of acceptance with the Almighty
-Source of purity and perfection.`"
+Source of purity and perfection.
+
+--
 
 James Ianson having now entered upon that path which leads to blessedness and peace,
 it became his first concern to walk in humility and fear before God;
@@ -615,12 +643,12 @@ from his own experience, thus to describe the work of religion:
 and forbids not the enjoyment of any reasonable pleasure or gratification.
 It bestows upon us the highest privilege of which human nature is capable,
 even that of having an intercourse with our Maker.
-
 What greater consolation is it possible to enjoy, than to be able,
 in all our difficulties, to place our entire dependence upon Him; relying,
 in full confidence, on his goodness and mercy; feeling an assurance that,
 however we may be tried, He regards us with compassion, knows all our wants,
 and is ever willing to relieve them.`"
+
 The Friend whose religious course we are now reviewing, was a man of an unassuming,
 retiring character; amiable in private life, and of unspotted integrity.
 His countenance often portrayed a degree of sweetness and pious settlement of mind,
@@ -694,6 +722,9 @@ and his strength now seemed greatly exhausted.
 His close, which had been for some hours gradually approaching, was calm and peaceful;
 his countenance beamed with sweetness: and ere his spirit departed,
 he appeared to have a foretaste of those transcendent joys which were about to be revealed.
+
+[.asterism]
+'''
 
 ANNE CAPPER.--The life of Anne Capper,
 though not distinguished by striking or uncommon circumstances,
@@ -775,7 +806,7 @@ I hope I do not deceive myself, when I think that He will support me through,
 little and unworthy as I am.
 I am one for whom He made the propitiatory sacrifice; and I think I may say,
 I have loved Him.
-In Him is mercy and plenteous redemption.`"`' On the following day she appeared to have
+In Him is mercy and plenteous redemption.`" On the following day she appeared to have
 been largely favoured with the manifestation of Divine love in the secret of her soul;
 saying, that the promise to her that morning had been great,
 almost too great for her to express, that the close should be in perfect peace.
