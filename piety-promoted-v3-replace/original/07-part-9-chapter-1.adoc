@@ -90,8 +90,8 @@ after giving an account of the exercises he had to pass through:
 "`My experience hath been, and is, as I abode in obedience to the Lord,
 in waiting on him, which I hope I shall ever do;
 the word of the Lord opened to me when in a great strait, saying,
-"`I will cleave the rocks and mountains,
-that the redeemed of the Lord may come to Zion;`" at which I felt and saw a little light,
+'`I will cleave the rocks and mountains,
+that the redeemed of the Lord may come to Zion;`' at which I felt and saw a little light,
 and a hope sprung up of getting over and through those rocks
 and mountains of thick and black darkness in me,
 which the enemy presented to be so great, that it was impossible to get over.
@@ -118,7 +118,9 @@ of their cruel and unjust treatment of him.
 
 Thus persevering, he was preserved in greenness to old age.
 The following expressions were taken down during his illness by a friend present,
-as delivered, viz.: "`God, the Lord of heaven and earth,
+as delivered, viz.:
+
+"`God, the Lord of heaven and earth,
 appeared to me in an acceptable time, in the year 1655, by his word,
 through his servants John Stubbs and William Caton, in the gift of his grace,
 the Son of his love, Christ Jesus, whom he sent out of his own bosom,
@@ -126,7 +128,6 @@ and by the sword of his own mouth, and by the brightness of his arising,
 cut me off from the wild olive tree, which I was rooted in by transgression,
 and grafted me into the true olive root, the life of which is the light of the world,
 and by his love and spirit in my heart, raised me to worship him in spirit and truth.
-
 Then the cross appeared so great, that if it had been his will,
 I would rather have parted with my natural life, if I could have had peace,
 than to have taken it up; but in the day of his love and power, through the word of life,
@@ -339,7 +340,6 @@ But it will be well with me.
 I shall go to my mansion which is prepared for me
 and all the faithful followers of the Lamb;
 and I have nothing to do but to die.
-
 The Lord has been with me, even as with Jacob, and I knew it not; and,
 blessed be his name, he has been with me,
 and made known the way of life and salvation to me,
@@ -369,9 +369,9 @@ for that there was no terror or fear of death in her; to whom Lucy Chopping answ
 I have loved the Lord with all my heart, and served him with all my strength,
 and I have peace: the Lord is with me, and it will be a glorious change.`"
 Again she said, "`The Lord has been with me in many hard afflictions, and given me hope,
-which hath been as "`an anchor to my soul.`"
-I can say with David, "`He hath plucked my feet out of the mire and clay,
-and set them upon a rock, and I shall not be moved.`"
+which hath been as '`an anchor to my soul.`'
+I can say with David, '`He hath plucked my feet out of the mire and clay,
+and set them upon a rock,`' and I shall not be moved.`"
 
 Growing weak, and having many sick fainting fits the day before she died, her niece,
 Elizabeth Wyatt offered her something to take; she answered, "`I want nothing;
@@ -566,7 +566,6 @@ I may say, as was said of old, '`Comfort ye, comfort ye my people, saith your Go
 speak ye comfortably to Jerusalem, say to her, her warfare is accomplished,
 her iniquity is pardoned,
 for she hath received double at the hand of the Lord for all her sins.`'
-
 Thus hath God dealt with my spirit; by his judgments refined me,
 and prepared me for an habitation with himself, in his heavenly kingdom;
 so that I may say, as David did,
@@ -620,7 +619,7 @@ If this dear and tender youth, when reading, met with any thing which affected h
 either in the Scriptures or other good writings, he would write it down,
 and get it by heart.
 One passage, which he had written down, and got by heart, much affected his father.
-It was the 15th verse of the lvii.
+It was the 15th verse of the 57th
 chap.
 of Isaiah, viz.: "`For thus saith the High and Lofty One, that inhabiteth eternity,
 whose name is Holy, I dwell in the high and holy place,
@@ -682,7 +681,9 @@ often exhorting them, with tears, to fear the Lord.
 The following account of the first moving of the divine principle, or spirit of Christ,
 on his mind, is extracted from a short journal of his, long since out of print.
 
-"`My father,`" says he, "`died when I was ten years old,
+[quote]
+____
+My father died when I was ten years old,
 and I not taking the counsel of the wise man, viz., to take counsel of my father,
 which was, to mind the light or measure of grace given unto me,
 my mind was drawn out after the vain plays, customs, and will-worships of the world,
@@ -729,10 +730,11 @@ So I knew my faith to be increased in the sufficiency of the power of God;
 then I saw it was good for me that I was afflicted,
 for before I was afflicted I went astray.
 I found, as David said,
-'`his rod and his staff comforted me;`' and the Lord did often overcome me with his love.
+"`his rod and his staff comforted me;`" and the Lord did often overcome me with his love.
+____
 
 When about eighteen years of age, he was first concerned to bear a public testimony.
-'`Great,`' says he, '`then was my exercise.
+"`Great,`" says he, "`then was my exercise.
 Seeing the work to be very weighty, and looking at my own weakness,
 made me unwilling to give up to answer the Lord`'s requirings.
 But the Lord, in his great love filled my soul with the emanations of his power,
@@ -827,9 +829,13 @@ He reached Swansea the 8th of the Second month, 1749, and died the 14th of the s
 aged about sixty-seven years, and a minister about fifty-three years;
 and as he lived so he died, a pattern of meekness and innocency.
 
-Benjamin Holme`'s Last Legacy, or Serious Advice; recommended by him,
-a little before his decease, to the youth under the tuition of several schoolmasters.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== Benjamin Holme`'s Last Legacy, or Serious Advice; recommended by him, a little before his decease, to the youth under the tuition of several schoolmasters.
+
+[.salutation]
 Dear Children,
 
 I hereby tenderly salute you, with desires that as you advance in years,
@@ -848,18 +854,17 @@ The holy man of God, viz., John, told the elect lady, whom he wrote to,
 that he rejoiced greatly, that he found her children walking in the truth;
 and to be sure it would be a great comfort to many of your parents and good friends,
 to have you take good ways.
-
 If any of you should be put out to trades, if you are honest, peaceable,
 and careful to speak the truth,
 and to make a good improvement of your time while you are at school,
 so that the master can give a good account of you,
 his good recommendation may be a means to help several of you to good places.
+
 Dear children,
 "`remember your Creator in the days of your youth,`" and
 consider the obligations which you are under to serve him,
 who is the author of your being,
 and the fountain from whom all the good things which you receive come.
-
 As the wise man saith, that "`God hates a proud look, a lying tongue,
 and him that soweth discord amongst brethren,`" be sure that you hate to tell an untruth,
 and have a care of being proud; because we read that "`Pride goes before destruction,
@@ -900,9 +905,13 @@ the world can neither give nor take away.
 That you may make a right and good application of this friendly admonition,
 and have the benefit hereby intended, is, with true love to you, the sincere wish of
 
+[.signed-section-closing]
 Your Friend,
 
+[.signed-section-signature]
 Benjamin Holme.
+
+--
 
 [.asterism]
 '''

@@ -172,7 +172,7 @@ Upon his giving the same friend directions concerning some little matters, she s
 He replied, "`My hope is in Christ; and though I may now seem a little better,
 a change in the disorder may soon happen, and my little strength be dissolved,
 and if it so happen,
-I shall be gathered to my everlasting rest,`" On her saying she did not doubt that,
+I shall be gathered to my everlasting rest.`" On her saying she did not doubt that,
 but could not help mourning to see so many faithful servants removed at so low a time,
 he said, "`All goodness cometh from the Lord, whose power is the same,
 and he can work as he sees best.`"
@@ -491,6 +491,7 @@ He endured a long and painful illness with much patience and resignation;
 and towards the close of his time, expressed himself to some of his relations,
 when they took leave of him,
 previous to their setting out for the yearly meeting in London, to the following effect:
+
 "`Our health is no more at our command than length of days:
 mine seems drawing fast towards a conclusion;
 but I am content with every allotment of Providence, for they are all in wisdom,
@@ -499,7 +500,6 @@ There is one thing which, as an arm underneath, bears up and supports;
 and though the rolling tempestuous billows surround, yet my head is kept above them,
 and my feet are firmly established.
 O! seek it, press after it, lay fast hold of it.
-
 Though painful my nights, and wearisome my days,
 yet I am preserved in patience and resignation.
 Death hath no terrors, nor will the grave have any victory.
@@ -511,7 +511,6 @@ to the ensuing yearly meeting in London,
 which you are now going to attend, where I have been so often refreshed with my brethren;
 but it is otherwise allotted.
 I shall remember them, and some of them will remember me.
-
 The Lord knows best what is best for us.
 I am content and resigned to his will.
 I feel a foretaste of that joy that is to come;

@@ -93,7 +93,7 @@ at the age of sixty-four.
 [.asterism]
 '''
 
-TABITHA MIDDLETON.-- In the lives of many dedicated and humble servants of the Lord,
+TABITHA MIDDLETON.--In the lives of many dedicated and humble servants of the Lord,
 it not infrequently happens, that but few incidents are met with,
 from which a biographical sketch can be compiled;
 while their faithful endeavors to serve the Lord in the way of his requirings,
@@ -114,7 +114,7 @@ in extending his heavenly visitation in the very early part of life,
 which raised strong desires to walk acceptably before Him.
 I well remember the exemplary care of my dear mother, at that time,
 whose conduct and advices made lasting impressions on my mind; though,
-as I advanced in years, '`the lust of the eye and the pride of life,`'
+as I advanced in years, "`the lust of the eye and the pride of life,`"
 too much influenced the judgment, and weakened my good resolutions,
 which made even life a burden.
 But how have I admired to be in this state allured
@@ -303,7 +303,11 @@ years on similar religious service in America,
 in company with her endeared fellow-laborer, Rebecca Young, now Rebecca Byrd.
 
 On landing at New York, the 8th of the Tenth month, 1793,
-she made the following memorandum: '`On waking this morning,
+she made the following memorandum:
+
+[quote]
+____
+On waking this morning,
 we found ourselves in the harbor of New York, and had a beautiful view of the town.
 We went to the house of our friend John Murray, who, with his wife,
 received us affectionately;
@@ -311,16 +315,24 @@ which impressed our minds with gratitude to the Author of Mercies, both ancient 
 who had thus brought us safely over the mighty ocean.
 May He so preserve us, as to bring us at last into that port and haven of rest,
 at the end of time, where the morning stars sing together,
-and the sons of God shout for joy!`' Having endeavored to know and
+and the sons of God shout for joy!
+____
+
+Having endeavored to know and
 to do the will of Him in whose service she had gone forth,
 she wrote the following short acknowledgment of his all-sufficient help,
 on the day on which she embarked for her native land:
-"`We attended a public meeting at Newcastle.
+
+[quote]
+____
+We attended a public meeting at Newcastle.^
+footnote:[A town on the western bank of the Delaware, below Philadelphia.]
 After dining with about one hundred and fifty Friends,
 we had a solemn parting opportunity, in which much encouragement was handed,
 and prayer put up for mutual preservation, under the influence of humbling Goodness,
 that had, we trust, put us forth, gone before us,
-and now condescended to be our reward.`"
+and now condescended to be our reward.
+____
 
 In the course of this journey,
 she often felt her mind warmed with Christian love and compassion
@@ -329,13 +341,17 @@ so numerously settled in the United States; and in the larger cities,
 religious meetings were specially held with this degraded and injured class of our fellow-men.
 In passing along, both in England and America,
 she at times visited those confined in prison, some when under sentence of death,
-fervently laboring to turn their attention to the Savior of the world --to Him, who,
+fervently laboring to turn their attention to the Savior of the world--to Him, who,
 as he is applied unto in sincerity and in truth,
 will still be found to be the Friend of sinners.
 
 The character of this diligent laborer, when employed in the service of her Lord,
 is thus delineated by one who was long and intimately acquainted with her:
-"`I can say of her, that in and under all our conflicts,
+
+[.embedded-content-document.testimony]
+--
+
+I can say of her, that in and under all our conflicts,
 and the severest of her particular trials,
 I never met with one whose conduct evinced a stronger confidence in God,
 or whose faith was firmer in the appointed means of salvation.
@@ -355,7 +371,9 @@ I was witness to her pious and arduous labors with that class of society.
 Seldom could her devoted heart feel satisfied to
 leave Friends`' families without gathering the children;
 and many, I believe, there are in different parts,
-who have cause to bless the Lord for having made her an instrument of good to them.`"
+who have cause to bless the Lord for having made her an instrument of good to them.
+
+--
 
 The dispositions which have been noticed as obvious in early life, matured by years,
 and sanctified by the power of religion,
@@ -380,13 +398,19 @@ the gradual decay of nature rendered it necessary
 for her to confine herself very much to the house.
 The following extracts, from a few memorandums left behind,
 exhibit the humility with which her mind was clothed.
+
+[.offset]
 "`I have had some precious seasons of Divine overshadowing during my illness;
 which have been better than all the cordials administered by my medical attendants.`"
+
+[.offset]
 "`I am sometimes strengthened to speak well of His name, who lives and reigns,
 and is forever worthy.
 I have cause to be thankful for strength being granted to sit with my friends,
 though often in much poverty of spirit.`"
-I have little to remark, my allotment being often in suffering as to the body,
+
+[.offset]
+"`I have little to remark, my allotment being often in suffering as to the body,
 and low in mind; yet I can say, God is good, and a strong-hold in the day of trouble.`"
 
 She endured much bodily suffering previous to her dissolution,
