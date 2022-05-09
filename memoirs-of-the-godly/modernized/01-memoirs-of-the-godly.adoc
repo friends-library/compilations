@@ -1,5 +1,6 @@
 == Memoirs of the Godly
 
+[.centered]
 === A Short Account of Thomas Thompson, Minister of the Gospel, in the Society of Friends
 
 Thomas Thompson, of Skipsea, England,
@@ -95,6 +96,7 @@ He departed this life in the seventy-third year of his age,
 the 14th of the seventh month, 1704.
 A labourer in the Gospel about fifty years.
 
+[.centered]
 === Memoir of John Watson
 
 John Watson was born in the year 1651, and came with his father into Ireland, in 1658.
@@ -230,6 +232,7 @@ my spirit is tenderly affected with a sense of the loss,
 which both we of his family and the church also sustain,
 by the removal of so kind and tender a father and faithful friend.`"
 
+[.centered]
 === Memoir of William Watson
 
 William Watson was born at Crane, in the county of Wexford, in the year 1687,
@@ -268,6 +271,9 @@ as one whose example might benefit another generation.
 In a letter to his mother, he endeavours, in a solemn and tender manner,
 to prepare her for the afflicting intelligence of his illness, and proceeds:
 
+[.embedded-content-document.letter]
+--
+
 And now, my dear and affectionate mother, I shall give you to understand,
 that I have been for some days past but weakly, chiefly occasioned by spitting blood,
 which is now stopped for twenty four hours past, or more,
@@ -290,9 +296,13 @@ let them take heed how they slight counsel.
 So, dear mother, I salute you in tender love, hoping, in the will of God,
 to see you once more in that county.
 
+[.signed-section-closing]
 I am your loving, affectionate son,
 
+[.signed-section-signature]
 William Watson.
+
+--
 
 The above was dated 1715, the last year of his life;
 his distemper making a gradual progress, sapping his strength and withering his youth,
@@ -332,6 +342,7 @@ which influenced the counsels of their dying friend.
 He departed this life the 22nd of the twelfth month, 1715,
 in the twenty-ninth year of his age.
 
+[.centered]
 === Memoir of John Clibborn
 
 John Clibborn, son of William Clibborn, was born near Cowley, in the county of Durham,
@@ -417,7 +428,8 @@ He was diligent in attention to religious duties, preserved in unity with his fr
 and in love to all mankind, to the end of his long life; which closed,
 at the age of eighty-two, the 22nd of fifth month, 1705, at his house at Moate Grenoge.
 
-=== A Narrative of the Life of Edward Chester,By His Wife, Elizabeth Chester
+[.centered]
+=== A Narrative of the Life of Edward Chester, By His Wife, Elizabeth Chester
 
 He was religiously inclined from his youth,
 having his citizenship then mostly among the Baptists.
@@ -569,7 +581,7 @@ the white raiment which can only clothe our nakedness;
 and the eye-salve that gives clear perception,
 both of our own states and of the things which pertain to salvation,
 without which all our possessions and attainments will be lighter than vanity,
-and avail us nothing.--William Evans]
+and avail us nothing._--William Evans_]
 
 After we had thus walked together for several years
 in the profession of the blessed Truth,
@@ -641,10 +653,13 @@ through Jesus Christ who loved him; and that it may be so with me also,
 and with all who love the Truth in sincerity,
 is the earnest desire and fervent breathing of my soul to God.
 
+[.signed-section-signature]
 Elizabeth Chester.
 
+[.signed-section-context-close]
 Dunstable, 31st of the First month, 1708.
 
+[.centered]
 === Memoir of Robert Sandham
 
 Robert Sandham, a faithful elder, was born at Woodcutt, in Sussex, in the year 1620.
@@ -703,6 +718,7 @@ by administering counsel suited to their conditions.
 He died in 1675, in the fifty-fifth year of his age,
 being sensible of his approaching close and favoured with a resigned frame of mind.
 
+[.centered]
 === Memoir of John Exham
 
 John Exham, of Charleville, Ireland,
@@ -764,6 +780,7 @@ and visibly became a habitation for the fowls of the air, which built their nest
 John Exham died in the ninety-second year of his age,
 having been a minister sixty years and retained his zeal and integrity to the end.
 
+[.centered]
 === Memoir of William Garton
 
 William Garton, of Ifield, in Sussex, was an early fruit to God,
@@ -804,6 +821,7 @@ but not in such a large manner before as now--the very fountain is open,
 and the love of God is over all; praises, praises to the Lord.`"
 He departed the 8th of the seventh month, 1701, in the sixty-sixth year of his age.
 
+[.centered]
 === Memoir of Thomas Lloyd
 
 Thomas Lloyd, of Maumore, in Wales, was educated at the university of Cambridge,
@@ -823,6 +841,7 @@ In a message of love to Friends in England, he says, "`I have lived in unity wit
 and desire the Lord to keep them faithful unto the end in the simplicity of the Gospel.`"
 He died in 1694, aged about forty-five years.
 
+[.centered]
 === Memoir of Giles Barnardiston
 
 Giles Barnardiston, of Clare, in the county of Suffolk, born about the year 1624,
@@ -1115,6 +1134,9 @@ He visited many parts of his own nation and was also on the continent;
 and in all places where he went he left a good report and savour.
 John Wilsford speaking of his service, says:
 
+[quote]
+____
+
 We have had sweet fellowship together in our travel in the service of Truth,
 several times.
 In a late journey of about six weeks in Norfolk, Suffolk,
@@ -1145,6 +1167,7 @@ and all the nations of the earth shall be blessed in him?
 for I know him that he will command his children and his household after him,
 and they shall keep the way of the Lord to do justice and judgment;
 that the Lord may bring upon Abraham that which he has spoken of him.
+____
 
 And he gave it as a charge to Friends to keep justice
 and judgment upon the head of the transgressor,
@@ -1154,6 +1177,9 @@ and they shall be a blessing in his hand to the nations.`"
 
 It appears he also travelled with that eminent minister of Christ, Benjamin Bangs,
 who says of him:
+
+[quote]
+____
 
 His ministry was very effectual for the gathering of many from darkness to light;
 who are at this day as living epistles of his apostleship,
@@ -1172,6 +1198,7 @@ not to forget the day of their visitation;
 their first love and tenderness towards the Lord,
 and where they were when he first made himself known unto them,
 and where he had now brought them by his blessed power.
+____
 
 To such who had made some progress in the way of Truth,
 and for lack of faithfulness to the Lord,
@@ -1193,6 +1220,9 @@ steal your affections away from more durable riches.`"
 Thus, with much fervency of spirit and great tenderness,
 he exhorted all to press after holiness, without which no man can see the Lord.
 
+[quote]
+____
+
 This worthy servant of the Lord +++[+++continues Benjamin Bangs,]
 did not only in preaching the Gospel,
 adorn the truth of our Lord and Saviour Jesus Christ, which he professed,
@@ -1200,6 +1230,7 @@ but also in his solid behaviour, both in words and actions.
 His countenance was grave and weighty, his carriage comely,
 and he was ever ready to hold forth a helping hand to the weak,
 delighting to behold the prosperity of the Truth, and brethren walking in the unity.
+____
 
 Though his health and strength were much impaired by frequent attacks of disease,
 he travelled diligently when able to be abroad; and Samuel Cater remarks,
@@ -1250,12 +1281,11 @@ the men`'s meeting disowned him from membership, and his heretical opinions,
 as ever having been any part of the creed of the Society,
 as appears by the following document, transcribed from the minutes of that meeting.
 
-For the clearing of the precious truth of God, professed by us,
-his people called Quakers,
-from the occasion of stumbling and reproach given by Jeffery Bullock`'s pernicious doctrine,
-in affirming that he neither expects justification
-nor condemnation by that Christ that died,
-or was put to death, at Jerusalem.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== For the clearing of the precious truth of God, professed by us, his people called Quakers, from the occasion of stumbling and reproach given by Jeffery Bullock`'s pernicious doctrine, in affirming that he neither expects justification nor condemnation by that Christ that died, or was put to death, at Jerusalem.
 
 These are to certify all Friends and friendly people whom it may concern,
 that we testify against this doctrine as stated by him,
@@ -1331,16 +1361,21 @@ none do really partake of eternal salvation,
 or that redemption which is obtained through the blood of Christ,
 who gave himself for us that he might redeem us from all iniquity.
 
+--
+
 Jeffery Bullock took great offense at this decisive testimony of Friends,
-and wrote a pamphlet, which he called Antrchrist`'s Transformations Within,
-Discovered by the Light Within,
+and wrote a pamphlet, which he called _Antrchrist`'s Transformations Within,
+Discovered by the Light Within,_
 inveighing against them and the exercise of that authority with
 which the church under the direction of its Divine Head is clothed,
 to place the judgment of Truth upon those who have made shipwreck of faith,
 and broken the bonds of its fellowship.
 To this pamphlet Giles Barnardiston wrote a reply, in which he says:
 
-Antrchrist`'s transformations within, is setting itself above the Light within,
+[quote]
+____
+
+Antichrist`'s transformations within, is setting itself above the Light within,
 in such as have departed from it in themselves;
 among whom is this Jeffery Bullock with some others,
 who went out from us because they were not of us, but went out and so are made manifest.
@@ -1357,8 +1392,13 @@ This is no new thing,
 nor would we have any startled and make a wrong judgment
 concerning us or the blessed Light,
 because thereof, and thus make their bands strong.
+____
 
+[.offset]
 With reference to the charge of imposition, Giles Barnardiston says:
+
+[quote]
+____
 
 Neither have such forced any, or exercised dominion over the consciences of any,
 as Rome and other churches have done, by their coercive power and penal laws;
@@ -1478,6 +1518,7 @@ There is a difference between a conscience truly tender unto God,
 and that which is seared and hardened through enmity,
 which is to be judged and condemned by the church, and such as make strife and division,
 to be marked by them who keep in the power.
+____
 
 The reply of Giles Barnardiston, notices many other absurd and unscriptural sentiments,
 contained in J. Bullock`'s pamphlet of little interest at this day.
@@ -1516,6 +1557,10 @@ which he had been led to oppose the truth and people of God,
 both by word, writing, and printed books, for several years past.`"
 The following is extracted from it:--
 
+[.embedded-content-document.testimony]
+--
+
+[.signed-section-context-open]
 Sudbury, the 25th of eighth month, 1686.
 
 Whereas, in an hour of darkness and temptation,
@@ -1539,12 +1584,12 @@ Therefore, that my soul may find ease, and favour and forgiveness of God,
 in humility of heart, and contriteness of soul, I do condemn all these my wicked works;
 and that it may be clearly and particularly evidenced,
 I condemn by name all my said books, namely,
-my book entitled Antichrist`'s Transformations Within, Discovered by the Light Within;
-my book, entitled One Blow More Against Antichrist`'s Ministers,
+my book entitled [.book-title]#Antichrist`'s Transformations Within, Discovered by the Light Within;#
+my book, entitled [.book-title]#One Blow More Against Antichrist`'s Ministers,#
 etc. being a reply to Giles Barnardiston`'s answer to my first book; also, my book,
-entitled A Testimony Against the Sixty-Six Judges, called Quakers,
-That Wrote an Epistle Against John Story and John Wilkinson; also, my book,
-called Gross Errors Detected, or, Many of the Doctrines of the Leading Quakers Disowned:
+entitled [.book-title]#A Testimony Against the Sixty-Six Judges, called Quakers,
+That Wrote an Epistle Against John Story and John Wilkinson;# also, my book,
+called [.book-title]#Gross Errors Detected,# or, [.book-title]#Many of the Doctrines of the Leading Quakers Disowned:#
 All which books are for judgment.
 
 Moreover, I desire that all such that have read any or all of the said books,
@@ -1563,7 +1608,11 @@ it will preserve them in the way of truth and uprightness forever.
 
 Subscribed with my own hand, the day and year above written.
 
+[.signed-section-signature]
 Jeffery Bullock.
+
+[.postscript]
+====
 
 Postscript.--Whatever I have spoken, or caused to be printed against George Fox,
 or the order that is among those called Quakers, I do disown it.
@@ -1572,7 +1621,12 @@ and that there is no future state, I do utterly disown the same,
 believing it came from the same power of darkness that brought
 forth the fruits above mentioned that I have testified against.
 
+====
+
+[.signed-section-signature]
 Jeffery Bullock.
+
+--
 
 Giles Barnardiston`'s signature stands first in the testimony against that misguided man,
 and from the circumstance of his replying to Jeffery Bullock`'s attack upon the meeting,
@@ -1598,8 +1652,11 @@ aged about fifty-six years.
 
 His excellent character and the high esteem in which he was held by his friends,
 is further portrayed by George Whitehead,
-in his Testimony Concerning that Faithful Man of God, and Servant of Jesus Christ,
-Giles Barnardiston.
+in his _Testimony Concerning that Faithful Man of God, and Servant of Jesus Christ,
+Giles Barnardiston._
+
+[.embedded-content-document.testimony]
+--
 
 Worthy is the memorial of the righteous to be recorded,
 and the upright to be had in everlasting remembrance.
@@ -1645,7 +1702,10 @@ to engage them the more to follow the footsteps of the Lord`'s flock in truth an
 even in the way and teachings of the grace and counsel of God,
 that they may be received into glory hereafter.
 
-=== A Narrative of the Sufferings of John Philly and William Moore,In Hungary and Austria
+--
+
+[.centered]
+=== A Narrative of the Sufferings of John Philly and William Moore, In Hungary and Austria
 
 Among the many remarkable instances of patient adherence to the principles of Truth,
 under severe suffering and persecution,
@@ -1996,6 +2056,9 @@ in the hope of making them accuse themselves.
 Of this, William Moore, who appears to have been chiefly under examination,
 and the principal sufferer, gives the following narrative;--
 
+[quote]
+____
+
 Notwithstanding our innocence, the governor would have us racked,
 which from the relation I had heard of it, seemed a cruel torture;
 and in those days I often poured forth my supplications to the Lord with tears.
@@ -2014,6 +2077,7 @@ Then he read a few lines, which were to this import, "`We, Leopold, etc., Empero
 having been informed that two impeached persons, John Philly and William Moore,
 have been found by our frontier garrisons, our desire is that they should be racked,
 to know their intent.`"
+____
 
 It is more than probable that this pretended order of the
 emperor for the torture of these harmless Friends,
@@ -2021,12 +2085,15 @@ was a mere forgery,
 got up by the Inquisitor and his abetters to answer
 their evil designs--the narrative proceeds;
 
+[quote]
+____
+
 The hangman according to order, put an iron screw upon my thumbs and screwed them hard,
 and bade me tell out.
 Then he slacked it a little and again screwed them harder than before;
 but this not answering their purpose, he was commanded to proceed further.
 Accordingly he tied a small cord about my wrists behind my back,
-and another cord around my ancles with a block of wood between my feet.
+and another cord around my ankles with a block of wood between my feet.
 Then he drew me up on the ladder and tied my hands to it,
 and then forced my body quite from the ladder.
 At the first pull my left arm was put out of joint with a loud crack,
@@ -2104,6 +2171,7 @@ and to determine what deaths we should die.
 In the mean time the Inquisitor came and desired
 me first to write some of the heads of my religion,
 which I did, and he raged very much at some of them.
+____
 
 John Philly being much impressed with a sense of
 the wickedness of the Inquisitor and priests,
@@ -2613,6 +2681,7 @@ who is the preserver of those who put their trust in Him,
 whom he still "`delivers out of the hand of the wicked,
 and out of the hand of the unrighteous and cruel man.`"
 
+[.centered]
 === Memoir of Gharret Van Hassen
 
 Gharret Van Hassen, an ancient Friend of Dublin, born in Holland, about the year 1695,
@@ -2623,6 +2692,9 @@ and thereby reclaimed from a state of unregeneracy and sin, witnessing true repe
 He joined in society with Friends,
 and his relation of this event may be given in his own words,
 the reader making allowance for the language, learned late in life:
+
+[quote]
+____
 
 It came to pass in the fortieth year of my age, that I left Holland, and came to England,
 in order to take shipping at London for Philadelphia, there to settle.
@@ -2673,6 +2745,7 @@ If so, I should know what this woman says.`"
 From henceforward I have continued among Friends, and am now,
 at the time of writing this, in the fifty-eighth year of my age;
 about eighteen years from the time of my convincement.
+____
 
 Being through faithfulness led in the paths of piety and love to God and men,
 he became a minister, and was a fervent labourer,
@@ -2706,6 +2779,7 @@ I die daily, nevertheless I live, yet not I, but Christ lives in me.`"
 He departed this life the 30th of sixth month, 1765, aged about seventy;
 a minister upwards of twenty-eight years.
 
+[.centered]
 === Memoir of Sarah Morris, a Minister of the Gospel in the Religious Society of Friends
 
 She was born in Philadelphia, about the year 1704.
@@ -2731,6 +2805,9 @@ In a short account which she left of her early visitation,
 she gratefully acknowledges the advantages she enjoyed
 from the pious and watchful concern of her parents,
 and adds;
+
+[quote]
+____
 
 But what was far beyond all outward blessings,
 the Lord in his mercy was pleased to make very early impressions of religion on my soul,
@@ -2812,6 +2889,7 @@ that I began to question everything;
 and by degrees the unwearied adversary has so prevailed, that I am,
 according to my weak apprehension, left very much to myself, stripped of inward comfort,
 and not able to take pleasure in anything this world can afford.
+____
 
 Through the mercy of the Lord she was preserved under this close probation,
 and in his time graciously relieved by the quickening
@@ -2895,7 +2973,7 @@ without which there is no life to the truly begotten children,
 and which would not only show them what they ought to do,
 but give them strength to do it.`"
 
-Seventh month 2nd.--Several Friends sitting in her room she said in substance,
+_Seventh month 2nd._--Several Friends sitting in her room she said in substance,
 "`I have seen the necessity, after having done the will of God,
 of waiting in patience to receive the promise of Him, who is the same today as yesterday,
 and will so continue forever.
@@ -2979,8 +3057,10 @@ and uttered some words, which were not intelligibly heard;
 soon after which she quietly expired on the 24th of tenth month, 1775,
 in the seventy-second year of her age, and thirty-first of her ministry.
 
+[.centered]
 === A Short Account of William Leddra, Who Suffered Martyrdom
 
+[.signed-section-context-open]
 The 14th of First Month, 1661.
 
 William Leddra, an inhabitant of the Island of Barbados,
@@ -3054,8 +3134,13 @@ than often falls to the lot of men, as will be seen by the subjoined letter,
 written the day before his execution.
 It is addressed as follows:
 
-To the Society of the Little Flock of Christ, Grace and Peace be Multiplied
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== To the Society of the Little Flock of Christ, Grace and Peace be Multiplied
+
+[.salutation]
 Most dear and inwardly beloved,
 
 The sweet influences of the Morning Star, like a flood,
@@ -3146,10 +3231,15 @@ without grace possessed there is no assurance of salvation: by grace you are sav
 and the witnessing of it is sufficient for you; to which I commend you all,
 my dear friends, and in it remain, your brother,
 
+[.signed-section-signature]
 William Leddra.
 
+[.signed-section-context-close]
 Boston Jail, the 13th of the First month, 1661.
 
+--
+
+[.centered]
 === Memoir of Thomas Upsher
 
 Thomas Upsher was born in the parish of Lexden, borough of Colchester,
@@ -3192,6 +3282,9 @@ but if God has any further service for me in this world, I am given up to his wi
 In a letter to a particular friend, written in the time of his sickness,
 he thus expresses himself:
 
+[.embedded-content-document.letter]
+--
+
 When I consider the many changes which we and ours and all we have in this world,
 are subject to,
 it seems a sufficient antidote against the individual love of temporal things;
@@ -3207,6 +3300,8 @@ in setting my house in order before the time comes when I must die.
 I hope to live in a far better state,
 and there to join all the generations of the just that are gone before,
 and shall hereafter follow.
+
+--
 
 Several friends being with him, he spoke to them of his death,
 and desired they might bear him witness, saying: "`My dependence,
@@ -3280,6 +3375,7 @@ under all their trials.`"
 He peacefully departed this life the 10th of the eighth month, 1704,
 aged thirty-two years.
 
+[.centered]
 === Life of Thomas Aldam
 
 This Friend was one of the earliest converts of George Fox in the county of York.
@@ -3429,6 +3525,7 @@ and of much religious experience, by which she became as a mother in Israel,
 and a tender sympathizer with those who were in a state of suffering,
 whether in body or in mind.
 
+[.centered]
 === Life of William Ames
 
 We have no account of the birth of William Ames, or of his native country,
@@ -3530,17 +3627,17 @@ free citizen and surgeon, resident at Amsterdam, and Judith Zinspenning his wife
 who were the parents of William Sewel, the historian of our Society, and a lexicographer.
 These, with two or three more, were the first of our religious persuasion at Amsterdam.
 
-In the preface to William Sewel`'s History,
+In the preface to [.book-title]#William Sewel`'s History,#
 he mentions William Ames as having had considerable influence
 with several collegians when he was first at Amsterdam,
 who were so fully convinced of the doctrine he preached, that they approved of it;
 and one of them, Adam Boreels, so early as the year 1662, is supposed by William Sewel,
 to have written a treatise in Latin,
-with a title signifying The Light upon the Candlestick,
+with a title signifying _The Light upon the Candlestick,_
 which contained the doctrines preached by William Ames,
 and was so expressed in the title page.
 This treatise is translated into English,
-and forms an appendix to William Sewel`'s History of our Society.
+and forms an appendix to [.book-title]#William Sewel`'s History of our Society.#
 
 About the year 1659, William Ames went into Germany,
 and visited the court of the Prince Elector, Charles Lodowick,
@@ -3664,6 +3761,7 @@ In this list appears to be included The Light upon the Candlestick,
 already noticed in this memoir; and from his name being in the title page,
 John Whiting might suppose he was the author of it.
 
+[.centered]
 === Life of Samuel Fisher
 
 The conversion of Samuel Fisher to the principles of the Quakers,
@@ -3746,6 +3844,9 @@ or rather the message of the Lord, to them.
 
 After some introductory words, he expresses himself thus:
 
+[quote]
+____
+
 You are a seed of evil doers, says the Lord; a hypocritical generation,
 a people whose heart is not right, and whose spirit is not stedfast with the Lord.
 You have made many shows of seeking my face, but you have not found it,
@@ -3779,11 +3880,15 @@ You would be counted professors, yes promoters of religion,
 but are indeed persecutors of the very life and power,
 and of that people that do believe in the life and power of that same religion,
 which in form and words you have long professed.
+____
 
 After a long remonstrance of this kind,
 and laying before Oliver and his Parliament the great inconsistency of their conduct,
 with the spirit of Christianity; and predicting their disgrace and downfall,
 he concludes thus:
+
+[quote]
+____
 
 What shall one then answer the messengers of the nations?
 Even this, that the Lord has founded Zion,
@@ -3795,6 +3900,7 @@ and all proud oppressors and wicked opposers, and persecutors of Christ in his p
 can have no share in it; but are shut out into the lake,
 and gone down forever with the uncircumcised into the pit,
 which has shut her mouth upon them there, world without end, to be confounded.
+____
 
 Thus plainly did our early Friends deal with that "`hypocritical
 generation,`" who under pretensions of promoting liberty,
@@ -3912,7 +4018,8 @@ Ellis Hookes and Luke Howard,
 who speak highly of his Christian virtues and patient
 suffering for the testimony of Jesus.
 
-=== A Memoir of Richard Samble,A Minister of the Gospel, in the Religious Society of Friends
+[.centered]
+=== A Memoir of Richard Samble, A Minister of the Gospel, in the Religious Society of Friends
 
 Richard Samble, a faithful servant of God, and minister of Jesus Christ,
 was born at Penhall, in the parish of Enoder, in Cornwall,
@@ -3993,8 +4100,13 @@ where he wrote an epistle to Friends in Cornwall,
 to comfort them in relation to his departure, being likely as he said,
 to see their faces no more.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends in Cornwall
 
+[.salutation]
 Dear Friends,--
 
 I send this salutation, as though it were my last unto you;
@@ -4090,9 +4202,13 @@ I trust I shall be as ready and as willing as ever I have been.
 So I conclude in a sweet and living sense of that love, which will never die.
 Your friend and brother in the immortal seed of life.
 
+[.signed-section-signature]
 Richard Samble.
 
+[.signed-section-context-close]
 Poole, the 1st of the First month, 1680.
+
+--
 
 After six or seven weeks, having recovered a little strength,
 he was desirous to return home to his wife and children in Cornwall;
@@ -4120,13 +4236,18 @@ and his works follow him, having left a sweet savour behind him.
 His body was accompanied by many Friends, about 26 miles to Kingsbridge,
 and buried there the 18th of the same.
 
+[.centered]
 === Memoir of Evan Bevan
 
-"`Mark the perfect man, and behold the upright:
-for the end of that man is peace.`"--Ps. 37:37.
+[quote.scripture, , Ps. 37:37]
+____
+
+Mark the perfect man, and behold the upright:
+for the end of that man is peace.
+____
 
 Evan Bevan^
-footnote:[William Sewel, in his History of Friends,
+footnote:[William Sewel, in his [.book-title]#History of Friends#,
 designates him "`Evan Jevans,`" and it seems, not without some reason:
 in the testimony of his monthly meeting,
 he is called "`Evan Bevan alias Jevans,`" and so he sometimes signed himself,
@@ -4153,6 +4274,10 @@ the manner in which he was brought to embrace the principles of Friends,
 and his answers to some charges which appear to have been urged against him for so doing,
 are well set forth by himself, in the following:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Letter to a Friend
 
 Since it has pleased the Divine Goodness to endue me with reason,
@@ -4183,7 +4308,7 @@ yet my burden increased and I waxed worse.
 In this wretched and doleful condition,
 when at a relation`'s house who had providentially
 returned from Pennsylvania to his native country,
-I lighted upon R. Barclay`'s Apology for the Quakers;
+I lighted upon R. Barclay`'s [.book-title]#Apology for the Quakers;#
 by reading which I was well persuaded of their principles:
 and by turning my mind inward to the divine gift--according
 to their doctrine--it gave me victory,
@@ -4204,7 +4329,7 @@ in his disciples in somewhat a similar case.
 
 But here, to obviate an objection some may make to my change,
 because of the distress I lay under, and the discomposure I was subject to at times,
-I would have it remarked, that I read the said Apology beyond my expectation,
+I would have it remarked, that I read the said [.book-title]#Apology# beyond my expectation,
 with more sedateness than usual, and a more quiet composure of mind:
 so that with the influence of the Almighty, or Providence, or both,
 I had also the benefit of that distinguishing faculty
@@ -4258,6 +4383,8 @@ so having found the pearl of great price among them, I parted with all to purcha
 or rather, I was restored to all,
 I mean the enjoyment of the divine goodness and of myself,
 by setting a due value upon it.
+
+--
 
 This letter presents lively traces of humility, sincerity, disinterestedness,
 meekness and modesty,
@@ -4469,10 +4596,18 @@ aged about 67 years.
 His remains were interred in Friends`' burying-ground at Pontymoil aforesaid,
 and his funeral was attended by a numerous company of most persuasions and ranks in life.
 
-A Testimony From the Monthly Meeting in Monmouthshire, Concerning Evan Bevan
+[.embedded-content-document.testimony]
+--
 
-"`Mark the perfect man, and behold the upright,
-for the end of that man is peace.`"--Ps. 37:37.
+[.blurb]
+=== A Testimony From the Monthly Meeting in Monmouthshire, Concerning Evan Bevan
+
+[quote.scripture, , Ps. 37:37]
+____
+
+Mark the perfect man, and behold the upright,
+for the end of that man is peace.
+____
 
 The 17th day of the second month, 1746, departed this life,
 our dear worthy innocent Friend, minister and elder, Evan Bevan,
@@ -4493,7 +4628,7 @@ and made a chosen vessel.
 
 And finding unity in his spirit with those of the Society called Quakers,
 he joined himself in fellowship with them; as appears more fully by an epistle of his,
-published in Sewel`'s History of the Quakers, page 706, under the name of Evan Jevans.
+published in [.book-title]#Sewel`'s History of the Quakers,# page 706, under the name of Evan Jevans.
 
 He was concerned as a minister about twenty years; not made so by man,
 although he was brought up in the languages and sciences of men,
@@ -4570,9 +4705,16 @@ His body was interred in Friends`' burying-ground at Pontymoil,
 and was attended to the grave with decency and gravity
 by a great number of most persuasions and degrees.
 
+[.signed-section-context-close]
 --Collection of Testimonies, 1760.
 
+--
+
+[.centered]
 === A Short Narrative of Our Dear and Worthy Friend, Isaac Sharples
+
+[quote]
+____
 
 Being now about the 80th year of my age,
 it is in my mind to leave some few hints of the Lord`'s
@@ -4681,11 +4823,14 @@ At several towns I had meetings in the streets and market-houses.
 I afterwards went into Dorsetshire and Hampshire,
 and passed over into the isle of Jersey in company with my friend Jeremiah Waring.
 
+[.offset]
 1744+++.+++ This year I visited Ireland.
 
+[.offset]
 1745+++.+++ Visited several western counties as far as Cornwall,
 and the circular yearly meeting there.
 
+[.offset]
 1746+++.+++ This year I entered a second time into a married state with Mary,
 daughter of our worthy friends Joseph and Mary Ransom, of Hitchin in Hertfordshire,
 where I then settled.
@@ -4718,7 +4863,9 @@ but he took me from the stones of the street, where, in his wisdom and goodness,
 he has often raised up children to Abraham.
 I have now to rejoice my day`'s work is so near a happy close,
 having only patiently to wait my appointed time, until my change shall come.
+____
 
+[.offset]
 Here ends the account our dear Friend gives of himself.
 
 When, through the infirmities attending old age,
