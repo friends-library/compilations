@@ -4868,9 +4868,6 @@ ____
 [.offset]
 Here ends the account our dear Friend gives of himself.
 
-[.small-break]
-'''
-
 When, through the infirmities attending old age,
 he was rendered incapable of going far from home,
 he diligently attended his own and neighbouring meetings,
