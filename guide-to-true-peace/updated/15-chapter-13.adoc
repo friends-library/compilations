@@ -1,10 +1,15 @@
-== Chapter 13. On True Conversion.
+== Chapter 13. On True Conversion
 
-"`Turn, turn from your evil ways.
-For why should you die, O house of Israel?`"^
-footnote:[Ezekiel 33:11]
-"`Turn unto Him from whom you have deeply revolted.^
-footnote:[Isaiah 31:6]`"
+[quote.scripture, , Ezek. 33:11]
+____
+Turn, turn from your evil ways.
+For why should you die, O house of Israel?
+____
+
+[quote.scripture, , Isa. 31:6]
+____
+Turn unto Him from whom you have deeply revolted.
+____
 
 To be truly converted, is to turn wholly away from the creature, and wholly unto God.
 

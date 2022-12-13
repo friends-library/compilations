@@ -1,4 +1,5 @@
-== Chapter 15. Man Acts More Nobly Under the Divine Influence, than He Can Possibly Do by Following His Own Will.
+[#fifteen, short="Divine Influence vs. Man`'s Will"]
+== Chapter 15. Man Acts More Nobly Under the Divine Influence, than He Can Possibly Do by Following His Own Will
 
 Some persons, when they hear of this prayer of silence,
 falsely imagine that the soul remains dead and inactive;
@@ -65,7 +66,7 @@ But, at the word of a young damsel, he denied Him.
 The many troubles in life come from the soul not abiding in its place,
 and not being content with the will of God, and with what is afforded therein,
 one day at a time.
-Many souls may be resigned to the general will of God,
+Many souls may be resigned to the _general_ will of God,
 and yet fail with respect to the present moment.
 And being outside of the will of God, they fall, and renew such falls,
 as long as they so continue; but when they return into the Divine will,
@@ -180,7 +181,7 @@ All men seek after peace, but they seek it where it is not to be found.
 They seek it in the world, which is ever promising, but can never give us solid peace;
 for, wherever we go,
 we carry with us the fruitful source of every perplexity--our
-own unsubdued and selfish will.
+own _unsubdued and selfish will_.
 The love of liberty is one of the most dangerous passions of the heart.
 If we follow this inclination, instead of true liberty, it reduces us to slavery.
 As our passions are the worst of tyrants, if we obey them even partially,

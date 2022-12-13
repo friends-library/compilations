@@ -10,7 +10,7 @@ changing them from the Vulgate Version to the Authorized English Version (KJV).
 This book is unique among the publications of the Society of Friends
 in that it does not originate from the pen of a Quaker,
 but is rather a compilation of excerpts written by three so-called "`mystic`"
-writers who lived and died within the pale of Roman Catholic Church.
+writers who lived and died within the pale of the Roman Catholic Church.
 Now, early Friends were a decidedly Protestant society,
 having found great cause (with many others) to part with the church or Rome in
 many particular points of doctrine and practice (such as Papal infallibility,
@@ -43,7 +43,7 @@ they all spoke with one voice (and I believe by one Spirit).
 
 The attentive reader will find the views of Fenelon, Guyon,
 and Molinos represented in this treatise to be in sweet agreement with the doctrines
-of early Friends on many (though perhaps not on all) important subjects,
+of early Friends on many important subjects,
 such as: the Light of Christ that enlightens every man coming into the world;
 the inward experience of Christ`'s coming and kingdom in the heart;
 the purifying work of grace in the soul of the believer;
@@ -69,6 +69,8 @@ The following quotation from Gerhard Tersteegen (who was neither
 Catholic nor Quaker) seems worthy of insertion in support of the
 publication of this treatise by the Society of Friends.
 
+[quote]
+____
 Amongst those elect and God-devoted souls are also particularly to be reckoned those,
 who are generally called "`Mystics,`" (that is, secret or hidden,) whose writings,
 next the Holy Scriptures,
@@ -96,7 +98,10 @@ food in them?--Is it not that the nature of the old man,
 and the life of self is too severely attacked?--And is it not because they do not require
 to be reasoned and speculated upon (like other books which are accommodated to the taste
 of the old Adam) but rather insist upon mortification and self-denial?
+____
 
---Jason Henderson
+[.signed-section-signature]
+Jason Henderson
 
+[.signed-section-context-close]
 Dec. 2022

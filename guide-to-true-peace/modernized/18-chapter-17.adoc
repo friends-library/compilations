@@ -1,6 +1,5 @@
-== Chapter 17.
-
-On Perfection, or the Union of the Soul with God.
+[#seventeen, short="Perfection, or Union with God"]
+== Chapter 17. On Perfection, or the Union of the Soul with God
 
 The most profitable and desirable state in this life, is that of Christian perfection,
 which consists in the union of the soul with God,
@@ -20,7 +19,7 @@ or even by the highest degree of luminous and elegantly composed prayer; for,
 according to Scripture, "`no man shall see God and live.`"^
 footnote:[Exodus 33:20.]
 Now all the exercises of discoursive prayer, and even of active contemplation,
-being performed in the life of our own will,
+being performed in the _life_ of our own will,
 we "`cannot thereby see God;`" for all that is of man`'s own power or exertion,
 must first die, be it ever so noble, ever so exalted.
 
@@ -127,4 +126,5 @@ continual prayer, total nakedness, perfect disinterestedness, a conversation of 
 
 This is the rich and hidden treasure; this is the pearl of great price.
 
+[.the-end]
 Finis.
