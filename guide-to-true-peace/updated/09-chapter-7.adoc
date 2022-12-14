@@ -1,3 +1,4 @@
+[short="On Defects and Weakness"]
 == Chapter 7. On Defects and Weakness
 
 If we should get so far off our guard as to again
